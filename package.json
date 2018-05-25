@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://jeromelelan.github.io/celluloid",
   "dependencies": {
+    "@material-ui/core": "^1.0.0",
+    "@material-ui/icons": "^1.0.0",
     "@types/react-table": "^6.7.11",
     "gh-pages": "^1.1.0",
     "react": "^16.4.0",
