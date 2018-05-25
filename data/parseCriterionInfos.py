@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys, urllib.request, os, json
+import sys, os, shutil, json, urllib.request
 
 def main():
-
-	exportFile = 'criterionInfos.json'
+	scriptPath = os.path.dirname(os.path.realpath(__file__))
+	exportFile = os.path.join(scriptPath, 'criterionInfos.json')
 	jsonResult = dict()
 	jsonResult['movies'] = []
 	
-	aPath = os.path.join(os.getcwd(), 'affiches')
-	if not os.path.exists(aPath):
-		os.makedirs(aPath)
+	aPath = os.path.join(scriptPath, 'affiches')
+	shutil.rmtree(aPath)
+	os.makedirs(aPath)
 	
 	url = 'https://www.criterion.com/shop/browse/list?sort=spine_number'
 	request = urllib.request.Request(url)
