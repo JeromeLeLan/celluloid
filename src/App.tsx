@@ -166,39 +166,41 @@ class App extends React.Component<any, any> {
 
     return (
       <div className="App">
-        <AppBar position="absolute" className={classes.appBar}>
-          <Toolbar>
-            <Typography variant="title" color="inherit" noWrap={true}>
-              Celluloid
-          </Typography>
-          </Toolbar>
-        </AppBar>
-        <Drawer
-          variant="permanent"
-          classes={{
-            paper: classes.drawerPaper,
-          }}
-        >
-          <div className={classes.toolbar} />
-          <List>{mailFolderListItems}</List>
-          <Divider />
-          <List>{otherMailFolderListItems}</List>
-        </Drawer>
-        <main className={classes.content}>
-          <div className={classes.toolbar} />
-          <ReactTable
-            data={this.movies}
-            columns={columns}
-            defaultSorted={[{
-              id: 'watchDate',
-              desc: true
-            }]}
-            showPageSizeOptions={false}
-            filterable={true}
-            noDataText={'No movies found'}
-            className="-striped -highlight"
-          />
-        </main>
+        <div className={classes.root}>
+          <AppBar position="absolute" className={classes.appBar}>
+            <Toolbar>
+              <Typography variant="title" color="inherit" noWrap={true}>
+                Celluloid
+            </Typography>
+            </Toolbar>
+          </AppBar>
+          <Drawer
+            variant="permanent"
+            classes={{
+              paper: classes.drawerPaper,
+            }}
+          >
+            <div className={classes.toolbar} />
+            <List>{mailFolderListItems}</List>
+            <Divider />
+            <List>{otherMailFolderListItems}</List>
+          </Drawer>
+          <main className={classes.content}>
+            <div className={classes.toolbar} />
+            <ReactTable
+              data={this.movies}
+              columns={columns}
+              defaultSorted={[{
+                id: 'watchDate',
+                desc: true
+              }]}
+              showPageSizeOptions={false}
+              filterable={true}
+              noDataText={'No movies found'}
+              className="-striped -highlight"
+            />
+          </main>
+        </div>
       </div>
     );
   }
