@@ -6,9 +6,15 @@ import sys, os, argparse, shutil, json, urllib.request
 
 def main(getPosters):
   scriptPath = os.path.dirname(os.path.realpath(__file__))
+  spineFile = os.path.join(scriptPath, 'spine.txt')
   exportFile = os.path.join(scriptPath, '../public/criterionInfos.json')
   jsonResult = dict()
   jsonResult['movies'] = []
+
+  watchedList = []
+  with open(spineFile, 'rU') as f:
+    for movieWatched in f:
+      watchedList.append(movieWatched.strip() == '1')
 
   aPath = os.path.join(scriptPath, 'posters')
   shutil.rmtree(aPath)
@@ -87,9 +93,10 @@ def main(getPosters):
       fileName += title
       filePath = os.path.join(aPath, fileName + '.jpg')
       urllib.request.urlretrieve(movie['imgUrl'], filePath.encode('iso-8859-1'))
-    
+
     if addToJson:
       movie['spine'] = int(movie['spine'])
+      movie['watched'] = watchedList[movie['spine'] - 1]
       jsonResult['movies'].append(movie)
     
   file = open(exportFile, 'w', encoding='iso-8859-1')

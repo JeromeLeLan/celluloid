@@ -2,7 +2,7 @@ import * as React from 'react';
 import { observer } from 'mobx-react';
 import { withStyles } from '@material-ui/core/styles';
 import { appState, ContentType } from './AppState';
-import { Criterion } from './Criterion';
+import { CriterionStyled } from './Criterion';
 import { DrawerStyled } from './Drawer';
 import { ToolbarStyled } from './Toolbar';
 import { Watched } from './Watched';
@@ -17,7 +17,7 @@ class App extends React.Component<any, {}> {
     if (ContentType.Watched === appState.contentType) {
       mainComponent = <Watched />;
     } else if (ContentType.Criterion === appState.contentType) {
-      mainComponent = <Criterion />;
+      mainComponent = <CriterionStyled />;
     } else {
       mainComponent = <Watched />;
     }

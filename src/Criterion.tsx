@@ -1,5 +1,8 @@
 import * as React from 'react';
 import ReactTable from 'react-table';
+import { withStyles } from '@material-ui/core/styles';
+import green from '@material-ui/core/colors/green';
+import Checkbox from '@material-ui/core/Checkbox';
 import CriterionMovies from './CriterionMovies';
 import { MovieDataProvider } from './MovieDataProvider';
 
@@ -8,9 +11,9 @@ interface CriterionState {
   loading: boolean;
 }
 
-export class Criterion extends React.Component<{}, CriterionState> {
+class Criterion extends React.Component<any, CriterionState> {
 
-  constructor(props: CriterionState) {
+  constructor(props: any) {
     super(props);
     this.state = {
       criterionMovies: {} as any,
@@ -33,11 +36,28 @@ export class Criterion extends React.Component<{}, CriterionState> {
   }
 
   render() {
+    const { classes } = this.props;
+
     const columns = [{
       id: 'spine',
       Header: 'Spine',
       accessor: 'spine',
       width: 130,
+      style: {
+        textAlign: 'center'
+      }
+    }, {
+      Header: 'Watched',
+      accessor: 'watched',
+      width: 100,
+      Cell: (row: any) => (
+        <Checkbox
+          className={classes.size}
+          disableRipple={true}
+          checked={row.value}
+          value="checkedA"
+        />
+      ),
       style: {
         textAlign: 'center'
       }
@@ -84,3 +104,13 @@ export class Criterion extends React.Component<{}, CriterionState> {
     );
   }
 }
+
+const styles = (theme: any) => ({
+  size: {
+    width: 15,
+    height: 15,
+  }
+});
+
+const CriterionStyled = withStyles(styles as any)(Criterion);
+export { CriterionStyled };
