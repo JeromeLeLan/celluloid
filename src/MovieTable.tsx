@@ -10,8 +10,6 @@ interface MovieTableState {
 
 export class MovieTable extends React.Component<{}, MovieTableState> {
 
-  private watchedMoviesProvider: WatchedMoviesProvider;
-
   constructor(props: MovieTableState) {
     super(props);
     this.state = {
@@ -21,7 +19,7 @@ export class MovieTable extends React.Component<{}, MovieTableState> {
   }
 
   loadData() {
-    return this.watchedMoviesProvider.provideData();
+    return WatchedMoviesProvider.provideData();
   }
 
   componentDidMount() {
