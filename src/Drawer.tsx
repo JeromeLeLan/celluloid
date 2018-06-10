@@ -9,6 +9,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import LocalMoviesIcon from '@material-ui/icons/LocalMovies';
 import MovieIcon from '@material-ui/icons/Movie';
 import TimelineIcon from '@material-ui/icons/Timeline';
+import { appState, ContentType } from './AppState';
 
 class AppDrawer extends React.Component<any, {}> {
 
@@ -34,7 +35,7 @@ class AppDrawer extends React.Component<any, {}> {
 
     const secondFolder = (
       <div>
-        <ListItem button={true}>
+        <ListItem button={true} onClick={this.openStatistics}>
           <ListItemIcon>
             <TimelineIcon />
           </ListItemIcon>
@@ -59,11 +60,15 @@ class AppDrawer extends React.Component<any, {}> {
   }
 
   private openWatched(): void {
-    console.log('openWatched');
+    appState.setContent(ContentType.Watched);
   }
 
   private openCriterion(): void {
-    console.log('openCriterion');
+    appState.setContent(ContentType.Criterion);
+  }
+
+  private openStatistics(): void {
+    appState.setContent(ContentType.Statistics);
   }
 }
 

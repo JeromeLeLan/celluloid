@@ -1,13 +1,26 @@
 import * as React from 'react';
+import { observer } from 'mobx-react';
 import { withStyles } from '@material-ui/core/styles';
+import { appState, ContentType } from './AppState';
+import { Criterion } from './Criterion';
 import { DrawerStyled } from './Drawer';
-import { MovieTable } from './MovieTable';
 import { ToolbarStyled } from './Toolbar';
+import { Watched } from './Watched';
 
+@observer
 class App extends React.Component<any, {}> {
 
   render() {
     const { classes } = this.props;
+
+    let mainComponent: JSX.Element;
+    if (ContentType.Watched === appState.contentType) {
+      mainComponent = <Watched />;
+    } else if (ContentType.Criterion === appState.contentType) {
+      mainComponent = <Criterion />;
+    } else {
+      mainComponent = <Watched />;
+    }
 
     return (
       <div className="App">
@@ -16,7 +29,7 @@ class App extends React.Component<any, {}> {
           <DrawerStyled />
           <main className={classes.content}>
             <div className={classes.toolbar} />
-            <MovieTable />
+            {mainComponent}
           </main>
         </div>
       </div>

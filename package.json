@@ -8,6 +8,8 @@
     "@material-ui/icons": "^1.0.0",
     "@types/react-table": "^6.7.11",
     "gh-pages": "^1.1.0",
+    "mobx": "^5.0.0",
+    "mobx-react": "^5.2.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts-ts": "2.13.0",
@@ -21,6 +23,7 @@
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject",
     "criterion": "python data/parseCriterionInfos.py",
+    "criterionPosters": "python data/parseCriterionInfos.py --posters",
     "movies": "python data/generateMovieInfos.py"
   },
   "devDependencies": {

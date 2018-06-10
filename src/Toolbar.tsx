@@ -8,7 +8,7 @@ class AppToolbar extends React.Component<any, {}> {
 
   render() {
     const { classes } = this.props;
-    
+
     return (
       <AppBar position="absolute" className={classes.appBar}>
         <Toolbar>

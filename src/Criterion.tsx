@@ -1,32 +1,32 @@
 import * as React from 'react';
 import ReactTable from 'react-table';
-import WatchedMovies from './WatchedMovies';
-import { WatchedMoviesProvider } from './WatchedMoviesProvider';
+import CriterionMovies from './CriterionMovies';
+import { MovieDataProvider } from './MovieDataProvider';
 
-interface MovieTableState {
-  watchedMovies: WatchedMovies;
+interface CriterionState {
+  criterionMovies: CriterionMovies;
   loading: boolean;
 }
 
-export class MovieTable extends React.Component<{}, MovieTableState> {
+export class Criterion extends React.Component<{}, CriterionState> {
 
-  constructor(props: MovieTableState) {
+  constructor(props: CriterionState) {
     super(props);
     this.state = {
-      watchedMovies: {} as any,
+      criterionMovies: {} as any,
       loading: true
     };
   }
 
   loadData() {
-    return WatchedMoviesProvider.provideData();
+    return MovieDataProvider.provideCriterionData();
   }
 
   componentDidMount() {
     this.loadData()
       .then((movies) => {
         this.setState({
-          watchedMovies: movies,
+          criterionMovies: movies,
           loading: false
         });
       });
@@ -34,16 +34,16 @@ export class MovieTable extends React.Component<{}, MovieTableState> {
 
   render() {
     const columns = [{
-      id: 'watchDate',
-      Header: 'Seen on',
-      accessor: 'watchDate',
+      id: 'spine',
+      Header: 'Spine',
+      accessor: 'spine',
       width: 130,
       style: {
         textAlign: 'center'
       }
     }, {
       Header: 'Title',
-      accessor: 'original_title',
+      accessor: 'title',
       style: {
         textAlign: 'center'
       }
@@ -55,22 +55,8 @@ export class MovieTable extends React.Component<{}, MovieTableState> {
       }
     }, {
       Header: 'Year',
-      accessor: 'release_date',
+      accessor: 'year',
       maxWidth: 60,
-      style: {
-        textAlign: 'center'
-      }
-    }, {
-      Header: 'Runtime',
-      accessor: 'runtime',
-      width: 80,
-      style: {
-        textAlign: 'center'
-      }
-    }, {
-      Header: 'Rating',
-      accessor: 'personalRating',
-      width: 80,
       style: {
         textAlign: 'center'
       }
@@ -82,11 +68,11 @@ export class MovieTable extends React.Component<{}, MovieTableState> {
 
     return (
       <ReactTable
-        data={this.state.watchedMovies.movies}
+        data={this.state.criterionMovies.movies}
         columns={columns}
         defaultSorted={
           [{
-            id: 'watchDate',
+            id: 'spine',
             desc: true
           }]}
         defaultPageSize={15}
