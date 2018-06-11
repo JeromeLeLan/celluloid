@@ -6,7 +6,7 @@ import sys, os, argparse, shutil, json, urllib.request
 
 def main(getPosters):
   scriptPath = os.path.dirname(os.path.realpath(__file__))
-  spineFile = os.path.join(scriptPath, 'spine.txt')
+  spineFile = os.path.join(scriptPath, '../data/spine.txt')
   exportFile = os.path.join(scriptPath, '../public/criterionInfos.json')
   jsonResult = dict()
   jsonResult['movies'] = []
@@ -16,7 +16,7 @@ def main(getPosters):
     for movieWatched in f:
       watchedList.append(movieWatched.strip() == '1')
 
-  aPath = os.path.join(scriptPath, 'posters')
+  aPath = os.path.join(scriptPath, '../posters')
   shutil.rmtree(aPath)
   os.makedirs(aPath)
 

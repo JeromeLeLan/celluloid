@@ -3,7 +3,7 @@
 import sys, os, time, json, urllib.request, math, collections, operator
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
-watchedFile = os.path.join(scriptPath, 'watched.txt')
+watchedFile = os.path.join(scriptPath, '../data/watched.txt')
 apiFile = os.path.join(scriptPath, '../private/themoviedb.apikey')
 exportFile = os.path.join(scriptPath, '../public/watched.json')
 
