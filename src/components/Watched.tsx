@@ -1,7 +1,7 @@
 import * as React from 'react';
 import ReactTable from 'react-table';
-import WatchedMovies from './WatchedMovies';
-import { MovieDataProvider } from './MovieDataProvider';
+import WatchedMovies from '../WatchedMovies';
+import { MovieDataProvider } from '../MovieDataProvider';
 
 interface WatchedState {
   watchedMovies: WatchedMovies;

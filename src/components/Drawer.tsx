@@ -9,7 +9,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import LocalMoviesIcon from '@material-ui/icons/LocalMovies';
 import MovieIcon from '@material-ui/icons/Movie';
 import TimelineIcon from '@material-ui/icons/Timeline';
-import { appState, ContentType } from './AppState';
+import { appState, ContentType } from '../AppState';
 
 class AppDrawer extends React.Component<any, {}> {
 

@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { observer } from 'mobx-react';
 import { withStyles } from '@material-ui/core/styles';
-import { appState, ContentType } from './AppState';
+import { appState, ContentType } from '../AppState';
 import { CriterionStyled } from './Criterion';
 import { DrawerStyled } from './Drawer';
 import { ToolbarStyled } from './Toolbar';
