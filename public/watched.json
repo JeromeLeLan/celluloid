@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 256,
+            "count": 257,
             "name": "United States of America"
         },
         "SE": {
@@ -197,17 +197,17 @@
         "1960s": 68,
         "1970s": 86,
         "1980s": 76,
-        "1990s": 43,
+        "1990s": 44,
         "2000s": 28,
         "2010s": 160
     },
     "genres": {
-        "Drama": 329,
-        "Thriller": 126,
+        "Drama": 330,
+        "Thriller": 127,
         "Comedy": 118,
         "Romance": 87,
         "Horror": 86,
-        "Mystery": 75,
+        "Mystery": 76,
         "Science Fiction": 65,
         "Adventure": 60,
         "Crime": 55,
@@ -379,6 +379,13 @@
             }
         ],
         [
+            5602,
+            {
+                "count": 6,
+                "name": "David Lynch"
+            }
+        ],
+        [
             9789,
             {
                 "count": 6,
@@ -411,13 +418,6 @@
             {
                 "count": 5,
                 "name": "Jacques Rivette"
-            }
-        ],
-        [
-            5602,
-            {
-                "count": 5,
-                "name": "David Lynch"
             }
         ],
         [
@@ -6373,7 +6373,7 @@
             "watchDate": "2017-08-07",
             "personalRating": "5",
             "runtime": 128,
-            "poster_path": "/kvNh6RhOZZRyIZlS8f0izVC7km2.jpg",
+            "poster_path": "/hRaKDD2Tsbb3I1tx0OgowG4yBNO.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -8017,7 +8017,7 @@
             "director": "Leo McCarey"
         },
         {
-            "original_title": "Nybyggarna",
+            "original_title": "The New Land",
             "imdb_id": "tt0069035",
             "release_date": "1972",
             "watchDate": "2018-05-06",
@@ -8063,7 +8063,7 @@
             "watchDate": "2018-06-08",
             "personalRating": "4",
             "runtime": 85,
-            "poster_path": "/dWUoC27bFeoQlcOw9FtdIRgAfgA.jpg",
+            "poster_path": "/4a9cbnoOq2EWtzU7OEfrBHdyJOU.jpg",
             "director": "Larisa Shepitko"
         },
         {
@@ -8075,6 +8075,16 @@
             "runtime": 105,
             "poster_path": "/N0jOUJZf98sG8FRojfLE9wsiBb.jpg",
             "director": "Jean-Luc Godard"
+        },
+        {
+            "original_title": "Lost Highway",
+            "imdb_id": "tt0116922",
+            "release_date": "1997",
+            "watchDate": "2018-06-10",
+            "personalRating": "6",
+            "runtime": 134,
+            "poster_path": "/z6yhgEzGUJaBBgAxoyggRzwLnVM.jpg",
+            "director": "David Lynch"
         }
     ]
 }
