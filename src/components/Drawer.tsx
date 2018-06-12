@@ -60,7 +60,7 @@ class AppDrawer extends React.Component<any, {}> {
   }
 
   private openWatched(): void {
-    appState.setContent(ContentType.Watched);
+    appState.setContent(ContentType.WatchedTable);
   }
 
   private openCriterion(): void {
@@ -75,7 +75,7 @@ class AppDrawer extends React.Component<any, {}> {
 const drawerWidth = 200;
 const styles = (theme: any) => ({
   drawerPaper: {
-    position: 'relative',
+    position: 'fixed',
     width: drawerWidth
   },
   toolbar: theme.mixins.toolbar

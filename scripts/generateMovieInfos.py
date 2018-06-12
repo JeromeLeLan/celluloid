@@ -99,7 +99,7 @@ def generateMovieInfos():
 				movieInfoLight['watchDate'] = watchDate
 				movieInfoLight['personalRating'] = rating
 				movieInfoLight['runtime'] = movieInfo['runtime']
-				movieInfoLight['poster_path'] = movieInfo['poster_path']
+				movieInfoLight['poster_path'] = 'https://image.tmdb.org/t/p/w300' + movieInfo['poster_path']
 				movieInfoLight['director'] = director.strip()
 				movieInfos.append(movieInfoLight)
 

@@ -87,25 +87,30 @@ class Criterion extends React.Component<any, CriterionState> {
     }
 
     return (
-      <ReactTable
-        data={this.state.criterionMovies.movies}
-        columns={columns}
-        defaultSorted={
-          [{
-            id: 'spine',
-            desc: true
-          }]}
-        defaultPageSize={15}
-        showPageSizeOptions={false}
-        filterable={true}
-        noDataText={'No movies found'}
-        className="-striped -highlight"
-      />
+      <main className={classes.content}>
+        <ReactTable
+          data={this.state.criterionMovies.movies}
+          columns={columns}
+          defaultSorted={
+            [{
+              id: 'spine',
+              desc: true
+            }]}
+          defaultPageSize={15}
+          showPageSizeOptions={false}
+          filterable={true}
+          noDataText={'No movies found'}
+          className="-striped -highlight"
+        />
+      </main>
     );
   }
 }
 
 const styles = (theme: any) => ({
+  content: {
+    paddingTop: 20
+  },
   size: {
     width: 15,
     height: 15,

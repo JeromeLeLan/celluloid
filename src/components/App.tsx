@@ -14,7 +14,7 @@ class App extends React.Component<any, {}> {
     const { classes } = this.props;
 
     let mainComponent: JSX.Element;
-    if (ContentType.Watched === appState.contentType) {
+    if (ContentType.WatchedTable === appState.contentType) {
       mainComponent = <Watched />;
     } else if (ContentType.Criterion === appState.contentType) {
       mainComponent = <CriterionStyled />;
@@ -40,7 +40,6 @@ class App extends React.Component<any, {}> {
 const styles = (theme: any) => ({
   root: {
     flexGrow: 1,
-    height: 750,
     zIndex: 1,
     overflow: 'hidden',
     position: 'relative',
@@ -48,8 +47,10 @@ const styles = (theme: any) => ({
   },
   content: {
     flexGrow: 1,
+    paddingLeft: 220,
+    paddingRight: 20,
+    position: 'relative',
     backgroundColor: theme.palette.background.default,
-    padding: theme.spacing.unit * 3,
     minWidth: 0, // So the Typography noWrap works
   },
   toolbar: theme.mixins.toolbar

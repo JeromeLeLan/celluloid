@@ -24,6 +24,7 @@ class AppToolbar extends React.Component<any, {}> {
 const styles = (theme: any) => ({
   appBar: {
     zIndex: theme.zIndex.drawer + 1,
+    position: 'fixed'
   }
 });
 

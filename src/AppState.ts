@@ -1,7 +1,8 @@
 import { action, observable } from 'mobx';
 
 enum ContentType {
-  Watched,
+  WatchedTable,
+  WatchedPosters,
   Criterion,
   Statistics
 }
@@ -9,7 +10,7 @@ enum ContentType {
 class AppState {
 
   @observable
-  contentType: ContentType = ContentType.Watched;
+  contentType: ContentType = ContentType.WatchedTable;
 
   @action
   public setContent(contentType: ContentType) {
