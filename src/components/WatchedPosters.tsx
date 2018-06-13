@@ -43,16 +43,19 @@ class WatchedPosters extends React.Component<any, WatchedPostersState> {
     if (this.state.loading) {
       return <div />;
     }
-
+    
+    // Available size: w45, w92, w154, w185, w300, w342, w500, h632, w780, w1280, original
     return (
-      <GridList cellHeight={180} cols={8} className={classes.gridList}>
+      <GridList cellHeight={'auto'} spacing={10} cols={8} className={classes.gridList}>
         {this.state.watchedMovies.movies.map(tile => (
-          <GridListTile key={tile.imdb_id + tile.watchDate}>
-            <img src={tile.poster_path} alt={tile.title} />
-            <GridListTileBar
-              title={tile.original_title}
-              subtitle={<span>{tile.director}</span>}
-            />
+          <GridListTile key={tile.imdb_id + tile.watchDate} className={classes.gridTile}>
+            <a href={'https://www.imdb.com/title/' + tile.imdb_id} target="_blank">
+              <img src={'https://image.tmdb.org/t/p/w185' + tile.poster_path} alt={tile.title} />
+              <GridListTileBar
+                title={tile.original_title}
+                subtitle={<span>{tile.director}</span>}
+              />
+            </a>
           </GridListTile>
         ))}
       </GridList>
@@ -61,9 +64,6 @@ class WatchedPosters extends React.Component<any, WatchedPostersState> {
 }
 
 const styles = (theme: any) => ({
-  gridList: {
-    // height: 550,
-  }
 });
 
 const WatchedPostersStyled = withStyles(styles as any)(WatchedPosters);
