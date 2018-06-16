@@ -3,6 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://jeromelelan.github.io/celluloid",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject",
+    "criterion": "py scripts/parseCriterionInfos.py",
+    "criterionPosters": "py scripts/parseCriterionInfos.py --posters",
+    "movies": "py scripts/generateMovieInfos.py"
+  },
   "dependencies": {
     "@material-ui/core": "^1.0.0",
     "@material-ui/icons": "^1.0.0",
@@ -14,17 +25,6 @@
     "react-dom": "^16.4.0",
     "react-scripts-ts": "2.13.0",
     "react-table": "^6.8.6"
-  },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
-    "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject",
-    "criterion": "python scripts/parseCriterionInfos.py",
-    "criterionPosters": "python scripts/parseCriterionInfos.py --posters",
-    "movies": "python scripts/generateMovieInfos.py"
   },
   "devDependencies": {
     "@types/jest": "^22.2.3",

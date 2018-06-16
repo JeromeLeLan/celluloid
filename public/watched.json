@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 257,
+            "count": 258,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 59,
+            "count": 60,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 52,
+            "count": 53,
             "name": "Germany"
         },
         "TR": {
@@ -129,7 +129,7 @@
             "name": "Iceland"
         },
         "FI": {
-            "count": 1,
+            "count": 2,
             "name": "Finland"
         },
         "ID": {
@@ -197,7 +197,7 @@
         "1960s": 68,
         "1970s": 86,
         "1980s": 76,
-        "1990s": 44,
+        "1990s": 45,
         "2000s": 28,
         "2010s": 160
     },
@@ -212,10 +212,10 @@
         "Adventure": 60,
         "Crime": 55,
         "Action": 51,
-        "Documentary": 45,
+        "Documentary": 46,
         "Fantasy": 36,
         "Animation": 22,
-        "War": 21,
+        "War": 20,
         "Family": 20,
         "History": 20,
         "Music": 15,
@@ -237,17 +237,17 @@
             }
         ],
         [
+            6818,
+            {
+                "count": 11,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
             38127,
             {
                 "count": 10,
                 "name": "Erland Josephson"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 10,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -302,17 +302,17 @@
             }
         ],
         [
+            6818,
+            {
+                "count": 14,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
             1150,
             {
                 "count": 14,
                 "name": "Brian De Palma"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 13,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -2684,6 +2684,13 @@
             }
         ],
         [
+            6826,
+            {
+                "count": 5,
+                "name": "Peter Zeitlinger"
+            }
+        ],
+        [
             6652,
             {
                 "count": 4,
@@ -2695,13 +2702,6 @@
             {
                 "count": 4,
                 "name": "Roland Totheroh"
-            }
-        ],
-        [
-            10349,
-            {
-                "count": 4,
-                "name": "L\u00e9once-Henri Burel"
             }
         ]
     ],
@@ -3333,7 +3333,7 @@
             "watchDate": "2015-06-20",
             "personalRating": "4",
             "runtime": 100,
-            "poster_path": "/wJ9HK1V9fs8v3fqRwQ0FOGEvj1S.jpg",
+            "poster_path": "/37TXnILqURzYqpFjLY5qzLgEF0n.jpg",
             "director": "Michael Powell, Emeric Pressburger"
         },
         {
@@ -4303,7 +4303,7 @@
             "watchDate": "2016-03-21",
             "personalRating": "4",
             "runtime": 110,
-            "poster_path": "/20D1aU0gTrWwE6RWYKbDvgSCiJx.jpg",
+            "poster_path": "/ojCExCbdukNnc2BSVukVystY7o9.jpg",
             "director": "Ettore Scola"
         },
         {
@@ -5213,7 +5213,7 @@
             "watchDate": "2016-10-15",
             "personalRating": "6",
             "runtime": 237,
-            "poster_path": "/f2DwUVv1sg7CjcjjyxJrNYYG0TY.jpg",
+            "poster_path": "/mIGqRB8Hqv8oK1ZQSNE3PrZDHLB.jpg",
             "director": "Sion Sono"
         },
         {
@@ -6383,7 +6383,7 @@
             "watchDate": "2017-08-08",
             "personalRating": "5",
             "runtime": 135,
-            "poster_path": "/cD8qpdGnPGUCqBDMI3P6tgkRhek.jpg",
+            "poster_path": "/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -7313,7 +7313,7 @@
             "watchDate": "2018-01-22",
             "personalRating": "5",
             "runtime": 130,
-            "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
+            "poster_path": "/pxB6oUgwW3npgrFc16mYE9SZvS8.jpg",
             "director": "Paul Thomas Anderson"
         },
         {
@@ -8085,6 +8085,16 @@
             "runtime": 134,
             "poster_path": "/z6yhgEzGUJaBBgAxoyggRzwLnVM.jpg",
             "director": "David Lynch"
+        },
+        {
+            "original_title": "Mein liebster Feind",
+            "imdb_id": "tt0200849",
+            "release_date": "1999",
+            "watchDate": "2018-06-13",
+            "personalRating": "4",
+            "runtime": 95,
+            "poster_path": "/f33isXzWQ8QKcM5ymRjmYWdrrED.jpg",
+            "director": "Werner Herzog"
         }
     ]
 }

@@ -333,11 +333,11 @@
     {
       "url": "https://www.criterion.com/films/300-andrei-rublev",
       "spine": 34,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fb699a1e0a7a17676f1c7d74040355af/lTwKgu3fA6xVr2XvCLeh9jfitDs32u_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/56f99b1a0e803b12d34b73a6b5127cd8/kg8eD35EfxEhGgZjgrSNlFwaZsYrM8_original.jpg",
       "title": "Andrei Rublev",
       "director": "Andrei Tarkovsky",
       "year": "1966",
-      "country": "Soviet Union",
+      "country": "",
       "watched": true
     },
     {
@@ -435,7 +435,7 @@
       "spine": 44,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/daa1d614942bb086b7fa4d4e1eb8b0d0/aZoMem6iPcKUSkCDO0g26e1bKiwA8y_original.jpg",
       "title": "The Red Shoes",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1948",
       "country": "United Kingdom",
       "watched": true
@@ -455,7 +455,7 @@
       "spine": 46,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1f4199efee0716b73e643f44cffd628f/FsFD7z9JPS8zGJwwhpboY5pnNOOmIc_original.jpg",
       "title": "The Most Dangerous Game",
-      "director": "Ernest B. Schoedsack&hellip;",
+      "director": "Ernest B. Schoedsack...",
       "year": "1932",
       "country": "United States",
       "watched": false
@@ -655,9 +655,9 @@
       "spine": 66,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1836-3f162562261e055f62b74fad187f814c/gvlLIyoIOj8bseeE1jh16ttnnyrYTT_original.jpg",
       "title": "The Orphic Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -785,7 +785,7 @@
       "spine": 79,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3a4a52811b630a9836c1b10cb2c55a38/1DZVBE8PnMfkggyvh5s9f7K2TSAiF0_original.jpg",
       "title": "W. C. Fields—Six Short Films",
-      "director": "Monte Brice&hellip;",
+      "director": "Monte Brice...",
       "year": "1933",
       "country": "United States",
       "watched": false
@@ -845,7 +845,7 @@
       "spine": 85,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6b60c41a20b0ad93142016f0fbaef104/iPWNkGkmts56OruZK3c8nVR4whMZnz_original.jpg",
       "title": "Pygmalion",
-      "director": "Anthony Asquith&hellip;",
+      "director": "Anthony Asquith...",
       "year": "1938",
       "country": "United Kingdom",
       "watched": false
@@ -855,9 +855,9 @@
       "spine": 86,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1838-ee328a31205b114ef125fd81b54b5cd0/VZGhEsbGQY3luUNqMc64IKmXGoRe9U_original.jpg",
       "title": "Eisenstein: The Sound Years",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -925,7 +925,7 @@
       "spine": 93,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c2a614703cc6b07a7b3446e218bf4f06/1GGBmkMqFTNQpPngTALkhW66O6cKMi_original.jpg",
       "title": "Black Narcissus",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1947",
       "country": "United Kingdom",
       "watched": true
@@ -935,7 +935,7 @@
       "spine": 94,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/579fa5c6c09c16a14ed067b95082b2a6/CO8fhJazSe2g825mTA0hbuLhjrFanC_original.jpg",
       "title": "I Know Where I’m Going!",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1945",
       "country": "United Kingdom",
       "watched": false
@@ -985,7 +985,7 @@
       "spine": 99,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/05c5af1846f326e136061c83fef2dca7/hB0X9GTfbMFvgc9rud2B9zxfQgb9p0_original.jpg",
       "title": "Gimme Shelter",
-      "director": "David Maysles&hellip;",
+      "director": "David Maysles...",
       "year": "1970",
       "country": "United States",
       "watched": false
@@ -1133,11 +1133,11 @@
     {
       "url": "https://www.criterion.com/films/653-my-man-godfrey",
       "spine": 114,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/51d2c86202865929ef74297765648ad0/kZ1hAUIFfpouUOau16vaoTdg1fEWtr_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7a24a208dd902fd517a84f8639da8f90/EaViyaPlmYZwiVpPAHtyYQ1u6c499c_original.jpg",
       "title": "My Man Godfrey",
       "director": "Gregory La Cava",
       "year": "1936",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1215,7 +1215,7 @@
       "spine": 122,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c33746df34b2d97e43e5115677cd5440/XHTPfGxyC5WiiAxpNcB7qgTOXWFbcc_original.jpg",
       "title": "Salesman",
-      "director": "Albert Maysles&hellip;",
+      "director": "Albert Maysles...",
       "year": "1968",
       "country": "United States",
       "watched": false
@@ -1225,7 +1225,7 @@
       "spine": 123,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/251568d04b57d0ba9fcf4f122aecb6b0/tOYh5gWdFXenaqTAGp5Nix2HBnl4o3_original.jpg",
       "title": "Grey Gardens",
-      "director": "Albert Maysles&hellip;",
+      "director": "Albert Maysles...",
       "year": "1976",
       "country": "United States",
       "watched": true
@@ -1235,9 +1235,9 @@
       "spine": 124,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1860-82b0f5807053a21a1cae335b8d477d7f/ZA7wOpAzBD7Xh0bDvZhFii5RQ8BD02_original.jpg",
       "title": "Carl Theodor Dreyer Box Set",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -1295,7 +1295,7 @@
       "spine": 130,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/17a09b267d7df228c099117fcc503b0b/HEN7Igx0rZ7xS24SClFcPTBRs9HxSL_original.jpg",
       "title": "The Shop on Main Street",
-      "director": "Ján Kadár&hellip;",
+      "director": "Ján Kadár...",
       "year": "1965",
       "country": "Czechoslovakia",
       "watched": false
@@ -1645,7 +1645,7 @@
       "spine": 165,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6727067d1f4e46a650902bc011e19592/tIr6988MSCKOQmR6KedSRIzbetNOjp_original.jpg",
       "title": "Man Bites Dog",
-      "director": "Rémy Belvaux&hellip;",
+      "director": "Rémy Belvaux...",
       "year": "1992",
       "country": "France",
       "watched": true
@@ -1665,9 +1665,9 @@
       "spine": 167,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1845-db3c5bcb75d32e794daaab2880a9cefc/oRg21cXVbdpJhR5WR3oZFrGDkJXY37_original.jpg",
       "title": "The Complete Monterey Pop Festival",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -1685,7 +1685,7 @@
       "spine": 169,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7d49fee67a64a7b818b28d452c0b6600/Yn32RYtD6y6sFn34lfmbjoAlrVxr1C_original.jpg",
       "title": "Jimi Plays Monterey & Shake! Otis at Monterey",
-      "director": "Chris Hegedus&hellip;",
+      "director": "Chris Hegedus...",
       "year": "1986",
       "country": "United States",
       "watched": false
@@ -1725,7 +1725,7 @@
       "spine": 173,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/18965c86f7667517e1f49865a63ef3e3/J8DLPfC9l8hKQqoR0JBCEkfis6ztSz_original.jpg",
       "title": "The Life and Death of Colonel Blimp",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1943",
       "country": "United Kingdom",
       "watched": false
@@ -1755,9 +1755,9 @@
       "spine": 176,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1859-5a1d456ec7733e9205b555242f30548d/QydMAqke3toeG4h4BOBYwNcOHf6z3W_original.jpg",
       "title": "The Killers",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -1765,7 +1765,7 @@
       "spine": 177,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0c99eb2e459ddbfc2a308d9aba1231ba/9bFl9qP1rdV5hipJe2GeoT2F1jjWHu_original.jpg",
       "title": "The Lost Honor of Katharina Blum",
-      "director": "Volker Schlöndorff&hellip;",
+      "director": "Volker Schlöndorff...",
       "year": "1975",
       "country": "Germany",
       "watched": false
@@ -1785,9 +1785,9 @@
       "spine": 179,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1912-9b0eea27a0c671d7b2e2919ea9831886/drjcuqaPZydLdVFHMvnIaHB2kl9Xk3_original.jpg",
       "title": "I Am Curious . . . Box set ",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -1845,9 +1845,9 @@
       "spine": 185,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1849-d09d357682f1ee460af44664076a0ba7/nJwd7XlymlNyJ9YaYVDiXdNExr0P5Z_original.jpg",
       "title": "The Adventures of Antoine Doinel",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2025,9 +2025,9 @@
       "spine": 203,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1853-72829d25dd9730f0d07d7fcd16fa2792/IZYvtTOVrQP0WrudfArypXiq795qWX_original.jpg",
       "title": "The BRD Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2075,9 +2075,9 @@
       "spine": 208,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1854-f87a320171d04b1b1907867e7d02b9f9/A1hcrlJkZvG9YhDnUmK0Yf1Tj1VRAd_original.jpg",
       "title": "A Film Trilogy by Ingmar Bergman",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -2283,11 +2283,11 @@
     {
       "url": "https://www.criterion.com/films/710-scenes-from-a-marriage",
       "spine": 229,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f1e88607f9818b2c630e13a3870cbad7/I2pKeoVU4t6U5O3UIVPM32AJU0DQO3_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9cc97a3bd4f3fc0e589ed556ec57c6d3/gDt8pykZ0Jq77v9lN9rKZIldYgM2E0_original.jpg",
       "title": "Scenes from a Marriage",
       "director": "Ingmar Bergman",
       "year": "1973",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -2315,9 +2315,9 @@
       "spine": 232,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1870-5a6520ad0e1ed82975741e5dc99398ee/IyksRpVlka6l82AmIoRPWIKAeL97Ya_original.jpg",
       "title": "A Story of Floating Weeds/Floating Weeds: Two Films by Yasujiro Ozu",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2385,9 +2385,9 @@
       "spine": 239,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1869-e5c85aaf05b37b7eb3c006cf0e4733b6/oc21ci95QjfyEYXMwqohFekz0EFAbu_original.jpg",
       "title": "The Lower Depths",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2405,9 +2405,9 @@
       "spine": 241,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1871-b497c6ca9fe76597e465ae063f33cf92/ZOLgPj9zTnYgjLm6sE0LHOBVKS9aAT_original.jpg",
       "title": "Stage and Spectacle: Three Films by Jean Renoir",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2495,9 +2495,9 @@
       "spine": 250,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1872-a1193fec634c922ab53d68f8c156ee20/En2M1rQdo8KTHEDM6IF3wCzKIDV7GU_original.jpg",
       "title": "John Cassavetes: Five Films",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -2605,9 +2605,9 @@
       "spine": 261,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1879-ddf9f0d1ce4179a8d951c0d9565fd7b6/p9zD6ZURSPmDBhod3yL2aDID2gMRQD_original.jpg",
       "title": "Fanny and Alexander Box Set",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -2745,7 +2745,7 @@
       "spine": 275,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1f3db326fa427b86df169c5dbf9cdfac/N0X8kwSSYULOF994eBhTVPWHt668jG_original.jpg",
       "title": "Tout va bien",
-      "director": "Jean-Luc Godard&hellip;",
+      "director": "Jean-Luc Godard...",
       "year": "1972",
       "country": "France",
       "watched": true
@@ -2815,9 +2815,9 @@
       "spine": 282,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1878-d753be32254186084fdb034ba6170a04/ytgENOPbs8VJ0e3nRGCtvhuYESgw8X_original.jpg",
       "title": "Andrzej Wajda: Three War Films",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -3265,9 +3265,9 @@
       "spine": 327,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1877-48de0a1fa166375e5c29008f57be3a14/rbztsW1GKvPEC5vTna3sbQdpYeG9Ro_original.jpg",
       "title": "3 Films by Louis Malle",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -3405,7 +3405,7 @@
       "spine": 341,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b206f2fd2c1e24512689ec54b8402317/HTN85CSIghZznvIf2LJWNGmNVm5U00_original.jpg",
       "title": "A Canterbury Tale",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1944",
       "country": "United Kingdom",
       "watched": false
@@ -3415,9 +3415,9 @@
       "spine": 342,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1875-4d5d5e2c0c2e29fa19513f6dc62869f6/uCMcMymA2Obfiryf0OHp2HPNItUlPx_original.jpg",
       "title": "Six Moral Tales",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -3605,7 +3605,7 @@
       "spine": 361,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d4d6ecc28c3429912c5bb66352dd7b7b/5KHGm0kRbwVTvp0lNejmjAIWgpVeOG_original.jpg",
       "title": "The Beales of Grey Gardens",
-      "director": "Albert Maysles&hellip;",
+      "director": "Albert Maysles...",
       "year": "2006",
       "country": "United States",
       "watched": false
@@ -3615,7 +3615,7 @@
       "spine": 362,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2131124bf11dd19cde56a791c8fc54f9/o5Y9AGkM9iZWMr9AQm46QYzEAvubcV_original.jpg",
       "title": "Border Radio",
-      "director": "Allison Anders&hellip;",
+      "director": "Allison Anders...",
       "year": "1987",
       "country": "United States",
       "watched": false
@@ -3635,9 +3635,9 @@
       "spine": 364,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1874-1783a5b7ab030641aab494f13c026174/ahGfceaQ9idYzYJHUy4cVjH4aRnxZo_original.jpg",
       "title": "Monsters and Madmen",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -3685,9 +3685,9 @@
       "spine": 369,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1873-f368b5675c9f0eb398727cb9a03b6e7b/vDeZBqbuBzw7Bpsb3KEK6hBnY6zACK_original.jpg",
       "title": "Paul Robeson: Portraits of the Artist",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -3865,9 +3865,9 @@
       "spine": 387,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1863-d6916651f0f3ead148ffd869331459b7/oQoeqXYr3XiuO5vvu3J6PphWl19PlW_original.jpg",
       "title": "La Jetée/Sans Soleil",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -3915,9 +3915,9 @@
       "spine": 392,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1857-4a9eaad0ae6e5e6609b78fa778227642/day0uJj7Jk3QoCZJAIVSdel8IzDr6q_original.jpg",
       "title": "Three Films by Hiroshi Teshigahara",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -4175,9 +4175,9 @@
       "spine": 418,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1856-70cb6699a8cee4d1285949a3f86c813d/NxYyVlcajs0ng5eCLjUz0H5LgGSk7Z_original.jpg",
       "title": "4 by Agnès Varda",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -4305,7 +4305,7 @@
       "spine": 431,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/41132bea28bb3bbea12d52e78c20b378/kl6ebsg1AK3m1ejL3zvPJa17lTmxcW_original.jpg",
       "title": "The Thief of Bagdad",
-      "director": "Tim Whelan&hellip;",
+      "director": "Tim Whelan...",
       "year": "1940",
       "country": "United Kingdom",
       "watched": false
@@ -4325,7 +4325,7 @@
       "spine": 433,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1afc31bda9087f75091fae936b5c1ca0/1HMg9MpF1yL5AAmyha7kzSbACv2zcV_original.jpg",
       "title": "Patriotism",
-      "director": "Yukio Mishima&hellip;",
+      "director": "Yukio Mishima...",
       "year": "1966",
       "country": "Japan",
       "watched": false
@@ -4405,7 +4405,7 @@
       "spine": 441,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/dd600b70bda49320768a1a2545eabd7b/vBOoLKmxLqMp4rZ1WeBfbdsteerlnC_original.jpg",
       "title": "The Small Back Room",
-      "director": "Michael Powell&hellip;",
+      "director": "Michael Powell...",
       "year": "1949",
       "country": "United Kingdom",
       "watched": false
@@ -4705,9 +4705,9 @@
       "spine": 471,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1855-d1af5d0a5e3d807a317f3cc4e9c52f38/vdPxhXhBYsJOygUcZ3XqUkDiS3dZOl_original.jpg",
       "title": "Pigs, Pimps & Prostitutes: 3 Films by Shohei Imamura",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -4967,7 +4967,7 @@
       "title": "Rome Open City",
       "director": "Roberto Rossellini",
       "year": "1945",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -4995,9 +4995,9 @@
       "spine": 500,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1852-f20e8f5bdc458777cda90775598ef89c/G2jPTXWEYclcKFXC7LYWoNEj5D7V7l_original.jpg",
       "title": "Roberto Rossellini’s War Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -5075,9 +5075,9 @@
       "spine": 508,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1851-dba6177f0bd538f868c12a4c87760e83/tLbF78x2hqXHJGqSbQ5j7qW9izcNvg_original.jpg",
       "title": "Letters from Fontainhas: Three Films by Pedro Costa",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -5175,9 +5175,9 @@
       "spine": 518,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1847-6983ff5cc48386adceaaacb6c2cd4357/kWcc6bGm7iGDpGxxvJhUoNfAwRKCup_original.jpg",
       "title": "By Brakhage: An Anthology, Volumes One and Two",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -5235,9 +5235,9 @@
       "spine": 524,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1846-9cfef2c5fa060f8411bc2acc04261a18/KDlOmOyxMcew06CzkKPKggnG1K2TO6_original.jpg",
       "title": "The Only Son/There Was a Father: Two Films by Yasujiro Ozu",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -5275,9 +5275,9 @@
       "spine": 528,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1844-c9cb634fa3b22393408e64804c4b045c/u8zW5OazrYxQD3wNBZLu8H9zaj8mTx_original.jpg",
       "title": "3 Silent Classics by Josef von Sternberg",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -5685,7 +5685,7 @@
       "spine": 569,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5f43a5464a0df8ce69cb8bf45774302d/B4zQse0843Uu8bVCONSjsowuOQ3D4n_original.jpg",
       "title": "People on Sunday",
-      "director": "Robert Siodmak&hellip;",
+      "director": "Robert Siodmak...",
       "year": "1930",
       "country": "Germany",
       "watched": false
@@ -5775,9 +5775,9 @@
       "spine": 578,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1843-6e179857a2b22f6fff1aee72814e6e1f/ucDdSNidzRCUS9xrmSXHu8tdlizbxG_original.jpg",
       "title": "The Complete Jean Vigo",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -5865,9 +5865,9 @@
       "spine": 587,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1841-3ab3e39d4fbbf677631b93028f6045ea/jFU59ZGM56ObO24vNH29PZRGa1EBzM_original.jpg",
       "title": "Three Colors",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": true
     },
     {
@@ -6025,9 +6025,9 @@
       "spine": 603,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1840-088af0518384d0cd3ade371a9be9adad/HA6lPFqR7TccJBZskcnpzNd3SgtQAz_original.jpg",
       "title": "David Lean Directs Noël Coward",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6035,7 +6035,7 @@
       "spine": 604,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2337de26902c1098f9f4f5391509b618/8cF4ebQ0D9MPhFC6Og9iujz2Daexcu_original.jpg",
       "title": "In Which We Serve",
-      "director": "David Lean&hellip;",
+      "director": "David Lean...",
       "year": "1942",
       "country": "United Kingdom",
       "watched": false
@@ -6195,7 +6195,7 @@
       "spine": 620,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fc764d56ec9302a2429c93fff187f671/aoWiKjatz40quQKrm8eFiRBdL5jfJ2_original.jpg",
       "title": "La promesse",
-      "director": "Luc Dardenne&hellip;",
+      "director": "Luc Dardenne...",
       "year": "1996",
       "country": "Belgium",
       "watched": false
@@ -6205,7 +6205,7 @@
       "spine": 621,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/06eeae01a332a952d5c2bb0c8c5ecc78/wB6ANgwbN29LKWFvsvDzs0NEvkfbmP_original.jpg",
       "title": "Rosetta",
-      "director": "Luc Dardenne&hellip;",
+      "director": "Luc Dardenne...",
       "year": "1999",
       "country": "Belgium",
       "watched": false
@@ -6305,9 +6305,9 @@
       "spine": 631,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1839-b0e33c60c0fef04ebd79f8b275c00439/0z4n2qVrtfnIckCIIHgJmQHaXzQR5g_original.jpg",
       "title": "Trilogy of Life",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6385,9 +6385,9 @@
       "spine": 639,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1837-6d63f856dbe4a02bd6c8e0fb5705faf0/WElxowomsGYQjFojxmDr1GWbnfPgXq_original.jpg",
       "title": "The Qatsi Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6455,7 +6455,7 @@
       "spine": 646,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ed560ce125d981a74da5f0b112c643c4/sG8YTAGNjz7HsWG1RS1uUi54VYccwx_original.jpg",
       "title": "The Kid with a Bike",
-      "director": "Jean-Pierre Dardenne&hellip;",
+      "director": "Jean-Pierre Dardenne...",
       "year": "2011",
       "country": "Belgium",
       "watched": true
@@ -6475,7 +6475,7 @@
       "spine": 648,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/19a13fee4205abbab350e818ceaef9c3/6CUw6ARal1JEISPxk7DB0LGDi9REPd_original.jpg",
       "title": "Chronicle of a Summer",
-      "director": "Jean Rouch&hellip;",
+      "director": "Jean Rouch...",
       "year": "1961",
       "country": "France",
       "watched": false
@@ -6545,9 +6545,9 @@
       "spine": 655,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1887-fa0c93e5085aced998c1f1409d6a8d99/mCOcYWmctVf2mOlNC1TZseoFc7zbTH_original.jpg",
       "title": "Pierre Etaix",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6567,7 +6567,7 @@
       "title": "3:10 to Yuma",
       "director": "Delmer Daves",
       "year": "1957",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6615,7 +6615,7 @@
       "spine": 662,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/96a2f214d42c91852a870d66be2caeb1/HKCtBxvj7OupJI4BrQJD7APR0bIpN4_original.jpg",
       "title": "Safety Last!",
-      "director": "Fred Newmeyer&hellip;",
+      "director": "Fred Newmeyer...",
       "year": "1923",
       "country": "United States",
       "watched": false
@@ -6637,7 +6637,7 @@
       "title": "The Life of Oharu",
       "director": "Kenji Mizoguchi",
       "year": "1952",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -6715,9 +6715,9 @@
       "spine": 672,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1832-5224e9ac2c95fb1ffa85d5fd11ddef38/6gMrpMnUAzE3BYCL3Zs6wRKUzyNZLM_original.jpg",
       "title": "3 Films by Roberto Rossellini Starring Ingrid Bergman",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6785,9 +6785,9 @@
       "spine": 679,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1829-e54c495813226f69d09f05ddc914b0e2/0VeHCin2ALFJtf0af05BebTL2pamd4_original.jpg",
       "title": "Zatoichi: The Blind Swordsman",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6835,9 +6835,9 @@
       "spine": 684,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1925-d6b01d467d6e88963ff74d860871a38c/M6bf12wvZWpljYEPJptJq42e83XdiO_original.jpg",
       "title": "Martin Scorsese’s World Cinema Project",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -6927,7 +6927,7 @@
       "title": "La vie de bohème",
       "director": "Aki Kaurismäki",
       "year": "1992",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7025,7 +7025,7 @@
       "spine": 703,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cbda2b73d58c94da90d718beb2a6212f/grzsX7mRu1vFpl7oMh12x96ahSdYbj_original.jpg",
       "title": "The Freshman",
-      "director": "Sam Taylor&hellip;",
+      "director": "Sam Taylor...",
       "year": "1925",
       "country": "United States",
       "watched": false
@@ -7125,9 +7125,9 @@
       "spine": 713,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1827-340d95a9dc4160151fad3b6ee59da757/g1SkfwOWOBrY9ryHCbnk9w9KcU5iJW_original.jpg",
       "title": "The Essential Jacques Demy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -7285,9 +7285,9 @@
       "spine": 729,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1826-74abafd9cdfb81dc87d1738ec3c99693/VZ6wkU3rR5LF2srqIn918sRLIBPOl8_original.jpg",
       "title": "The Complete Jacques Tati",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -7444,7 +7444,7 @@
       "url": "https://www.criterion.com/films/27928-don-t-look-now",
       "spine": 745,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cc8bd4832c5dfed21df33fab07991c26/rZ9q2C3qtZondOXlqMmIZ2DqND4Cnm_original.jpg",
-      "title": "Don&#039;t Look Now",
+      "title": "Don't Look Now",
       "director": "Nicolas Roeg",
       "year": "1973",
       "country": "United Kingdom",
@@ -7705,7 +7705,7 @@
       "spine": 771,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/638030c4f2b05bfe582a2ee9c1927505/mlaNzJGKGDcBJtTPKuzzjW3wfXs8kq_original.jpg",
       "title": "Two Days, One Night",
-      "director": "Jean-Pierre Dardenne&hellip;",
+      "director": "Jean-Pierre Dardenne...",
       "year": "2014",
       "country": "Belgium",
       "watched": true
@@ -7815,9 +7815,9 @@
       "spine": 782,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1775-df51a1f635a7d24d2a0d70499b18b798/m4wqBDnbWqMadC0Ng6AFI01DFE9FtQ_original.jpg",
       "title": "The Apu Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -7935,7 +7935,7 @@
       "spine": 794,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/50601e2e6d31f2758588c3375c856abe/Mij0GgpVEQDG55eQGe1juUCJWRmy9f_original.jpg",
       "title": "Inside Llewyn Davis",
-      "director": "Joel Coen&hellip;",
+      "director": "Joel Coen...",
       "year": "2013",
       "country": "United States",
       "watched": true
@@ -8125,9 +8125,9 @@
       "spine": 813,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1773-3e4219a9f27e8402b68c2d685584258a/qVsCeiFh9PYaWkZhYXFAMnpoAI0MUF_original.jpg",
       "title": "Wim Wenders: The Road Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -8405,9 +8405,9 @@
       "spine": 841,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1772-05f7b23e0d4044cfa66e916e5ef7a8df/atLwCDI4fWZrMlIpaGL1YTLyiGq7ND_original.jpg",
       "title": "Lone Wolf and Cub",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -8555,9 +8555,9 @@
       "spine": 856,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1771-d7f77a156a0263e965d0f6783ee1e182/f6rUjvmvonLQE9018f0vXA5elbqAoI_original.jpg",
       "title": "The Before Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -8725,9 +8725,9 @@
       "spine": 873,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1767-0744687c884e8c056982d471b122dce3/cgKxO604g3phzPqpONSN5STBrfnV6y_original.jpg",
       "title": "Martin Scorsese’s World Cinema Project No. 2",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -8805,9 +8805,9 @@
       "spine": 881,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1766-0926bfc8985e1333759badc8421feb20/CcaaWhABn32RGpmaY0QfWfQzx5pNgV_original.jpg",
       "title": "The Marseille Trilogy",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -9167,7 +9167,7 @@
       "title": "The Awful Truth",
       "director": "Leo McCarey",
       "year": "1937",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9207,7 +9207,7 @@
       "title": "Moonrise",
       "director": "Frank Borzage",
       "year": "1948",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9227,7 +9227,7 @@
       "title": "Beyond the Hills",
       "director": "Cristian Mungiu",
       "year": "2012",
-      "country": "Romania",
+      "country": "",
       "watched": false
     },
     {
@@ -9237,7 +9237,7 @@
       "title": "Graduation",
       "director": "Cristian Mungiu",
       "year": "2016",
-      "country": "Romania",
+      "country": "",
       "watched": false
     },
     {
@@ -9257,7 +9257,7 @@
       "title": "Manila in the Claws of Light",
       "director": "Lino Brocka",
       "year": "1975",
-      "country": "Philippines",
+      "country": "",
       "watched": false
     },
     {
@@ -9295,9 +9295,9 @@
       "spine": 930,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1913-aa161a0f125c18e184c759f4e6fa4d86/ne8EBMDiHqGQ5vJDvaBUV6wzuwbT3d_original.jpg",
       "title": "Dietrich & von Sternberg in Hollywood",
-      "director": "-",
-      "year": "-",
-      "country": "-",
+      "director": " ",
+      "year": " ",
+      "country": " ",
       "watched": false
     },
     {
@@ -9427,6 +9427,26 @@
       "title": "Memories of Underdevelopment",
       "director": "Tomás Gutiérrez Alea",
       "year": "1968",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29385-cold-water",
+      "spine": 944,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7dc2053676e3548a6a4e024bc46a509d/s6RMaPtpFDn6RCemQ507uIvhkmRm6v_original.jpg",
+      "title": "Cold Water",
+      "director": "Olivier Assayas",
+      "year": "1994",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28826-a-raisin-in-the-sun",
+      "spine": 945,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b098e03f9c272b78b726f827d2c440c2/ZcXKzw1dgfIfnHaFlCBogSemi3gRyC_original.jpg",
+      "title": "A Raisin in the Sun",
+      "director": "Daniel Petrie",
+      "year": "1961",
       "country": "",
       "watched": false
     }

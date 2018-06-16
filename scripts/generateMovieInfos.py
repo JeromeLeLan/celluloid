@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import sys, os, time, json, urllib.request, math, collections, operator
 
@@ -129,4 +129,5 @@ def main():
 	generateMovieInfos()
 
 if __name__ == '__main__':
+	print(sys.version)
 	main()

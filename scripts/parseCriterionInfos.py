@@ -1,13 +1,23 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 import sys, os, argparse, shutil, json, urllib.request
 
+scriptPath = os.path.dirname(os.path.realpath(__file__))
+spineFile = os.path.join(scriptPath, '../data/spine.txt')
+exportFile = os.path.join(scriptPath, '../public/criterionInfos.json')
+posterPath = os.path.join(scriptPath, '../posters')
+criterionUrl = 'https://www.criterion.com/shop/browse/list?sort=spine_number'
 
-def main(getPosters):
-  scriptPath = os.path.dirname(os.path.realpath(__file__))
-  spineFile = os.path.join(scriptPath, '../data/spine.txt')
-  exportFile = os.path.join(scriptPath, '../public/criterionInfos.json')
+def cleanString(str):
+  str = str.replace('&amp;', '&')
+  str = str.replace('&#039;', '\'')
+  str = str.replace('&hellip;', '...')
+  str = str.replace('&nbsp;', ' ')
+  str = str.replace('<i>', '')
+  str = str.replace('< i>', '')
+  return str
+
+def parseCriterion(getPosters):
   jsonResult = dict()
   jsonResult['movies'] = []
 
@@ -16,12 +26,12 @@ def main(getPosters):
     for movieWatched in f:
       watchedList.append(movieWatched.strip() == '1')
 
-  aPath = os.path.join(scriptPath, '../posters')
-  shutil.rmtree(aPath)
-  os.makedirs(aPath)
+  if getPosters:
+    if os.path.exists(posterPath):
+      shutil.rmtree(posterPath)
+    os.makedirs(posterPath)
 
-  url = 'https://www.criterion.com/shop/browse/list?sort=spine_number'
-  request = urllib.request.Request(url)
+  request = urllib.request.Request(criterionUrl)
   response = urllib.request.urlopen(request)
   html = response.read().decode('iso-8859-1')
 
@@ -52,26 +62,25 @@ def main(getPosters):
     index = html.find(strStart)
     html = html[index+24:]
     index = html.find('\n')
-    movie['title'] = html[:index]
-    movie['title'] = movie['title'].replace('&amp;', '&')
+    movie['title'] = cleanString(html[:index])
 
     strStart = '<td class="g-director"'
     index = html.find(strStart)
     html = html[index+28:]
     index = html.find('\n')
-    movie['director'] = html[:index]
+    movie['director'] = cleanString(html[:index])
 
     strStart = '<td class="g-year"'
     index = html.find(strStart)
     html = html[index+24:]
     index = html.find('\n')
-    movie['year'] = html[:index]
+    movie['year'] = cleanString(html[:index])
 
     strStart = '<td class="g-country"'
     index = html.find(strStart)
     html = html[index+27:]
     index = html.find('\n')
-    movie['country'] = html[:index]
+    movie['country'] = cleanString(html[:index])
 
     fileName = ''
     addToJson = False
@@ -81,17 +90,12 @@ def main(getPosters):
     elif 'Eclipse Series' not in movie['title'] and 'Zatoichi' not in movie['title']:
       continue
 
-    title = movie['title'].replace('/', ' ')
-    title = title.replace(':', '')
-    title = title.replace('&#039;', '\'')
-    title = title.replace('<i>', '')
-    title = title.replace('< i>', '')
-    print(title.encode('iso-8859-1'))
+    print(movie['title'].encode('iso-8859-1'))
     sys.stdout.flush()
 
     if getPosters:
-      fileName += title
-      filePath = os.path.join(aPath, fileName + '.jpg')
+      fileName += movie['title']
+      filePath = os.path.join(posterPath, fileName + '.jpg')
       urllib.request.urlretrieve(movie['imgUrl'], filePath.encode('iso-8859-1'))
 
     if addToJson:
@@ -102,9 +106,12 @@ def main(getPosters):
   file = open(exportFile, 'w', encoding='iso-8859-1')
   file.write(json.dumps(jsonResult, indent=2, ensure_ascii=False, separators=(',', ': ')))
     
-
-if __name__ == '__main__':
+def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('-p', '--posters', action='store_true')
   args = parser.parse_args()
-  main(args.posters)
+  parseCriterion(args.posters)
+
+if __name__ == '__main__':
+	print(sys.version)
+	main()
