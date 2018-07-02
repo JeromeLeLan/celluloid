@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 148,
+            "count": 149,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 258,
+            "count": 262,
             "name": "United States of America"
         },
         "SE": {
@@ -69,7 +69,7 @@
             "name": "New Zealand"
         },
         "BE": {
-            "count": 10,
+            "count": 11,
             "name": "Belgium"
         },
         "PL": {
@@ -187,6 +187,10 @@
         "AE": {
             "count": 1,
             "name": "United Arab Emirates"
+        },
+        "BR": {
+            "count": 1,
+            "name": "Brazil"
         }
     },
     "decades": {
@@ -197,27 +201,27 @@
         "1960s": 68,
         "1970s": 86,
         "1980s": 76,
-        "1990s": 45,
-        "2000s": 28,
-        "2010s": 160
+        "1990s": 46,
+        "2000s": 29,
+        "2010s": 163
     },
     "genres": {
-        "Drama": 330,
-        "Thriller": 127,
-        "Comedy": 118,
+        "Drama": 333,
+        "Thriller": 128,
+        "Comedy": 120,
         "Romance": 87,
-        "Horror": 86,
+        "Horror": 87,
         "Mystery": 76,
         "Science Fiction": 65,
         "Adventure": 60,
-        "Crime": 55,
-        "Action": 51,
+        "Crime": 56,
+        "Action": 52,
         "Documentary": 46,
-        "Fantasy": 36,
-        "Animation": 22,
+        "Fantasy": 37,
+        "History": 23,
+        "Animation": 21,
         "War": 20,
         "Family": 20,
-        "History": 20,
         "Music": 15,
         "Western": 8
     },
@@ -785,6 +789,13 @@
             }
         ],
         [
+            5656,
+            {
+                "count": 2,
+                "name": "Noah Baumbach"
+            }
+        ],
+        [
             53296,
             {
                 "count": 2,
@@ -845,6 +856,13 @@
             {
                 "count": 2,
                 "name": "Otto Preminger"
+            }
+        ],
+        [
+            488,
+            {
+                "count": 2,
+                "name": "Steven Spielberg"
             }
         ],
         [
@@ -1618,13 +1636,6 @@
             }
         ],
         [
-            5656,
-            {
-                "count": 1,
-                "name": "Noah Baumbach"
-            }
-        ],
-        [
             122582,
             {
                 "count": 1,
@@ -2381,13 +2392,6 @@
             }
         ],
         [
-            488,
-            {
-                "count": 1,
-                "name": "Steven Spielberg"
-            }
-        ],
-        [
             14674,
             {
                 "count": 1,
@@ -2631,6 +2635,27 @@
                 "count": 1,
                 "name": "Larisa Shepitko"
             }
+        ],
+        [
+            88926,
+            {
+                "count": 1,
+                "name": "Armando Iannucci"
+            }
+        ],
+        [
+            5216,
+            {
+                "count": 1,
+                "name": "Gus Van Sant"
+            }
+        ],
+        [
+            638,
+            {
+                "count": 1,
+                "name": "Michael Mann"
+            }
         ]
     ],
     "cinematographers": [
@@ -2713,7 +2738,7 @@
             "watchDate": "2015-01-02",
             "personalRating": "1",
             "runtime": 95,
-            "poster_path": "/zaTSxlRTPF0rJXNJeskCdck80AR.jpg",
+            "poster_path": "/clSsWDMsUJ49ptNkhJ0yLWyPXlU.jpg",
             "director": "Robert Lamoureux"
         },
         {
@@ -2743,7 +2768,7 @@
             "watchDate": "2015-01-11",
             "personalRating": "6",
             "runtime": 149,
-            "poster_path": "/odrDjWF4LESn2tJXukmKRWyi1Vf.jpg",
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -3023,7 +3048,7 @@
             "watchDate": "2015-04-09",
             "personalRating": "5",
             "runtime": 110,
-            "poster_path": "/xXEPpFJJeBHcVuQGAbSjKJTWonh.jpg",
+            "poster_path": "/dLm6FOvfFIQLXPK5IPZjQvZZ3DN.jpg",
             "director": "Nicolas Roeg"
         },
         {
@@ -3563,7 +3588,7 @@
             "watchDate": "2015-09-21",
             "personalRating": "4",
             "runtime": 143,
-            "poster_path": "/uVALAeLEMGMf3oYpvdVi4uuaNOo.jpg",
+            "poster_path": "/lQCkPLDxFONmgzrWLvq085v1g2d.jpg",
             "director": "Sam Mendes"
         },
         {
@@ -4803,7 +4828,7 @@
             "watchDate": "2016-07-03",
             "personalRating": "4",
             "runtime": 100,
-            "poster_path": "/qdSlJ3lZITHDva5EI4lQHidZbf5.jpg",
+            "poster_path": "/1niUVi1tcmPqjloreUMw3LqOXGN.jpg",
             "director": "Jack Clayton"
         },
         {
@@ -5203,7 +5228,7 @@
             "watchDate": "2016-10-15",
             "personalRating": "5",
             "runtime": 120,
-            "poster_path": "/buuKUShkNWfF5clxVE2pGCBFu81.jpg",
+            "poster_path": "/4qQftiEvUeDqAvvFFgEFFEbmbqw.jpg",
             "director": "Robert Altman"
         },
         {
@@ -5692,7 +5717,7 @@
             "release_date": "1975",
             "watchDate": "2017-02-23",
             "personalRating": "4",
-            "runtime": 126,
+            "runtime": 104,
             "poster_path": "/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg",
             "director": "Dario Argento"
         },
@@ -6313,7 +6338,7 @@
             "watchDate": "2017-07-22",
             "personalRating": "2",
             "runtime": 109,
-            "poster_path": "/2qAdmui1TuML2nAQWHEq2aOf9uD.jpg",
+            "poster_path": "/82BGehJQFch1GENnT9j5KwTDQmJ.jpg",
             "director": "Russ Meyer"
         },
         {
@@ -6343,7 +6368,7 @@
             "watchDate": "2017-08-05",
             "personalRating": "4",
             "runtime": 171,
-            "poster_path": "/eQc9TVrRidzJfgjwqAomoqbcnDQ.jpg",
+            "poster_path": "/4yPMqpXWcqlnxiXIxkBoN6S6kbi.jpg",
             "director": "Roman Polanski"
         },
         {
@@ -6387,7 +6412,7 @@
             "director": "Masaki Kobayashi"
         },
         {
-            "original_title": "La r\u00e8gne du jour",
+            "original_title": "Le r\u00e8gne du jour",
             "imdb_id": "tt0152252",
             "release_date": "1967",
             "watchDate": "2017-08-10",
@@ -6563,7 +6588,7 @@
             "watchDate": "2017-09-24",
             "personalRating": "6",
             "runtime": 121,
-            "poster_path": "/2yOKarmL8B4oXaLXUdHu882SUbu.jpg",
+            "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
             "director": "Darren Aronofsky"
         },
         {
@@ -7123,7 +7148,7 @@
             "watchDate": "2017-12-11",
             "personalRating": "5",
             "runtime": 110,
-            "poster_path": "/dAA0rhWb2g1EsBqYdFu7ORheTcK.jpg",
+            "poster_path": "/kkSz6Pc2gtPg5dYtHOmBCrnFWUZ.jpg",
             "director": "Francesco Rosi"
         },
         {
@@ -7252,7 +7277,7 @@
             "release_date": "1932",
             "watchDate": "2018-01-07",
             "personalRating": "5",
-            "runtime": 73,
+            "runtime": 74,
             "poster_path": "/zSNbZz5xKTPBs2umK8OSBUqRfBF.jpg",
             "director": "Carl Theodor Dreyer"
         },
@@ -7273,7 +7298,7 @@
             "watchDate": "2018-01-10",
             "personalRating": "6",
             "runtime": 149,
-            "poster_path": "/odrDjWF4LESn2tJXukmKRWyi1Vf.jpg",
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -7293,7 +7318,7 @@
             "watchDate": "2018-01-20",
             "personalRating": "6",
             "runtime": 145,
-            "poster_path": "/vbtDskCLmlDKtzpqdiJYszBhKY2.jpg",
+            "poster_path": "/t1fXt8WLqaWmHhIOUlbaK1EQnNU.jpg",
             "director": "Wim Wenders"
         },
         {
@@ -7313,7 +7338,7 @@
             "watchDate": "2018-01-22",
             "personalRating": "5",
             "runtime": 130,
-            "poster_path": "/pxB6oUgwW3npgrFc16mYE9SZvS8.jpg",
+            "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
             "director": "Paul Thomas Anderson"
         },
         {
@@ -7373,7 +7398,7 @@
             "watchDate": "2018-01-31",
             "personalRating": "3",
             "runtime": 78,
-            "poster_path": "/f7LXyhQcI5JbfjAAi8D7YfwdbiY.jpg",
+            "poster_path": "/1hL1OlEHPuqZAK2QXR8tCHCGMZR.jpg",
             "director": "Sion Sono"
         },
         {
@@ -7527,7 +7552,7 @@
             "director": "Lana Wachowski, Lilly Wachowski"
         },
         {
-            "original_title": "La belle noiseuse",
+            "original_title": "La Belle noiseuse",
             "imdb_id": "tt0101428",
             "release_date": "1991",
             "watchDate": "2018-02-10",
@@ -7913,7 +7938,7 @@
             "watchDate": "2018-04-22",
             "personalRating": "3",
             "runtime": 101,
-            "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+            "poster_path": "/m2q7oCHyH38y5bUiPWs6BI3T8Di.jpg",
             "director": "Wes Anderson"
         },
         {
@@ -7953,7 +7978,7 @@
             "watchDate": "2018-04-28",
             "personalRating": "6",
             "runtime": 191,
-            "poster_path": "/rKy7ehB1pwnLstyP0DbynmLZFXf.jpg",
+            "poster_path": "/qzRbryq6swsFgN3cKnmshjno2GO.jpg",
             "director": "Jan Troell"
         },
         {
@@ -8095,6 +8120,56 @@
             "runtime": 95,
             "poster_path": "/f33isXzWQ8QKcM5ymRjmYWdrrED.jpg",
             "director": "Werner Herzog"
+        },
+        {
+            "original_title": "The Death of Stalin",
+            "imdb_id": "tt4686844",
+            "release_date": "2017",
+            "watchDate": "2018-06-16",
+            "personalRating": "1",
+            "runtime": 106,
+            "poster_path": "/2pn7dUjlG8UYPqplBV7AsIdsVds.jpg",
+            "director": "Armando Iannucci"
+        },
+        {
+            "original_title": "The Post",
+            "imdb_id": "tt6294822",
+            "release_date": "2018",
+            "watchDate": "2018-06-16",
+            "personalRating": "3",
+            "runtime": 116,
+            "poster_path": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+            "director": "Steven Spielberg"
+        },
+        {
+            "original_title": "Milk",
+            "imdb_id": "tt1013753",
+            "release_date": "2008",
+            "watchDate": "2018-06-19",
+            "personalRating": "2",
+            "runtime": 128,
+            "poster_path": "/sFYmJJSVXqfqPI79tx4UG4IR5Jb.jpg",
+            "director": "Gus Van Sant"
+        },
+        {
+            "original_title": "Frances Ha",
+            "imdb_id": "tt2347569",
+            "release_date": "2013",
+            "watchDate": "2018-06-21",
+            "personalRating": "5",
+            "runtime": 86,
+            "poster_path": "/mG8gvA3lxxzcJFIAnmMqir6DiWQ.jpg",
+            "director": "Noah Baumbach"
+        },
+        {
+            "original_title": "Heat",
+            "imdb_id": "tt0113277",
+            "release_date": "1995",
+            "watchDate": "2018-06-27",
+            "personalRating": "4",
+            "runtime": 170,
+            "poster_path": "/zMyfPUelumio3tiDKPffaUpsQTD.jpg",
+            "director": "Michael Mann"
         }
     ]
 }

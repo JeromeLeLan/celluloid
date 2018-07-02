@@ -287,7 +287,7 @@
       "title": "Picnic at Hanging Rock",
       "director": "Peter Weir",
       "year": "1975",
-      "country": "Australia",
+      "country": "",
       "watched": true
     },
     {
@@ -2967,7 +2967,7 @@
       "title": "Au hasard Balthazar",
       "director": "Robert Bresson",
       "year": "1966",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -3137,7 +3137,7 @@
       "title": "Pickpocket",
       "director": "Robert Bresson",
       "year": "1959",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -6808,7 +6808,7 @@
       "director": "Noah Baumbach",
       "year": "2013",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27911-investigation-of-a-citizen-above-suspicion",
