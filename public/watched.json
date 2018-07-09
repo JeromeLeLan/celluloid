@@ -9,11 +9,11 @@
             "name": "Russia"
         },
         "IT": {
-            "count": 42,
+            "count": 43,
             "name": "Italy"
         },
         "US": {
-            "count": 262,
+            "count": 266,
             "name": "United States of America"
         },
         "SE": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 53,
+            "count": 54,
             "name": "Germany"
         },
         "TR": {
@@ -201,24 +201,24 @@
         "1960s": 68,
         "1970s": 86,
         "1980s": 76,
-        "1990s": 46,
-        "2000s": 29,
-        "2010s": 163
+        "1990s": 47,
+        "2000s": 30,
+        "2010s": 165
     },
     "genres": {
-        "Drama": 333,
-        "Thriller": 128,
-        "Comedy": 120,
+        "Drama": 336,
+        "Thriller": 129,
+        "Comedy": 121,
+        "Horror": 88,
         "Romance": 87,
-        "Horror": 87,
-        "Mystery": 76,
+        "Mystery": 77,
         "Science Fiction": 65,
         "Adventure": 60,
-        "Crime": 56,
+        "Crime": 57,
         "Action": 52,
-        "Documentary": 46,
+        "Documentary": 47,
         "Fantasy": 37,
-        "History": 23,
+        "History": 24,
         "Animation": 21,
         "War": 20,
         "Family": 20,
@@ -308,7 +308,7 @@
         [
             6818,
             {
-                "count": 14,
+                "count": 15,
                 "name": "Werner Herzog"
             }
         ],
@@ -593,6 +593,13 @@
             }
         ],
         [
+            1032,
+            {
+                "count": 3,
+                "name": "Martin Scorsese"
+            }
+        ],
+        [
             136495,
             {
                 "count": 2,
@@ -870,13 +877,6 @@
             {
                 "count": 2,
                 "name": "Wim Wenders"
-            }
-        ],
-        [
-            1032,
-            {
-                "count": 2,
-                "name": "Martin Scorsese"
             }
         ],
         [
@@ -2655,6 +2655,20 @@
             {
                 "count": 1,
                 "name": "Michael Mann"
+            }
+        ],
+        [
+            1145520,
+            {
+                "count": 1,
+                "name": "Ari Aster"
+            }
+        ],
+        [
+            45400,
+            {
+                "count": 1,
+                "name": "Greta Gerwig"
             }
         ]
     ],
@@ -5238,7 +5252,7 @@
             "watchDate": "2016-10-15",
             "personalRating": "6",
             "runtime": 237,
-            "poster_path": "/mIGqRB8Hqv8oK1ZQSNE3PrZDHLB.jpg",
+            "poster_path": "/f2DwUVv1sg7CjcjjyxJrNYYG0TY.jpg",
             "director": "Sion Sono"
         },
         {
@@ -5408,7 +5422,7 @@
             "watchDate": "2016-12-06",
             "personalRating": "3",
             "runtime": 94,
-            "poster_path": "/iZz2cGjdpCWOQAziDQ1aF693EVr.jpg",
+            "poster_path": "/4nfAhOTlfZUHNorHJXEib7GYFpp.jpg",
             "director": "Clive Barker"
         },
         {
@@ -5737,7 +5751,7 @@
             "release_date": "2016",
             "watchDate": "2017-02-25",
             "personalRating": "6",
-            "runtime": 463,
+            "runtime": 467,
             "poster_path": "/eG0WtPOqYTYGo6nRynqN2CQRoel.jpg",
             "director": "Ezra Edelman"
         },
@@ -5947,7 +5961,7 @@
             "release_date": "1949",
             "watchDate": "2017-04-28",
             "personalRating": "5",
-            "runtime": 104,
+            "runtime": 105,
             "poster_path": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
             "director": "Carol Reed"
         },
@@ -6588,7 +6602,7 @@
             "watchDate": "2017-09-24",
             "personalRating": "6",
             "runtime": 121,
-            "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
+            "poster_path": "/2yOKarmL8B4oXaLXUdHu882SUbu.jpg",
             "director": "Darren Aronofsky"
         },
         {
@@ -7358,7 +7372,7 @@
             "watchDate": "2018-01-28",
             "personalRating": "4",
             "runtime": 101,
-            "poster_path": "/cz0egudCsfsTzwUAL03A5UzoHGT.jpg",
+            "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
             "director": "Benny Safdie, Josh Safdie"
         },
         {
@@ -7552,7 +7566,7 @@
             "director": "Lana Wachowski, Lilly Wachowski"
         },
         {
-            "original_title": "La Belle noiseuse",
+            "original_title": "La Belle Noiseuse",
             "imdb_id": "tt0101428",
             "release_date": "1991",
             "watchDate": "2018-02-10",
@@ -7938,7 +7952,7 @@
             "watchDate": "2018-04-22",
             "personalRating": "3",
             "runtime": 101,
-            "poster_path": "/m2q7oCHyH38y5bUiPWs6BI3T8Di.jpg",
+            "poster_path": "/rSluCePdXXtNiQeE6Na5yRGamhL.jpg",
             "director": "Wes Anderson"
         },
         {
@@ -8170,6 +8184,46 @@
             "runtime": 170,
             "poster_path": "/zMyfPUelumio3tiDKPffaUpsQTD.jpg",
             "director": "Michael Mann"
+        },
+        {
+            "original_title": "Glocken aus der Tiefe",
+            "imdb_id": "tt0106384",
+            "release_date": "1993",
+            "watchDate": "2018-07-04",
+            "personalRating": "4",
+            "runtime": 60,
+            "poster_path": "/zx7qrbsmd175rOVoGrzDo920Rj7.jpg",
+            "director": "Werner Herzog"
+        },
+        {
+            "original_title": "Hereditary",
+            "imdb_id": "tt7784604",
+            "release_date": "2018",
+            "watchDate": "2018-07-07",
+            "personalRating": "5",
+            "runtime": 127,
+            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "director": "Ari Aster"
+        },
+        {
+            "original_title": "Gangs of New York",
+            "imdb_id": "tt0217505",
+            "release_date": "2002",
+            "watchDate": "2018-07-08",
+            "personalRating": "1",
+            "runtime": 167,
+            "poster_path": "/ytKo2tLvKUd9Kbs0poXSQh6ft7d.jpg",
+            "director": "Martin Scorsese"
+        },
+        {
+            "original_title": "Lady Bird",
+            "imdb_id": "tt4925292",
+            "release_date": "2017",
+            "watchDate": "2018-07-08",
+            "personalRating": "3",
+            "runtime": 94,
+            "poster_path": "/vbvHTI7vfPKsONw75g9lio38SpN.jpg",
+            "director": "Greta Gerwig"
         }
     ]
 }
