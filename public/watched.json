@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 149,
+            "count": 150,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 266,
+            "count": 267,
             "name": "United States of America"
         },
         "SE": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 27,
+            "count": 28,
             "name": "Japan"
         },
         "MX": {
@@ -198,26 +198,26 @@
         "1930s": 15,
         "1940s": 19,
         "1950s": 39,
-        "1960s": 68,
+        "1960s": 69,
         "1970s": 86,
-        "1980s": 76,
+        "1980s": 77,
         "1990s": 47,
         "2000s": 30,
-        "2010s": 165
+        "2010s": 166
     },
     "genres": {
-        "Drama": 336,
-        "Thriller": 129,
-        "Comedy": 121,
-        "Horror": 88,
-        "Romance": 87,
+        "Drama": 338,
+        "Thriller": 130,
+        "Comedy": 122,
+        "Horror": 89,
+        "Romance": 88,
         "Mystery": 77,
         "Science Fiction": 65,
-        "Adventure": 60,
+        "Adventure": 61,
         "Crime": 57,
         "Action": 52,
         "Documentary": 47,
-        "Fantasy": 37,
+        "Fantasy": 38,
         "History": 24,
         "Animation": 21,
         "War": 20,
@@ -336,7 +336,7 @@
         [
             28615,
             {
-                "count": 9,
+                "count": 10,
                 "name": "\u00c9ric Rohmer"
             }
         ],
@@ -481,6 +481,13 @@
             }
         ],
         [
+            76978,
+            {
+                "count": 4,
+                "name": "Masaki Kobayashi"
+            }
+        ],
+        [
             29433,
             {
                 "count": 4,
@@ -586,10 +593,10 @@
             }
         ],
         [
-            76978,
+            488,
             {
                 "count": 3,
-                "name": "Masaki Kobayashi"
+                "name": "Steven Spielberg"
             }
         ],
         [
@@ -863,13 +870,6 @@
             {
                 "count": 2,
                 "name": "Otto Preminger"
-            }
-        ],
-        [
-            488,
-            {
-                "count": 2,
-                "name": "Steven Spielberg"
             }
         ],
         [
@@ -4212,7 +4212,7 @@
             "watchDate": "2016-02-03",
             "personalRating": "6",
             "runtime": 119,
-            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
+            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
             "director": "John Ford"
         },
         {
@@ -4302,7 +4302,7 @@
             "watchDate": "2016-03-14",
             "personalRating": "3",
             "runtime": 110,
-            "poster_path": "/6CVgR47VyZ1MC6bbRyB0La7CzbV.jpg",
+            "poster_path": "/tUE1rWD7Uga2U7CSM0P4mBJnHac.jpg",
             "director": "Jean-Luc Godard"
         },
         {
@@ -4816,7 +4816,7 @@
             "director": "Brian De Palma"
         },
         {
-            "original_title": "La Tour de contr\u00f4le infernale",
+            "original_title": "La tour 2 contr\u00f4le infernale",
             "imdb_id": "tt4515544",
             "release_date": "2016",
             "watchDate": "2016-06-30",
@@ -5986,7 +5986,7 @@
             "director": "Martin Rosen"
         },
         {
-            "original_title": "Touki Bouki",
+            "original_title": "Touki-Bouki",
             "imdb_id": "tt0070820",
             "release_date": "1973",
             "watchDate": "2017-05-02",
@@ -6412,7 +6412,7 @@
             "watchDate": "2017-08-07",
             "personalRating": "5",
             "runtime": 128,
-            "poster_path": "/hRaKDD2Tsbb3I1tx0OgowG4yBNO.jpg",
+            "poster_path": "/kvNh6RhOZZRyIZlS8f0izVC7km2.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -6782,7 +6782,7 @@
             "watchDate": "2017-10-23",
             "personalRating": "4",
             "runtime": 93,
-            "poster_path": "/8y00J2rVtxHntKMukkkzsYKQORe.jpg",
+            "poster_path": "/zVrxNiNozXbQgc9ez2nUYL8bOZm.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -6842,7 +6842,7 @@
             "watchDate": "2017-10-31",
             "personalRating": "3",
             "runtime": 115,
-            "poster_path": "/cFH1ZD7AxS1PnMUuB4HB1S7WMpi.jpg",
+            "poster_path": "/kyxIU2x084EdguhBJYlLrQ2zNYh.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7222,7 +7222,7 @@
             "watchDate": "2017-12-29",
             "personalRating": "3",
             "runtime": 140,
-            "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+            "poster_path": "/oDvgC7IeTdc03SgiSSo2HY7xGYX.jpg",
             "director": "Matt Reeves"
         },
         {
@@ -7351,7 +7351,7 @@
             "release_date": "2017",
             "watchDate": "2018-01-22",
             "personalRating": "5",
-            "runtime": 130,
+            "runtime": 131,
             "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
             "director": "Paul Thomas Anderson"
         },
@@ -7722,7 +7722,7 @@
             "watchDate": "2018-03-17",
             "personalRating": "6",
             "runtime": 119,
-            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
+            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
             "director": "John Ford"
         },
         {
@@ -8202,7 +8202,7 @@
             "watchDate": "2018-07-07",
             "personalRating": "5",
             "runtime": 127,
-            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "poster_path": "/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg",
             "director": "Ari Aster"
         },
         {
@@ -8224,6 +8224,36 @@
             "runtime": 94,
             "poster_path": "/vbvHTI7vfPKsONw75g9lio38SpN.jpg",
             "director": "Greta Gerwig"
+        },
+        {
+            "original_title": "\u602a\u8ac7",
+            "imdb_id": "tt0058279",
+            "release_date": "1964",
+            "watchDate": "2018-07-09",
+            "personalRating": "5",
+            "runtime": 183,
+            "poster_path": "/f6C9B1YssqKZjykS6K12ZNsEDRk.jpg",
+            "director": "Masaki Kobayashi"
+        },
+        {
+            "original_title": "Le beau mariage",
+            "imdb_id": "tt0082053",
+            "release_date": "1982",
+            "watchDate": "2018-07-14",
+            "personalRating": "4",
+            "runtime": 97,
+            "poster_path": "/4gYwUICkKQ2AdHvuvPUdfsJofJj.jpg",
+            "director": "\u00c9ric Rohmer"
+        },
+        {
+            "original_title": "Ready Player One",
+            "imdb_id": "tt1677720",
+            "release_date": "2018",
+            "watchDate": "2018-07-14",
+            "personalRating": "4",
+            "runtime": 140,
+            "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+            "director": "Steven Spielberg"
         }
     ]
 }
