@@ -201,7 +201,7 @@
         "1960s": 69,
         "1970s": 86,
         "1980s": 77,
-        "1990s": 47,
+        "1990s": 48,
         "2000s": 30,
         "2010s": 166
     },
@@ -216,7 +216,7 @@
         "Adventure": 61,
         "Crime": 57,
         "Action": 52,
-        "Documentary": 47,
+        "Documentary": 48,
         "Fantasy": 38,
         "History": 24,
         "Animation": 21,
@@ -308,7 +308,7 @@
         [
             6818,
             {
-                "count": 15,
+                "count": 16,
                 "name": "Werner Herzog"
             }
         ],
@@ -8226,7 +8226,7 @@
             "director": "Greta Gerwig"
         },
         {
-            "original_title": "\u602a\u8ac7",
+            "original_title": "Kwaidan",
             "imdb_id": "tt0058279",
             "release_date": "1964",
             "watchDate": "2018-07-09",
@@ -8249,11 +8249,21 @@
             "original_title": "Ready Player One",
             "imdb_id": "tt1677720",
             "release_date": "2018",
-            "watchDate": "2018-07-14",
+            "watchDate": "2018-07-15",
             "personalRating": "4",
             "runtime": 140,
             "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
             "director": "Steven Spielberg"
+        },
+        {
+            "original_title": "Echos aus einem d\u00fcsteren Reich",
+            "imdb_id": "tt0162941",
+            "release_date": "1990",
+            "watchDate": "2018-07-15",
+            "personalRating": "4",
+            "runtime": 91,
+            "poster_path": "/irAkd100YwYGcOUpiKBRDgZGwZc.jpg",
+            "director": "Werner Herzog"
         }
     ]
 }
