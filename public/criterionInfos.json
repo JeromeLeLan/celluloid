@@ -107,7 +107,7 @@
       "title": "The Seventh Seal",
       "director": "Ingmar Bergman",
       "year": "1957",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -597,7 +597,7 @@
       "title": "Autumn Sonata",
       "director": "Ingmar Bergman",
       "year": "1978",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -617,7 +617,7 @@
       "title": "The Passion of Joan of Arc",
       "director": "Carl Th. Dreyer",
       "year": "1928",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -707,7 +707,7 @@
       "title": "The Magic Flute",
       "director": "Ingmar Bergman",
       "year": "1975",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -883,11 +883,11 @@
     {
       "url": "https://www.criterion.com/films/377-sisters",
       "spine": 89,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0cc8eca462a4edf9c36ed869e11a4578/9isfoEVEAL73IpJil4fkfCW8pyOKov_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/80964145bced0eb88194a8af01475350/mfE5h7pgzwr9SO0RFazOZnxXa0kGPB_original.jpg",
       "title": "Sisters",
       "director": "Brian De Palma",
       "year": "1973",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -898,7 +898,7 @@
       "director": "Masaki Kobayashi",
       "year": "1965",
       "country": "Japan",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/630-the-blob",
@@ -1007,7 +1007,7 @@
       "title": "Cries and Whispers",
       "director": "Ingmar Bergman",
       "year": "1972",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "url": "https://www.criterion.com/films/653-my-man-godfrey",
       "spine": 114,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7a24a208dd902fd517a84f8639da8f90/EaViyaPlmYZwiVpPAHtyYQ1u6c499c_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/faae05a1b170149a490b96749d940a7f/BeabnGRtbsbWPi0gQYY7xJClHmZjMg_original.jpg",
       "title": "My Man Godfrey",
       "director": "Gregory La Cava",
       "year": "1936",
@@ -1387,7 +1387,7 @@
       "title": "Wild Strawberries",
       "director": "Ingmar Bergman",
       "year": "1957",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -1877,7 +1877,7 @@
       "title": "Love on the Run",
       "director": "François Truffaut",
       "year": "1979",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -2087,7 +2087,7 @@
       "title": "Through a Glass Darkly",
       "director": "Ingmar Bergman",
       "year": "1961",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -2096,8 +2096,8 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/232fdb029aaa2bfa572970958de737c0/b33uXy9vWW5wgQxMaiODJANyef5h6J_original.jpg",
       "title": "Winter Light",
       "director": "Ingmar Bergman",
-      "year": "1962",
-      "country": "Sweden",
+      "year": "1963",
+      "country": "",
       "watched": true
     },
     {
@@ -2107,7 +2107,7 @@
       "title": "The Silence",
       "director": "Ingmar Bergman",
       "year": "1963",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -2367,7 +2367,7 @@
       "title": "Smiles of a Summer Night",
       "director": "Ingmar Bergman",
       "year": "1955",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -2616,8 +2616,8 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/469345bca4a09a5ee860757191bf54aa/qBKD4rkTkrw13Kel43PGAGbg1uBePQ_original.jpg",
       "title": "Fanny and Alexander — The Television Version",
       "director": "Ingmar Bergman",
-      "year": "1982",
-      "country": "Sweden",
+      "year": "1983",
+      "country": "",
       "watched": true
     },
     {
@@ -2627,7 +2627,7 @@
       "title": "Fanny and Alexander — The Theatrical Version",
       "director": "Ingmar Bergman",
       "year": "1982",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -2807,7 +2807,7 @@
       "title": "Jules and Jim",
       "director": "François Truffaut",
       "year": "1962",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -3207,7 +3207,7 @@
       "title": "The Virgin Spring",
       "director": "Ingmar Bergman",
       "year": "1960",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -3967,7 +3967,7 @@
       "title": "Ivan’s Childhood",
       "director": "Andrei Tarkovsky",
       "year": "1962",
-      "country": "Soviet Union",
+      "country": "",
       "watched": true
     },
     {
@@ -4117,7 +4117,7 @@
       "title": "Sawdust and Tinsel",
       "director": "Ingmar Bergman",
       "year": "1953",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -4143,11 +4143,11 @@
     {
       "url": "https://www.criterion.com/films/848-the-naked-prey",
       "spine": 415,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8744d1e01b23ee499a8aee709c942409/lDrWygPDuTGNe1MgO42rRMeM7yEBNI_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/040b9ada9b2e7f00bf67207c219e907d/SqsWAMsxDc8dEu6YmD98XbtlIJ2Qak_original.jpg",
       "title": "The Naked Prey",
       "director": "Cornel Wilde",
-      "year": "1966",
-      "country": "United States",
+      "year": "1965",
+      "country": "",
       "watched": false
     },
     {
@@ -4317,7 +4317,7 @@
       "title": "Mishima: A Life in Four Chapters",
       "director": "Paul Schrader",
       "year": "1985",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4447,7 +4447,7 @@
       "title": "The Earrings of Madame de . . . ",
       "director": "Max Ophuls",
       "year": "1953",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -4497,7 +4497,7 @@
       "title": "Bottle Rocket",
       "director": "Wes Anderson",
       "year": "1996",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5367,7 +5367,7 @@
       "title": "The Magician",
       "director": "Ingmar Bergman",
       "year": "1958",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -6127,7 +6127,7 @@
       "title": "Summer Interlude",
       "director": "Ingmar Bergman",
       "year": "1951",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -6137,7 +6137,7 @@
       "title": "Summer with Monika",
       "director": "Ingmar Bergman",
       "year": "1953",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -6997,7 +6997,7 @@
       "title": "Fantastic Mr. Fox",
       "director": "Wes Anderson",
       "year": "2009",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7007,7 +7007,7 @@
       "title": "Persona",
       "director": "Ingmar Bergman",
       "year": "1966",
-      "country": "Sweden",
+      "country": "",
       "watched": true
     },
     {
@@ -7473,11 +7473,11 @@
     {
       "url": "https://www.criterion.com/films/28620-watership-down",
       "spine": 748,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bfe9f6e54be86feaa26c275b5a0ef770/h0mPzdgE5NoVtru1DZseRmb1Fwjr3a_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8b4a24dc151083e1944cd00788f9bce9/xkjdIN7aUqiWMSDdCXrwehCMSpuqJL_original.jpg",
       "title": "Watership Down",
       "director": "Martin Rosen",
       "year": "1978",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -9449,6 +9449,36 @@
       "year": "1961",
       "country": "",
       "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29400-eight-hours-don-t-make-a-day",
+      "spine": 946,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ed394478f60a211193ba1dab88125197/w3TkERkEMljsbq7hxffsVze3JCQZ8K_original.jpg",
+      "title": "Eight Hours Don’t Make a Day",
+      "director": "Rainer Werner Fassbinder",
+      "year": "1972",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28821-shampoo",
+      "spine": 947,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/99cdeb4c29bb63ff66b86ace00aa6d89/1PLK62AeGm2pF75m2eTnvsLfQB6DAe_original.jpg",
+      "title": "Shampoo",
+      "director": "Hal Ashby",
+      "year": "1975",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29368-the-princess-bride",
+      "spine": 948,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/08c0ae9f71918ed85b06a14864c87add/D1sGyBP0Y8kOCMxXgh7HuaLPzmPBP9_original.jpg",
+      "title": "The Princess Bride",
+      "director": "Rob Reiner",
+      "year": "1987",
+      "country": "",
+      "watched": true
     }
   ]
 }

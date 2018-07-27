@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 150,
+            "count": 152,
             "name": "France"
         },
         "RU": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 60,
+            "count": 62,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 54,
+            "count": 56,
             "name": "Germany"
         },
         "TR": {
@@ -191,6 +191,10 @@
         "BR": {
             "count": 1,
             "name": "Brazil"
+        },
+        "KW": {
+            "count": 1,
+            "name": "Kuwait"
         }
     },
     "decades": {
@@ -201,7 +205,7 @@
         "1960s": 69,
         "1970s": 86,
         "1980s": 77,
-        "1990s": 48,
+        "1990s": 50,
         "2000s": 30,
         "2010s": 166
     },
@@ -216,16 +220,23 @@
         "Adventure": 61,
         "Crime": 57,
         "Action": 52,
-        "Documentary": 48,
+        "Documentary": 50,
         "Fantasy": 38,
         "History": 24,
+        "War": 21,
         "Animation": 21,
-        "War": 20,
         "Family": 20,
         "Music": 15,
         "Western": 8
     },
     "actors": [
+        [
+            6818,
+            {
+                "count": 13,
+                "name": "Werner Herzog"
+            }
+        ],
         [
             6649,
             {
@@ -238,13 +249,6 @@
             {
                 "count": 11,
                 "name": "Max von Sydow"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 11,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -283,17 +287,17 @@
             }
         ],
         [
-            1245,
-            {
-                "count": 8,
-                "name": "Scarlett Johansson"
-            }
-        ],
-        [
             98774,
             {
                 "count": 8,
                 "name": "Fulvio Mingozzi"
+            }
+        ],
+        [
+            3857,
+            {
+                "count": 7,
+                "name": "Allan Edwall"
             }
         ]
     ],
@@ -308,7 +312,7 @@
         [
             6818,
             {
-                "count": 16,
+                "count": 18,
                 "name": "Werner Herzog"
             }
         ],
@@ -2716,17 +2720,17 @@
             }
         ],
         [
+            6826,
+            {
+                "count": 6,
+                "name": "Peter Zeitlinger"
+            }
+        ],
+        [
             1060,
             {
                 "count": 5,
                 "name": "Dean Cundey"
-            }
-        ],
-        [
-            6826,
-            {
-                "count": 5,
-                "name": "Peter Zeitlinger"
             }
         ],
         [
@@ -3752,7 +3756,7 @@
             "watchDate": "2015-11-07",
             "personalRating": "4",
             "runtime": 157,
-            "poster_path": "/bgLyOROfFQI3FqYL7jQbiaV8lkN.jpg",
+            "poster_path": "/kIW7N2bKV42OWk1kkMeq5ewZQVh.jpg",
             "director": "David Fincher"
         },
         {
@@ -3932,7 +3936,7 @@
             "watchDate": "2015-12-06",
             "personalRating": "5",
             "runtime": 119,
-            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+            "poster_path": "/n8wfFsQ5vtm6dM8vdgXb6OLv2GY.jpg",
             "director": "Orson Welles"
         },
         {
@@ -5062,7 +5066,7 @@
             "watchDate": "2016-08-16",
             "personalRating": "5",
             "runtime": 200,
-            "poster_path": "/ML08wSWFrt9dLIc08uIOsu4CI.jpg",
+            "poster_path": "/y0VDLox8ufaR4Ry1mFceELYJbKq.jpg",
             "director": "King Hu"
         },
         {
@@ -5232,7 +5236,7 @@
             "watchDate": "2016-10-12",
             "personalRating": "5",
             "runtime": 78,
-            "poster_path": "/9ddPGH7kMe81xznwIKCt17VFUPi.jpg",
+            "poster_path": "/3rKD5cJpXgzNosKVDpZYJSHm7P5.jpg",
             "director": "Herk Harvey"
         },
         {
@@ -5492,7 +5496,7 @@
             "watchDate": "2016-12-21",
             "personalRating": "4",
             "runtime": 105,
-            "poster_path": "/nWa1vufekd3O4eoyHmm7XBybKfe.jpg",
+            "poster_path": "/1obuqweg5lipvB3GiS7FV15ciTZ.jpg",
             "director": "Alain Robbe-Grillet"
         },
         {
@@ -5761,8 +5765,8 @@
             "release_date": "2016",
             "watchDate": "2017-02-26",
             "personalRating": "4",
-            "runtime": 100,
-            "poster_path": "/zyv3omPVI9u5Kmem7l1xycnLCYP.jpg",
+            "runtime": 101,
+            "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
             "director": "Ava DuVernay"
         },
         {
@@ -6572,7 +6576,7 @@
             "watchDate": "2017-08-30",
             "personalRating": "4",
             "runtime": 70,
-            "poster_path": "/lnBu7YxIrwXvERNB3F2n10sTPAt.jpg",
+            "poster_path": "/9U3HDh2NCbnu73ddfPPxdVrnIOi.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -6592,7 +6596,7 @@
             "watchDate": "2017-09-24",
             "personalRating": "6",
             "runtime": 92,
-            "poster_path": "/ydENrBUenr4khaP6tj4JZn1CpMs.jpg",
+            "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
             "director": "David Lowery"
         },
         {
@@ -7572,7 +7576,7 @@
             "watchDate": "2018-02-10",
             "personalRating": "5",
             "runtime": 236,
-            "poster_path": "/dru4Itv62O2cpCr2zpvMPkKCnh5.jpg",
+            "poster_path": "/h0I3HXJsNQ1pItvViRCKCDsLObD.jpg",
             "director": "Jacques Rivette"
         },
         {
@@ -8142,7 +8146,7 @@
             "watchDate": "2018-06-16",
             "personalRating": "1",
             "runtime": 106,
-            "poster_path": "/2pn7dUjlG8UYPqplBV7AsIdsVds.jpg",
+            "poster_path": "/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
             "director": "Armando Iannucci"
         },
         {
@@ -8263,6 +8267,26 @@
             "personalRating": "4",
             "runtime": 91,
             "poster_path": "/irAkd100YwYGcOUpiKBRDgZGwZc.jpg",
+            "director": "Werner Herzog"
+        },
+        {
+            "original_title": "Lektionen in Finsternis",
+            "imdb_id": "tt0104706",
+            "release_date": "1992",
+            "watchDate": "2018-07-18",
+            "personalRating": "5",
+            "runtime": 54,
+            "poster_path": "/koRhiqRBR8yqfr0vATc6UGWDb3q.jpg",
+            "director": "Werner Herzog"
+        },
+        {
+            "original_title": "Little Dieter Needs to Fly",
+            "imdb_id": "tt0145046",
+            "release_date": "1997",
+            "watchDate": "2018-07-21",
+            "personalRating": "5",
+            "runtime": 80,
+            "poster_path": "/2sLpyYytu0Dbymzs3skxOCRHKkl.jpg",
             "director": "Werner Herzog"
         }
     ]
