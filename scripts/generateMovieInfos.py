@@ -97,7 +97,7 @@ def generateMovieInfos():
 				movieInfoLight['release_date'] = movieInfo['release_date'][0:4]
 				#movieInfoLight['vote_average'] = movieInfo['vote_average']
 				movieInfoLight['watchDate'] = watchDate
-				movieInfoLight['personalRating'] = rating
+				movieInfoLight['personalRating'] = int(rating)
 				movieInfoLight['runtime'] = movieInfo['runtime']
 				movieInfoLight['poster_path'] = movieInfo['poster_path']
 				movieInfoLight['director'] = director.strip()

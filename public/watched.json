@@ -2768,7 +2768,7 @@
             "imdb_id": "tt0070356",
             "release_date": "1973",
             "watchDate": "2015-01-02",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 95,
             "poster_path": "/clSsWDMsUJ49ptNkhJ0yLWyPXlU.jpg",
             "director": "Robert Lamoureux"
@@ -2778,7 +2778,7 @@
             "imdb_id": "tt0086022",
             "release_date": "1983",
             "watchDate": "2015-01-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 120,
             "poster_path": "/xopaNXZrNjvpVgYrUWTtGhb3Ylu.jpg",
             "director": "Andrei Tarkovsky"
@@ -2788,7 +2788,7 @@
             "imdb_id": "tt2267998",
             "release_date": "2014",
             "watchDate": "2015-01-10",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 145,
             "poster_path": "/gdiLTof3rbPDAmPaCf4g6op46bj.jpg",
             "director": "David Fincher"
@@ -2798,7 +2798,7 @@
             "imdb_id": "tt0091670",
             "release_date": "1986",
             "watchDate": "2015-01-11",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 149,
             "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
@@ -2808,7 +2808,7 @@
             "imdb_id": "tt2582802",
             "release_date": "2014",
             "watchDate": "2015-01-12",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
             "director": "Damien Chazelle"
@@ -2818,7 +2818,7 @@
             "imdb_id": "tt0108550",
             "release_date": "1993",
             "watchDate": "2015-01-14",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 118,
             "poster_path": "/jQLoOPwNxyILwDbdhn9DsfQz0Sg.jpg",
             "director": "Lasse Hallstr\u00f6m"
@@ -2828,7 +2828,7 @@
             "imdb_id": "tt0053279",
             "release_date": "1962",
             "watchDate": "2015-01-18",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 103,
             "poster_path": "/aKzNcJyGuuXeGLU6LhIth8PtUe1.jpg",
             "director": "\u00c9ric Rohmer"
@@ -2838,7 +2838,7 @@
             "imdb_id": "tt2400275",
             "release_date": "2014",
             "watchDate": "2015-01-18",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 70,
             "poster_path": "/1WDyB4Kljpxg0hcosLYH6QzPeUP.jpg",
             "director": "Jean-Luc Godard"
@@ -2848,7 +2848,7 @@
             "imdb_id": "tt0299478",
             "release_date": "2003",
             "watchDate": "2015-01-19",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 120,
             "poster_path": "/apYvE7FiXLcyLCi5Jcgp4yPqTCv.jpg",
             "director": "Ingmar Bergman"
@@ -2858,7 +2858,7 @@
             "imdb_id": "tt2350496",
             "release_date": "2013",
             "watchDate": "2015-01-21",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 104,
             "poster_path": "/xFJqU1W5WlJiKr4Witnb7h9HNHn.jpg",
             "director": "Ritesh Batra"
@@ -2868,7 +2868,7 @@
             "imdb_id": "tt2758880",
             "release_date": "2014",
             "watchDate": "2015-01-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 196,
             "poster_path": "/etAL1QNI1tBMuy4jUPVYLMicbr5.jpg",
             "director": "Nuri Bilge Ceylan"
@@ -2878,7 +2878,7 @@
             "imdb_id": "tt0101829",
             "release_date": "1991",
             "watchDate": "2015-01-26",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 112,
             "poster_path": "/2lYFThEcQoQ9qk2S4n78g0uS1Pn.jpg",
             "director": "Lars von Trier"
@@ -2888,7 +2888,7 @@
             "imdb_id": "tt2788710",
             "release_date": "2014",
             "watchDate": "2015-01-30",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 112,
             "poster_path": "/2uWb0aSm5cFmRCHP95OdA6hvTEs.jpg",
             "director": "Evan Goldberg, Seth Rogen"
@@ -2898,7 +2898,7 @@
             "imdb_id": "tt0055499",
             "release_date": "1961",
             "watchDate": "2015-01-31",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 91,
             "poster_path": "/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
             "director": "Ingmar Bergman"
@@ -2908,7 +2908,7 @@
             "imdb_id": "tt0060827",
             "release_date": "1966",
             "watchDate": "2015-02-08",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 85,
             "poster_path": "/cjAnlvCrp9ZY7atASUsxRrhve7o.jpg",
             "director": "Ingmar Bergman"
@@ -2918,7 +2918,7 @@
             "imdb_id": "tt0064612",
             "release_date": "1969",
             "watchDate": "2015-02-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 111,
             "poster_path": "/8XKXkI6sR5W4JBG6AvgQH1LcKLa.jpg",
             "director": "\u00c9ric Rohmer"
@@ -2928,7 +2928,7 @@
             "imdb_id": "tt0062873",
             "release_date": "1967",
             "watchDate": "2015-02-12",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 124,
             "poster_path": "/ylkO72wPas7bJ7dvPlBPV2wlhjS.jpg",
             "director": "Jacques Demy"
@@ -2938,7 +2938,7 @@
             "imdb_id": "tt0065772",
             "release_date": "1970",
             "watchDate": "2015-02-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/tOER0RIOSKYcIS4JXHnVctDchNr.jpg",
             "director": "\u00c9ric Rohmer"
@@ -2948,7 +2948,7 @@
             "imdb_id": "tt0053976",
             "release_date": "1960",
             "watchDate": "2015-02-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 89,
             "poster_path": "/zFDtirgBArEMNNhIUJvYA7k2tzn.jpg",
             "director": "Ingmar Bergman"
@@ -2958,7 +2958,7 @@
             "imdb_id": "tt0068205",
             "release_date": "1972",
             "watchDate": "2015-02-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 97,
             "poster_path": "/5pIZsbjGcWyg7ZS26b1RWWA0Fgc.jpg",
             "director": "\u00c9ric Rohmer"
@@ -2968,7 +2968,7 @@
             "imdb_id": "tt3483194",
             "release_date": "2014",
             "watchDate": "2015-02-23",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 93,
             "poster_path": "/3TPOQUNP0aBAvY4gm9D3N3uB7sS.jpg",
             "director": "St\u00e9phane Lafleur"
@@ -2978,7 +2978,7 @@
             "imdb_id": "tt0057358",
             "release_date": "1963",
             "watchDate": "2015-02-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 80,
             "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
             "director": "Ingmar Bergman"
@@ -2988,7 +2988,7 @@
             "imdb_id": "tt0083922",
             "release_date": "1982",
             "watchDate": "2015-03-04",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 188,
             "poster_path": "/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg",
             "director": "Ingmar Bergman"
@@ -2998,7 +2998,7 @@
             "imdb_id": "tt0050986",
             "release_date": "1957",
             "watchDate": "2015-03-22",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 90,
             "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
             "director": "Ingmar Bergman"
@@ -3008,7 +3008,7 @@
             "imdb_id": "tt0428803",
             "release_date": "2005",
             "watchDate": "2015-03-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 80,
             "poster_path": "/yjAayG6nY9VO8IJoTLrSLUyu5kD.jpg",
             "director": "Luc Jacquet, J\u00e9r\u00f4me Maison"
@@ -3018,7 +3018,7 @@
             "imdb_id": "tt0073822",
             "release_date": "1975",
             "watchDate": "2015-03-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 134,
             "poster_path": "/3N0L2ijwcVjRLJRSXbv3AKT2Vnt.jpg",
             "director": "Ingmar Bergman"
@@ -3028,7 +3028,7 @@
             "imdb_id": "tt3011894",
             "release_date": "2014",
             "watchDate": "2015-03-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 125,
             "poster_path": "/8qc4aWkYJVXaWcypDusuudnME18.jpg",
             "director": "Dami\u00e1n Szifr\u00f3n"
@@ -3038,7 +3038,7 @@
             "imdb_id": "tt2326554",
             "release_date": "2014",
             "watchDate": "2015-03-31",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 99,
             "poster_path": "/fJ9wX5BzJL4p5R5x8y7SjZOuEoO.jpg",
             "director": "Ana Lily Amirpour"
@@ -3048,7 +3048,7 @@
             "imdb_id": "tt0015864",
             "release_date": "1925",
             "watchDate": "2015-04-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 95,
             "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
             "director": "Charlie Chaplin"
@@ -3058,7 +3058,7 @@
             "imdb_id": "tt0053168",
             "release_date": "1959",
             "watchDate": "2015-04-05",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 75,
             "poster_path": "/xymhcCf0gZOAaghjGvAlOLCyibr.jpg",
             "director": "Robert Bresson"
@@ -3068,7 +3068,7 @@
             "imdb_id": "tt0048021",
             "release_date": "1955",
             "watchDate": "2015-04-06",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 122,
             "poster_path": "/riZ2SXhTgllN6NWrPOJCtN4NrhG.jpg",
             "director": "Jules Dassin"
@@ -3078,7 +3078,7 @@
             "imdb_id": "tt0069995",
             "release_date": "1973",
             "watchDate": "2015-04-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/dLm6FOvfFIQLXPK5IPZjQvZZ3DN.jpg",
             "director": "Nicolas Roeg"
@@ -3088,7 +3088,7 @@
             "imdb_id": "tt0053198",
             "release_date": "1959",
             "watchDate": "2015-04-11",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 99,
             "poster_path": "/nKVXTcCtOc3Zuu4yCEDMOUyeXfH.jpg",
             "director": "Fran\u00e7ois Truffaut"
@@ -3098,7 +3098,7 @@
             "imdb_id": "tt0027977",
             "release_date": "1936",
             "watchDate": "2015-04-12",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 87,
             "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
             "director": "Charlie Chaplin"
@@ -3108,7 +3108,7 @@
             "imdb_id": "tt0053619",
             "release_date": "1960",
             "watchDate": "2015-04-12",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 143,
             "poster_path": "/c6hdG99CsskD9V0QDyS2l6gDOJa.jpg",
             "director": "Michelangelo Antonioni"
@@ -3118,7 +3118,7 @@
             "imdb_id": "tt2121382",
             "release_date": "2014",
             "watchDate": "2015-04-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/rGMtc9AtZsnWSSL5VnLaGvx1PI6.jpg",
             "director": "Ruben \u00d6stlund"
@@ -3128,7 +3128,7 @@
             "imdb_id": "tt0021749",
             "release_date": "1931",
             "watchDate": "2015-04-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 87,
             "poster_path": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
             "director": "Charlie Chaplin"
@@ -3138,7 +3138,7 @@
             "imdb_id": "tt0071141",
             "release_date": "1974",
             "watchDate": "2015-04-26",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 94,
             "poster_path": "/7CeGGRLJI2Dbx9QjIwqq9Gqfjt1.jpg",
             "director": "Rainer Werner Fassbinder"
@@ -3148,7 +3148,7 @@
             "imdb_id": "tt0085809",
             "release_date": "1982",
             "watchDate": "2015-04-30",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 87,
             "poster_path": "/hxL6Obbbbh9KPvGpXX7F1Oc9Fft.jpg",
             "director": "Godfrey Reggio"
@@ -3158,7 +3158,7 @@
             "imdb_id": "tt0057611",
             "release_date": "1963",
             "watchDate": "2015-05-02",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 95,
             "poster_path": "/tWU8kqqJyLzZBQzB023K7NYpb8P.jpg",
             "director": "Ingmar Bergman"
@@ -3168,7 +3168,7 @@
             "imdb_id": "tt1791528",
             "release_date": "2014",
             "watchDate": "2015-05-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 148,
             "poster_path": "/2fCg6FORkgRLpFIKlUg4gULIn1u.jpg",
             "director": "Paul Thomas Anderson"
@@ -3178,7 +3178,7 @@
             "imdb_id": "tt0066207",
             "release_date": "1970",
             "watchDate": "2015-05-07",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 90,
             "poster_path": "/2QXMswzQsEGm7oTq2YEFiiXgegd.jpg",
             "director": "Jacques Demy"
@@ -3188,7 +3188,7 @@
             "imdb_id": "tt0044060",
             "release_date": "1951",
             "watchDate": "2015-05-10",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 96,
             "poster_path": "/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
             "director": "Ingmar Bergman"
@@ -3198,7 +3198,7 @@
             "imdb_id": "tt0048424",
             "release_date": "1955",
             "watchDate": "2015-05-11",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 93,
             "poster_path": "/brECyRPAWJS1clF0unAC3MtERMA.jpg",
             "director": "Charles Laughton"
@@ -3208,7 +3208,7 @@
             "imdb_id": "tt1617661",
             "release_date": "2015",
             "watchDate": "2015-05-11",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 124,
             "poster_path": "/aMEsvTUklw0uZ3gk3Q6lAj6302a.jpg",
             "director": "Lana Wachowski, Lilly Wachowski"
@@ -3218,7 +3218,7 @@
             "imdb_id": "tt0032553",
             "release_date": "1940",
             "watchDate": "2015-05-16",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 125,
             "poster_path": "/5Sukn9kDDoUQgoCZOR1YbbjxPoi.jpg",
             "director": "Charlie Chaplin"
@@ -3228,7 +3228,7 @@
             "imdb_id": "tt0069467",
             "release_date": "1972",
             "watchDate": "2015-05-17",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 95,
             "poster_path": "/kzt5Jro3AD6V6CbAwoXKIgQkTeA.jpg",
             "director": "Ingmar Bergman"
@@ -3238,7 +3238,7 @@
             "imdb_id": "tt3316960",
             "release_date": "2014",
             "watchDate": "2015-05-21",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 101,
             "poster_path": "/4n7T0G6kNLszUyfqKAboesNTm55.jpg",
             "director": "Richard Glatzer, Wash Westmoreland"
@@ -3248,7 +3248,7 @@
             "imdb_id": "tt2802144",
             "release_date": "2015",
             "watchDate": "2015-05-23",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 129,
             "poster_path": "/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg",
             "director": "Matthew Vaughn"
@@ -3258,7 +3258,7 @@
             "imdb_id": "tt0074626",
             "release_date": "1976",
             "watchDate": "2015-05-24",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 94,
             "poster_path": "/bfk4raYpPodzOVbM5BHf023IfI1.jpg",
             "director": "Werner Herzog"
@@ -3268,7 +3268,7 @@
             "imdb_id": "tt1392190",
             "release_date": "2015",
             "watchDate": "2015-05-26",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 120,
             "poster_path": "/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
             "director": "George Miller"
@@ -3278,7 +3278,7 @@
             "imdb_id": "tt0056119",
             "release_date": "1962",
             "watchDate": "2015-05-31",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 28,
             "poster_path": "/2woVot4i5Yo8RYyfnSgdhH7WEQZ.jpg",
             "director": "Chris Marker"
@@ -3288,7 +3288,7 @@
             "imdb_id": "tt0084628",
             "release_date": "1983",
             "watchDate": "2015-05-31",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/3L5sW2hGHQmNfVBdOsonSfGzSrN.jpg",
             "director": "Chris Marker"
@@ -3298,7 +3298,7 @@
             "imdb_id": "tt0816692",
             "release_date": "2014",
             "watchDate": "2015-06-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 169,
             "poster_path": "/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
             "director": "Christopher Nolan"
@@ -3308,7 +3308,7 @@
             "imdb_id": "tt0470752",
             "release_date": "2015",
             "watchDate": "2015-06-06",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 108,
             "poster_path": "/btbRB7BrD887j5NrvjxceRDmaot.jpg",
             "director": "Alex Garland"
@@ -3318,7 +3318,7 @@
             "imdb_id": "tt3416742",
             "release_date": "2014",
             "watchDate": "2015-06-06",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 86,
             "poster_path": "/4bqqrtzY9vVQeEcqyqWfTJWmpD9.jpg",
             "director": "Jemaine Clement, Taika Waititi"
@@ -3328,7 +3328,7 @@
             "imdb_id": "tt0070460",
             "release_date": "1973",
             "watchDate": "2015-06-07",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 115,
             "poster_path": "/zvKZPqLyFfZ1wi8BFKG2KgNZ5mY.jpg",
             "director": "Fran\u00e7ois Truffaut"
@@ -3338,7 +3338,7 @@
             "imdb_id": "tt2737050",
             "release_date": "2014",
             "watchDate": "2015-06-10",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 95,
             "poster_path": "/1mYAejpMskvskGr0J0SaBvdjmrH.jpg",
             "director": "Jean-Pierre Dardenne, Luc Dardenne"
@@ -3348,7 +3348,7 @@
             "imdb_id": "tt2172584",
             "release_date": "2014",
             "watchDate": "2015-06-11",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 112,
             "poster_path": "/ciIFIMR78V9BMfLEylJGSwnlwm.jpg",
             "director": "David Cronenberg"
@@ -3358,7 +3358,7 @@
             "imdb_id": "tt0057935",
             "release_date": "1964",
             "watchDate": "2015-06-13",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 117,
             "poster_path": "/4z8Cp46UsG5WeqCNF9pVSdashiK.jpg",
             "director": "Satyajit Ray"
@@ -3368,7 +3368,7 @@
             "imdb_id": "tt0074991",
             "release_date": "1976",
             "watchDate": "2015-06-16",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 98,
             "poster_path": "/bGjEQLp7aF3dT3nXv4gEXnG02TI.jpg",
             "director": "Brian De Palma"
@@ -3378,7 +3378,7 @@
             "imdb_id": "tt0368226",
             "release_date": "2003",
             "watchDate": "2015-06-19",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 99,
             "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
             "director": "Tommy Wiseau"
@@ -3388,7 +3388,7 @@
             "imdb_id": "tt0039192",
             "release_date": "1947",
             "watchDate": "2015-06-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/37TXnILqURzYqpFjLY5qzLgEF0n.jpg",
             "director": "Michael Powell, Emeric Pressburger"
@@ -3398,7 +3398,7 @@
             "imdb_id": "tt0046487",
             "release_date": "1953",
             "watchDate": "2015-06-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 87,
             "poster_path": "/r4F4tsU0Ajeh9ZYUkWOJSYmioj7.jpg",
             "director": "Jacques Tati"
@@ -3408,7 +3408,7 @@
             "imdb_id": "tt0096257",
             "release_date": "1988",
             "watchDate": "2015-06-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 103,
             "poster_path": "/xFN3xPDzN4O7oIBmxnLIh8VROIw.jpg",
             "director": "Errol Morris"
@@ -3418,7 +3418,7 @@
             "imdb_id": "tt0051792",
             "release_date": "1958",
             "watchDate": "2015-06-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 100,
             "poster_path": "/aiTN7DL3vJYr3X26sXM0wNxYIQ7.jpg",
             "director": "Satyajit Ray"
@@ -3428,7 +3428,7 @@
             "imdb_id": "tt0077711",
             "release_date": "1978",
             "watchDate": "2015-06-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 90,
             "poster_path": "/2ZskjUMmMRhWSR781fDfuWE2kl2.jpg",
             "director": "Ingmar Bergman"
@@ -3438,7 +3438,7 @@
             "imdb_id": "tt2096673",
             "release_date": "2015",
             "watchDate": "2015-06-30",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 94,
             "poster_path": "/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
             "director": "Pete Docter"
@@ -3448,7 +3448,7 @@
             "imdb_id": "tt0054389",
             "release_date": "1960",
             "watchDate": "2015-07-01",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 82,
             "poster_path": "/tdVpsYocOpJLNhU7lDFY2yTMZcY.jpg",
             "director": "Fran\u00e7ois Truffaut"
@@ -3458,7 +3458,7 @@
             "imdb_id": "tt0074870",
             "release_date": "1976",
             "watchDate": "2015-07-12",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 102,
             "poster_path": "/eUEkR2vdP2hoGXikvsBBxIoKTW7.jpg",
             "director": "\u00c9ric Rohmer"
@@ -3468,7 +3468,7 @@
             "imdb_id": "tt0069400",
             "release_date": "1971",
             "watchDate": "2015-07-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 96,
             "poster_path": "/wWE4Hy7zoOVOVJpKSaNAzYTHqLy.jpg",
             "director": "Jacques Tati"
@@ -3478,7 +3478,7 @@
             "imdb_id": "tt2718492",
             "release_date": "2013",
             "watchDate": "2015-07-25",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 82,
             "poster_path": "/aO8dgaxaY1tcAdtFkLuz1WSxgdd.jpg",
             "director": "Pawe\u0142 Pawlikowski"
@@ -3488,7 +3488,7 @@
             "imdb_id": "tt0081455",
             "release_date": "1981",
             "watchDate": "2015-07-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 103,
             "poster_path": "/gl7uT1nm7kpi4Fv0YMgv2C1dGj3.jpg",
             "director": "David Cronenberg"
@@ -3498,7 +3498,7 @@
             "imdb_id": "tt0082783",
             "release_date": "1981",
             "watchDate": "2015-08-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/jmY4LAmCu27X9U88ksVvodm9mXW.jpg",
             "director": "Louis Malle"
@@ -3508,7 +3508,7 @@
             "imdb_id": "tt0083946",
             "release_date": "1982",
             "watchDate": "2015-08-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 158,
             "poster_path": "/uovgR063sBxGHQWD8YzQm4WJX4.jpg",
             "director": "Werner Herzog"
@@ -3518,7 +3518,7 @@
             "imdb_id": "tt0083702",
             "release_date": "1982",
             "watchDate": "2015-08-09",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 95,
             "poster_path": "/xof9qWnk2hZ83VThQfjBFfj6F5a.jpg",
             "director": "Les Blank"
@@ -3528,7 +3528,7 @@
             "imdb_id": "tt0085933",
             "release_date": "1983",
             "watchDate": "2015-08-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 123,
             "poster_path": "/dusGjI5GPpdG6qbqXYGmTkAEmEb.jpg",
             "director": "Nagisa \u014cshima"
@@ -3538,7 +3538,7 @@
             "imdb_id": "tt0110057",
             "release_date": "1994",
             "watchDate": "2015-08-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 171,
             "poster_path": "/g5yIxuzZ3LFRxDa8SBQybJJhXng.jpg",
             "director": "Steve James"
@@ -3548,7 +3548,7 @@
             "imdb_id": "tt0245574",
             "release_date": "2001",
             "watchDate": "2015-08-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 106,
             "poster_path": "/iwQLkEJGpKsuhRSpv3MkbKgPWcZ.jpg",
             "director": "Alfonso Cuar\u00f3n"
@@ -3558,7 +3558,7 @@
             "imdb_id": "tt0118884",
             "release_date": "1997",
             "watchDate": "2015-08-22",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 150,
             "poster_path": "/yRF1qpaQPZJjiORDsR7eUHzSHbf.jpg",
             "director": "Robert Zemeckis"
@@ -3568,7 +3568,7 @@
             "imdb_id": "tt0052893",
             "release_date": "1959",
             "watchDate": "2015-08-23",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 92,
             "poster_path": "/fViod4QCEDm0Yhlk15LACPdaqZk.jpg",
             "director": "Alain Resnais"
@@ -3578,7 +3578,7 @@
             "imdb_id": "tt0910970",
             "release_date": "2008",
             "watchDate": "2015-08-28",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 98,
             "poster_path": "/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg",
             "director": "Andrew Stanton"
@@ -3588,7 +3588,7 @@
             "imdb_id": "tt0077588",
             "release_date": "1978",
             "watchDate": "2015-08-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/u23CCG87bWtpnPuSLMWpLkdK75H.jpg",
             "director": "Brian De Palma"
@@ -3598,7 +3598,7 @@
             "imdb_id": "tt3685218",
             "release_date": "2015",
             "watchDate": "2015-09-01",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 105,
             "poster_path": "/ltuJiG2vMK2s4R0ma2LGIho9WeG.jpg",
             "director": "Maxime Giroux"
@@ -3608,7 +3608,7 @@
             "imdb_id": "tt0080661",
             "release_date": "1980",
             "watchDate": "2015-09-06",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/b9RHUexTE6MT5x6iZ2Wmq56H1cJ.jpg",
             "director": "Brian De Palma"
@@ -3618,7 +3618,7 @@
             "imdb_id": "tt1074638",
             "release_date": "2012",
             "watchDate": "2015-09-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 143,
             "poster_path": "/lQCkPLDxFONmgzrWLvq085v1g2d.jpg",
             "director": "Sam Mendes"
@@ -3628,7 +3628,7 @@
             "imdb_id": "tt0129167",
             "release_date": "1999",
             "watchDate": "2015-09-25",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 86,
             "poster_path": "/rdN6IjV4xlDDhrT8ewkkJfPvp2e.jpg",
             "director": "Brad Bird"
@@ -3638,7 +3638,7 @@
             "imdb_id": "tt0082085",
             "release_date": "1981",
             "watchDate": "2015-09-26",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 108,
             "poster_path": "/vt5d1gGPgkAKoKp127WPHjSJF3P.jpg",
             "director": "Brian De Palma"
@@ -3648,7 +3648,7 @@
             "imdb_id": "tt0119094",
             "release_date": "1997",
             "watchDate": "2015-09-28",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 138,
             "poster_path": "/q1i8QHiHZ1cukG5iOxai8pydmoa.jpg",
             "director": "John Woo"
@@ -3658,7 +3658,7 @@
             "imdb_id": "tt0051036",
             "release_date": "1957",
             "watchDate": "2015-09-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 96,
             "poster_path": "/dZBi7DSd3zjraZY1mxYeI5JohOr.jpg",
             "director": "Alexander Mackendrick"
@@ -3668,7 +3668,7 @@
             "imdb_id": "tt0115734",
             "release_date": "1996",
             "watchDate": "2015-10-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 91,
             "poster_path": "/iuO10cRKrMfql5yc8YTgdfHt7gR.jpg",
             "director": "Wes Anderson"
@@ -3678,7 +3678,7 @@
             "imdb_id": "tt3774694",
             "release_date": "2015",
             "watchDate": "2015-10-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 134,
             "poster_path": "/dw7Lbq7luiH11cbL5MlJwUdxkUk.jpg",
             "director": "Gaspar No\u00e9"
@@ -3688,7 +3688,7 @@
             "imdb_id": "tt0369610",
             "release_date": "2015",
             "watchDate": "2015-10-17",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 124,
             "poster_path": "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
             "director": "Colin Trevorrow"
@@ -3698,7 +3698,7 @@
             "imdb_id": "tt0079641",
             "release_date": "1979",
             "watchDate": "2015-10-18",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 107,
             "poster_path": "/fKFkl1G6XldPz4jD82DpFdYduI6.jpg",
             "director": "Werner Herzog"
@@ -3708,7 +3708,7 @@
             "imdb_id": "tt2818654",
             "release_date": "2015",
             "watchDate": "2015-10-18",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 122,
             "poster_path": "/5GasjPRAy5rlEyDOH7MeOyxyQGX.jpg",
             "director": "Apichatpong Weerasethakul"
@@ -3718,7 +3718,7 @@
             "imdb_id": "tt0088763",
             "release_date": "1985",
             "watchDate": "2015-10-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 116,
             "poster_path": "/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
             "director": "Robert Zemeckis"
@@ -3728,7 +3728,7 @@
             "imdb_id": "tt0096874",
             "release_date": "1989",
             "watchDate": "2015-10-24",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 108,
             "poster_path": "/k5dzvCQkXU2CAhLtlj9BHE7xmyK.jpg",
             "director": "Robert Zemeckis"
@@ -3738,7 +3738,7 @@
             "imdb_id": "tt0086984",
             "release_date": "1984",
             "watchDate": "2015-10-25",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 114,
             "poster_path": "/5QqmrjJHLpGR3L80Nw6SJcVffli.jpg",
             "director": "Brian De Palma"
@@ -3748,7 +3748,7 @@
             "imdb_id": "tt0076740",
             "release_date": "1977",
             "watchDate": "2015-10-31",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 122,
             "poster_path": "/iGDkhDPQKiA4ycpExU9kbDPW9QA.jpg",
             "director": "William Friedkin"
@@ -3758,7 +3758,7 @@
             "imdb_id": "tt0078908",
             "release_date": "1979",
             "watchDate": "2015-11-01",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 92,
             "poster_path": "/dptqBZfp0xnBS9qGFwlYhpCb06S.jpg",
             "director": "David Cronenberg"
@@ -3768,7 +3768,7 @@
             "imdb_id": "tt0443706",
             "release_date": "2007",
             "watchDate": "2015-11-07",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 157,
             "poster_path": "/kIW7N2bKV42OWk1kkMeq5ewZQVh.jpg",
             "director": "David Fincher"
@@ -3778,7 +3778,7 @@
             "imdb_id": "tt0063759",
             "release_date": "1968",
             "watchDate": "2015-11-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 90,
             "poster_path": "/q30AyCzatwhTgyO2jLLLCWvAslu.jpg",
             "director": "Ingmar Bergman"
@@ -3788,7 +3788,7 @@
             "imdb_id": "tt0118655",
             "release_date": "1997",
             "watchDate": "2015-11-08",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 94,
             "poster_path": "/1Ly0MRK2Na0aRpy2bD6GBRP3Rzx.jpg",
             "director": "Jay Roach"
@@ -3798,7 +3798,7 @@
             "imdb_id": "tt0120832",
             "release_date": "1998",
             "watchDate": "2015-11-10",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 98,
             "poster_path": "/i49r4ycCQAoGh2esfnL57PWGNh.jpg",
             "director": "Brian De Palma"
@@ -3808,7 +3808,7 @@
             "imdb_id": "tt0040725",
             "release_date": "1948",
             "watchDate": "2015-11-15",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 133,
             "poster_path": "/oyOtIdNJJO8zVwPyCtxVRxPLuHO.jpg",
             "director": "Michael Powell, Emeric Pressburger"
@@ -3818,7 +3818,7 @@
             "imdb_id": "tt0070904",
             "release_date": "1973",
             "watchDate": "2015-11-15",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 213,
             "poster_path": "/tTuDCX5MqRyJOTcyRCdmb5FkTSx.jpg",
             "director": "Rainer Werner Fassbinder"
@@ -3828,7 +3828,7 @@
             "imdb_id": "tt0280665",
             "release_date": "2002",
             "watchDate": "2015-11-17",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 114,
             "poster_path": "/cCSFOZh20p1p6qEdiHazFW9sdOh.jpg",
             "director": "Brian De Palma"
@@ -3838,7 +3838,7 @@
             "imdb_id": "tt1829012",
             "release_date": "2012",
             "watchDate": "2015-11-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/fb4odFgekpIlFRGnW47D52Qwbky.jpg",
             "director": "Brian De Palma"
@@ -3848,7 +3848,7 @@
             "imdb_id": "tt2381249",
             "release_date": "2015",
             "watchDate": "2015-11-21",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 131,
             "poster_path": "/z2sJd1OvAGZLxgjBdSnQoLCfn3M.jpg",
             "director": "Christopher McQuarrie"
@@ -3858,7 +3858,7 @@
             "imdb_id": "tt0080179",
             "release_date": "1978",
             "watchDate": "2015-11-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 111,
             "poster_path": "/fWrUTM8jeiU6G6rA4NKwkeigxGa.jpg",
             "director": "Yuen Woo-ping"
@@ -3868,7 +3868,7 @@
             "imdb_id": "tt2379713",
             "release_date": "2015",
             "watchDate": "2015-11-24",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 148,
             "poster_path": "/hE24GYddaxB9MVZl1CaiI86M3kp.jpg",
             "director": "Sam Mendes"
@@ -3878,7 +3878,7 @@
             "imdb_id": "tt0072962",
             "release_date": "1973",
             "watchDate": "2015-11-27",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 89,
             "poster_path": "/9Kh39gLE5XErkPmn5nZrPJXNabb.jpg",
             "director": "Orson Welles"
@@ -3888,7 +3888,7 @@
             "imdb_id": "tt0077598",
             "release_date": "1978",
             "watchDate": "2015-11-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 85,
             "poster_path": "/ex7zsEUwN9duJW5DBaWlDaBrEj0.jpg",
             "director": "Errol Morris"
@@ -3898,7 +3898,7 @@
             "imdb_id": "tt0083281",
             "release_date": "1981",
             "watchDate": "2015-11-29",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 55,
             "poster_path": "/2e6LMhHPyLWiToCx2Gqe2f1SWEn.jpg",
             "director": "Errol Morris"
@@ -3908,7 +3908,7 @@
             "imdb_id": "tt0477348",
             "release_date": "2007",
             "watchDate": "2015-11-29",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 122,
             "poster_path": "/nBaqryObPuxmuAndWUjDE5rriTd.jpg",
             "director": "Joel Coen, Ethan Coen"
@@ -3918,7 +3918,7 @@
             "imdb_id": "tt2582496",
             "release_date": "2015",
             "watchDate": "2015-12-02",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 105,
             "poster_path": "/4Zrvc5rddDSHD3JmfkzvAx82wuT.jpg",
             "director": "Alfonso Gomez-Rejon"
@@ -3928,7 +3928,7 @@
             "imdb_id": "tt0105217",
             "release_date": "1992",
             "watchDate": "2015-12-03",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 91,
             "poster_path": "/upKnvCg33FiYlhJh6h3QGAxOJU4.jpg",
             "director": "Brian De Palma"
@@ -3938,7 +3938,7 @@
             "imdb_id": "tt0080149",
             "release_date": "1979",
             "watchDate": "2015-12-05",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 82,
             "poster_path": "/c8mPnfCaVX1gYKtsQnLA6W54vVN.jpg",
             "director": "Werner Herzog"
@@ -3948,7 +3948,7 @@
             "imdb_id": "tt0033467",
             "release_date": "1941",
             "watchDate": "2015-12-06",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 119,
             "poster_path": "/n8wfFsQ5vtm6dM8vdgXb6OLv2GY.jpg",
             "director": "Orson Welles"
@@ -3958,7 +3958,7 @@
             "imdb_id": "tt0056714",
             "release_date": "1962",
             "watchDate": "2015-12-11",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 96,
             "poster_path": "/9KG8BHXfj0hyQm005vSMr5Co1iW.jpg",
             "director": "Kenji Misumi"
@@ -3968,7 +3968,7 @@
             "imdb_id": "tt0075276",
             "release_date": "1977",
             "watchDate": "2015-12-13",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 107,
             "poster_path": "/3AvIsic96J6c7GVz3XqfnRmHgVS.jpg",
             "director": "Werner Herzog"
@@ -3978,7 +3978,7 @@
             "imdb_id": "tt0073198",
             "release_date": "1975",
             "watchDate": "2015-12-15",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 201,
             "poster_path": "/dodSs53lsTsQh11ToR4MTgDrvaK.jpg",
             "director": "Chantal Akerman"
@@ -3988,7 +3988,7 @@
             "imdb_id": "tt0047478",
             "release_date": "1954",
             "watchDate": "2015-12-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 207,
             "poster_path": "/v6xrz4fr92KY1oNC3HsEvrsvR1n.jpg",
             "director": "Akira Kurosawa"
@@ -3998,7 +3998,7 @@
             "imdb_id": "tt0076759",
             "release_date": "1977",
             "watchDate": "2015-12-19",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 121,
             "poster_path": "/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg",
             "director": "George Lucas"
@@ -4008,7 +4008,7 @@
             "imdb_id": "tt0103882",
             "release_date": "1991",
             "watchDate": "2015-12-19",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 80,
             "poster_path": "/245tFCzZLiE9Xo03EuZIU03zXEw.jpg",
             "director": "Errol Morris"
@@ -4018,7 +4018,7 @@
             "imdb_id": "tt0080684",
             "release_date": "1980",
             "watchDate": "2015-12-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 124,
             "poster_path": "/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg",
             "director": "Irvin Kershner"
@@ -4028,7 +4028,7 @@
             "imdb_id": "tt0086190",
             "release_date": "1983",
             "watchDate": "2015-12-20",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 135,
             "poster_path": "/lrJWyjOVjPhghl4KyAMtOepAxs.jpg",
             "director": "Richard Marquand"
@@ -4038,7 +4038,7 @@
             "imdb_id": "tt0051808",
             "release_date": "1958",
             "watchDate": "2015-12-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 139,
             "poster_path": "/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
             "director": "Akira Kurosawa"
@@ -4048,7 +4048,7 @@
             "imdb_id": "tt2488496",
             "release_date": "2015",
             "watchDate": "2015-12-22",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 136,
             "poster_path": "/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg",
             "director": "J.J. Abrams"
@@ -4058,7 +4058,7 @@
             "imdb_id": "tt0108394",
             "release_date": "1993",
             "watchDate": "2016-01-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 98,
             "poster_path": "/ztIqf7yGmb4JRFiv2i62K6PhTQR.jpg",
             "director": "Krzysztof Kie\u015blowski"
@@ -4068,7 +4068,7 @@
             "imdb_id": "tt0478970",
             "release_date": "2015",
             "watchDate": "2016-01-04",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 117,
             "poster_path": "/D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
             "director": "Peyton Reed"
@@ -4078,7 +4078,7 @@
             "imdb_id": "tt2281587",
             "release_date": "2014",
             "watchDate": "2016-01-04",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 112,
             "poster_path": "/bxDby1r6WW3HyWzA9vd8uCMG9E6.jpg",
             "director": "James Bobin"
@@ -4088,7 +4088,7 @@
             "imdb_id": "tt0071129",
             "release_date": "1973",
             "watchDate": "2016-01-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 123,
             "poster_path": "/ruVrgGjSMDfDL3dABWzPxUXNNi6.jpg",
             "director": "Federico Fellini"
@@ -4098,7 +4098,7 @@
             "imdb_id": "tt0106301",
             "release_date": "1993",
             "watchDate": "2016-01-10",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 105,
             "poster_path": "/vrZ1uIIx8DXPUj2YpwlFYZFFPH.jpg",
             "director": "\u00c9ric Rohmer"
@@ -4108,7 +4108,7 @@
             "imdb_id": "tt0048473",
             "release_date": "1955",
             "watchDate": "2016-01-12",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 125,
             "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
             "director": "Satyajit Ray"
@@ -4118,7 +4118,7 @@
             "imdb_id": "tt0105643",
             "release_date": "1990",
             "watchDate": "2016-01-13",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 95,
             "poster_path": "/h03Huw7ZoyDrgBDc7GteshoJsnx.jpg",
             "director": "Claudio Fragasso"
@@ -4128,7 +4128,7 @@
             "imdb_id": "tt3659388",
             "release_date": "2015",
             "watchDate": "2016-01-15",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 141,
             "poster_path": "/5aGhaIHYuQbqlHWvWYqMCnj40y2.jpg",
             "director": "Ridley Scott"
@@ -4138,7 +4138,7 @@
             "imdb_id": "tt0079182",
             "release_date": "1979",
             "watchDate": "2016-01-17",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 139,
             "poster_path": "/7mzlay0miUkplT0EsKdR8znOVpe.jpg",
             "director": "Sh\u014dhei Imamura"
@@ -4148,7 +4148,7 @@
             "imdb_id": "tt1663202",
             "release_date": "2015",
             "watchDate": "2016-01-18",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 156,
             "poster_path": "/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg",
             "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
@@ -4158,7 +4158,7 @@
             "imdb_id": "tt0074360",
             "release_date": "1976",
             "watchDate": "2016-01-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/b2qB4Fb5Wy0AnrTZAkIfQ6NRInl.jpg",
             "director": "Carlos Saura"
@@ -4168,7 +4168,7 @@
             "imdb_id": "tt0030643",
             "release_date": "1938",
             "watchDate": "2016-01-24",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 91,
             "poster_path": "/yoiJPfIBWWFC81w1pf1rFDdpRbf.jpg",
             "director": "Marcel Carn\u00e9"
@@ -4178,7 +4178,7 @@
             "imdb_id": "tt0062480",
             "release_date": "1967",
             "watchDate": "2016-01-24",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 105,
             "poster_path": "/N0jOUJZf98sG8FRojfLE9wsiBb.jpg",
             "director": "Jean-Luc Godard"
@@ -4188,7 +4188,7 @@
             "imdb_id": "tt0070698",
             "release_date": "1972",
             "watchDate": "2016-01-26",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 93,
             "poster_path": "/g8uuN0Ad09pdgh5q0da0ihikJnb.jpg",
             "director": "Brian De Palma"
@@ -4198,7 +4198,7 @@
             "imdb_id": "tt0056663",
             "release_date": "1962",
             "watchDate": "2016-01-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 85,
             "poster_path": "/baz1c9dzsf5uhNuUYhXy7eudNJd.jpg",
             "director": "Jean-Luc Godard"
@@ -4208,7 +4208,7 @@
             "imdb_id": "tt2494362",
             "release_date": "2015",
             "watchDate": "2016-01-31",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 132,
             "poster_path": "/8A51Ur47D0CNJhmvQlbif0vzyqZ.jpg",
             "director": "S. Craig Zahler"
@@ -4218,7 +4218,7 @@
             "imdb_id": "tt3235888",
             "release_date": "2014",
             "watchDate": "2016-01-31",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg",
             "director": "David Robert Mitchell"
@@ -4228,7 +4228,7 @@
             "imdb_id": "tt0049730",
             "release_date": "1956",
             "watchDate": "2016-02-03",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 119,
             "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
             "director": "John Ford"
@@ -4238,7 +4238,7 @@
             "imdb_id": "tt4428814",
             "release_date": "2015",
             "watchDate": "2016-02-14",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 93,
             "poster_path": "/4iBgmuRFwI6r73EZnCgjABHGwEU.jpg",
             "director": "St\u00e9phane Briz\u00e9"
@@ -4248,7 +4248,7 @@
             "imdb_id": "tt0096754",
             "release_date": "1989",
             "watchDate": "2016-02-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 139,
             "poster_path": "/kRP5dGXDhKt7bDpXX4YBa4dRwlL.jpg",
             "director": "James Cameron"
@@ -4258,7 +4258,7 @@
             "imdb_id": "tt0048641",
             "release_date": "1955",
             "watchDate": "2016-02-27",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 108,
             "poster_path": "/apiOXPLDw6BKuIpdNlArf6YPwRI.jpg",
             "director": "Ingmar Bergman"
@@ -4268,7 +4268,7 @@
             "imdb_id": "tt1664894",
             "release_date": "2010",
             "watchDate": "2016-02-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 90,
             "poster_path": "/ml6BLrR3fEAuTGtKL6EkBPPgoPt.jpg",
             "director": "Werner Herzog"
@@ -4278,7 +4278,7 @@
             "imdb_id": "tt0094964",
             "release_date": "1988",
             "watchDate": "2016-03-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 115,
             "poster_path": "/9ZGBwiWIvN9KmHaLeSS5it44G21.jpg",
             "director": "David Cronenberg"
@@ -4288,7 +4288,7 @@
             "imdb_id": "tt1568152",
             "release_date": "2009",
             "watchDate": "2016-03-06",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 169,
             "poster_path": "/nJc7G6w5Qv2VNCo55fsea35G6nS.jpg",
             "director": "Kenneth Anger"
@@ -4298,7 +4298,7 @@
             "imdb_id": "tt1798709",
             "release_date": "2013",
             "watchDate": "2016-03-09",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 126,
             "poster_path": "/fsoTLnUXEUTNuVCBxAJMY0HPPd.jpg",
             "director": "Spike Jonze"
@@ -4308,7 +4308,7 @@
             "imdb_id": "tt2321549",
             "release_date": "2014",
             "watchDate": "2016-03-13",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 93,
             "poster_path": "/4zPxsfmeNX438gf77hjb9eYGiLh.jpg",
             "director": "Jennifer Kent"
@@ -4318,7 +4318,7 @@
             "imdb_id": "tt0059592",
             "release_date": "1965",
             "watchDate": "2016-03-14",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 110,
             "poster_path": "/tUE1rWD7Uga2U7CSM0P4mBJnHac.jpg",
             "director": "Jean-Luc Godard"
@@ -4328,7 +4328,7 @@
             "imdb_id": "tt0024188",
             "release_date": "1932",
             "watchDate": "2016-03-18",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 70,
             "poster_path": "/g7K7r1FojQC52YHxfmuXgwYBq5Q.jpg",
             "director": "Erle C. Kenton"
@@ -4338,7 +4338,7 @@
             "imdb_id": "tt0071381",
             "release_date": "1974",
             "watchDate": "2016-03-19",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 193,
             "poster_path": "/mXCFetLVFerhZQZ5KvUmHE5zuyf.jpg",
             "director": "Jacques Rivette"
@@ -4348,7 +4348,7 @@
             "imdb_id": "tt0065036",
             "release_date": "1969",
             "watchDate": "2016-03-20",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 65,
             "poster_path": "/pQYSs8RgDj2jtrnTrH5OkyPPByG.jpg",
             "director": "David Cronenberg"
@@ -4358,7 +4358,7 @@
             "imdb_id": "tt0076085",
             "release_date": "1977",
             "watchDate": "2016-03-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 110,
             "poster_path": "/ojCExCbdukNnc2BSVukVystY7o9.jpg",
             "director": "Ettore Scola"
@@ -4368,7 +4368,7 @@
             "imdb_id": "tt0087644",
             "release_date": "1984",
             "watchDate": "2016-03-23",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 141,
             "poster_path": "/tq9iPggmH4zZnk8f1ZP89HBBDVD.jpg",
             "director": "John Cassavetes"
@@ -4378,7 +4378,7 @@
             "imdb_id": "tt0166924",
             "release_date": "2001",
             "watchDate": "2016-03-26",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 147,
             "poster_path": "/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
             "director": "David Lynch"
@@ -4388,7 +4388,7 @@
             "imdb_id": "tt0113568",
             "release_date": "1995",
             "watchDate": "2016-03-28",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 83,
             "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
             "director": "Mamoru Oshii"
@@ -4398,7 +4398,7 @@
             "imdb_id": "tt0054167",
             "release_date": "1960",
             "watchDate": "2016-03-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/tJyGgOLDLDhJkUEI4wSoD4eO7n4.jpg",
             "director": "Michael Powell"
@@ -4408,7 +4408,7 @@
             "imdb_id": "tt3460252",
             "release_date": "2015",
             "watchDate": "2016-04-02",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 167,
             "poster_path": "/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",
             "director": "Quentin Tarantino"
@@ -4418,7 +4418,7 @@
             "imdb_id": "tt0047034",
             "release_date": "1954",
             "watchDate": "2016-04-09",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 96,
             "poster_path": "/1MJcpTpeSh2RtRHI7EMHStvWDEt.jpg",
             "director": "Ishir\u00f4 Honda"
@@ -4428,7 +4428,7 @@
             "imdb_id": "tt0088412",
             "release_date": "1984",
             "watchDate": "2016-04-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 100,
             "poster_path": "/bIN2AAjTpQ2cmFTcXcVbYqP5tLk.jpg",
             "director": "Werner Herzog"
@@ -4438,7 +4438,7 @@
             "imdb_id": "tt2649554",
             "release_date": "2016",
             "watchDate": "2016-04-10",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 112,
             "poster_path": "/fqIjExm1RJEkbGPtMBXnP20MmHm.jpg",
             "director": "Jeff Nichols"
@@ -4448,7 +4448,7 @@
             "imdb_id": "tt3397884",
             "release_date": "2015",
             "watchDate": "2016-04-17",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 121,
             "poster_path": "/p2SdfGmQRaw8xhFbexlHL7srMM8.jpg",
             "director": "Denis Villeneuve"
@@ -4458,7 +4458,7 @@
             "imdb_id": "tt0048956",
             "release_date": "1956",
             "watchDate": "2016-04-20",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/9sMmihRqqeM6abnINWuxkX4Olpo.jpg",
             "director": "Satyajit Ray"
@@ -4468,7 +4468,7 @@
             "imdb_id": "tt0087317",
             "release_date": "1985",
             "watchDate": "2016-04-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 45,
             "poster_path": "/x0Ab8CDJdCoLc5tnhWQcrcRoDvi.jpg",
             "director": "Werner Herzog"
@@ -4478,7 +4478,7 @@
             "imdb_id": "tt0109424",
             "release_date": "1994",
             "watchDate": "2016-04-25",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 102,
             "poster_path": "/9R5ZuHMYxPGXHEE1VXorYhEXtBA.jpg",
             "director": "Wong Kar-wai"
@@ -4488,7 +4488,7 @@
             "imdb_id": "tt0118694",
             "release_date": "2000",
             "watchDate": "2016-04-27",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 98,
             "poster_path": "/unOW3SxFxBdd7LMWjmRONdHWKPb.jpg",
             "director": "Wong Kar-wai"
@@ -4498,7 +4498,7 @@
             "imdb_id": "tt3170832",
             "release_date": "2015",
             "watchDate": "2016-04-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 117,
             "poster_path": "/eqFckcHuFCT1FrzLOAvXBb4jHwq.jpg",
             "director": "Lenny Abrahamson"
@@ -4508,7 +4508,7 @@
             "imdb_id": "tt1431045",
             "release_date": "2016",
             "watchDate": "2016-05-01",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 108,
             "poster_path": "/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
             "director": "Tim Miller"
@@ -4518,7 +4518,7 @@
             "imdb_id": "tt0086936",
             "release_date": "1984",
             "watchDate": "2016-05-03",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 46,
             "poster_path": "/8JO8aTWg5pEYCADRyr2sFJeBTPK.jpg",
             "director": "Werner Herzog, Denis Reichle"
@@ -4528,7 +4528,7 @@
             "imdb_id": "tt4263482",
             "release_date": "2016",
             "watchDate": "2016-05-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 92,
             "poster_path": "/l6NobtvA1FMhtV2HH20spDGr1wl.jpg",
             "director": "Robert Eggers"
@@ -4538,7 +4538,7 @@
             "imdb_id": "tt0098669",
             "release_date": "1989",
             "watchDate": "2016-05-11",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 52,
             "poster_path": "/ekdIaPakRDWv4pAEKO0blA7pIVO.jpg",
             "director": "Werner Herzog"
@@ -4548,7 +4548,7 @@
             "imdb_id": "tt1179933",
             "release_date": "2016",
             "watchDate": "2016-05-13",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 103,
             "poster_path": "/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg",
             "director": "Dan Trachtenberg"
@@ -4558,7 +4558,7 @@
             "imdb_id": "tt0073076",
             "release_date": "1975",
             "watchDate": "2016-05-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/jw1qTQX8pWUM8XFGbhM7A5mpmG9.jpg",
             "director": "Ellen Hovde, Muffie Meyer, Albert Maysles, David Maysles"
@@ -4568,7 +4568,7 @@
             "imdb_id": "tt0101985",
             "release_date": "1991",
             "watchDate": "2016-05-15",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 237,
             "poster_path": "/rUmXrzRxzLiHnAQUyxyuhcLEWNy.jpg",
             "director": "Edward Yang"
@@ -4578,7 +4578,7 @@
             "imdb_id": "tt0087332",
             "release_date": "1984",
             "watchDate": "2016-05-22",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 107,
             "poster_path": "/3FS3oBdorgczgfCkFi2u8ZTFfpS.jpg",
             "director": "Ivan Reitman"
@@ -4588,7 +4588,7 @@
             "imdb_id": "tt2452254",
             "release_date": "2014",
             "watchDate": "2016-05-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 124,
             "poster_path": "/nMntR8SXxDgU3pi0v1Gnx3tmr1L.jpg",
             "director": "Olivier Assayas"
@@ -4598,7 +4598,7 @@
             "imdb_id": "tt2948356",
             "release_date": "2016",
             "watchDate": "2016-05-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 108,
             "poster_path": "/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg",
             "director": "Byron Howard, Rich Moore"
@@ -4608,7 +4608,7 @@
             "imdb_id": "tt0069762",
             "release_date": "1973",
             "watchDate": "2016-05-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 94,
             "poster_path": "/yAFn7Bc80pF98DOxRs85d78jWbD.jpg",
             "director": "Terrence Malick"
@@ -4618,7 +4618,7 @@
             "imdb_id": "tt0077405",
             "release_date": "1978",
             "watchDate": "2016-05-25",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 94,
             "poster_path": "/rjw7tQbiBnbIeufyEt02oVickDM.jpg",
             "director": "Terrence Malick"
@@ -4628,7 +4628,7 @@
             "imdb_id": "tt0244316",
             "release_date": "2000",
             "watchDate": "2016-05-27",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 173,
             "poster_path": "/hhsYCYVPy1V0eTjkGNGdvpDO2qk.jpg",
             "director": "Edward Yang"
@@ -4638,7 +4638,7 @@
             "imdb_id": "tt2402927",
             "release_date": "2015",
             "watchDate": "2016-05-28",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/2vLRjvAjXDaqU8niiZxP7IilHiD.jpg",
             "director": "Todd Haynes"
@@ -4648,7 +4648,7 @@
             "imdb_id": "tt0050539",
             "release_date": "1957",
             "watchDate": "2016-05-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 81,
             "poster_path": "/pBBgIy2ncPgX5lRtYsWm0BmMFjg.jpg",
             "director": "Jack Arnold"
@@ -4658,7 +4658,7 @@
             "imdb_id": "tt0246135",
             "release_date": "1971",
             "watchDate": "2016-06-02",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 743,
             "poster_path": "/vcyr1IZOHtPriQkm0NP6oMXDeLS.jpg",
             "director": "Jacques Rivette"
@@ -4668,7 +4668,7 @@
             "imdb_id": "tt0114148",
             "release_date": "1995",
             "watchDate": "2016-06-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 81,
             "poster_path": "/qk95miOV8wDABbO5gyCpCrvbVFu.jpg",
             "director": "Mike Gabriel, Eric Goldberg"
@@ -4678,7 +4678,7 @@
             "imdb_id": "tt1595656",
             "release_date": "2013",
             "watchDate": "2016-06-07",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 112,
             "poster_path": "/zazIldLqJ1YNZoEsNRitO6KF6Ty.jpg",
             "director": "Terrence Malick"
@@ -4688,7 +4688,7 @@
             "imdb_id": "tt0051365",
             "release_date": "1958",
             "watchDate": "2016-06-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/rmdPJfwTUUjNW5FhuTxYkSKMfaO.jpg",
             "director": "Ingmar Bergman"
@@ -4698,7 +4698,7 @@
             "imdb_id": "tt2401878",
             "release_date": "2015",
             "watchDate": "2016-06-11",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 90,
             "poster_path": "/5DpDEEb6UJUiSaXyNegYlCqsZdd.jpg",
             "director": "Duke Johnson, Charlie Kaufman"
@@ -4708,7 +4708,7 @@
             "imdb_id": "tt0091830",
             "release_date": "1986",
             "watchDate": "2016-06-14",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 98,
             "poster_path": "/lam4GTDj11SoyCVC5svEygIHDgi.jpg",
             "director": "\u00c9ric Rohmer"
@@ -4718,7 +4718,7 @@
             "imdb_id": "tt0051418",
             "release_date": "1958",
             "watchDate": "2016-06-15",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 86,
             "poster_path": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
             "director": "Irvin S. Yeaworth Jr."
@@ -4728,7 +4728,7 @@
             "imdb_id": "tt0058530",
             "release_date": "1964",
             "watchDate": "2016-06-16",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 110,
             "poster_path": "/e0FxZbj0TVK4gTWWnzGyD4IY0DB.jpg",
             "director": "Byron Haskin"
@@ -4738,7 +4738,7 @@
             "imdb_id": "tt0035279",
             "release_date": "1942",
             "watchDate": "2016-06-27",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 108,
             "poster_path": "/lHxHdcUEmomTDPssLwevpgruWEI.jpg",
             "director": "Alfred Hitchcock"
@@ -4748,7 +4748,7 @@
             "imdb_id": "tt2101383",
             "release_date": "2015",
             "watchDate": "2016-06-27",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/zGN0fefqK6hg2ffxD3R7nRyaZcF.jpg",
             "director": "Terrence Malick"
@@ -4758,7 +4758,7 @@
             "imdb_id": "tt0105151",
             "release_date": "1992",
             "watchDate": "2016-06-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 124,
             "poster_path": "/g20oPyKrX317mRpOV5skpdQqf3p.jpg",
             "director": "Robert Altman"
@@ -4768,7 +4768,7 @@
             "imdb_id": "tt2975590",
             "release_date": "2016",
             "watchDate": "2016-06-29",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 151,
             "poster_path": "/cGOPbv9wA5gEejkUN892JrveARt.jpg",
             "director": "Zack Snyder"
@@ -4778,7 +4778,7 @@
             "imdb_id": "tt0070544",
             "release_date": "1973",
             "watchDate": "2016-06-29",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 72,
             "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
             "director": "Ren\u00e9 Laloux"
@@ -4788,7 +4788,7 @@
             "imdb_id": "tt0040522",
             "release_date": "1948",
             "watchDate": "2016-06-30",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 93,
             "poster_path": "/7ZiSTZN5FWsphVmlwFVFfn5EOl.jpg",
             "director": "Vittorio De Sica"
@@ -4798,7 +4798,7 @@
             "imdb_id": "tt0053270",
             "release_date": "1959",
             "watchDate": "2016-06-30",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 87,
             "poster_path": "/mmeEuSmCCdtcdol5oYKKMbrNsc4.jpg",
             "director": "John Cassavetes"
@@ -4808,7 +4808,7 @@
             "imdb_id": "tt0036342",
             "release_date": "1943",
             "watchDate": "2016-06-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 108,
             "poster_path": "/k2TMM0040HF3FS0gle3ZrK73pcX.jpg",
             "director": "Alfred Hitchcock"
@@ -4818,7 +4818,7 @@
             "imdb_id": "tt0086541",
             "release_date": "1983",
             "watchDate": "2016-06-30",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 87,
             "poster_path": "/fl09Ai2lKPau49MdLp0pOc5rYlP.jpg",
             "director": "David Cronenberg"
@@ -4828,7 +4828,7 @@
             "imdb_id": "tt0071994",
             "release_date": "1974",
             "watchDate": "2016-06-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 92,
             "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
             "director": "Brian De Palma"
@@ -4838,7 +4838,7 @@
             "imdb_id": "tt4515544",
             "release_date": "2016",
             "watchDate": "2016-06-30",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 88,
             "poster_path": "/5pOzyiPe9tv2zW3TRsHZWnzu6Qj.jpg",
             "director": "Eric Judor"
@@ -4848,7 +4848,7 @@
             "imdb_id": "tt1093824",
             "release_date": "2007",
             "watchDate": "2016-07-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 99,
             "poster_path": "/4hVyXAVAjyuXUcKbD4rRkYVPQx1.jpg",
             "director": "Werner Herzog"
@@ -4858,7 +4858,7 @@
             "imdb_id": "tt0055018",
             "release_date": "1961",
             "watchDate": "2016-07-03",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/1niUVi1tcmPqjloreUMw3LqOXGN.jpg",
             "director": "Jack Clayton"
@@ -4868,7 +4868,7 @@
             "imdb_id": "tt1974419",
             "release_date": "2016",
             "watchDate": "2016-07-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 117,
             "poster_path": "/pksGBk7yJqSuQ2F47S9eoqbtjWt.jpg",
             "director": "Nicolas Winding Refn"
@@ -4878,7 +4878,7 @@
             "imdb_id": "tt0082010",
             "release_date": "1981",
             "watchDate": "2016-07-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 97,
             "poster_path": "/lDClXHP08BUP4D4iRqix0XxLEZF.jpg",
             "director": "John Landis"
@@ -4888,7 +4888,7 @@
             "imdb_id": "tt0047811",
             "release_date": "1955",
             "watchDate": "2016-07-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 89,
             "poster_path": "/aTP5FknptVwPGVv5wCQaeuYFuEB.jpg",
             "director": "Douglas Sirk"
@@ -4898,7 +4898,7 @@
             "imdb_id": "tt0021576",
             "release_date": "1930",
             "watchDate": "2016-07-10",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 22,
             "poster_path": "/naJkRjPSua9CHqDZqxcEjXCP5PU.jpg",
             "director": "Jean Vigo, Boris Kaufman"
@@ -4908,7 +4908,7 @@
             "imdb_id": "tt0022462",
             "release_date": "1931",
             "watchDate": "2016-07-10",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 9,
             "poster_path": "/g9OzBiszO12SIosmxPlTfY7po40.jpg",
             "director": "Jean Vigo"
@@ -4918,7 +4918,7 @@
             "imdb_id": "tt0024803",
             "release_date": "1933",
             "watchDate": "2016-07-10",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 44,
             "poster_path": "/oXTEx35m8sXg9DRbVdQQQNGhQjg.jpg",
             "director": "Jean Vigo"
@@ -4928,7 +4928,7 @@
             "imdb_id": "tt0024844",
             "release_date": "1934",
             "watchDate": "2016-07-10",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 89,
             "poster_path": "/6g3uPTJKvPxFO7ErcMCvjpzqMaw.jpg",
             "director": "Jean Vigo"
@@ -4938,7 +4938,7 @@
             "imdb_id": "tt0073650",
             "release_date": "1975",
             "watchDate": "2016-07-12",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 116,
             "poster_path": "/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
             "director": "Pier Paolo Pasolini"
@@ -4948,7 +4948,7 @@
             "imdb_id": "tt2846972",
             "release_date": "2013",
             "watchDate": "2016-07-16",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 88,
             "poster_path": "/jW8BCoRVXE5dhOQB1gqjZ0G7erS.jpg",
             "director": "Antonin Peretjatko"
@@ -4958,7 +4958,7 @@
             "imdb_id": "tt0073440",
             "release_date": "1975",
             "watchDate": "2016-07-17",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 160,
             "poster_path": "/hvSj4duLGAeXusBMKF7w7BKKsq5.jpg",
             "director": "Robert Altman"
@@ -4968,7 +4968,7 @@
             "imdb_id": "tt4062536",
             "release_date": "2016",
             "watchDate": "2016-07-19",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 95,
             "poster_path": "/sTlPvjdQrrv5cLH410aMlSxqi0x.jpg",
             "director": "Jeremy Saulnier"
@@ -4978,7 +4978,7 @@
             "imdb_id": "tt0079336",
             "release_date": "1979",
             "watchDate": "2016-07-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 103,
             "poster_path": "/vJXfjb8ZX2iCj8s3bfCXt6UM2FW.jpg",
             "director": "Arthur Hiller"
@@ -4988,7 +4988,7 @@
             "imdb_id": "tt0087821",
             "release_date": "1984",
             "watchDate": "2016-07-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/xVmoTSAgxHJFGD4QYFX7bZypEyG.jpg",
             "director": "\u00c9ric Rohmer"
@@ -4998,7 +4998,7 @@
             "imdb_id": "tt0062229",
             "release_date": "1967",
             "watchDate": "2016-07-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/bbo6gZerycZddjcGSEzdOQW045T.jpg",
             "director": "Jean-Pierre Melville"
@@ -5008,7 +5008,7 @@
             "imdb_id": "tt0060647",
             "release_date": "1966",
             "watchDate": "2016-07-26",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 90,
             "poster_path": "/6ZnhSeO5YhuwvYOp9gsTbHad0u0.jpg",
             "director": "Jean-Luc Godard"
@@ -5018,7 +5018,7 @@
             "imdb_id": "tt0402399",
             "release_date": "2005",
             "watchDate": "2016-07-30",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 135,
             "poster_path": "/amihqP51DyBx1CZ8ybEvR1v68zH.jpg",
             "director": "Terrence Malick"
@@ -5028,7 +5028,7 @@
             "imdb_id": "tt0075612",
             "release_date": "1977",
             "watchDate": "2016-08-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 124,
             "poster_path": "/eO9JnxcIQa8BPVqVrTBapj5w1Jq.jpg",
             "director": "Robert Altman"
@@ -5038,7 +5038,7 @@
             "imdb_id": "tt0073705",
             "release_date": "1975",
             "watchDate": "2016-08-07",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 87,
             "poster_path": "/a9w5pMzS4xh9itERx3mlWjnf3Zt.jpg",
             "director": "David Cronenberg"
@@ -5048,7 +5048,7 @@
             "imdb_id": "tt0070130",
             "release_date": "1973",
             "watchDate": "2016-08-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 135,
             "poster_path": "/om8Kka9e4GStOAcX6gVEBJAoAXc.jpg",
             "director": "Marco Ferreri"
@@ -5058,7 +5058,7 @@
             "imdb_id": "tt3296658",
             "release_date": "2015",
             "watchDate": "2016-08-13",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 93,
             "poster_path": "/raOBs0LDaMix0g8sGFtYxwYx6JQ.jpg",
             "director": "Gr\u00edmur H\u00e1konarson"
@@ -5068,7 +5068,7 @@
             "imdb_id": "tt2084989",
             "release_date": "2013",
             "watchDate": "2016-08-14",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 96,
             "poster_path": "/4oVNJ0L2zm6J6yF0UDYsak3ZXx2.jpg",
             "director": "Shane Carruth"
@@ -5078,7 +5078,7 @@
             "imdb_id": "tt0064451",
             "release_date": "1971",
             "watchDate": "2016-08-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 200,
             "poster_path": "/y0VDLox8ufaR4Ry1mFceELYJbKq.jpg",
             "director": "King Hu"
@@ -5088,7 +5088,7 @@
             "imdb_id": "tt0462335",
             "release_date": "2015",
             "watchDate": "2016-08-24",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 119,
             "poster_path": "/hz3GXwcJC5csPZQa4PMbqmiPqDc.jpg",
             "director": "Ben Wheatley"
@@ -5098,7 +5098,7 @@
             "imdb_id": "tt1216496",
             "release_date": "2009",
             "watchDate": "2016-08-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 128,
             "poster_path": "/mHdlmzflukTX2a2w6rwOkCix34v.jpg",
             "director": "Bong Joon-ho"
@@ -5108,7 +5108,7 @@
             "imdb_id": "tt0053134",
             "release_date": "1959",
             "watchDate": "2016-08-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 94,
             "poster_path": "/6PBA7jto570qR6DLMR6ZnVDObLv.jpg",
             "director": "Yasujir\u014d Ozu"
@@ -5118,7 +5118,7 @@
             "imdb_id": "tt3498820",
             "release_date": "2016",
             "watchDate": "2016-09-11",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 147,
             "poster_path": "/kSBXou5Ac7vEqKd97wotJumyJvU.jpg",
             "director": "Anthony Russo, Joe Russo"
@@ -5128,7 +5128,7 @@
             "imdb_id": "tt1683048",
             "release_date": "2016",
             "watchDate": "2016-09-21",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 108,
             "poster_path": "/CslqVcf2ViLo1GCSFYPpnhrJfc.jpg",
             "director": "Noah Baumbach, Jake Paltrow"
@@ -5138,7 +5138,7 @@
             "imdb_id": "tt5700672",
             "release_date": "2016",
             "watchDate": "2016-09-26",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/qWOkfCgioLEf3Km9OWva93RYWAc.jpg",
             "director": "Yeon Sang-ho"
@@ -5148,7 +5148,7 @@
             "imdb_id": "tt0060390",
             "release_date": "1966",
             "watchDate": "2016-09-28",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 108,
             "poster_path": "/bikkYoOBmvFjcB5P5QcRWebSWRe.jpg",
             "director": "Fran\u00e7ois Truffaut"
@@ -5158,7 +5158,7 @@
             "imdb_id": "tt0064296",
             "release_date": "1969",
             "watchDate": "2016-09-29",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 215,
             "poster_path": "/vbNDSmtMjbZnnfMchb5HKCSlOM1.jpg",
             "director": "Yoshishige Yoshida"
@@ -5168,7 +5168,7 @@
             "imdb_id": "tt4645368",
             "release_date": "2016",
             "watchDate": "2016-10-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 96,
             "poster_path": "/xTqy97V5EYtnMWWo2wVpScanpDS.jpg",
             "director": "Xavier Dolan"
@@ -5178,7 +5178,7 @@
             "imdb_id": "tt0034587",
             "release_date": "1942",
             "watchDate": "2016-10-05",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 73,
             "poster_path": "/lQgGh5QLdmlhNABHQcl5bBn5tmk.jpg",
             "director": "Jacques Tourneur"
@@ -5188,7 +5188,7 @@
             "imdb_id": "tt0114436",
             "release_date": "1995",
             "watchDate": "2016-10-07",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 131,
             "poster_path": "/7O2SxrsXYaGFZ5cZgJF0Ab5SV5J.jpg",
             "director": "Paul Verhoeven"
@@ -5198,7 +5198,7 @@
             "imdb_id": "tt0803096",
             "release_date": "2016",
             "watchDate": "2016-10-08",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 123,
             "poster_path": "/ckrTPz6FZ35L5ybjqvkLWzzSLO7.jpg",
             "director": "Duncan Jones"
@@ -5208,7 +5208,7 @@
             "imdb_id": "tt3040964",
             "release_date": "2016",
             "watchDate": "2016-10-08",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 106,
             "poster_path": "/vOipe2myi26UDwP978hsYOrnUWC.jpg",
             "director": "Jon Favreau"
@@ -5218,7 +5218,7 @@
             "imdb_id": "tt2375605",
             "release_date": "2012",
             "watchDate": "2016-10-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 115,
             "poster_path": "/6ng86moS1tBdofRVMooOMCfW4TJ.jpg",
             "director": "Joshua Oppenheimer, Christine Cynn"
@@ -5228,7 +5228,7 @@
             "imdb_id": "tt3521134",
             "release_date": "2014",
             "watchDate": "2016-10-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 103,
             "poster_path": "/u1G9PZlHzqBNvdSmjFPQLMVIHV3.jpg",
             "director": "Joshua Oppenheimer"
@@ -5238,7 +5238,7 @@
             "imdb_id": "tt5326448",
             "release_date": "2016",
             "watchDate": "2016-10-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 84,
             "poster_path": "/jxi8tgN47VO6S97HQPVCupa4A8d.jpg",
             "director": "Fran\u00e7ois Ruffin"
@@ -5248,7 +5248,7 @@
             "imdb_id": "tt0055830",
             "release_date": "1962",
             "watchDate": "2016-10-12",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 78,
             "poster_path": "/3rKD5cJpXgzNosKVDpZYJSHm7P5.jpg",
             "director": "Herk Harvey"
@@ -5258,7 +5258,7 @@
             "imdb_id": "tt0067411",
             "release_date": "1971",
             "watchDate": "2016-10-15",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 120,
             "poster_path": "/4qQftiEvUeDqAvvFFgEFFEbmbqw.jpg",
             "director": "Robert Altman"
@@ -5268,7 +5268,7 @@
             "imdb_id": "tt1128075",
             "release_date": "2008",
             "watchDate": "2016-10-15",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 237,
             "poster_path": "/f2DwUVv1sg7CjcjjyxJrNYYG0TY.jpg",
             "director": "Sion Sono"
@@ -5278,7 +5278,7 @@
             "imdb_id": "tt0108122",
             "release_date": "1993",
             "watchDate": "2016-10-15",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 187,
             "poster_path": "/op1Us7HA7bgkJqRUhcoZQrVBHzr.jpg",
             "director": "Robert Altman"
@@ -5288,7 +5288,7 @@
             "imdb_id": "tt0068278",
             "release_date": "1972",
             "watchDate": "2016-10-22",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 124,
             "poster_path": "/e1RGbJFQeDLVeUsbtz1ZuzcA0x2.jpg",
             "director": "Rainer Werner Fassbinder"
@@ -5298,7 +5298,7 @@
             "imdb_id": "tt1700841",
             "release_date": "2016",
             "watchDate": "2016-10-22",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 89,
             "poster_path": "/w90cORtNWQAd2k93aFlIBbpQYTC.jpg",
             "director": "Conrad Vernon, Greg Tiernan"
@@ -5308,7 +5308,7 @@
             "imdb_id": "tt4726636",
             "release_date": "2016",
             "watchDate": "2016-10-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 122,
             "poster_path": "/aQqvAfWauk54P63BS7iIpLOsB2o.jpg",
             "director": "Bruno Dumont"
@@ -5318,7 +5318,7 @@
             "imdb_id": "tt0108435",
             "release_date": "1993",
             "watchDate": "2016-10-24",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 104,
             "poster_path": "/lbukkuDxWEzT6Q79CwetoO8QGjQ.jpg",
             "director": "Bertrand Blier"
@@ -5328,7 +5328,7 @@
             "imdb_id": "tt0101765",
             "release_date": "1991",
             "watchDate": "2016-11-01",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 97,
             "poster_path": "/CuBNIdRCfFbTQTZtK0G99mxI42.jpg",
             "director": "Krzysztof Kie\u015blowski"
@@ -5338,7 +5338,7 @@
             "imdb_id": "tt2277860",
             "release_date": "2016",
             "watchDate": "2016-11-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 97,
             "poster_path": "/z09QAf8WbZncbitewNk6lKYMZsh.jpg",
             "director": "Andrew Stanton"
@@ -5348,7 +5348,7 @@
             "imdb_id": "tt3716530",
             "release_date": "2016",
             "watchDate": "2016-11-07",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 130,
             "poster_path": "/mJut6zysg2tQftY3Qoj21bk2Eqo.jpg",
             "director": "Paul Verhoeven"
@@ -5358,7 +5358,7 @@
             "imdb_id": "tt0079095",
             "release_date": "1979",
             "watchDate": "2016-11-13",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 120,
             "poster_path": "/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg",
             "director": "Rainer Werner Fassbinder"
@@ -5368,7 +5368,7 @@
             "imdb_id": "tt5215952",
             "release_date": "2016",
             "watchDate": "2016-11-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 156,
             "poster_path": "/aijmq2I4O8zZrJtqAZm6o4tOM6g.jpg",
             "director": "Na Hong-jin"
@@ -5378,7 +5378,7 @@
             "imdb_id": "tt5278506",
             "release_date": "2016",
             "watchDate": "2016-11-20",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 92,
             "poster_path": "/mIENOA6kcYH0rANVbLcdnSgMt9I.jpg",
             "director": "David Farrier, Dylan Reeve"
@@ -5388,7 +5388,7 @@
             "imdb_id": "tt2543164",
             "release_date": "2016",
             "watchDate": "2016-11-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 116,
             "poster_path": "/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg",
             "director": "Denis Villeneuve"
@@ -5398,7 +5398,7 @@
             "imdb_id": "tt5115004",
             "release_date": "2016",
             "watchDate": "2016-11-23",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 99,
             "poster_path": "/rr0xEVMKJ1ccVPUrllZDuR5DHP0.jpg",
             "director": "Antonin Peretjatko"
@@ -5408,7 +5408,7 @@
             "imdb_id": "tt0057345",
             "release_date": "1963",
             "watchDate": "2016-11-27",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 103,
             "poster_path": "/e8AFmkWiY6MS7Em4GmLuqjEDc1v.jpg",
             "director": "Jean-Luc Godard"
@@ -5418,7 +5418,7 @@
             "imdb_id": "tt0851578",
             "release_date": "2006",
             "watchDate": "2016-12-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 90,
             "poster_path": "/dJI2FSs3qfEPW82cWYfIaV8cVmN.jpg",
             "director": "Satoshi Kon"
@@ -5428,7 +5428,7 @@
             "imdb_id": "tt0076590",
             "release_date": "1977",
             "watchDate": "2016-12-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 91,
             "poster_path": "/q41ufRSwRPTavOs3LMbpclfJ5Ot.jpg",
             "director": "David Cronenberg"
@@ -5438,7 +5438,7 @@
             "imdb_id": "tt0093177",
             "release_date": "1987",
             "watchDate": "2016-12-06",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 94,
             "poster_path": "/4nfAhOTlfZUHNorHJXEib7GYFpp.jpg",
             "director": "Clive Barker"
@@ -5448,7 +5448,7 @@
             "imdb_id": "tt0043014",
             "release_date": "1950",
             "watchDate": "2016-12-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/oFwzvRgfxJc0FUr2mwYTi10dk3G.jpg",
             "director": "Billy Wilder"
@@ -5458,7 +5458,7 @@
             "imdb_id": "tt0103919",
             "release_date": "1992",
             "watchDate": "2016-12-14",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 99,
             "poster_path": "/w5YQqrwzreHfa7RmXCB7rpLLxbe.jpg",
             "director": "Bernard Rose"
@@ -5468,7 +5468,7 @@
             "imdb_id": "tt0065234",
             "release_date": "1969",
             "watchDate": "2016-12-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 127,
             "poster_path": "/AshFxEhbFe9Mi3YjAv5btbxgX9s.jpg",
             "director": "Costa-Gavras"
@@ -5478,7 +5478,7 @@
             "imdb_id": "tt0057176",
             "release_date": "1963",
             "watchDate": "2016-12-19",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/vFWrFc6CzLlOm06gm8uYnTs6zXT.jpg",
             "director": "Alain Robbe-Grillet"
@@ -5488,7 +5488,7 @@
             "imdb_id": "tt0120863",
             "release_date": "1998",
             "watchDate": "2016-12-20",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 170,
             "poster_path": "/jGDK6eM6vb8VEUmR0ZoaghcCG8f.jpg",
             "director": "Terrence Malick"
@@ -5498,7 +5498,7 @@
             "imdb_id": "tt0043338",
             "release_date": "1951",
             "watchDate": "2016-12-20",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 111,
             "poster_path": "/1NwZ6Sx4Eq7eT02abcI7YqfXdJk.jpg",
             "director": "Billy Wilder"
@@ -5508,7 +5508,7 @@
             "imdb_id": "tt0061113",
             "release_date": "1966",
             "watchDate": "2016-12-21",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/1obuqweg5lipvB3GiS7FV15ciTZ.jpg",
             "director": "Alain Robbe-Grillet"
@@ -5518,7 +5518,7 @@
             "imdb_id": "tt0095294",
             "release_date": "1988",
             "watchDate": "2016-12-21",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 97,
             "poster_path": "/ryuo4unQkzcEKhfAfzhbQo8oxVm.jpg",
             "director": "Tony Randel"
@@ -5528,7 +5528,7 @@
             "imdb_id": "tt4139124",
             "release_date": "2016",
             "watchDate": "2016-12-21",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 99,
             "poster_path": "/udU6t5xPNDLlRTxhjXqgWFFYlvO.jpg",
             "director": "Peter Atencio"
@@ -5538,7 +5538,7 @@
             "imdb_id": "tt4701660",
             "release_date": "2016",
             "watchDate": "2017-01-02",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 93,
             "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
             "director": "Stephen Chow"
@@ -5548,7 +5548,7 @@
             "imdb_id": "tt0151804",
             "release_date": "1999",
             "watchDate": "2017-01-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 89,
             "poster_path": "/iO9aZzrfmMvm3IqkFiQyuuUMLh2.jpg",
             "director": "Mike Judge"
@@ -5558,7 +5558,7 @@
             "imdb_id": "tt3013610",
             "release_date": "2015",
             "watchDate": "2017-01-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 106,
             "poster_path": "/6cPLskkOlnpfsWuJnp1a5twcIQL.jpg",
             "director": "Nanni Moretti"
@@ -5568,7 +5568,7 @@
             "imdb_id": "tt0074811",
             "release_date": "1976",
             "watchDate": "2017-01-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 125,
             "poster_path": "/vIfygAvR5FXISAscAFTHOMAqQeA.jpg",
             "director": "Roman Pola\u0144ski"
@@ -5578,7 +5578,7 @@
             "imdb_id": "tt0047396",
             "release_date": "1954",
             "watchDate": "2017-01-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 112,
             "poster_path": "/oXbT7vlLmZ76kWoHe5XJYuyJUgp.jpg",
             "director": "Alfred Hitchcock"
@@ -5588,7 +5588,7 @@
             "imdb_id": "tt0059646",
             "release_date": "1965",
             "watchDate": "2017-01-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/4payjKRO69Aew6Y53DfJ4KqhWs8.jpg",
             "director": "Roman Pola\u0144ski"
@@ -5598,7 +5598,7 @@
             "imdb_id": "tt0032599",
             "release_date": "1940",
             "watchDate": "2017-01-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 92,
             "poster_path": "/fmQLvnDEL9wlE6FzB1S84yskdkT.jpg",
             "director": "Howard Hawks"
@@ -5608,7 +5608,7 @@
             "imdb_id": "tt3783958",
             "release_date": "2016",
             "watchDate": "2017-01-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 128,
             "poster_path": "/ylXCdC106IKiarftHkcacasaAcb.jpg",
             "director": "Damien Chazelle"
@@ -5618,7 +5618,7 @@
             "imdb_id": "tt0048393",
             "release_date": "1955",
             "watchDate": "2017-01-16",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 93,
             "poster_path": "/gSZNcG6xSa2IivuRDWSrE3IrwnA.jpg",
             "director": "Orson Welles"
@@ -5628,7 +5628,7 @@
             "imdb_id": "tt0079672",
             "release_date": "1977",
             "watchDate": "2017-01-18",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 144,
             "poster_path": "/xpbLyEd0XMozYh6hwSuZaw63cFK.jpg",
             "director": "John Cassavetes"
@@ -5638,7 +5638,7 @@
             "imdb_id": "tt2078648",
             "release_date": "2011",
             "watchDate": "2017-01-19",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 23,
             "poster_path": "/3fMBsqK2D5sDXfTEtetgIIl6tXA.jpg",
             "director": "Don Hertzfeldt"
@@ -5648,7 +5648,7 @@
             "imdb_id": "tt1895587",
             "release_date": "2015",
             "watchDate": "2017-01-21",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 128,
             "poster_path": "/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg",
             "director": "Tom McCarthy"
@@ -5658,7 +5658,7 @@
             "imdb_id": "tt0057869",
             "release_date": "1964",
             "watchDate": "2017-01-25",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 97,
             "poster_path": "/9oqyj79xmcypxLajJdefOtrYx64.jpg",
             "director": "Jean-Luc Godard"
@@ -5668,7 +5668,7 @@
             "imdb_id": "tt0038355",
             "release_date": "1946",
             "watchDate": "2017-01-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 116,
             "poster_path": "/5EBI8HfYPXIBX50O3Ppwt49MCtv.jpg",
             "director": "Howard Hawks"
@@ -5678,7 +5678,7 @@
             "imdb_id": "tt4048272",
             "release_date": "2016",
             "watchDate": "2017-02-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 162,
             "poster_path": "/gJNjVE8WGUjiSKUtMDEvNzxR5zq.jpg",
             "director": "Maren Ade"
@@ -5688,7 +5688,7 @@
             "imdb_id": "tt0096734",
             "release_date": "1989",
             "watchDate": "2017-02-05",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 101,
             "poster_path": "/zPEECSo5ZOBr9oEmBLSVXcqndTO.jpg",
             "director": "Joe Dante"
@@ -5698,7 +5698,7 @@
             "imdb_id": "tt2513074",
             "release_date": "2016",
             "watchDate": "2017-02-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 113,
             "poster_path": "/jw60oWt2PWWCvuz8S93i2RH4XJh.jpg",
             "director": "Ang Lee"
@@ -5708,7 +5708,7 @@
             "imdb_id": "tt1211837",
             "release_date": "2016",
             "watchDate": "2017-02-15",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 115,
             "poster_path": "/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
             "director": "Scott Derrickson"
@@ -5718,7 +5718,7 @@
             "imdb_id": "tt0084899",
             "release_date": "1982",
             "watchDate": "2017-02-16",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 90,
             "poster_path": "/i6HpXEGPwsMGUetM4l0OgT0SjlD.jpg",
             "director": "Samuel Fuller"
@@ -5728,7 +5728,7 @@
             "imdb_id": "tt2582782",
             "release_date": "2016",
             "watchDate": "2017-02-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 104,
             "poster_path": "/6YOrNBdoXvT8aC5VPLkkN6t5z0V.jpg",
             "director": "David Mackenzie"
@@ -5738,7 +5738,7 @@
             "imdb_id": "tt0058701",
             "release_date": "1964",
             "watchDate": "2017-02-22",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 95,
             "poster_path": "/wmI5LfAhIdRnVWlWJTXiFdXiJLz.jpg",
             "director": "Jean-Luc Godard"
@@ -5748,7 +5748,7 @@
             "imdb_id": "tt0073582",
             "release_date": "1975",
             "watchDate": "2017-02-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 104,
             "poster_path": "/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg",
             "director": "Dario Argento"
@@ -5758,7 +5758,7 @@
             "imdb_id": "tt1619029",
             "release_date": "2016",
             "watchDate": "2017-02-24",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 100,
             "poster_path": "/iMkl2Akc1f4CSJCieVwczM4KjZR.jpg",
             "director": "Pablo Larra\u00edn"
@@ -5768,7 +5768,7 @@
             "imdb_id": "tt5275892",
             "release_date": "2016",
             "watchDate": "2017-02-25",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 467,
             "poster_path": "/eG0WtPOqYTYGo6nRynqN2CQRoel.jpg",
             "director": "Ezra Edelman"
@@ -5778,7 +5778,7 @@
             "imdb_id": "tt5895028",
             "release_date": "2016",
             "watchDate": "2017-02-26",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
             "director": "Ava DuVernay"
@@ -5788,7 +5788,7 @@
             "imdb_id": "tt2382298",
             "release_date": "2014",
             "watchDate": "2017-03-03",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 120,
             "poster_path": "/usunF9TM1LQJ47eRBcitBsGRBFx.jpg",
             "director": "Steve James"
@@ -5798,7 +5798,7 @@
             "imdb_id": "tt2361846",
             "release_date": "2013",
             "watchDate": "2017-03-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 72,
             "poster_path": "/p5O8cBP8F8Zg5DM1Nx3Gfc3FBfX.jpg",
             "director": "Bill Plympton"
@@ -5808,7 +5808,7 @@
             "imdb_id": "tt0031679",
             "release_date": "1939",
             "watchDate": "2017-03-05",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 129,
             "poster_path": "/jZDRazOQhKFGoK322rYiBk1fpsY.jpg",
             "director": "Frank Capra"
@@ -5818,7 +5818,7 @@
             "imdb_id": "tt0111507",
             "release_date": "1994",
             "watchDate": "2017-03-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 91,
             "poster_path": "/xOLY69rXKwuH9JUnOE4G2HHKiW5.jpg",
             "director": "Krzysztof Kie\u015blowski"
@@ -5828,7 +5828,7 @@
             "imdb_id": "tt2245084",
             "release_date": "2014",
             "watchDate": "2017-03-14",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 102,
             "poster_path": "/9gLu47Zw5ertuFTZaxXOvNfy78T.jpg",
             "director": "Don Hall, Chris Williams"
@@ -5838,7 +5838,7 @@
             "imdb_id": "tt0112431",
             "release_date": "1995",
             "watchDate": "2017-03-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 89,
             "poster_path": "/gN6X3fwPya8pLffk9OEWV3DqBnE.jpg",
             "director": "Chris Noonan"
@@ -5848,7 +5848,7 @@
             "imdb_id": "tt0460829",
             "release_date": "2006",
             "watchDate": "2017-03-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 180,
             "poster_path": "/xQKF94NvqsHCuGUjgvJ5Etgnryu.jpg",
             "director": "David Lynch"
@@ -5858,7 +5858,7 @@
             "imdb_id": "tt3521164",
             "release_date": "2016",
             "watchDate": "2017-03-21",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 107,
             "poster_path": "/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg",
             "director": "Ron Clements, John Musker"
@@ -5868,7 +5868,7 @@
             "imdb_id": "tt0111495",
             "release_date": "1994",
             "watchDate": "2017-03-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 99,
             "poster_path": "/77CFEssoKesi4zvtADEpIrSKhA3.jpg",
             "director": "Krzysztof Kie\u015blowski"
@@ -5878,7 +5878,7 @@
             "imdb_id": "tt3748528",
             "release_date": "2016",
             "watchDate": "2017-03-24",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 133,
             "poster_path": "/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg",
             "director": "Gareth Edwards"
@@ -5888,7 +5888,7 @@
             "imdb_id": "tt4669986",
             "release_date": "2016",
             "watchDate": "2017-04-01",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 123,
             "poster_path": "/teNPeDIRGWxtvMaJsNa7lw5IgiL.jpg",
             "director": "Jeff Nichols"
@@ -5898,7 +5898,7 @@
             "imdb_id": "tt4016934",
             "release_date": "2016",
             "watchDate": "2017-04-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 145,
             "poster_path": "/wvzfK5QR6dGLwND8MCzWjsQWG4Q.jpg",
             "director": "Park Chan-wook"
@@ -5908,7 +5908,7 @@
             "imdb_id": "tt0123730",
             "release_date": "1982",
             "watchDate": "2017-04-08",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 109,
             "poster_path": "/jToBWwOKTw7CyW7DXaVp1oDr5zM.jpg",
             "director": "Denys Arcand"
@@ -5918,7 +5918,7 @@
             "imdb_id": "tt0060268",
             "release_date": "1966",
             "watchDate": "2017-04-09",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 113,
             "poster_path": "/yWvGHvN0LzpYrP5QiVnhGpg1UA5.jpg",
             "director": "Roman Pola\u0144ski"
@@ -5928,7 +5928,7 @@
             "imdb_id": "tt4972582",
             "release_date": "2017",
             "watchDate": "2017-04-11",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 117,
             "poster_path": "/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg",
             "director": "M. Night Shyamalan"
@@ -5938,7 +5938,7 @@
             "imdb_id": "tt0071315",
             "release_date": "1974",
             "watchDate": "2017-04-17",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 130,
             "poster_path": "/iIHO6FzF6lL4mA90rrmk3Y705XS.jpg",
             "director": "Roman Pola\u0144ski"
@@ -5948,7 +5948,7 @@
             "imdb_id": "tt2062700",
             "release_date": "2017",
             "watchDate": "2017-04-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 129,
             "poster_path": "/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg",
             "director": "Terrence Malick"
@@ -5958,7 +5958,7 @@
             "imdb_id": "tt0120595",
             "release_date": "1998",
             "watchDate": "2017-04-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 92,
             "poster_path": "/yjZ3d2mKC94Lz0XGJYGRbAOrA4Q.jpg",
             "director": "George Miller"
@@ -5968,7 +5968,7 @@
             "imdb_id": "tt0103767",
             "release_date": "1992",
             "watchDate": "2017-04-24",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 96,
             "poster_path": "/5ZNf6N5rtLYotZKi03QXqJ3FuvD.jpg",
             "director": "Ron Fricke"
@@ -5978,7 +5978,7 @@
             "imdb_id": "tt0041959",
             "release_date": "1949",
             "watchDate": "2017-04-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
             "director": "Carol Reed"
@@ -5988,7 +5988,7 @@
             "imdb_id": "tt0068416",
             "release_date": "1972",
             "watchDate": "2017-04-28",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 103,
             "poster_path": "/eMwcPwaqPckzR0c312v0eCyfQ5U.jpg",
             "director": "Massimo Dallamano"
@@ -5998,7 +5998,7 @@
             "imdb_id": "tt0078480",
             "release_date": "1978",
             "watchDate": "2017-05-01",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 88,
             "poster_path": "/879iEKkJMSXSbgqjs3tVOQceNUK.jpg",
             "director": "Martin Rosen"
@@ -6008,7 +6008,7 @@
             "imdb_id": "tt0070820",
             "release_date": "1973",
             "watchDate": "2017-05-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 85,
             "poster_path": "/che94e6wSm9TWLunhsHgHfNiqTu.jpg",
             "director": "Djibril Diop Mamb\u00e9ty"
@@ -6018,7 +6018,7 @@
             "imdb_id": "tt4975722",
             "release_date": "2016",
             "watchDate": "2017-05-06",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 111,
             "poster_path": "/qAwFbszz0kRyTuXmMeKQZCX3Q2O.jpg",
             "director": "Barry Jenkins"
@@ -6028,7 +6028,7 @@
             "imdb_id": "tt0047445",
             "release_date": "1954",
             "watchDate": "2017-05-07",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 124,
             "poster_path": "/deBjt3LT3UQHRXiNX1fu28lAtK6.jpg",
             "director": "Kenji Mizoguchi"
@@ -6038,7 +6038,7 @@
             "imdb_id": "tt3385516",
             "release_date": "2016",
             "watchDate": "2017-05-28",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 144,
             "poster_path": "/zSouWWrySXshPCT4t3UKCQGayyo.jpg",
             "director": "Bryan Singer"
@@ -6048,7 +6048,7 @@
             "imdb_id": "tt3315342",
             "release_date": "2017",
             "watchDate": "2017-06-01",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 137,
             "poster_path": "/gGBu0hKw9BGddG8RkRAMX7B6NDB.jpg",
             "director": "James Mangold"
@@ -6058,7 +6058,7 @@
             "imdb_id": "tt4291590",
             "release_date": "2015",
             "watchDate": "2017-06-02",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 81,
             "poster_path": "/rySXb3722jTRSkKKlwo3ZFusbKF.jpg",
             "director": "Lucile Hadzihalilovic"
@@ -6068,7 +6068,7 @@
             "imdb_id": "tt5052448",
             "release_date": "2017",
             "watchDate": "2017-06-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 104,
             "poster_path": "/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg",
             "director": "Jordan Peele"
@@ -6078,7 +6078,7 @@
             "imdb_id": "tt0028165",
             "release_date": "1936",
             "watchDate": "2017-06-05",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 61,
             "poster_path": "/mMRaIjVPE0mMuFB4g2NrG9vUSuU.jpg",
             "director": "Fred Zinnemann, Emilio G\u00f3mez Muriel"
@@ -6088,7 +6088,7 @@
             "imdb_id": "tt0079944",
             "release_date": "1979",
             "watchDate": "2017-06-06",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 163,
             "poster_path": "/ezt0Z9wIcPIxiks0J4dm8zJn575.jpg",
             "director": "Andrei Tarkovsky"
@@ -6098,7 +6098,7 @@
             "imdb_id": "tt5804038",
             "release_date": "2017",
             "watchDate": "2017-06-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 95,
             "poster_path": "/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg",
             "director": "Raoul Peck"
@@ -6108,7 +6108,7 @@
             "imdb_id": "tt0072271",
             "release_date": "1974",
             "watchDate": "2017-06-17",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 83,
             "poster_path": "/hXF5nuEvUIlMXv4fOCIhA8KWaN2.jpg",
             "director": "Tobe Hooper"
@@ -6118,7 +6118,7 @@
             "imdb_id": "tt0048750",
             "release_date": "1955",
             "watchDate": "2017-06-17",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 99,
             "poster_path": "/tXq2vB69rv6uqqkyiqfxci0TMgZ.jpg",
             "director": "Alfred Hitchcock"
@@ -6128,7 +6128,7 @@
             "imdb_id": "tt0058329",
             "release_date": "1964",
             "watchDate": "2017-06-17",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 130,
             "poster_path": "/mwEuBWMJyebtJ1OP4W2jeRcVf3k.jpg",
             "director": "Alfred Hitchcock"
@@ -6138,7 +6138,7 @@
             "imdb_id": "tt0387877",
             "release_date": "2006",
             "watchDate": "2017-06-18",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 121,
             "poster_path": "/t56f2c0KaBED6tpyrHPKzZJ9NaX.jpg",
             "director": "Brian De Palma"
@@ -6148,7 +6148,7 @@
             "imdb_id": "tt0106308",
             "release_date": "1992",
             "watchDate": "2017-06-24",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 81,
             "poster_path": "/2eZKDIwLNnySbwqQtAaUz0kYDIL.jpg",
             "director": "Sam Raimi"
@@ -6158,7 +6158,7 @@
             "imdb_id": "tt3464902",
             "release_date": "2015",
             "watchDate": "2017-06-24",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 118,
             "poster_path": "/yR60EqMGS9hHq9I5Pkq2hG984TP.jpg",
             "director": "Yorgos Lanthimos"
@@ -6168,7 +6168,7 @@
             "imdb_id": "tt0068611",
             "release_date": "1972",
             "watchDate": "2017-06-26",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 116,
             "poster_path": "/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg",
             "director": "Alfred Hitchcock"
@@ -6178,7 +6178,7 @@
             "imdb_id": "tt1972663",
             "release_date": "2011",
             "watchDate": "2017-06-26",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 105,
             "poster_path": "/cEaMOT9RURwwTNLGBxhxwylr3VR.jpg",
             "director": "Werner Herzog"
@@ -6188,7 +6188,7 @@
             "imdb_id": "tt0337876",
             "release_date": "2004",
             "watchDate": "2017-06-27",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 100,
             "poster_path": "/d1X24rSfYIaQbjHhlOfOK7zDRtg.jpg",
             "director": "Jonathan Glazer"
@@ -6198,7 +6198,7 @@
             "imdb_id": "tt0065143",
             "release_date": "1970",
             "watchDate": "2017-07-01",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 98,
             "poster_path": "/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg",
             "director": "Dario Argento"
@@ -6208,7 +6208,7 @@
             "imdb_id": "tt3967856",
             "release_date": "2017",
             "watchDate": "2017-07-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 122,
             "poster_path": "/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
             "director": "Bong Joon-ho"
@@ -6218,7 +6218,7 @@
             "imdb_id": "tt0087909",
             "release_date": "1985",
             "watchDate": "2017-07-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 116,
             "poster_path": "/qUwGQT1EtkIm8vtN3VtnBDOoV7q.jpg",
             "director": "Dario Argento"
@@ -6228,7 +6228,7 @@
             "imdb_id": "tt0053114",
             "release_date": "1959",
             "watchDate": "2017-07-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 208,
             "poster_path": "/5wF521QDBJplvbQq3lxWY3uYupU.jpg",
             "director": "Masaki Kobayashi"
@@ -6238,7 +6238,7 @@
             "imdb_id": "tt0076786",
             "release_date": "1977",
             "watchDate": "2017-07-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 98,
             "poster_path": "/ccMPzxtnr5WcHaiwIN4P7mXoJzo.jpg",
             "director": "Dario Argento"
@@ -6248,7 +6248,7 @@
             "imdb_id": "tt0055852",
             "release_date": "1962",
             "watchDate": "2017-07-04",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 90,
             "poster_path": "/uLFAS8ySyjHWkkupotAIEnVzd1J.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6258,7 +6258,7 @@
             "imdb_id": "tt0080923",
             "release_date": "1980",
             "watchDate": "2017-07-05",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 107,
             "poster_path": "/oTTIGtDkRRwTklBnPtjyyxXe46H.jpg",
             "director": "Dario Argento"
@@ -6268,7 +6268,7 @@
             "imdb_id": "tt0057423",
             "release_date": "1963",
             "watchDate": "2017-07-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/gplaeCyICk2ULEtq04Qq4noaMzk.jpg",
             "director": "Michel Brault, Marcel Carri\u00e8re, Pierre Perrault"
@@ -6278,7 +6278,7 @@
             "imdb_id": "tt0084777",
             "release_date": "1982",
             "watchDate": "2017-07-09",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 110,
             "poster_path": "/bEsajgqQEgJgRukc3mrA9G5BEhk.jpg",
             "director": "Dario Argento"
@@ -6288,7 +6288,7 @@
             "imdb_id": "tt0056732",
             "release_date": "1962",
             "watchDate": "2017-07-11",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 95,
             "poster_path": "/3Wi4kmomb2rx5Iz0ykYqajIjLE6.jpg",
             "director": "Luis Bu\u00f1uel"
@@ -6298,7 +6298,7 @@
             "imdb_id": "tt5275828",
             "release_date": "2016",
             "watchDate": "2017-07-12",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 98,
             "poster_path": "/ecz0Dz5IP9Ouk7Ta4WCOM7TxXua.jpg",
             "director": "Werner Herzog"
@@ -6308,7 +6308,7 @@
             "imdb_id": "tt0082275",
             "release_date": "1981",
             "watchDate": "2017-07-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 65,
             "poster_path": "/3Uf80qm9hCdWsU50ZevYFjSEUeh.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6318,7 +6318,7 @@
             "imdb_id": "tt0081204",
             "release_date": "1981",
             "watchDate": "2017-07-15",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 80,
             "poster_path": "/oTzFZtoxHLemA5aWUfjYgwPQnCM.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6328,7 +6328,7 @@
             "imdb_id": "tt0064591",
             "release_date": "1969",
             "watchDate": "2017-07-17",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 110,
             "poster_path": "/s8r1oFBHcRymIDhwWKa4ysbiET7.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6338,7 +6338,7 @@
             "imdb_id": "tt0209942",
             "release_date": "1968",
             "watchDate": "2017-07-18",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 31,
             "poster_path": "/uk2afhXAybYEVKjT2TzpP6hn37C.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6348,7 +6348,7 @@
             "imdb_id": "tt0179389",
             "release_date": "1967",
             "watchDate": "2017-07-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 18,
             "poster_path": "/2LYM0r5RZ4ukpoMTJ5yoPr0JtNr.jpg",
             "director": "Agn\u00e8s Varda"
@@ -6358,7 +6358,7 @@
             "imdb_id": "tt0062430",
             "release_date": "1967",
             "watchDate": "2017-07-22",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 123,
             "poster_path": "/6UqOP9FsGKoWOnAZWgx21H5ilef.jpg",
             "director": "Mark Robson"
@@ -6368,7 +6368,7 @@
             "imdb_id": "tt0065466",
             "release_date": "1970",
             "watchDate": "2017-07-22",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 109,
             "poster_path": "/82BGehJQFch1GENnT9j5KwTDQmJ.jpg",
             "director": "Russ Meyer"
@@ -6378,7 +6378,7 @@
             "imdb_id": "tt0050706",
             "release_date": "1958",
             "watchDate": "2017-07-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 118,
             "poster_path": "/wH6RyPiXFy8INLbViVkchLVOmBc.jpg",
             "director": "Jacques Tati"
@@ -6388,7 +6388,7 @@
             "imdb_id": "tt0089885",
             "release_date": "1985",
             "watchDate": "2017-07-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 86,
             "poster_path": "/hJnP2O0uTuh8HsR094WLTi3sQwc.jpg",
             "director": "Stuart Gordon"
@@ -6398,7 +6398,7 @@
             "imdb_id": "tt0080009",
             "release_date": "1979",
             "watchDate": "2017-08-05",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 171,
             "poster_path": "/4yPMqpXWcqlnxiXIxkBoN6S6kbi.jpg",
             "director": "Roman Pola\u0144ski"
@@ -6408,7 +6408,7 @@
             "imdb_id": "tt0086087",
             "release_date": "1983",
             "watchDate": "2017-08-05",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 94,
             "poster_path": "/hcc2CyUWPha0EfTMEpcdXiVuurG.jpg",
             "director": "\u00c9ric Rohmer"
@@ -6418,7 +6418,7 @@
             "imdb_id": "tt2316204",
             "release_date": "2017",
             "watchDate": "2017-08-06",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 122,
             "poster_path": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
             "director": "Ridley Scott"
@@ -6428,7 +6428,7 @@
             "imdb_id": "tt0061847",
             "release_date": "1967",
             "watchDate": "2017-08-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 128,
             "poster_path": "/kvNh6RhOZZRyIZlS8f0izVC7km2.jpg",
             "director": "Masaki Kobayashi"
@@ -6438,7 +6438,7 @@
             "imdb_id": "tt0056058",
             "release_date": "1962",
             "watchDate": "2017-08-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 135,
             "poster_path": "/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
             "director": "Masaki Kobayashi"
@@ -6448,7 +6448,7 @@
             "imdb_id": "tt0152252",
             "release_date": "1967",
             "watchDate": "2017-08-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 118,
             "poster_path": "/qrpPjTvibbe6vKCgAGzMAQDnDec.jpg",
             "director": "Pierre Perrault"
@@ -6458,7 +6458,7 @@
             "imdb_id": "tt3896198",
             "release_date": "2017",
             "watchDate": "2017-08-11",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 137,
             "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
             "director": "James Gunn"
@@ -6468,7 +6468,7 @@
             "imdb_id": "tt2833768",
             "release_date": "2015",
             "watchDate": "2017-08-12",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 87,
             "poster_path": "/fR6u7R7eiEplojic7IN9O3dccOn.jpg",
             "director": "Don Hardy Jr."
@@ -6478,7 +6478,7 @@
             "imdb_id": "tt0061882",
             "release_date": "1967",
             "watchDate": "2017-08-13",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 91,
             "poster_path": "/asiSCq1SFrCV4gy7PJzw8c3m0yL.jpg",
             "director": "Seijun Suzuki"
@@ -6488,7 +6488,7 @@
             "imdb_id": "tt0065553",
             "release_date": "1970",
             "watchDate": "2017-08-15",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 88,
             "poster_path": "/xZFS3RwudBCW3TPVzA7SBWEyAeS.jpg",
             "director": "Mario Bava"
@@ -6498,7 +6498,7 @@
             "imdb_id": "tt0067439",
             "release_date": "1971",
             "watchDate": "2017-08-16",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 104,
             "poster_path": "/nxIYUxuIpIUSeLgn6U2yVPg6waE.jpg",
             "director": "Claude Jutra"
@@ -6508,7 +6508,7 @@
             "imdb_id": "tt4682708",
             "release_date": "2016",
             "watchDate": "2017-08-17",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 79,
             "poster_path": "/y4vLIUysOqY16XPiaZ1W9oeXBc1.jpg",
             "director": "Emiliano Rocha Minter"
@@ -6518,7 +6518,7 @@
             "imdb_id": "tt0074102",
             "release_date": "1976",
             "watchDate": "2017-08-20",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 105,
             "poster_path": "/ztLv3Co2uLZMV7YERWbPrTMUi03.jpg",
             "director": "Nagisa \u014cshima"
@@ -6528,7 +6528,7 @@
             "imdb_id": "tt5013056",
             "release_date": "2017",
             "watchDate": "2017-08-22",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 107,
             "poster_path": "/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg",
             "director": "Christopher Nolan"
@@ -6538,7 +6538,7 @@
             "imdb_id": "tt0066026",
             "release_date": "1970",
             "watchDate": "2017-08-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 116,
             "poster_path": "/eOslMOtaPXgQEgVJ93U3KOLogGD.jpg",
             "director": "Robert Altman"
@@ -6548,7 +6548,7 @@
             "imdb_id": "tt0032976",
             "release_date": "1940",
             "watchDate": "2017-08-25",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 130,
             "poster_path": "/3Gla0nxHboX3nxQzaU4SoqOtTjh.jpg",
             "director": "Alfred Hitchcock"
@@ -6558,7 +6558,7 @@
             "imdb_id": "tt0066819",
             "release_date": "1971",
             "watchDate": "2017-08-26",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/iUTzQnTGy7rzhFs5GnsXNAT48KE.jpg",
             "director": "Don Siegel"
@@ -6568,7 +6568,7 @@
             "imdb_id": "tt0082307",
             "release_date": "1981",
             "watchDate": "2017-08-27",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 87,
             "poster_path": "/pMYz6BWdJ90lDqpHlKKi4BtxHDd.jpg",
             "director": "Lucio Fulci"
@@ -6578,7 +6578,7 @@
             "imdb_id": "tt0087100",
             "release_date": "1984",
             "watchDate": "2017-08-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 112,
             "poster_path": "/aieVZZQqkro8xP32W3h474ETj3W.jpg",
             "director": "Ken Russell"
@@ -6588,7 +6588,7 @@
             "imdb_id": "tt0087193",
             "release_date": "1984",
             "watchDate": "2017-08-30",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 70,
             "poster_path": "/9U3HDh2NCbnu73ddfPPxdVrnIOi.jpg",
             "director": "Ingmar Bergman"
@@ -6598,7 +6598,7 @@
             "imdb_id": "tt1945228",
             "release_date": "2017",
             "watchDate": "2017-09-24",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 90,
             "poster_path": "/lfdinlGEkAwZGa4FOxKN6kMAt61.jpg",
             "director": "Terrence Malick"
@@ -6608,7 +6608,7 @@
             "imdb_id": "tt6265828",
             "release_date": "2017",
             "watchDate": "2017-09-24",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 92,
             "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
             "director": "David Lowery"
@@ -6618,9 +6618,9 @@
             "imdb_id": "tt5109784",
             "release_date": "2017",
             "watchDate": "2017-09-24",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 121,
-            "poster_path": "/2yOKarmL8B4oXaLXUdHu882SUbu.jpg",
+            "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
             "director": "Darren Aronofsky"
         },
         {
@@ -6628,7 +6628,7 @@
             "imdb_id": "tt0058946",
             "release_date": "1966",
             "watchDate": "2017-09-29",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 121,
             "poster_path": "/zsNc43QfSqeMBW186o9Fozfmkst.jpg",
             "director": "Gillo Pontecorvo"
@@ -6638,7 +6638,7 @@
             "imdb_id": "tt0061955",
             "release_date": "1968",
             "watchDate": "2017-09-30",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 107,
             "poster_path": "/iDj7QFYq9YfmUVc1ALanQmYfTaj.jpg",
             "director": "Fran\u00e7ois Truffaut"
@@ -6648,7 +6648,7 @@
             "imdb_id": "tt0054156",
             "release_date": "1961",
             "watchDate": "2017-10-02",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 141,
             "poster_path": "/vHIZV8PzGJFwe0vMwJLM9yxptGe.jpg",
             "director": "Jacques Rivette"
@@ -6658,7 +6658,7 @@
             "imdb_id": "tt0067656",
             "release_date": "1971",
             "watchDate": "2017-10-03",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 84,
             "poster_path": "/tgtNELlRmnfvpIrBSv2Wekw7wpM.jpg",
             "director": "Mario Bava"
@@ -6668,7 +6668,7 @@
             "imdb_id": "tt0034240",
             "release_date": "1941",
             "watchDate": "2017-10-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 91,
             "poster_path": "/bZfw8EpYfbEG325mlzcE59fv20N.jpg",
             "director": "Preston Sturges"
@@ -6678,7 +6678,7 @@
             "imdb_id": "tt0056218",
             "release_date": "1962",
             "watchDate": "2017-10-06",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 126,
             "poster_path": "/1a6krdQr17aaA0Q3yS5LNVtxYvf.jpg",
             "director": "John Frankenheimer"
@@ -6688,7 +6688,7 @@
             "imdb_id": "tt1856101",
             "release_date": "2017",
             "watchDate": "2017-10-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 163,
             "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
             "director": "Denis Villeneuve"
@@ -6698,7 +6698,7 @@
             "imdb_id": "tt0069398",
             "release_date": "1972",
             "watchDate": "2017-10-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 95,
             "poster_path": "/2AvaJ8NuWOzoRoblvP35QI6fKST.jpg",
             "director": "Jean-Luc Godard, Jean-Pierre Gorin, Groupe Dziga Vertov"
@@ -6708,7 +6708,7 @@
             "imdb_id": "tt0049902",
             "release_date": "1956",
             "watchDate": "2017-10-09",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 99,
             "poster_path": "/7f8ROxooI3fn85CVqIG5QwPFsdE.jpg",
             "director": "Robert Bresson"
@@ -6718,7 +6718,7 @@
             "imdb_id": "tt5796516",
             "release_date": "2017",
             "watchDate": "2017-10-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 85,
             "poster_path": "/1tx8SwUVgtAbshLeoycZD3v6AmQ.jpg",
             "director": "Eric Judor"
@@ -6728,7 +6728,7 @@
             "imdb_id": "tt0060138",
             "release_date": "1966",
             "watchDate": "2017-10-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 95,
             "poster_path": "/wGpLTTOHJXlnbArj3X4ZCWF64c5.jpg",
             "director": "Robert Bresson"
@@ -6738,7 +6738,7 @@
             "imdb_id": "tt0069019",
             "release_date": "1972",
             "watchDate": "2017-10-11",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/jlXMlB32VYKGE7JOPi7hAbfQ2Gr.jpg",
             "director": "Lucio Fulci"
@@ -6748,7 +6748,7 @@
             "imdb_id": "tt0035446",
             "release_date": "1942",
             "watchDate": "2017-10-13",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 99,
             "poster_path": "/ug5R6fdOhud4hbb5O6pn1snSEFJ.jpg",
             "director": "Ernst Lubitsch"
@@ -6758,7 +6758,7 @@
             "imdb_id": "tt0079714",
             "release_date": "1979",
             "watchDate": "2017-10-15",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 89,
             "poster_path": "/59GIYULisvSYMwawbbtCnjaPMAn.jpg",
             "director": "Don Coscarelli"
@@ -6768,7 +6768,7 @@
             "imdb_id": "tt0060304",
             "release_date": "1967",
             "watchDate": "2017-10-16",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 100,
             "poster_path": "/1umitwqhO4jO3hOq4TuSLG2ICtT.jpg",
             "director": "Jean-Luc Godard"
@@ -6778,7 +6778,7 @@
             "imdb_id": "tt4714782",
             "release_date": "2016",
             "watchDate": "2017-10-17",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 105,
             "poster_path": "/jDOWYDmJvGkVkVHf7Ru66gy6ry8.jpg",
             "director": "Olivier Assayas"
@@ -6788,7 +6788,7 @@
             "imdb_id": "tt0368226",
             "release_date": "2003",
             "watchDate": "2017-10-20",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 99,
             "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
             "director": "Tommy Wiseau"
@@ -6798,7 +6798,7 @@
             "imdb_id": "tt0075938",
             "release_date": "1977",
             "watchDate": "2017-10-23",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 93,
             "poster_path": "/zVrxNiNozXbQgc9ez2nUYL8bOZm.jpg",
             "director": "Robert Bresson"
@@ -6808,7 +6808,7 @@
             "imdb_id": "tt0090728",
             "release_date": "1986",
             "watchDate": "2017-10-23",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 99,
             "poster_path": "/yorjHTeWauQd81QeWoqMAHXAcCj.jpg",
             "director": "John Carpenter"
@@ -6818,7 +6818,7 @@
             "imdb_id": "tt0085180",
             "release_date": "1983",
             "watchDate": "2017-10-23",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 85,
             "poster_path": "/aoACJ0PaICV8YOYrrqu26cvCLd1.jpg",
             "director": "Robert Bresson"
@@ -6828,7 +6828,7 @@
             "imdb_id": "tt3890160",
             "release_date": "2017",
             "watchDate": "2017-10-23",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 113,
             "poster_path": "/dN9LbVNNZFITwfaRjl4tmwGWkRg.jpg",
             "director": "Edgar Wright"
@@ -6838,7 +6838,7 @@
             "imdb_id": "tt0368226",
             "release_date": "2003",
             "watchDate": "2017-10-28",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 99,
             "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
             "director": "Tommy Wiseau"
@@ -6848,7 +6848,7 @@
             "imdb_id": "tt0059616",
             "release_date": "1962",
             "watchDate": "2017-10-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 65,
             "poster_path": "/nhogi02EDBe3xlimMwwHUk171xD.jpg",
             "director": "Robert Bresson"
@@ -6858,7 +6858,7 @@
             "imdb_id": "tt0042619",
             "release_date": "1951",
             "watchDate": "2017-10-31",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 115,
             "poster_path": "/kyxIU2x084EdguhBJYlLrQ2zNYh.jpg",
             "director": "Robert Bresson"
@@ -6868,7 +6868,7 @@
             "imdb_id": "tt0093608",
             "release_date": "1987",
             "watchDate": "2017-11-01",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 75,
             "poster_path": "/xNKYPkV5965pKkiObDzp9pGKMj7.jpg",
             "director": "J\u00f6rg Buttgereit"
@@ -6878,7 +6878,7 @@
             "imdb_id": "tt0084787",
             "release_date": "1982",
             "watchDate": "2017-11-04",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 109,
             "poster_path": "/s5fH3GqFcHbi2F0NSBSh4KRNTc0.jpg",
             "director": "John Carpenter"
@@ -6888,7 +6888,7 @@
             "imdb_id": "tt0093677",
             "release_date": "1987",
             "watchDate": "2017-11-05",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 107,
             "poster_path": "/jpAtjToZF7564rxyoPjxtk4ckjJ.jpg",
             "director": "Dario Argento"
@@ -6898,7 +6898,7 @@
             "imdb_id": "tt5859238",
             "release_date": "2017",
             "watchDate": "2017-11-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 88,
             "poster_path": "/fy2K8jqCV9rNC8fHx9muPJTNaqs.jpg",
             "director": "John Carroll Lynch"
@@ -6908,7 +6908,7 @@
             "imdb_id": "tt0105665",
             "release_date": "1992",
             "watchDate": "2017-11-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 134,
             "poster_path": "/tOQekTHJmVCgfUYXTb6dLAu6l8W.jpg",
             "director": "David Lynch"
@@ -6918,7 +6918,7 @@
             "imdb_id": "tt0045848",
             "release_date": "1953",
             "watchDate": "2017-11-12",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 93,
             "poster_path": "/yAKIR3M3P1eVLJUw7PvQu4k42us.jpg",
             "director": "Ingmar Bergman"
@@ -6928,7 +6928,7 @@
             "imdb_id": "tt0036775",
             "release_date": "1944",
             "watchDate": "2017-11-12",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 107,
             "poster_path": "/nW0cCpfuGcR1JG7EinDbdL2Ijf2.jpg",
             "director": "Billy Wilder"
@@ -6938,7 +6938,7 @@
             "imdb_id": "tt1691152",
             "release_date": "2017",
             "watchDate": "2017-11-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 88,
             "poster_path": "/pgtQceTZKylB2B237t18h2pOXpE.jpg",
             "director": "Jon Nguyen, Rick Barnes, Olivia Neergaard-Holm"
@@ -6948,7 +6948,7 @@
             "imdb_id": "tt0060959",
             "release_date": "1966",
             "watchDate": "2017-11-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 74,
             "poster_path": "/4uxhOkuPMlvQavaXiZWPpqiZsxW.jpg",
             "director": "V\u011bra Chytilov\u00e1"
@@ -6958,7 +6958,7 @@
             "imdb_id": "tt0081633",
             "release_date": "1981",
             "watchDate": "2017-11-16",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 116,
             "poster_path": "/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
             "director": "Terry Gilliam"
@@ -6968,7 +6968,7 @@
             "imdb_id": "tt6340264",
             "release_date": "2018",
             "watchDate": "2017-11-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 105,
             "poster_path": "/7K965TdxB8iklexPxbBONiWR8JJ.jpg",
             "director": "Bruno Dumont"
@@ -6978,7 +6978,7 @@
             "imdb_id": "tt5311514",
             "release_date": "2016",
             "watchDate": "2017-11-18",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 106,
             "poster_path": "/xq1Ugd62d23K2knRUx6xxuALTZB.jpg",
             "director": "Makoto Shinkai"
@@ -6988,7 +6988,7 @@
             "imdb_id": "tt0067040",
             "release_date": "1970",
             "watchDate": "2017-11-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 93,
             "poster_path": "/kcxEqTCN5ymvdsBvym9ea8miTQw.jpg",
             "director": "Alain Robbe-Grillet"
@@ -6998,7 +6998,7 @@
             "imdb_id": "tt0077740",
             "release_date": "1976",
             "watchDate": "2017-11-19",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 95,
             "poster_path": "/bIRP71OJE0rERrFcIYn86h8behd.jpg",
             "director": "Lino Brocka"
@@ -7008,7 +7008,7 @@
             "imdb_id": "tt0071737",
             "release_date": "1974",
             "watchDate": "2017-11-19",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 85,
             "poster_path": "/oDzIxDzeAA02MmR3QfxhLXFb2ZR.jpg",
             "director": "Robert Bresson"
@@ -7018,7 +7018,7 @@
             "imdb_id": "tt4420704",
             "release_date": "2017",
             "watchDate": "2017-11-19",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 79,
             "poster_path": "/5z2vuJk6P7V2azw3gWQF7L4l5xU.jpg",
             "director": "Ceyda Torun"
@@ -7028,7 +7028,7 @@
             "imdb_id": "tt7290768",
             "release_date": "2017",
             "watchDate": "2017-11-20",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 49,
             "poster_path": "/ioQP2NDHNKWYY6FPhhgN2MD5Uxw.jpg",
             "director": "Cl\u00e9ment Cogitore"
@@ -7038,7 +7038,7 @@
             "imdb_id": "tt0037008",
             "release_date": "1944",
             "watchDate": "2017-11-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 88,
             "poster_path": "/utpUn9TdBIx6x2QX91YhYzFZxg1.jpg",
             "director": "Otto Preminger"
@@ -7048,7 +7048,7 @@
             "imdb_id": "tt0045251",
             "release_date": "1951",
             "watchDate": "2017-11-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 90,
             "poster_path": "/2IS8i2FVKV9kD9KS3QJaEWcwHpx.jpg",
             "director": "Orson Welles"
@@ -7058,7 +7058,7 @@
             "imdb_id": "tt0090015",
             "release_date": "1985",
             "watchDate": "2017-11-26",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 566,
             "poster_path": "/hWlNBFnhvAx2nu1xmRrjLLsa2JW.jpg",
             "director": "Claude Lanzmann"
@@ -7068,7 +7068,7 @@
             "imdb_id": "tt2380307",
             "release_date": "2017",
             "watchDate": "2017-11-27",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 105,
             "poster_path": "/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
             "director": "Lee Unkrich"
@@ -7078,7 +7078,7 @@
             "imdb_id": "tt0052561",
             "release_date": "1959",
             "watchDate": "2017-11-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 160,
             "poster_path": "/kDFnM2zlHZirR2ItTo56lyrxuAS.jpg",
             "director": "Otto Preminger"
@@ -7088,7 +7088,7 @@
             "imdb_id": "tt0126886",
             "release_date": "1999",
             "watchDate": "2017-12-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 99,
             "poster_path": "/4RHyF1v1n4iodWzHG4m7XkGcJVB.jpg",
             "director": "Alexander Payne"
@@ -7098,7 +7098,7 @@
             "imdb_id": "tt0060827",
             "release_date": "1966",
             "watchDate": "2017-12-03",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 85,
             "poster_path": "/cjAnlvCrp9ZY7atASUsxRrhve7o.jpg",
             "director": "Ingmar Bergman"
@@ -7108,7 +7108,7 @@
             "imdb_id": "tt0066735",
             "release_date": "1971",
             "watchDate": "2017-12-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 104,
             "poster_path": "/aHTnICNQ4IY40SRX3kVULE1QvKp.jpg",
             "director": "Dario Argento"
@@ -7118,7 +7118,7 @@
             "imdb_id": "tt0081318",
             "release_date": "1980",
             "watchDate": "2017-12-06",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 93,
             "poster_path": "/4dn3dYYyOPKx8SPkTr0Z3UWQTts.jpg",
             "director": "Lucio Fulci"
@@ -7128,7 +7128,7 @@
             "imdb_id": "tt3521126",
             "release_date": "2017",
             "watchDate": "2017-12-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 104,
             "poster_path": "/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg",
             "director": "James Franco"
@@ -7138,7 +7138,7 @@
             "imdb_id": "tt0368226",
             "release_date": "2003",
             "watchDate": "2017-12-07",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 99,
             "poster_path": "/aUC39cFC2KO8CJ0EV0ijIJRr3PT.jpg",
             "director": "Tommy Wiseau"
@@ -7148,7 +7148,7 @@
             "imdb_id": "tt0084549",
             "release_date": "1987",
             "watchDate": "2017-12-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 123,
             "poster_path": "/vAhE65Ml03TS9GlXGWqd4jsdOIW.jpg",
             "director": "Krzysztof Kie\u015blowski"
@@ -7158,7 +7158,7 @@
             "imdb_id": "tt0286751",
             "release_date": "2001",
             "watchDate": "2017-12-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 118,
             "poster_path": "/2unV6GQtDKszsEGql5Dylxg4sVP.jpg",
             "director": "Kiyoshi Kurosawa"
@@ -7168,7 +7168,7 @@
             "imdb_id": "tt0064897",
             "release_date": "1969",
             "watchDate": "2017-12-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 72,
             "poster_path": "/8SWIIvK7kU1MfnCthjRZzZZIFIh.jpg",
             "director": "Ingmar Bergman"
@@ -7178,7 +7178,7 @@
             "imdb_id": "tt0059459",
             "release_date": "1965",
             "watchDate": "2017-12-11",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 110,
             "poster_path": "/kkSz6Pc2gtPg5dYtHOmBCrnFWUZ.jpg",
             "director": "Francesco Rosi"
@@ -7188,7 +7188,7 @@
             "imdb_id": "tt1212428",
             "release_date": "2017",
             "watchDate": "2017-12-12",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 140,
             "poster_path": "/uLHorVHuWQZ1HugTp0bbD19jef7.jpg",
             "director": "James Gray"
@@ -7198,7 +7198,7 @@
             "imdb_id": "tt5687334",
             "release_date": "2017",
             "watchDate": "2017-12-15",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 102,
             "poster_path": "/ltWxsC5S0v1uyOX46qcQm1N7VZf.jpg",
             "director": "Michel Hazanavicius"
@@ -7208,7 +7208,7 @@
             "imdb_id": "tt0067641",
             "release_date": "1971",
             "watchDate": "2017-12-17",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 87,
             "poster_path": "/5k0gT3N24s4sBCdiltJC8Ol1HUC.jpg",
             "director": "Robert Bresson"
@@ -7218,7 +7218,7 @@
             "imdb_id": "tt0162346",
             "release_date": "2001",
             "watchDate": "2017-12-18",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 111,
             "poster_path": "/2qdw5cGpXcG56j5pWU4e6UYKk0v.jpg",
             "director": "Terry Zwigoff"
@@ -7228,7 +7228,7 @@
             "imdb_id": "tt1016205",
             "release_date": "2007",
             "watchDate": "2017-12-19",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 97,
             "poster_path": "/kY4jXoDp53PGkMUxfVSM8rhV26S.jpg",
             "director": "Naomi Kawase"
@@ -7238,7 +7238,7 @@
             "imdb_id": "tt3450958",
             "release_date": "2017",
             "watchDate": "2017-12-29",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 140,
             "poster_path": "/oDvgC7IeTdc03SgiSSo2HY7xGYX.jpg",
             "director": "Matt Reeves"
@@ -7248,7 +7248,7 @@
             "imdb_id": "tt2053463",
             "release_date": "2013",
             "watchDate": "2017-12-29",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 106,
             "poster_path": "/ttD69Yhh2BV1WVqr27NRbF8ubOW.jpg",
             "director": "Steven Soderbergh"
@@ -7258,7 +7258,7 @@
             "imdb_id": "tt0082971",
             "release_date": "1981",
             "watchDate": "2017-12-29",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 115,
             "poster_path": "/44sKJOGP3fTm4QXBcIuqu0RkdP7.jpg",
             "director": "Steven Spielberg"
@@ -7268,7 +7268,7 @@
             "imdb_id": "tt0032904",
             "release_date": "1940",
             "watchDate": "2018-01-01",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 112,
             "poster_path": "/o4cYWubhrBFF56IyEyce89lMb5y.jpg",
             "director": "George Cukor"
@@ -7278,7 +7278,7 @@
             "imdb_id": "tt1396484",
             "release_date": "2017",
             "watchDate": "2018-01-01",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 134,
             "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
             "director": "Andy Muschietti"
@@ -7288,7 +7288,7 @@
             "imdb_id": "tt0064040",
             "release_date": "1969",
             "watchDate": "2018-01-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 145,
             "poster_path": "/qZwOt4FbAbl3XSAh4HOLnd8FSN8.jpg",
             "director": "Jean-Pierre Melville"
@@ -7298,7 +7298,7 @@
             "imdb_id": "tt0015768",
             "release_date": "1925",
             "watchDate": "2018-01-06",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 107,
             "poster_path": "/8pNAYSxE3f47ViKodnJ3HaGb4tc.jpg",
             "director": "Carl Theodor Dreyer"
@@ -7308,7 +7308,7 @@
             "imdb_id": "tt0023649",
             "release_date": "1932",
             "watchDate": "2018-01-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 74,
             "poster_path": "/zSNbZz5xKTPBs2umK8OSBUqRfBF.jpg",
             "director": "Carl Theodor Dreyer"
@@ -7318,7 +7318,7 @@
             "imdb_id": "tt0036506",
             "release_date": "1943",
             "watchDate": "2018-01-07",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 97,
             "poster_path": "/2GNH1L2ynINivmPwTe5bCZX3rv6.jpg",
             "director": "Carl Theodor Dreyer"
@@ -7328,7 +7328,7 @@
             "imdb_id": "tt0091670",
             "release_date": "1986",
             "watchDate": "2018-01-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 149,
             "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
@@ -7338,7 +7338,7 @@
             "imdb_id": "tt0060138",
             "release_date": "1966",
             "watchDate": "2018-01-13",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 95,
             "poster_path": "/wGpLTTOHJXlnbArj3X4ZCWF64c5.jpg",
             "director": "Robert Bresson"
@@ -7348,7 +7348,7 @@
             "imdb_id": "tt0087884",
             "release_date": "1984",
             "watchDate": "2018-01-20",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 145,
             "poster_path": "/t1fXt8WLqaWmHhIOUlbaK1EQnNU.jpg",
             "director": "Wim Wenders"
@@ -7358,7 +7358,7 @@
             "imdb_id": "tt0061996",
             "release_date": "1967",
             "watchDate": "2018-01-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 81,
             "poster_path": "/2jlGE69Wl8kHhvP7EmeoOmVBR1T.jpg",
             "director": "Robert Bresson"
@@ -7368,7 +7368,7 @@
             "imdb_id": "tt5776858",
             "release_date": "2017",
             "watchDate": "2018-01-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 131,
             "poster_path": "/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg",
             "director": "Paul Thomas Anderson"
@@ -7378,7 +7378,7 @@
             "imdb_id": "tt2239822",
             "release_date": "2017",
             "watchDate": "2018-01-27",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 136,
             "poster_path": "/jfIpMh79fGRqYJ6PwZLCntzgxlF.jpg",
             "director": "Luc Besson"
@@ -7388,7 +7388,7 @@
             "imdb_id": "tt4846232",
             "release_date": "2017",
             "watchDate": "2018-01-28",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
             "director": "Benny Safdie, Josh Safdie"
@@ -7398,7 +7398,7 @@
             "imdb_id": "tt0089907",
             "release_date": "1985",
             "watchDate": "2018-01-28",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 91,
             "poster_path": "/1vydUitzC8W8W5oNevEArCltydJ.jpg",
             "director": "Dan O'Bannon"
@@ -7408,7 +7408,7 @@
             "imdb_id": "tt5278832",
             "release_date": "2015",
             "watchDate": "2018-01-29",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 92,
             "poster_path": "/52AtrxJCUoRZUUE28LxG1bKA5C2.jpg",
             "director": "Agnieszka Smoczynska"
@@ -7418,7 +7418,7 @@
             "imdb_id": "tt7214762",
             "release_date": "2017",
             "watchDate": "2018-01-30",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 94,
             "poster_path": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
             "director": "Chris Smith"
@@ -7428,7 +7428,7 @@
             "imdb_id": "tt5973032",
             "release_date": "2016",
             "watchDate": "2018-01-31",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 78,
             "poster_path": "/1hL1OlEHPuqZAK2QXR8tCHCGMZR.jpg",
             "director": "Sion Sono"
@@ -7438,7 +7438,7 @@
             "imdb_id": "tt5265960",
             "release_date": "2016",
             "watchDate": "2018-02-01",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 98,
             "poster_path": "/bpTNGIJkdYL8IJvvCmKmjtDpXn1.jpg",
             "director": "Amat Escalante"
@@ -7448,7 +7448,7 @@
             "imdb_id": "tt0061655",
             "release_date": "1967",
             "watchDate": "2018-02-02",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 108,
             "poster_path": "/yTYTHsYan0xx4H4i95hku9x7nid.jpg",
             "director": "Roman Pola\u0144ski"
@@ -7458,7 +7458,7 @@
             "imdb_id": "tt0075314",
             "release_date": "1976",
             "watchDate": "2018-02-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 114,
             "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
             "director": "Martin Scorsese"
@@ -7468,7 +7468,7 @@
             "imdb_id": "tt0085794",
             "release_date": "1982",
             "watchDate": "2018-02-03",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 109,
             "poster_path": "/pbAqLKoLydP7jl6P0vmYwlDtRPD.jpg",
             "director": "Martin Scorsese"
@@ -7478,7 +7478,7 @@
             "imdb_id": "tt6131712",
             "release_date": "2017",
             "watchDate": "2018-02-03",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 86,
             "poster_path": "/2Pl3Vptkzaum6FZ5K6iDqybuhp4.jpg",
             "director": "Flying Lotus"
@@ -7488,7 +7488,7 @@
             "imdb_id": "tt0083722",
             "release_date": "1982",
             "watchDate": "2018-02-03",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 118,
             "poster_path": "/dievCAlW1E3DgkYhgQ6Xcvr0ltf.jpg",
             "director": "Paul Schrader"
@@ -7498,7 +7498,7 @@
             "imdb_id": "tt0091251",
             "release_date": "1985",
             "watchDate": "2018-02-04",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 142,
             "poster_path": "/2s3OKpYDe7ASMfwL7kocdUbjsrh.jpg",
             "director": "Elem Klimov"
@@ -7508,7 +7508,7 @@
             "imdb_id": "tt0066122",
             "release_date": "1970",
             "watchDate": "2018-02-05",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 90,
             "poster_path": "/u2XDRPzpTdCwlo0Zu4maEdj68Ia.jpg",
             "director": "Jerzy Skolimowski"
@@ -7518,7 +7518,7 @@
             "imdb_id": "tt2321405",
             "release_date": "2016",
             "watchDate": "2018-02-06",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 66,
             "poster_path": "/mZ9JGgCvV4d5KnpT0jSR1pOCLW7.jpg",
             "director": "Claude Barras"
@@ -7528,7 +7528,7 @@
             "imdb_id": "tt0090903",
             "release_date": "1986",
             "watchDate": "2018-02-07",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 99,
             "poster_path": "/o8OuuUO1zECT8CV2ygEshrg5N2p.jpg",
             "director": "Lucio Fulci"
@@ -7538,7 +7538,7 @@
             "imdb_id": "tt0073155",
             "release_date": "1975",
             "watchDate": "2018-02-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 109,
             "poster_path": "/9MJOLzJ4XICCspa2E61DWGbbnhP.jpg",
             "director": "Andrzej \u017bu\u0142awski"
@@ -7548,7 +7548,7 @@
             "imdb_id": "tt0082933",
             "release_date": "1981",
             "watchDate": "2018-02-08",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 123,
             "poster_path": "/36dqEcj90gwnYIif9BqfuHXafyZ.jpg",
             "director": "Andrzej \u017bu\u0142awski"
@@ -7558,7 +7558,7 @@
             "imdb_id": "tt0109579",
             "release_date": "1994",
             "watchDate": "2018-02-09",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 103,
             "poster_path": "/3p1K153ZbRV7FNyi4DNnzHfxJZa.jpg",
             "director": "Roman Pola\u0144ski"
@@ -7568,7 +7568,7 @@
             "imdb_id": "tt0086250",
             "release_date": "1983",
             "watchDate": "2018-02-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 170,
             "poster_path": "/zr2p353wrd6j3wjLgDT4TcaestB.jpg",
             "director": "Brian De Palma"
@@ -7578,7 +7578,7 @@
             "imdb_id": "tt0133093",
             "release_date": "1999",
             "watchDate": "2018-02-10",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 136,
             "poster_path": "/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
             "director": "Lana Wachowski, Lilly Wachowski"
@@ -7588,7 +7588,7 @@
             "imdb_id": "tt0101428",
             "release_date": "1991",
             "watchDate": "2018-02-10",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 236,
             "poster_path": "/h0I3HXJsNQ1pItvViRCKCDsLObD.jpg",
             "director": "Jacques Rivette"
@@ -7598,7 +7598,7 @@
             "imdb_id": "tt0475290",
             "release_date": "2016",
             "watchDate": "2018-02-11",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 106,
             "poster_path": "/rzMYZYphL9qrbBClQq1Jc0zPMmY.jpg",
             "director": "Joel Coen, Ethan Coen"
@@ -7608,7 +7608,7 @@
             "imdb_id": "tt0101318",
             "release_date": "1991",
             "watchDate": "2018-02-11",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 125,
             "poster_path": "/xz00yDmTtGr3Uy3PEiopenQH2Zh.jpg",
             "director": "Leos Carax"
@@ -7618,7 +7618,7 @@
             "imdb_id": "tt0089153",
             "release_date": "1985",
             "watchDate": "2018-02-11",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 126,
             "poster_path": "/q36TO4giy57uRtMyxHSw9jnQPts.jpg",
             "director": "Paul Verhoeven"
@@ -7628,7 +7628,7 @@
             "imdb_id": "tt0137523",
             "release_date": "1999",
             "watchDate": "2018-02-13",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 139,
             "poster_path": "/adw6Lq9FiC9zjYEpOqfq03ituwp.jpg",
             "director": "David Fincher"
@@ -7638,7 +7638,7 @@
             "imdb_id": "tt0065152",
             "release_date": "1969",
             "watchDate": "2018-02-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 88,
             "poster_path": "/4vVb3DXu4J4DV5oIn4rp2HBNlUY.jpg",
             "director": "Robert Bresson"
@@ -7648,7 +7648,7 @@
             "imdb_id": "tt3501632",
             "release_date": "2017",
             "watchDate": "2018-02-14",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 130,
             "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
             "director": "Taika Waititi"
@@ -7658,7 +7658,7 @@
             "imdb_id": "tt0088846",
             "release_date": "1985",
             "watchDate": "2018-02-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 132,
             "poster_path": "/55Vfc1beLn3pJF4Lw83TRKHenK6.jpg",
             "director": "Terry Gilliam"
@@ -7668,7 +7668,7 @@
             "imdb_id": "tt0074285",
             "release_date": "1976",
             "watchDate": "2018-02-17",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 98,
             "poster_path": "/n9JxLthRHwTWwu5OjFHVplkVSUg.jpg",
             "director": "Brian De Palma"
@@ -7678,7 +7678,7 @@
             "imdb_id": "tt6135348",
             "release_date": "2017",
             "watchDate": "2018-02-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 135,
             "poster_path": "/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg",
             "director": "Robin Campillo"
@@ -7688,7 +7688,7 @@
             "imdb_id": "tt0019777",
             "release_date": "1929",
             "watchDate": "2018-02-24",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 96,
             "poster_path": "/jIhIPFWIZgrIosfTmqqfdChIq9d.jpg",
             "director": "Robert Florey, Joseph Santley"
@@ -7698,7 +7698,7 @@
             "imdb_id": "tt5580390",
             "release_date": "2017",
             "watchDate": "2018-03-09",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 123,
             "poster_path": "/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg",
             "director": "Guillermo del Toro"
@@ -7708,7 +7708,7 @@
             "imdb_id": "tt0048452",
             "release_date": "1955",
             "watchDate": "2018-03-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 125,
             "poster_path": "/e3oh96Zrqdaku8DoD10pXZHLZoU.jpg",
             "director": "Carl Theodor Dreyer"
@@ -7718,7 +7718,7 @@
             "imdb_id": "tt2527336",
             "release_date": "2017",
             "watchDate": "2018-03-12",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 152,
             "poster_path": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
             "director": "Rian Johnson"
@@ -7728,7 +7728,7 @@
             "imdb_id": "tt0063350",
             "release_date": "1968",
             "watchDate": "2018-03-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 96,
             "poster_path": "/faPfcZ181gWmCoMbal7bAXFPFh9.jpg",
             "director": "George A. Romero"
@@ -7738,7 +7738,7 @@
             "imdb_id": "tt0049730",
             "release_date": "1956",
             "watchDate": "2018-03-17",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 119,
             "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
             "director": "John Ford"
@@ -7748,7 +7748,7 @@
             "imdb_id": "tt0052357",
             "release_date": "1958",
             "watchDate": "2018-03-18",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 128,
             "poster_path": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg",
             "director": "Alfred Hitchcock"
@@ -7758,7 +7758,7 @@
             "imdb_id": "tt2798920",
             "release_date": "2018",
             "watchDate": "2018-03-18",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 115,
             "poster_path": "/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
             "director": "Alex Garland"
@@ -7768,7 +7768,7 @@
             "imdb_id": "tt0065761",
             "release_date": "1971",
             "watchDate": "2018-03-25",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 110,
             "poster_path": "/zS41KSGoiX6D8dkhR99Han1uDRe.jpg",
             "director": "Dario Argento"
@@ -7778,7 +7778,7 @@
             "imdb_id": "tt2811878",
             "release_date": "2013",
             "watchDate": "2018-03-25",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 92,
             "poster_path": "/4gbHdOqZyLQwg8XYFZO94ISNeTG.jpg",
             "director": "Yann Gonzalez"
@@ -7788,7 +7788,7 @@
             "imdb_id": "tt0102926",
             "release_date": "1991",
             "watchDate": "2018-03-25",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 119,
             "poster_path": "/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg",
             "director": "Jonathan Demme"
@@ -7798,7 +7798,7 @@
             "imdb_id": "tt0041154",
             "release_date": "1949",
             "watchDate": "2018-03-28",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 108,
             "poster_path": "/l8HGvaAPKLx7EmTjGzn2bCF2XGo.jpg",
             "director": "Yasujir\u014d Ozu"
@@ -7808,7 +7808,7 @@
             "imdb_id": "tt0090182",
             "release_date": "1985",
             "watchDate": "2018-03-29",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 92,
             "poster_path": "/vZkce81CO7xU7lKOO1jAVkcAV7d.jpg",
             "director": "Wim Wenders"
@@ -7818,7 +7818,7 @@
             "imdb_id": "tt0089489",
             "release_date": "1985",
             "watchDate": "2018-03-29",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 116,
             "poster_path": "/l9R0w3CzF2YCTZTlAZt1E3k2qNy.jpg",
             "director": "Tobe Hooper"
@@ -7828,7 +7828,7 @@
             "imdb_id": "tt0166896",
             "release_date": "1999",
             "watchDate": "2018-03-30",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 112,
             "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
             "director": "David Lynch"
@@ -7838,7 +7838,7 @@
             "imdb_id": "tt0020640",
             "release_date": "1930",
             "watchDate": "2018-04-01",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 97,
             "poster_path": "/oWpp4MjWwJQODC8ZOM0FTmIhFgX.jpg",
             "director": "Victor Heerman"
@@ -7848,7 +7848,7 @@
             "imdb_id": "tt0246578",
             "release_date": "2001",
             "watchDate": "2018-04-01",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 113,
             "poster_path": "/nmb4QhCRmdfNP6rgb81yUFgI83l.jpg",
             "director": "Richard Kelly"
@@ -7858,7 +7858,7 @@
             "imdb_id": "tt0092076",
             "release_date": "1986",
             "watchDate": "2018-04-02",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 101,
             "poster_path": "/1EI0Qs6AhtxdamRBsFC4zm2I6sj.jpg",
             "director": "Tobe Hooper"
@@ -7868,7 +7868,7 @@
             "imdb_id": "tt3567288",
             "release_date": "2015",
             "watchDate": "2018-04-07",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 94,
             "poster_path": "/32tNtTEQ1vIOLm1hEOSFkVwJT5D.jpg",
             "director": "M. Night Shyamalan"
@@ -7878,7 +7878,7 @@
             "imdb_id": "tt0338013",
             "release_date": "2004",
             "watchDate": "2018-04-07",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 108,
             "poster_path": "/7y3eYvTsGjxPYDtSnumCLIMDkrV.jpg",
             "director": "Michel Gondry"
@@ -7888,7 +7888,7 @@
             "imdb_id": "tt5598102",
             "release_date": "2017",
             "watchDate": "2018-04-08",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 89,
             "poster_path": "/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg",
             "director": "Agn\u00e8s Varda, JR"
@@ -7898,7 +7898,7 @@
             "imdb_id": "tt0080979",
             "release_date": "1980",
             "watchDate": "2018-04-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 180,
             "poster_path": "/5ZfxTO5IWuefPrUALF0GFKql4O0.jpg",
             "director": "Akira Kurosawa"
@@ -7908,7 +7908,7 @@
             "imdb_id": "tt0082927",
             "release_date": "1982",
             "watchDate": "2018-04-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 129,
             "poster_path": "/sd9bf5ZnI2Zp2tn6snqPUeZsMdv.jpg",
             "director": "Jacques Rivette"
@@ -7918,7 +7918,7 @@
             "imdb_id": "tt0097216",
             "release_date": "1989",
             "watchDate": "2018-04-16",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 120,
             "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
             "director": "Spike Lee"
@@ -7928,7 +7928,7 @@
             "imdb_id": "tt0056846",
             "release_date": "1963",
             "watchDate": "2018-04-19",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 84,
             "poster_path": "/fEZLgOaTPU4EnjqZZteKORoZslX.jpg",
             "director": "Jacques Demy"
@@ -7938,7 +7938,7 @@
             "imdb_id": "tt0086154",
             "release_date": "1983",
             "watchDate": "2018-04-20",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 113,
             "poster_path": "/tYNx7yIU9Q3O2xxjy3ie5YCkIak.jpg",
             "director": "Richard Franklin"
@@ -7948,7 +7948,7 @@
             "imdb_id": "tt0058138",
             "release_date": "1964",
             "watchDate": "2018-04-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 119,
             "poster_path": "/jDS2ynVUcyUJzVg4ffzn9MFqVrD.jpg",
             "director": "Carl Theodor Dreyer"
@@ -7958,7 +7958,7 @@
             "imdb_id": "tt4439120",
             "release_date": "2015",
             "watchDate": "2018-04-22",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 85,
             "poster_path": "/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg",
             "director": "Sion Sono"
@@ -7968,7 +7968,7 @@
             "imdb_id": "tt5104604",
             "release_date": "2018",
             "watchDate": "2018-04-22",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 101,
             "poster_path": "/rSluCePdXXtNiQeE6Na5yRGamhL.jpg",
             "director": "Wes Anderson"
@@ -7978,7 +7978,7 @@
             "imdb_id": "tt1588170",
             "release_date": "2010",
             "watchDate": "2018-04-24",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 141,
             "poster_path": "/xhlXnzQRlDab04sUMVR9bzyDPpr.jpg",
             "director": "Kim Jee-woon"
@@ -7988,7 +7988,7 @@
             "imdb_id": "tt0022158",
             "release_date": "1931",
             "watchDate": "2018-04-25",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 77,
             "poster_path": "/xMrvQ2iokk4BNteFJEbM6SR0qKY.jpg",
             "director": "Norman Z. McLeod"
@@ -7998,7 +7998,7 @@
             "imdb_id": "tt0063611",
             "release_date": "1968",
             "watchDate": "2018-04-27",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 103,
             "poster_path": "/6AWXQYHEJicwhPfsDf250D4XHjW.jpg",
             "director": "Ingmar Bergman"
@@ -8008,7 +8008,7 @@
             "imdb_id": "tt0067919",
             "release_date": "1971",
             "watchDate": "2018-04-28",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 191,
             "poster_path": "/qzRbryq6swsFgN3cKnmshjno2GO.jpg",
             "director": "Jan Troell"
@@ -8018,7 +8018,7 @@
             "imdb_id": "tt5742374",
             "release_date": "2017",
             "watchDate": "2018-04-28",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 89,
             "poster_path": "/aoArNmQfL67BzENQeQsgJm21cMe.jpg",
             "director": "Lynne Ramsay"
@@ -8028,7 +8028,7 @@
             "imdb_id": "tt0101410",
             "release_date": "1991",
             "watchDate": "2018-04-29",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 116,
             "poster_path": "/e0YvBTPwIL6Jb29glF3LE9n8GH2.jpg",
             "director": "Joel Coen"
@@ -8038,7 +8038,7 @@
             "imdb_id": "tt0083001",
             "release_date": "1981",
             "watchDate": "2018-04-29",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 102,
             "poster_path": "/3v5T5ahdzSg8EzPddprTaEeAmrM.jpg",
             "director": "Noel Marshall"
@@ -8048,7 +8048,7 @@
             "imdb_id": "tt4995790",
             "release_date": "2017",
             "watchDate": "2018-05-02",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 151,
             "poster_path": "/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg",
             "director": "Ruben \u00d6stlund"
@@ -8058,7 +8058,7 @@
             "imdb_id": "tt0023027",
             "release_date": "1932",
             "watchDate": "2018-05-03",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 68,
             "poster_path": "/gRYmunj5ypxCk5PGTnMpH2WYLyI.jpg",
             "director": "Norman Z. McLeod"
@@ -8068,7 +8068,7 @@
             "imdb_id": "tt0023969",
             "release_date": "1933",
             "watchDate": "2018-05-06",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 68,
             "poster_path": "/jy4DJN8pKmEz4UNjCGiFaJuMfDJ.jpg",
             "director": "Leo McCarey"
@@ -8078,7 +8078,7 @@
             "imdb_id": "tt0069035",
             "release_date": "1972",
             "watchDate": "2018-05-06",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 204,
             "poster_path": "/i4tNOiIJTnI7Lyps8SsQbb6brk4.jpg",
             "director": "Jan Troell"
@@ -8088,7 +8088,7 @@
             "imdb_id": "tt0106677",
             "release_date": "1993",
             "watchDate": "2018-05-13",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 102,
             "poster_path": "/ksw0G7zSM98rKZWNwl5EuEgpXpt.jpg",
             "director": "Richard Linklater"
@@ -8098,7 +8098,7 @@
             "imdb_id": "tt0067227",
             "release_date": "1971",
             "watchDate": "2018-05-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 88,
             "poster_path": "/cQDcZ6hukMlYoM5yOx2oiAcrhIy.jpg",
             "director": "Rainer Werner Fassbinder"
@@ -8108,7 +8108,7 @@
             "imdb_id": "tt0090756",
             "release_date": "1986",
             "watchDate": "2018-05-22",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 120,
             "poster_path": "/pxC4YsYIL4eSg1zDwrQQuxJegjA.jpg",
             "director": "David Lynch"
@@ -8118,7 +8118,7 @@
             "imdb_id": "tt0061196",
             "release_date": "1966",
             "watchDate": "2018-06-08",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 85,
             "poster_path": "/4a9cbnoOq2EWtzU7OEfrBHdyJOU.jpg",
             "director": "Larisa Shepitko"
@@ -8128,7 +8128,7 @@
             "imdb_id": "tt0062480",
             "release_date": "1967",
             "watchDate": "2018-06-08",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 105,
             "poster_path": "/N0jOUJZf98sG8FRojfLE9wsiBb.jpg",
             "director": "Jean-Luc Godard"
@@ -8138,7 +8138,7 @@
             "imdb_id": "tt0116922",
             "release_date": "1997",
             "watchDate": "2018-06-10",
-            "personalRating": "6",
+            "personalRating": 6,
             "runtime": 134,
             "poster_path": "/z6yhgEzGUJaBBgAxoyggRzwLnVM.jpg",
             "director": "David Lynch"
@@ -8148,7 +8148,7 @@
             "imdb_id": "tt0200849",
             "release_date": "1999",
             "watchDate": "2018-06-13",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 95,
             "poster_path": "/f33isXzWQ8QKcM5ymRjmYWdrrED.jpg",
             "director": "Werner Herzog"
@@ -8158,7 +8158,7 @@
             "imdb_id": "tt4686844",
             "release_date": "2017",
             "watchDate": "2018-06-16",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 106,
             "poster_path": "/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
             "director": "Armando Iannucci"
@@ -8168,7 +8168,7 @@
             "imdb_id": "tt6294822",
             "release_date": "2018",
             "watchDate": "2018-06-16",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 116,
             "poster_path": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
             "director": "Steven Spielberg"
@@ -8178,7 +8178,7 @@
             "imdb_id": "tt1013753",
             "release_date": "2008",
             "watchDate": "2018-06-19",
-            "personalRating": "2",
+            "personalRating": 2,
             "runtime": 128,
             "poster_path": "/sFYmJJSVXqfqPI79tx4UG4IR5Jb.jpg",
             "director": "Gus Van Sant"
@@ -8188,7 +8188,7 @@
             "imdb_id": "tt2347569",
             "release_date": "2013",
             "watchDate": "2018-06-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 86,
             "poster_path": "/mG8gvA3lxxzcJFIAnmMqir6DiWQ.jpg",
             "director": "Noah Baumbach"
@@ -8198,7 +8198,7 @@
             "imdb_id": "tt0113277",
             "release_date": "1995",
             "watchDate": "2018-06-27",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 170,
             "poster_path": "/zMyfPUelumio3tiDKPffaUpsQTD.jpg",
             "director": "Michael Mann"
@@ -8208,7 +8208,7 @@
             "imdb_id": "tt0106384",
             "release_date": "1993",
             "watchDate": "2018-07-04",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 60,
             "poster_path": "/zx7qrbsmd175rOVoGrzDo920Rj7.jpg",
             "director": "Werner Herzog"
@@ -8218,7 +8218,7 @@
             "imdb_id": "tt7784604",
             "release_date": "2018",
             "watchDate": "2018-07-07",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 127,
             "poster_path": "/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg",
             "director": "Ari Aster"
@@ -8228,7 +8228,7 @@
             "imdb_id": "tt0217505",
             "release_date": "2002",
             "watchDate": "2018-07-08",
-            "personalRating": "1",
+            "personalRating": 1,
             "runtime": 167,
             "poster_path": "/ytKo2tLvKUd9Kbs0poXSQh6ft7d.jpg",
             "director": "Martin Scorsese"
@@ -8238,7 +8238,7 @@
             "imdb_id": "tt4925292",
             "release_date": "2017",
             "watchDate": "2018-07-08",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 94,
             "poster_path": "/vbvHTI7vfPKsONw75g9lio38SpN.jpg",
             "director": "Greta Gerwig"
@@ -8248,7 +8248,7 @@
             "imdb_id": "tt0058279",
             "release_date": "1964",
             "watchDate": "2018-07-09",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 183,
             "poster_path": "/f6C9B1YssqKZjykS6K12ZNsEDRk.jpg",
             "director": "Masaki Kobayashi"
@@ -8258,7 +8258,7 @@
             "imdb_id": "tt0082053",
             "release_date": "1982",
             "watchDate": "2018-07-14",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 97,
             "poster_path": "/4gYwUICkKQ2AdHvuvPUdfsJofJj.jpg",
             "director": "\u00c9ric Rohmer"
@@ -8268,7 +8268,7 @@
             "imdb_id": "tt1677720",
             "release_date": "2018",
             "watchDate": "2018-07-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 140,
             "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
             "director": "Steven Spielberg"
@@ -8278,7 +8278,7 @@
             "imdb_id": "tt0162941",
             "release_date": "1990",
             "watchDate": "2018-07-15",
-            "personalRating": "4",
+            "personalRating": 4,
             "runtime": 91,
             "poster_path": "/irAkd100YwYGcOUpiKBRDgZGwZc.jpg",
             "director": "Werner Herzog"
@@ -8288,7 +8288,7 @@
             "imdb_id": "tt0104706",
             "release_date": "1992",
             "watchDate": "2018-07-18",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 54,
             "poster_path": "/koRhiqRBR8yqfr0vATc6UGWDb3q.jpg",
             "director": "Werner Herzog"
@@ -8298,7 +8298,7 @@
             "imdb_id": "tt0145046",
             "release_date": "1997",
             "watchDate": "2018-07-21",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 80,
             "poster_path": "/2sLpyYytu0Dbymzs3skxOCRHKkl.jpg",
             "director": "Werner Herzog"
@@ -8308,7 +8308,7 @@
             "imdb_id": "tt0106519",
             "release_date": "1993",
             "watchDate": "2018-07-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 144,
             "poster_path": "/tGPqPHuOCbyFxwllrYgKkPDu9xB.jpg",
             "director": "Brian De Palma"
@@ -8318,7 +8318,7 @@
             "imdb_id": "tt5726616",
             "release_date": "2017",
             "watchDate": "2018-07-22",
-            "personalRating": "5",
+            "personalRating": 5,
             "runtime": 132,
             "poster_path": "/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
             "director": "Luca Guadagnino"
@@ -8328,7 +8328,7 @@
             "imdb_id": "tt4372240",
             "release_date": "2017",
             "watchDate": "2018-07-25",
-            "personalRating": "3",
+            "personalRating": 3,
             "runtime": 91,
             "poster_path": "/r3V0rimtIHFGIUkvRxrfpWF9UcB.jpg",
             "director": "Alexandre O. Philippe"

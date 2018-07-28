@@ -2,6 +2,7 @@ import * as React from 'react';
 import ReactTable from 'react-table';
 import WatchedMovies from '../WatchedMovies';
 import { MovieDataProvider } from '../MovieDataProvider';
+const palme = require('../assets/palme.gif');
 
 interface WatchedTableState {
   watchedMovies: WatchedMovies;
@@ -42,6 +43,20 @@ export class WatchedTable extends React.Component<{}, WatchedTableState> {
         textAlign: 'center'
       }
     }, {
+      Header: 'Rating',
+      accessor: 'personalRating',
+      width: 160,
+      style: {
+        textAlign: 'center'
+      },
+      Cell: row => {
+        if (row.value === 6) {
+          return (
+            <img style={{ height: '17px' }} src={String(palme)} />);
+        }
+        return (<span className={`stars-container stars-${row.value}`} style={{ height: '17px' }}>★★★★★</span>);
+      }
+    }, {
       Header: 'Title',
       accessor: 'original_title',
       style: {
@@ -56,21 +71,14 @@ export class WatchedTable extends React.Component<{}, WatchedTableState> {
     }, {
       Header: 'Year',
       accessor: 'release_date',
-      maxWidth: 60,
+      maxWidth: 80,
       style: {
         textAlign: 'center'
       }
     }, {
       Header: 'Runtime',
       accessor: 'runtime',
-      width: 80,
-      style: {
-        textAlign: 'center'
-      }
-    }, {
-      Header: 'Rating',
-      accessor: 'personalRating',
-      width: 80,
+      width: 100,
       style: {
         textAlign: 'center'
       }
