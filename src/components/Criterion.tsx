@@ -1,7 +1,6 @@
 import * as React from 'react';
 import ReactTable from 'react-table';
 import { withStyles } from '@material-ui/core/styles';
-import green from '@material-ui/core/colors/green';
 import Checkbox from '@material-ui/core/Checkbox';
 import CriterionMovies from '../CriterionMovies';
 import { MovieDataProvider } from '../MovieDataProvider';

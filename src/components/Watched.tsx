@@ -1,14 +1,11 @@
 import * as React from 'react';
-import ReactTable from 'react-table';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import CollectionsIcon from '@material-ui/icons/Collections';
 import ViewListIcon from '@material-ui/icons/ViewList';
 import { appState, ContentType } from '../AppState';
-import WatchedMovies from '../WatchedMovies';
 import { WatchedPostersStyled } from './WatchedPosters';
 import { WatchedTable } from './WatchedTable';
-import { MovieDataProvider } from '../MovieDataProvider';
 
 interface WatchedState {
   tabValue: number;
