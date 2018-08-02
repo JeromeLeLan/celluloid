@@ -5,7 +5,7 @@
             "name": "France"
         },
         "RU": {
-            "count": 5,
+            "count": 4,
             "name": "Russia"
         },
         "IT": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 271,
+            "count": 272,
             "name": "United States of America"
         },
         "SE": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 56,
+            "count": 57,
             "name": "Germany"
         },
         "TR": {
@@ -206,8 +206,8 @@
         "1970s": 86,
         "1980s": 78,
         "1990s": 51,
-        "2000s": 30,
-        "2010s": 168
+        "2000s": 31,
+        "2010s": 169
     },
     "genres": {
         "Drama": 341,
@@ -215,13 +215,13 @@
         "Comedy": 122,
         "Horror": 90,
         "Romance": 89,
-        "Mystery": 76,
-        "Science Fiction": 65,
-        "Adventure": 61,
+        "Mystery": 77,
+        "Science Fiction": 66,
+        "Adventure": 62,
         "Crime": 58,
-        "Action": 53,
-        "Documentary": 51,
-        "Fantasy": 38,
+        "Action": 54,
+        "Documentary": 52,
+        "Fantasy": 39,
         "History": 24,
         "War": 21,
         "Animation": 21,
@@ -233,7 +233,7 @@
         [
             6818,
             {
-                "count": 13,
+                "count": 14,
                 "name": "Werner Herzog"
             }
         ],
@@ -266,6 +266,13 @@
             }
         ],
         [
+            7624,
+            {
+                "count": 9,
+                "name": "Stan Lee"
+            }
+        ],
+        [
             8742,
             {
                 "count": 8,
@@ -280,10 +287,10 @@
             }
         ],
         [
-            7624,
+            1245,
             {
                 "count": 8,
-                "name": "Stan Lee"
+                "name": "Scarlett Johansson"
             }
         ],
         [
@@ -291,13 +298,6 @@
             {
                 "count": 8,
                 "name": "Fulvio Mingozzi"
-            }
-        ],
-        [
-            3857,
-            {
-                "count": 7,
-                "name": "Allan Edwall"
             }
         ]
     ],
@@ -312,7 +312,7 @@
         [
             6818,
             {
-                "count": 18,
+                "count": 19,
                 "name": "Werner Herzog"
             }
         ],
@@ -804,6 +804,20 @@
             {
                 "count": 2,
                 "name": "Yasujir\u014d Ozu"
+            }
+        ],
+        [
+            19271,
+            {
+                "count": 2,
+                "name": "Anthony Russo"
+            }
+        ],
+        [
+            19272,
+            {
+                "count": 2,
+                "name": "Joe Russo"
             }
         ],
         [
@@ -1623,20 +1637,6 @@
             {
                 "count": 1,
                 "name": "Ben Wheatley"
-            }
-        ],
-        [
-            19271,
-            {
-                "count": 1,
-                "name": "Anthony Russo"
-            }
-        ],
-        [
-            19272,
-            {
-                "count": 1,
-                "name": "Joe Russo"
             }
         ],
         [
@@ -4237,7 +4237,7 @@
             "watchDate": "2016-02-03",
             "personalRating": 6,
             "runtime": 119,
-            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
+            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
             "director": "John Ford"
         },
         {
@@ -6597,7 +6597,7 @@
             "watchDate": "2017-08-30",
             "personalRating": 4,
             "runtime": 70,
-            "poster_path": "/9U3HDh2NCbnu73ddfPPxdVrnIOi.jpg",
+            "poster_path": "/rn7QGIhx9erkbUFVQYQWDvVHaNA.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -7177,7 +7177,7 @@
             "watchDate": "2017-12-10",
             "personalRating": 5,
             "runtime": 72,
-            "poster_path": "/8SWIIvK7kU1MfnCthjRZzZZIFIh.jpg",
+            "poster_path": "/hSIv9VT0AHvxyYtr1qNB5zWmdCf.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -7747,7 +7747,7 @@
             "watchDate": "2018-03-17",
             "personalRating": 6,
             "runtime": 119,
-            "poster_path": "/tOnLv480hVF40FU2o3vOrVotF9O.jpg",
+            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
             "director": "John Ford"
         },
         {
@@ -8057,7 +8057,7 @@
             "watchDate": "2018-05-02",
             "personalRating": 5,
             "runtime": 151,
-            "poster_path": "/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg",
+            "poster_path": "/9ib8L2mG1BHfIrxeKRoqy2UM7QB.jpg",
             "director": "Ruben \u00d6stlund"
         },
         {
@@ -8349,6 +8349,26 @@
             "runtime": 99,
             "poster_path": "/lj8Kw6YQHfw23hrX6hUz5PdHJXc.jpg",
             "director": "Brian Yuzna"
+        },
+        {
+            "original_title": "Julianes Sturz in den Dschungel",
+            "imdb_id": "tt0249248",
+            "release_date": "2000",
+            "watchDate": "2018-07-29",
+            "personalRating": 5,
+            "runtime": 65,
+            "poster_path": "/y4vcTnwS2Ps7jn7VMtwb7pN867m.jpg",
+            "director": "Werner Herzog"
+        },
+        {
+            "original_title": "Avengers: Infinity War",
+            "imdb_id": "tt4154756",
+            "release_date": "2018",
+            "watchDate": "2018-07-31",
+            "personalRating": 3,
+            "runtime": 149,
+            "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "director": "Joe Russo, Anthony Russo"
         }
     ]
 }

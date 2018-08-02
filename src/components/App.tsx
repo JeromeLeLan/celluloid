@@ -6,6 +6,7 @@ import { CriterionStyled } from './Criterion';
 import { DrawerStyled } from './Drawer';
 import { ToolbarStyled } from './Toolbar';
 import { Watched } from './Watched';
+import { StatisticsStyled } from './Statistics';
 
 @observer
 class App extends React.Component<any, {}> {
@@ -18,6 +19,8 @@ class App extends React.Component<any, {}> {
       mainComponent = <Watched />;
     } else if (ContentType.Criterion === appState.contentType) {
       mainComponent = <CriterionStyled />;
+    } else if (ContentType.Statistics === appState.contentType) {
+      mainComponent = <StatisticsStyled />;
     } else {
       mainComponent = <Watched />;
     }

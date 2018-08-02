@@ -37,7 +37,7 @@ class WatchedPosters extends React.Component<any, WatchedPostersState> {
     this.setState({
       hasMoreItems: false
     });
-    const moviePerPage: number = 8;
+    const moviePerPage: number = 16;
     const movies = this.state.displayedMovies;
     for (let i = (page - 1) * moviePerPage; i < (page * moviePerPage); ++i) {
       if (i >= this.state.watchedMovies.movies.length) {
