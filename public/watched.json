@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 154,
+            "count": 156,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 272,
+            "count": 276,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 63,
+            "count": 65,
             "name": "United Kingdom"
         },
         "CH": {
@@ -69,7 +69,7 @@
             "name": "New Zealand"
         },
         "BE": {
-            "count": 11,
+            "count": 12,
             "name": "Belgium"
         },
         "PL": {
@@ -201,31 +201,31 @@
         "1920s": 3,
         "1930s": 15,
         "1940s": 19,
-        "1950s": 39,
-        "1960s": 69,
+        "1950s": 40,
+        "1960s": 70,
         "1970s": 86,
         "1980s": 78,
         "1990s": 51,
         "2000s": 31,
-        "2010s": 169
+        "2010s": 172
     },
     "genres": {
-        "Drama": 341,
-        "Thriller": 131,
-        "Comedy": 122,
+        "Drama": 344,
+        "Thriller": 133,
+        "Comedy": 124,
         "Horror": 90,
         "Romance": 89,
         "Mystery": 77,
         "Science Fiction": 66,
-        "Adventure": 62,
-        "Crime": 58,
-        "Action": 54,
+        "Adventure": 64,
+        "Crime": 59,
+        "Action": 55,
         "Documentary": 52,
-        "Fantasy": 39,
+        "Fantasy": 40,
         "History": 24,
+        "Animation": 22,
         "War": 21,
-        "Animation": 21,
-        "Family": 20,
+        "Family": 21,
         "Music": 16,
         "Western": 8
     },
@@ -280,6 +280,13 @@
             }
         ],
         [
+            1653,
+            {
+                "count": 8,
+                "name": "Jean-Pierre L\u00e9aud"
+            }
+        ],
+        [
             4,
             {
                 "count": 8,
@@ -291,13 +298,6 @@
             {
                 "count": 8,
                 "name": "Scarlett Johansson"
-            }
-        ],
-        [
-            98774,
-            {
-                "count": 8,
-                "name": "Fulvio Mingozzi"
             }
         ]
     ],
@@ -324,17 +324,17 @@
             }
         ],
         [
+            3776,
+            {
+                "count": 12,
+                "name": "Jean-Luc Godard"
+            }
+        ],
+        [
             10346,
             {
                 "count": 12,
                 "name": "Robert Bresson"
-            }
-        ],
-        [
-            3776,
-            {
-                "count": 11,
-                "name": "Jean-Luc Godard"
             }
         ],
         [
@@ -415,6 +415,13 @@
             }
         ],
         [
+            40,
+            {
+                "count": 5,
+                "name": "Orson Welles"
+            }
+        ],
+        [
             1126,
             {
                 "count": 5,
@@ -468,13 +475,6 @@
             {
                 "count": 4,
                 "name": "Errol Morris"
-            }
-        ],
-        [
-            40,
-            {
-                "count": 4,
-                "name": "Orson Welles"
             }
         ],
         [
@@ -895,6 +895,13 @@
             {
                 "count": 2,
                 "name": "Wim Wenders"
+            }
+        ],
+        [
+            1035,
+            {
+                "count": 2,
+                "name": "Paul Schrader"
             }
         ],
         [
@@ -1483,6 +1490,13 @@
             {
                 "count": 1,
                 "name": "Jack Arnold"
+            }
+        ],
+        [
+            3583,
+            {
+                "count": 1,
+                "name": "Suzanne Schiffman"
             }
         ],
         [
@@ -2466,13 +2480,6 @@
             }
         ],
         [
-            1035,
-            {
-                "count": 1,
-                "name": "Paul Schrader"
-            }
-        ],
-        [
             93406,
             {
                 "count": 1,
@@ -2695,6 +2702,20 @@
                 "count": 1,
                 "name": "Brian Yuzna"
             }
+        ],
+        [
+            87877,
+            {
+                "count": 1,
+                "name": "Roar Uthaug"
+            }
+        ],
+        [
+            7314,
+            {
+                "count": 1,
+                "name": "Nick Park"
+            }
         ]
     ],
     "cinematographers": [
@@ -2708,7 +2729,7 @@
         [
             3540,
             {
-                "count": 11,
+                "count": 12,
                 "name": "Raoul Coutard"
             }
         ],
@@ -2831,7 +2852,7 @@
             "director": "Lasse Hallstr\u00f6m"
         },
         {
-            "original_title": "Le signe du lion",
+            "original_title": "Le Signe du Lion",
             "imdb_id": "tt0053279",
             "release_date": "1962",
             "watchDate": "2015-01-18",
@@ -4101,7 +4122,7 @@
             "director": "Federico Fellini"
         },
         {
-            "original_title": "L'Arbre, le maire et la m\u00e9diath\u00e8que",
+            "original_title": "L'Arbre, le Maire et la M\u00e9diath\u00e8que",
             "imdb_id": "tt0106301",
             "release_date": "1993",
             "watchDate": "2016-01-10",
@@ -4237,7 +4258,7 @@
             "watchDate": "2016-02-03",
             "personalRating": 6,
             "runtime": 119,
-            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
+            "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
             "director": "John Ford"
         },
         {
@@ -4668,7 +4689,7 @@
             "personalRating": 6,
             "runtime": 743,
             "poster_path": "/vcyr1IZOHtPriQkm0NP6oMXDeLS.jpg",
-            "director": "Jacques Rivette"
+            "director": "Jacques Rivette, Suzanne Schiffman"
         },
         {
             "original_title": "Pocahontas",
@@ -5316,8 +5337,8 @@
             "release_date": "2016",
             "watchDate": "2016-10-23",
             "personalRating": 4,
-            "runtime": 122,
-            "poster_path": "/aQqvAfWauk54P63BS7iIpLOsB2o.jpg",
+            "runtime": 124,
+            "poster_path": "/7P1fgJAuKxzFCgEU3B3YS9c4Oz.jpg",
             "director": "Bruno Dumont"
         },
         {
@@ -5906,7 +5927,7 @@
             "release_date": "2016",
             "watchDate": "2017-04-02",
             "personalRating": 4,
-            "runtime": 145,
+            "runtime": 168,
             "poster_path": "/wvzfK5QR6dGLwND8MCzWjsQWG4Q.jpg",
             "director": "Park Chan-wook"
         },
@@ -7747,7 +7768,7 @@
             "watchDate": "2018-03-17",
             "personalRating": 6,
             "runtime": 119,
-            "poster_path": "/91aMN46mKM2u5440URJZ3Yd9r3K.jpg",
+            "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
             "director": "John Ford"
         },
         {
@@ -8261,7 +8282,7 @@
             "director": "Masaki Kobayashi"
         },
         {
-            "original_title": "Le beau mariage",
+            "original_title": "Le Beau Mariage",
             "imdb_id": "tt0082053",
             "release_date": "1982",
             "watchDate": "2018-07-14",
@@ -8369,6 +8390,56 @@
             "runtime": 149,
             "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
             "director": "Joe Russo, Anthony Russo"
+        },
+        {
+            "original_title": "La Chinoise",
+            "imdb_id": "tt0061473",
+            "release_date": "1967",
+            "watchDate": "2018-08-03",
+            "personalRating": 4,
+            "runtime": 96,
+            "poster_path": "/j9RwOcVFgPD3L9ktoUOYuejquJa.jpg",
+            "director": "Jean-Luc Godard"
+        },
+        {
+            "original_title": "Tomb Raider",
+            "imdb_id": "tt1365519",
+            "release_date": "2018",
+            "watchDate": "2018-08-04",
+            "personalRating": 3,
+            "runtime": 118,
+            "poster_path": "/3zrC5tUiR35rTz9stuIxnU1nUS5.jpg",
+            "director": "Roar Uthaug"
+        },
+        {
+            "original_title": "Early Man",
+            "imdb_id": "tt4701724",
+            "release_date": "2018",
+            "watchDate": "2018-08-04",
+            "personalRating": 3,
+            "runtime": 89,
+            "poster_path": "/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg",
+            "director": "Nick Park"
+        },
+        {
+            "original_title": "First Reformed",
+            "imdb_id": "tt6053438",
+            "release_date": "2018",
+            "watchDate": "2018-08-05",
+            "personalRating": 5,
+            "runtime": 113,
+            "poster_path": "/p2UylV0hPefEuWPFMo1r56vu2nb.jpg",
+            "director": "Paul Schrader"
+        },
+        {
+            "original_title": "Touch of Evil",
+            "imdb_id": "tt0052311",
+            "release_date": "1958",
+            "watchDate": "2018-08-05",
+            "personalRating": 4,
+            "runtime": 95,
+            "poster_path": "/zWfkZmmGpM67HWB9sxzo3B09TWj.jpg",
+            "director": "Orson Welles"
         }
     ]
 }
