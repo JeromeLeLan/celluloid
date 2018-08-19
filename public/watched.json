@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 156,
+            "count": 157,
             "name": "France"
         },
         "RU": {
@@ -9,11 +9,11 @@
             "name": "Russia"
         },
         "IT": {
-            "count": 44,
+            "count": 45,
             "name": "Italy"
         },
         "US": {
-            "count": 276,
+            "count": 281,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 65,
+            "count": 66,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 57,
+            "count": 58,
             "name": "Germany"
         },
         "TR": {
@@ -89,7 +89,7 @@
             "name": "Mexico"
         },
         "TH": {
-            "count": 1,
+            "count": 2,
             "name": "Thailand"
         },
         "MY": {
@@ -121,7 +121,7 @@
             "name": "Ireland"
         },
         "CZ": {
-            "count": 3,
+            "count": 4,
             "name": "Czech Republic"
         },
         "IS": {
@@ -202,31 +202,31 @@
         "1930s": 15,
         "1940s": 19,
         "1950s": 40,
-        "1960s": 70,
-        "1970s": 86,
-        "1980s": 78,
-        "1990s": 51,
+        "1960s": 73,
+        "1970s": 87,
+        "1980s": 81,
+        "1990s": 52,
         "2000s": 31,
         "2010s": 172
     },
     "genres": {
-        "Drama": 344,
-        "Thriller": 133,
-        "Comedy": 124,
+        "Drama": 348,
+        "Thriller": 135,
+        "Comedy": 125,
+        "Romance": 91,
         "Horror": 90,
-        "Romance": 89,
         "Mystery": 77,
         "Science Fiction": 66,
         "Adventure": 64,
-        "Crime": 59,
+        "Crime": 61,
         "Action": 55,
-        "Documentary": 52,
+        "Documentary": 54,
         "Fantasy": 40,
-        "History": 24,
+        "History": 27,
+        "War": 22,
         "Animation": 22,
-        "War": 21,
         "Family": 21,
-        "Music": 16,
+        "Music": 17,
         "Western": 8
     },
     "actors": [
@@ -319,14 +319,14 @@
         [
             1150,
             {
-                "count": 15,
+                "count": 16,
                 "name": "Brian De Palma"
             }
         ],
         [
             3776,
             {
-                "count": 12,
+                "count": 13,
                 "name": "Jean-Luc Godard"
             }
         ],
@@ -373,6 +373,13 @@
             }
         ],
         [
+            5602,
+            {
+                "count": 7,
+                "name": "David Lynch"
+            }
+        ],
+        [
             3556,
             {
                 "count": 7,
@@ -384,13 +391,6 @@
             {
                 "count": 7,
                 "name": "Agn\u00e8s Varda"
-            }
-        ],
-        [
-            5602,
-            {
-                "count": 6,
-                "name": "David Lynch"
             }
         ],
         [
@@ -625,6 +625,13 @@
             }
         ],
         [
+            68993,
+            {
+                "count": 2,
+                "name": "Godfrey Reggio"
+            }
+        ],
+        [
             4762,
             {
                 "count": 2,
@@ -720,6 +727,13 @@
             {
                 "count": 2,
                 "name": "Wes Anderson"
+            }
+        ],
+        [
+            15175,
+            {
+                "count": 2,
+                "name": "William Friedkin"
             }
         ],
         [
@@ -867,6 +881,13 @@
             {
                 "count": 2,
                 "name": "Mario Bava"
+            }
+        ],
+        [
+            32327,
+            {
+                "count": 2,
+                "name": "Ken Russell"
             }
         ],
         [
@@ -1031,13 +1052,6 @@
             }
         ],
         [
-            68993,
-            {
-                "count": 1,
-                "name": "Godfrey Reggio"
-            }
-        ],
-        [
             10921,
             {
                 "count": 1,
@@ -1175,13 +1189,6 @@
             {
                 "count": 1,
                 "name": "Apichatpong Weerasethakul"
-            }
-        ],
-        [
-            15175,
-            {
-                "count": 1,
-                "name": "William Friedkin"
             }
         ],
         [
@@ -2179,13 +2186,6 @@
             }
         ],
         [
-            32327,
-            {
-                "count": 1,
-                "name": "Ken Russell"
-            }
-        ],
-        [
             592493,
             {
                 "count": 1,
@@ -2716,6 +2716,34 @@
                 "count": 1,
                 "name": "Nick Park"
             }
+        ],
+        [
+            58021,
+            {
+                "count": 1,
+                "name": "Tinto Brass"
+            }
+        ],
+        [
+            1866993,
+            {
+                "count": 1,
+                "name": "Bob Guccione"
+            }
+        ],
+        [
+            1458870,
+            {
+                "count": 1,
+                "name": "Giancarlo Lui"
+            }
+        ],
+        [
+            226662,
+            {
+                "count": 1,
+                "name": "Franti\u0161ek Vl\u00e1\u010dil"
+            }
         ]
     ],
     "cinematographers": [
@@ -2776,17 +2804,17 @@
             }
         ],
         [
+            1258,
+            {
+                "count": 5,
+                "name": "Stephen H. Burum"
+            }
+        ],
+        [
             6652,
             {
                 "count": 4,
                 "name": "Gunnar Fischer"
-            }
-        ],
-        [
-            14020,
-            {
-                "count": 4,
-                "name": "Roland Totheroh"
             }
         ]
     ],
@@ -3808,7 +3836,7 @@
             "watchDate": "2015-11-08",
             "personalRating": 4,
             "runtime": 90,
-            "poster_path": "/q30AyCzatwhTgyO2jLLLCWvAslu.jpg",
+            "poster_path": "/loCd5o7kk8wzNEJUwVSXGfOsisa.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -5332,7 +5360,7 @@
             "director": "Conrad Vernon, Greg Tiernan"
         },
         {
-            "original_title": "Ma loute",
+            "original_title": "Ma Loute",
             "imdb_id": "tt4726636",
             "release_date": "2016",
             "watchDate": "2016-10-23",
@@ -5498,7 +5526,7 @@
             "watchDate": "2016-12-18",
             "personalRating": 5,
             "runtime": 127,
-            "poster_path": "/AshFxEhbFe9Mi3YjAv5btbxgX9s.jpg",
+            "poster_path": "/cN7A9OODtSQpTgMxC31vFAN8ta.jpg",
             "director": "Costa-Gavras"
         },
         {
@@ -5538,7 +5566,7 @@
             "watchDate": "2016-12-21",
             "personalRating": 4,
             "runtime": 105,
-            "poster_path": "/1obuqweg5lipvB3GiS7FV15ciTZ.jpg",
+            "poster_path": "/nWa1vufekd3O4eoyHmm7XBybKfe.jpg",
             "director": "Alain Robbe-Grillet"
         },
         {
@@ -6458,7 +6486,7 @@
             "watchDate": "2017-08-07",
             "personalRating": 5,
             "runtime": 128,
-            "poster_path": "/kvNh6RhOZZRyIZlS8f0izVC7km2.jpg",
+            "poster_path": "/hRaKDD2Tsbb3I1tx0OgowG4yBNO.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -6588,7 +6616,7 @@
             "watchDate": "2017-08-26",
             "personalRating": 5,
             "runtime": 105,
-            "poster_path": "/iUTzQnTGy7rzhFs5GnsXNAT48KE.jpg",
+            "poster_path": "/5vjKEBfpTH1Yyd2jVP0I4OAbvA.jpg",
             "director": "Don Siegel"
         },
         {
@@ -6797,8 +6825,8 @@
             "release_date": "1967",
             "watchDate": "2017-10-16",
             "personalRating": 4,
-            "runtime": 100,
-            "poster_path": "/1umitwqhO4jO3hOq4TuSLG2ICtT.jpg",
+            "runtime": 87,
+            "poster_path": "/w0LilVoboSNFajkDLlbFllt59gz.jpg",
             "director": "Jean-Luc Godard"
         },
         {
@@ -6897,7 +6925,7 @@
             "release_date": "1987",
             "watchDate": "2017-11-01",
             "personalRating": 1,
-            "runtime": 75,
+            "runtime": 71,
             "poster_path": "/xNKYPkV5965pKkiObDzp9pGKMj7.jpg",
             "director": "J\u00f6rg Buttgereit"
         },
@@ -7138,7 +7166,7 @@
             "watchDate": "2017-12-04",
             "personalRating": 3,
             "runtime": 104,
-            "poster_path": "/2rx92z72K5hZtsw9Q8ZqEkOPaeb.jpg",
+            "poster_path": "/hEFlF2M4nJ9OszjZaJ2oaRt9lr0.jpg",
             "director": "Dario Argento"
         },
         {
@@ -7158,7 +7186,7 @@
             "watchDate": "2017-12-07",
             "personalRating": 5,
             "runtime": 104,
-            "poster_path": "/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg",
+            "poster_path": "/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg",
             "director": "James Franco"
         },
         {
@@ -7227,8 +7255,8 @@
             "release_date": "2017",
             "watchDate": "2017-12-15",
             "personalRating": 3,
-            "runtime": 102,
-            "poster_path": "/ltWxsC5S0v1uyOX46qcQm1N7VZf.jpg",
+            "runtime": 108,
+            "poster_path": "/JfAE5Pj1Qqv7Ij5DaUG0QoZC97.jpg",
             "director": "Michel Hazanavicius"
         },
         {
@@ -8187,7 +8215,7 @@
             "release_date": "2017",
             "watchDate": "2018-06-16",
             "personalRating": 1,
-            "runtime": 106,
+            "runtime": 107,
             "poster_path": "/xAKqG5SpsHU7vI6Fh4UYxFrDDZZ.jpg",
             "director": "Armando Iannucci"
         },
@@ -8440,6 +8468,86 @@
             "runtime": 95,
             "poster_path": "/zWfkZmmGpM67HWB9sxzo3B09TWj.jpg",
             "director": "Orson Welles"
+        },
+        {
+            "original_title": "Wild at Heart",
+            "imdb_id": "tt0100935",
+            "release_date": "1990",
+            "watchDate": "2018-08-12",
+            "personalRating": 3,
+            "runtime": 124,
+            "poster_path": "/d4fbQjSSBd4FPyAROln1skafChr.jpg",
+            "director": "David Lynch"
+        },
+        {
+            "original_title": "Caligola",
+            "imdb_id": "tt0080491",
+            "release_date": "1979",
+            "watchDate": "2018-08-12",
+            "personalRating": 2,
+            "runtime": 156,
+            "poster_path": "/PHfmIVnKpLI76BhKmJk9CjNjZ1.jpg",
+            "director": "Tinto Brass, Bob Guccione, Giancarlo Lui"
+        },
+        {
+            "original_title": "To Live and Die in L.A.",
+            "imdb_id": "tt0090180",
+            "release_date": "1985",
+            "watchDate": "2018-08-12",
+            "personalRating": 5,
+            "runtime": 116,
+            "poster_path": "/s1CouGvXDYAFC4Mmr5K02nF764v.jpg",
+            "director": "William Friedkin"
+        },
+        {
+            "original_title": "Casualties of War",
+            "imdb_id": "tt0097027",
+            "release_date": "1989",
+            "watchDate": "2018-08-13",
+            "personalRating": 4,
+            "runtime": 113,
+            "poster_path": "/vwIkjKYMrlewvxjLICR4v4cfGPN.jpg",
+            "director": "Brian De Palma"
+        },
+        {
+            "original_title": "Koyaanisqatsi",
+            "imdb_id": "tt0085809",
+            "release_date": "1982",
+            "watchDate": "2018-08-14",
+            "personalRating": 6,
+            "runtime": 87,
+            "poster_path": "/hxL6Obbbbh9KPvGpXX7F1Oc9Fft.jpg",
+            "director": "Godfrey Reggio"
+        },
+        {
+            "original_title": "Marketa Lazarov\u00e1",
+            "imdb_id": "tt0063278",
+            "release_date": "1967",
+            "watchDate": "2018-08-17",
+            "personalRating": 3,
+            "runtime": 162,
+            "poster_path": "/4vGcn1FlsaXdPuFZ3Rhdtkg65Ay.jpg",
+            "director": "Franti\u0161ek Vl\u00e1\u010dil"
+        },
+        {
+            "original_title": "Women in Love",
+            "imdb_id": "tt0066579",
+            "release_date": "1969",
+            "watchDate": "2018-08-17",
+            "personalRating": 4,
+            "runtime": 131,
+            "poster_path": "/1fqHOk6pNfvSRbRuwqqOPulQKu1.jpg",
+            "director": "Ken Russell"
+        },
+        {
+            "original_title": "Un film comme les autres",
+            "imdb_id": "tt0063736",
+            "release_date": "1968",
+            "watchDate": "2018-08-18",
+            "personalRating": 3,
+            "runtime": 120,
+            "poster_path": "/rTmskN7JlWGepGFL0IRnmZPKA9F.jpg",
+            "director": "Jean-Luc Godard"
         }
     ]
 }
