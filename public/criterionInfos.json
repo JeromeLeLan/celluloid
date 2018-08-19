@@ -333,7 +333,7 @@
     {
       "url": "https://www.criterion.com/films/300-andrei-rublev",
       "spine": 34,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/56f99b1a0e803b12d34b73a6b5127cd8/kg8eD35EfxEhGgZjgrSNlFwaZsYrM8_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cef59cc409f2026448ee1292336bb5c2/USAkq7ABJffPQM1hvXfwfvMQntufhR_original.jpg",
       "title": "Andrei Rublev",
       "director": "Andrei Tarkovsky",
       "year": "1966",
@@ -925,9 +925,9 @@
       "spine": 93,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c2a614703cc6b07a7b3446e218bf4f06/1GGBmkMqFTNQpPngTALkhW66O6cKMi_original.jpg",
       "title": "Black Narcissus",
-      "director": "Michael Powell...",
+      "director": "Michael Powell and Emeric Pressburger",
       "year": "1947",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -1087,7 +1087,7 @@
       "title": "The Scarlet Empress",
       "director": "Josef von Sternberg",
       "year": "1934",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1547,7 +1547,7 @@
       "title": "Tokyo Olympiad",
       "director": "Kon Ichikawa",
       "year": "1965",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -3057,7 +3057,7 @@
       "title": "Le samouraï",
       "director": "Jean-Pierre Melville",
       "year": "1967",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -3087,7 +3087,7 @@
       "title": "Ugetsu",
       "director": "Kenji Mizoguchi",
       "year": "1953",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -3097,7 +3097,7 @@
       "title": "Samurai Rebellion",
       "director": "Masaki Kobayashi",
       "year": "1967",
-      "country": "Japan",
+      "country": "",
       "watched": true
     },
     {
@@ -3737,7 +3737,7 @@
       "title": "Bicycle Thieves",
       "director": "Vittorio De Sica",
       "year": "1948",
-      "country": "Italy",
+      "country": "",
       "watched": true
     },
     {
@@ -6608,7 +6608,7 @@
       "director": "František Vláčil",
       "year": "1967",
       "country": "Czechoslovakia",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28446-safety-last",
@@ -6767,7 +6767,7 @@
       "title": "The Uninvited",
       "director": "Lewis Allen",
       "year": "1944",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8457,7 +8457,7 @@
       "title": "Heart of a Dog",
       "director": "Laurie Anderson",
       "year": "2015",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8757,7 +8757,7 @@
       "title": "Revenge",
       "director": "Ermek Shinarbaev",
       "year": "1989",
-      "country": "Kazakhstan",
+      "country": "",
       "watched": false
     },
     {
@@ -9137,7 +9137,7 @@
       "title": "Baal",
       "director": "Volker Schlöndorff",
       "year": "1970",
-      "country": "West Germany",
+      "country": "",
       "watched": false
     },
     {
@@ -9158,7 +9158,7 @@
       "director": "Ken Russell",
       "year": "1969",
       "country": "United Kingdom",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27904-the-awful-truth",
@@ -9337,7 +9337,7 @@
       "title": "Blonde Venus",
       "director": "Josef von Sternberg",
       "year": "1932",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9347,7 +9347,7 @@
       "title": "The Devil Is a Woman",
       "director": "Josef von Sternberg",
       "year": "1935",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9479,6 +9479,46 @@
       "year": "1987",
       "country": "",
       "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28160-a-story-from-chikamatsu",
+      "spine": 949,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f4ad6be2540c633598390d4e99bacfaa/8Z68h0ZUt4LzJE6hZO2rLOvfrA9avZ_original.jpg",
+      "title": "A Story from Chikamatsu",
+      "director": "Kenji Mizoguchi",
+      "year": "1954",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29162-some-like-it-hot",
+      "spine": 950,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/720ac5d0fe56d3f5e365059a7bb21b86/QsIig1CXGzvqmO7UR79mko1R3l2NoX_original.jpg",
+      "title": "Some Like It Hot",
+      "director": "Billy Wilder",
+      "year": "1959",
+      "country": "",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29038-true-stories",
+      "spine": 951,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f3cc7e13ff5258a67f9fd0bdd6a21b41/hc29OFd2LPasAznwjrzhNK7TGvlaJ7_original.jpg",
+      "title": "True Stories",
+      "director": "David Byrne",
+      "year": "1986",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
+      "spine": 952,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/508da13d74af7209190380bec79002ab/KzkULFHCmg1KGSgM6OAm6LQUONSDWJ_original.jpg",
+      "title": "The Magnificent Ambersons",
+      "director": "Orson Welles",
+      "year": "1942",
+      "country": "",
+      "watched": false
     }
   ]
 }

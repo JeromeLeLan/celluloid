@@ -8,6 +8,11 @@ exportFile = os.path.join(scriptPath, '../public/criterionInfos.json')
 posterPath = os.path.join(scriptPath, '../posters')
 criterionUrl = 'https://www.criterion.com/shop/browse/list?sort=spine_number'
 
+def cleanUpFolder():
+  if os.path.exists(posterPath):
+    shutil.rmtree(posterPath)
+  os.makedirs(posterPath)
+
 def cleanString(str):
   str = str.replace('&amp;', '&')
   str = str.replace('&#039;', '\'')
@@ -15,6 +20,11 @@ def cleanString(str):
   str = str.replace('&nbsp;', ' ')
   str = str.replace('<i>', '')
   str = str.replace('< i>', '')
+  return str
+
+def cleanFilename(str):
+  str = str.replace(':', ' ')
+  str = str.replace('/', ' ')
   return str
 
 def parseCriterion(getPosters):
@@ -27,9 +37,7 @@ def parseCriterion(getPosters):
       watchedList.append(movieWatched.strip() == '1')
 
   if getPosters:
-    if os.path.exists(posterPath):
-      shutil.rmtree(posterPath)
-    os.makedirs(posterPath)
+    cleanUpFolder()
 
   request = urllib.request.Request(criterionUrl)
   response = urllib.request.urlopen(request)
@@ -93,15 +101,18 @@ def parseCriterion(getPosters):
     print(movie['title'].encode('iso-8859-1'))
     sys.stdout.flush()
 
-    if getPosters:
-      fileName += movie['title']
-      filePath = os.path.join(posterPath, fileName + '.jpg')
-      urllib.request.urlretrieve(movie['imgUrl'], filePath.encode('iso-8859-1'))
-
     if addToJson:
       movie['spine'] = int(movie['spine'])
       movie['watched'] = watchedList[movie['spine'] - 1]
       jsonResult['movies'].append(movie)
+
+      if getPosters:
+        fileName += movie['title']
+        fileName = cleanFilename(fileName)
+        if movie['watched']:
+          fileName += ' @seen'
+        filePath = os.path.join(posterPath, fileName + '.jpg')
+        urllib.request.urlretrieve(movie['imgUrl'], filePath.encode('iso-8859-1'))
     
   file = open(exportFile, 'w', encoding='iso-8859-1')
   file.write(json.dumps(jsonResult, indent=2, ensure_ascii=False, separators=(',', ': ')))

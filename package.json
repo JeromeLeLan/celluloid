@@ -10,9 +10,10 @@
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject",
+    "movies": "py scripts/generateMovieInfos.py",
     "criterion": "py scripts/parseCriterionInfos.py",
-    "criterionPosters": "py scripts/parseCriterionInfos.py --posters",
-    "movies": "py scripts/generateMovieInfos.py"
+    "posters": "py scripts/parseCriterionInfos.py --posters",
+    "wallpapers": "py scripts/generateWallpapers.py"
   },
   "dependencies": {
     "@material-ui/core": "^1.0.0",
