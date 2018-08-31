@@ -958,7 +958,7 @@
       "director": "Douglas Sirk",
       "year": "1956",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/286-do-the-right-thing",
@@ -2898,7 +2898,7 @@
       "director": "Luis Buñuel",
       "year": "1974",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/878-heaven-can-wait",
@@ -9493,7 +9493,7 @@
     {
       "url": "https://www.criterion.com/films/29162-some-like-it-hot",
       "spine": 950,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/720ac5d0fe56d3f5e365059a7bb21b86/QsIig1CXGzvqmO7UR79mko1R3l2NoX_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b935a8eaff6f0e92d17b18a1cd19fdf6/5ZrsCMJikkq6bPNmWjofhZswbi544L_original.jpg",
       "title": "Some Like It Hot",
       "director": "Billy Wilder",
       "year": "1959",
