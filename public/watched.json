@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 158,
+            "count": 161,
             "name": "France"
         },
         "RU": {
@@ -9,11 +9,11 @@
             "name": "Russia"
         },
         "IT": {
-            "count": 46,
+            "count": 47,
             "name": "Italy"
         },
         "US": {
-            "count": 283,
+            "count": 287,
             "name": "United States of America"
         },
         "SE": {
@@ -49,7 +49,7 @@
             "name": "Spain"
         },
         "CA": {
-            "count": 30,
+            "count": 29,
             "name": "Canada"
         },
         "AR": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 28,
+            "count": 29,
             "name": "Japan"
         },
         "MX": {
@@ -172,6 +172,10 @@
             "count": 1,
             "name": "Oman"
         },
+        "SK": {
+            "count": 1,
+            "name": "Slovakia"
+        },
         "PH": {
             "count": 1,
             "name": "Philippines"
@@ -199,33 +203,33 @@
     },
     "decades": {
         "1920s": 3,
-        "1930s": 15,
-        "1940s": 19,
+        "1930s": 16,
+        "1940s": 21,
         "1950s": 41,
-        "1960s": 73,
-        "1970s": 88,
+        "1960s": 74,
+        "1970s": 89,
         "1980s": 82,
         "1990s": 52,
         "2000s": 31,
-        "2010s": 172
+        "2010s": 175
     },
     "genres": {
-        "Drama": 349,
-        "Thriller": 135,
-        "Comedy": 126,
-        "Romance": 93,
-        "Horror": 90,
-        "Mystery": 77,
-        "Science Fiction": 67,
-        "Adventure": 64,
-        "Crime": 61,
-        "Action": 55,
-        "Documentary": 54,
-        "Fantasy": 40,
-        "History": 27,
-        "War": 22,
+        "Drama": 352,
+        "Thriller": 136,
+        "Comedy": 128,
+        "Romance": 96,
+        "Horror": 91,
+        "Mystery": 78,
+        "Science Fiction": 69,
+        "Adventure": 66,
+        "Crime": 62,
+        "Action": 56,
+        "Documentary": 56,
+        "Fantasy": 39,
+        "History": 28,
+        "War": 23,
+        "Family": 22,
         "Animation": 22,
-        "Family": 21,
         "Music": 17,
         "Western": 8
     },
@@ -394,6 +398,13 @@
             }
         ],
         [
+            40,
+            {
+                "count": 6,
+                "name": "Orson Welles"
+            }
+        ],
+        [
             9789,
             {
                 "count": 6,
@@ -415,13 +426,6 @@
             }
         ],
         [
-            40,
-            {
-                "count": 5,
-                "name": "Orson Welles"
-            }
-        ],
-        [
             1126,
             {
                 "count": 5,
@@ -439,7 +443,7 @@
             11572,
             {
                 "count": 5,
-                "name": "Carl Theodor Dreyer"
+                "name": "Carl Th. Dreyer"
             }
         ],
         [
@@ -709,6 +713,13 @@
             }
         ],
         [
+            11983,
+            {
+                "count": 2,
+                "name": "Alain Resnais"
+            }
+        ],
+        [
             7,
             {
                 "count": 2,
@@ -902,6 +913,13 @@
             {
                 "count": 2,
                 "name": "Ken Russell"
+            }
+        ],
+        [
+            2428,
+            {
+                "count": 2,
+                "name": "Ernst Lubitsch"
             }
         ],
         [
@@ -1150,13 +1168,6 @@
             }
         ],
         [
-            11983,
-            {
-                "count": 1,
-                "name": "Alain Resnais"
-            }
-        ],
-        [
             1170861,
             {
                 "count": 1,
@@ -1224,6 +1235,27 @@
             {
                 "count": 1,
                 "name": "Yuen Woo-ping"
+            }
+        ],
+        [
+            2121193,
+            {
+                "count": 1,
+                "name": "Gary Graver"
+            }
+        ],
+        [
+            143081,
+            {
+                "count": 1,
+                "name": "Oja Kodar"
+            }
+        ],
+        [
+            1146725,
+            {
+                "count": 1,
+                "name": "Fran\u00e7ois Reichenbach"
             }
         ],
         [
@@ -2235,13 +2267,6 @@
             }
         ],
         [
-            2428,
-            {
-                "count": 1,
-                "name": "Ernst Lubitsch"
-            }
-        ],
-        [
             58245,
             {
                 "count": 1,
@@ -2751,6 +2776,41 @@
                 "count": 1,
                 "name": "Steve De Jarnatt"
             }
+        ],
+        [
+            51894,
+            {
+                "count": 1,
+                "name": "J. A. Bayona"
+            }
+        ],
+        [
+            4410,
+            {
+                "count": 1,
+                "name": "Roberto Rossellini"
+            }
+        ],
+        [
+            23393,
+            {
+                "count": 1,
+                "name": "Barbet Schroeder"
+            }
+        ],
+        [
+            1053172,
+            {
+                "count": 1,
+                "name": "Bertrand Mandico"
+            }
+        ],
+        [
+            1087779,
+            {
+                "count": 1,
+                "name": "Stephen Schible"
+            }
         ]
     ],
     "cinematographers": [
@@ -2769,17 +2829,17 @@
             }
         ],
         [
+            3569,
+            {
+                "count": 7,
+                "name": "N\u00e9stor Almendros"
+            }
+        ],
+        [
             11988,
             {
                 "count": 7,
                 "name": "Ghislain Cloquet"
-            }
-        ],
-        [
-            3569,
-            {
-                "count": 6,
-                "name": "N\u00e9stor Almendros"
             }
         ],
         [
@@ -2863,7 +2923,7 @@
             "watchDate": "2015-01-11",
             "personalRating": 6,
             "runtime": 149,
-            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+            "poster_path": "/v7nEBG4ulpGol1QKC5EHnLomFa.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -3393,7 +3453,7 @@
             "watchDate": "2015-06-07",
             "personalRating": 4,
             "runtime": 115,
-            "poster_path": "/zvKZPqLyFfZ1wi8BFKG2KgNZ5mY.jpg",
+            "poster_path": "/aerF4eDsrSWZWPfJ7svnrIXkWZD.jpg",
             "director": "Fran\u00e7ois Truffaut"
         },
         {
@@ -3944,7 +4004,7 @@
             "personalRating": 5,
             "runtime": 89,
             "poster_path": "/9Kh39gLE5XErkPmn5nZrPJXNabb.jpg",
-            "director": "Orson Welles"
+            "director": "Orson Welles, Gary Graver, Oja Kodar, Fran\u00e7ois Reichenbach"
         },
         {
             "original_title": "Gates of Heaven",
@@ -4263,7 +4323,7 @@
             "watchDate": "2016-01-30",
             "personalRating": 4,
             "runtime": 84,
-            "poster_path": "/baz1c9dzsf5uhNuUYhXy7eudNJd.jpg",
+            "poster_path": "/oTIedyxqFnswwU8PgrliRzpmSXN.jpg",
             "director": "Jean-Luc Godard"
         },
         {
@@ -4383,7 +4443,7 @@
             "watchDate": "2016-03-14",
             "personalRating": 3,
             "runtime": 110,
-            "poster_path": "/tUE1rWD7Uga2U7CSM0P4mBJnHac.jpg",
+            "poster_path": "/x6H3BfJxtXrTjsUzGgeKqYiwZea.jpg",
             "director": "Jean-Luc Godard"
         },
         {
@@ -4433,7 +4493,7 @@
             "watchDate": "2016-03-23",
             "personalRating": 6,
             "runtime": 141,
-            "poster_path": "/1XzEOEUFtdV2WdD7PRC39aYy1bA.jpg",
+            "poster_path": "/vRdMgk0Bx6NPcSxRK8O5KDVwzCe.jpg",
             "director": "John Cassavetes"
         },
         {
@@ -4773,7 +4833,7 @@
             "watchDate": "2016-06-14",
             "personalRating": 5,
             "runtime": 98,
-            "poster_path": "/lam4GTDj11SoyCVC5svEygIHDgi.jpg",
+            "poster_path": "/mFFqthZqOmCCktecOHia0Jn3JEH.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -5162,7 +5222,7 @@
             "release_date": "2009",
             "watchDate": "2016-08-25",
             "personalRating": 5,
-            "runtime": 128,
+            "runtime": 129,
             "poster_path": "/mHdlmzflukTX2a2w6rwOkCix34v.jpg",
             "director": "Bong Joon-ho"
         },
@@ -5213,7 +5273,7 @@
             "watchDate": "2016-09-28",
             "personalRating": 3,
             "runtime": 108,
-            "poster_path": "/bikkYoOBmvFjcB5P5QcRWebSWRe.jpg",
+            "poster_path": "/8iKX6dEiwcWhnrtS6OEVMnfcxua.jpg",
             "director": "Fran\u00e7ois Truffaut"
         },
         {
@@ -5313,7 +5373,7 @@
             "watchDate": "2016-10-12",
             "personalRating": 5,
             "runtime": 78,
-            "poster_path": "/frB49u0kbzevPDMZMDKGXQ01btq.jpg",
+            "poster_path": "/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg",
             "director": "Herk Harvey"
         },
         {
@@ -5572,7 +5632,7 @@
             "release_date": "1966",
             "watchDate": "2016-12-21",
             "personalRating": 4,
-            "runtime": 105,
+            "runtime": 90,
             "poster_path": "/nWa1vufekd3O4eoyHmm7XBybKfe.jpg",
             "director": "Alain Robbe-Grillet"
         },
@@ -5643,7 +5703,7 @@
             "watchDate": "2017-01-07",
             "personalRating": 5,
             "runtime": 112,
-            "poster_path": "/kaHXWsxJZMZMFNDtwkYdPpIsm7M.jpg",
+            "poster_path": "/fjIVHiAaBUEtBbHgRLoTgeY8Ter.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -6423,7 +6483,7 @@
             "watchDate": "2017-07-22",
             "personalRating": 1,
             "runtime": 123,
-            "poster_path": "/6UqOP9FsGKoWOnAZWgx21H5ilef.jpg",
+            "poster_path": "/e2zRQBkXWWRThFO4LUsfm7IXJr0.jpg",
             "director": "Mark Robson"
         },
         {
@@ -6473,7 +6533,7 @@
             "watchDate": "2017-08-05",
             "personalRating": 5,
             "runtime": 94,
-            "poster_path": "/1q8Isw4aCTWYnwx3853BWHH0DV1.jpg",
+            "poster_path": "/iHtAIWzqupaCm1mz3FlfjsuXXN7.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -6803,7 +6863,7 @@
             "watchDate": "2017-10-11",
             "personalRating": 4,
             "runtime": 105,
-            "poster_path": "/jlXMlB32VYKGE7JOPi7hAbfQ2Gr.jpg",
+            "poster_path": "/uuUznSXmy389BhWSee7OXAJBqMj.jpg",
             "director": "Lucio Fulci"
         },
         {
@@ -7364,7 +7424,7 @@
             "personalRating": 5,
             "runtime": 107,
             "poster_path": "/8pNAYSxE3f47ViKodnJ3HaGb4tc.jpg",
-            "director": "Carl Theodor Dreyer"
+            "director": "Carl Th. Dreyer"
         },
         {
             "original_title": "Vampyr - Der Traum des Allan Grey",
@@ -7374,7 +7434,7 @@
             "personalRating": 5,
             "runtime": 74,
             "poster_path": "/zSNbZz5xKTPBs2umK8OSBUqRfBF.jpg",
-            "director": "Carl Theodor Dreyer"
+            "director": "Carl Th. Dreyer"
         },
         {
             "original_title": "Day of Wrath",
@@ -7384,7 +7444,7 @@
             "personalRating": 6,
             "runtime": 97,
             "poster_path": "/2GNH1L2ynINivmPwTe5bCZX3rv6.jpg",
-            "director": "Carl Theodor Dreyer"
+            "director": "Carl Th. Dreyer"
         },
         {
             "original_title": "The Sacrifice",
@@ -7393,7 +7453,7 @@
             "watchDate": "2018-01-10",
             "personalRating": 6,
             "runtime": 149,
-            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+            "poster_path": "/v7nEBG4ulpGol1QKC5EHnLomFa.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -7433,7 +7493,7 @@
             "watchDate": "2018-01-22",
             "personalRating": 5,
             "runtime": 131,
-            "poster_path": "/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg",
+            "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
             "director": "Paul Thomas Anderson"
         },
         {
@@ -7647,7 +7707,7 @@
             "director": "Lana Wachowski, Lilly Wachowski"
         },
         {
-            "original_title": "La belle noiseuse",
+            "original_title": "La Belle Noiseuse",
             "imdb_id": "tt0101428",
             "release_date": "1991",
             "watchDate": "2018-02-10",
@@ -7774,7 +7834,7 @@
             "personalRating": 6,
             "runtime": 125,
             "poster_path": "/e3oh96Zrqdaku8DoD10pXZHLZoU.jpg",
-            "director": "Carl Theodor Dreyer"
+            "director": "Carl Th. Dreyer"
         },
         {
             "original_title": "Star Wars: The Last Jedi",
@@ -7813,7 +7873,7 @@
             "watchDate": "2018-03-18",
             "personalRating": 6,
             "runtime": 128,
-            "poster_path": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg",
+            "poster_path": "/pj7aul2Z849NuD8LUVcUtrgZpzI.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -8014,7 +8074,7 @@
             "personalRating": 5,
             "runtime": 119,
             "poster_path": "/jDS2ynVUcyUJzVg4ffzn9MFqVrD.jpg",
-            "director": "Carl Theodor Dreyer"
+            "director": "Carl Th. Dreyer"
         },
         {
             "original_title": "Tag",
@@ -8023,7 +8083,7 @@
             "watchDate": "2018-04-22",
             "personalRating": 3,
             "runtime": 85,
-            "poster_path": "/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg",
+            "poster_path": "/5Z4twEHwMtCg41eKO3pXiddfzHR.jpg",
             "director": "Sion Sono"
         },
         {
@@ -8229,7 +8289,7 @@
         {
             "original_title": "The Post",
             "imdb_id": "tt6294822",
-            "release_date": "2018",
+            "release_date": "2017",
             "watchDate": "2018-06-16",
             "personalRating": 3,
             "runtime": 116,
@@ -8283,7 +8343,7 @@
             "watchDate": "2018-07-07",
             "personalRating": 5,
             "runtime": 127,
-            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "poster_path": "/dscvG9AWLOzxedHcXN7QguJRhsP.jpg",
             "director": "Ari Aster"
         },
         {
@@ -8383,7 +8443,7 @@
             "watchDate": "2018-07-22",
             "personalRating": 5,
             "runtime": 132,
-            "poster_path": "/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
+            "poster_path": "/nPTjj6ZfBXXBwOhd7iUy6tyuKWt.jpg",
             "director": "Luca Guadagnino"
         },
         {
@@ -8585,6 +8645,86 @@
             "runtime": 103,
             "poster_path": "/ylrXX04wQMPoOkI8kb5o5okT0wU.jpg",
             "director": "Luis Bu\u00f1uel"
+        },
+        {
+            "original_title": "Jurassic World: Fallen Kingdom",
+            "imdb_id": "tt4881806",
+            "release_date": "2018",
+            "watchDate": "2018-09-07",
+            "personalRating": 1,
+            "runtime": 129,
+            "poster_path": "/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+            "director": "J. A. Bayona"
+        },
+        {
+            "original_title": "The Stranger",
+            "imdb_id": "tt0038991",
+            "release_date": "1946",
+            "watchDate": "2018-09-08",
+            "personalRating": 4,
+            "runtime": 96,
+            "poster_path": "/oFUoBJnI24GV8nYQTjHWRQgyDP7.jpg",
+            "director": "Orson Welles"
+        },
+        {
+            "original_title": "Roma citt\u00e0 aperta",
+            "imdb_id": "tt0038890",
+            "release_date": "1945",
+            "watchDate": "2018-09-11",
+            "personalRating": 5,
+            "runtime": 100,
+            "poster_path": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+            "director": "Roberto Rossellini"
+        },
+        {
+            "original_title": "Koko, le gorille qui parle",
+            "imdb_id": "tt0076097",
+            "release_date": "1978",
+            "watchDate": "2018-09-13",
+            "personalRating": 4,
+            "runtime": 85,
+            "poster_path": "/1zkyoSBHwZUUCvcz0rUcywsOuAT.jpg",
+            "director": "Barbet Schroeder"
+        },
+        {
+            "original_title": "Boro in the Box",
+            "imdb_id": "tt1999845",
+            "release_date": "2011",
+            "watchDate": "2018-09-14",
+            "personalRating": 5,
+            "runtime": 40,
+            "poster_path": "/AGgizndWVmi5eHeBBId5V2g0qf.jpg",
+            "director": "Bertrand Mandico"
+        },
+        {
+            "original_title": "Je t'aime, je t'aime",
+            "imdb_id": "tt0063152",
+            "release_date": "1968",
+            "watchDate": "2018-09-15",
+            "personalRating": 4,
+            "runtime": 94,
+            "poster_path": "/kvOAWK9vfTUbQTXB8hOhavlk8Yk.jpg",
+            "director": "Alain Resnais"
+        },
+        {
+            "original_title": "Ryuichi Sakamoto: Coda",
+            "imdb_id": "tt6578572",
+            "release_date": "2017",
+            "watchDate": "2018-09-15",
+            "personalRating": 5,
+            "runtime": 100,
+            "poster_path": "/b1nSwdmyTQ7AADoyseuBP3UOXzm.jpg",
+            "director": "Stephen Schible"
+        },
+        {
+            "original_title": "Trouble in Paradise",
+            "imdb_id": "tt0023622",
+            "release_date": "1932",
+            "watchDate": "2018-09-16",
+            "personalRating": 5,
+            "runtime": 83,
+            "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+            "director": "Ernst Lubitsch"
         }
     ]
 }

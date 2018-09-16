@@ -1698,7 +1698,7 @@
       "director": "Ernst Lubitsch",
       "year": "1932",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/239-contempt",
@@ -3398,7 +3398,7 @@
       "director": "Barbet Schroeder",
       "year": "1978",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/785-a-canterbury-tale",
@@ -4113,7 +4113,7 @@
     {
       "url": "https://www.criterion.com/films/842-sawdust-and-tinsel",
       "spine": 412,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ae0a0563bc1c8b46a6b9a45e6656b200/yKK4RxEyGXkxKqaEuXmVk4REwb33KV_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/273c880f9b86db12085712e36c829f35/xvWUTsUwqlyfDFICltA1KFvzusbOXv_original.jpg",
       "title": "Sawdust and Tinsel",
       "director": "Ingmar Bergman",
       "year": "1953",
@@ -4968,7 +4968,7 @@
       "director": "Roberto Rossellini",
       "year": "1945",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/2415-paisan",

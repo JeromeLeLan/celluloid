@@ -11,7 +11,8 @@ criterionUrl = 'https://www.criterion.com/shop/browse/list?sort=spine_number'
 def cleanUpFolder():
   if os.path.exists(posterPath):
     shutil.rmtree(posterPath)
-  os.makedirs(posterPath)
+  else:
+    os.makedirs(posterPath)
 
 def cleanString(str):
   str = str.replace('&amp;', '&')
