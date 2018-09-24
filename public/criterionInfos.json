@@ -4018,7 +4018,7 @@
       "director": "Luis Buñuel",
       "year": "1969",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/519-cr-a-cuervos",
@@ -9517,6 +9517,36 @@
       "title": "The Magnificent Ambersons",
       "director": "Orson Welles",
       "year": "1942",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29148-a-dry-white-season",
+      "spine": 953,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d3fa0bd2e5949b9e3c861222fb594d95/ASnRN4Kj6AdEv8RJTDrHKhIve2ZFQY_original.jpg",
+      "title": "A Dry White Season",
+      "director": "Euzhan Palcy",
+      "year": "1989",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28567-forty-guns",
+      "spine": 954,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6f13b49e7cb403480d4b395207c4991e/hEMcXIbp0l0hlL0MnVd6tAZCCiemH6_original.jpg",
+      "title": "Forty Guns",
+      "director": "Samuel Fuller",
+      "year": "1957",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29510-panique",
+      "spine": 955,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/403e847dd8731937c35889728349b623/CgM0xL1w053hSfTPUxWl8HH8UBp2jI_original.jpg",
+      "title": "Panique",
+      "director": "Julien Duvivier",
+      "year": "1946",
       "country": "",
       "watched": false
     }
