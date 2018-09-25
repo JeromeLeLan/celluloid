@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 164,
+            "count": 165,
             "name": "France"
         },
         "RU": {
@@ -205,7 +205,7 @@
         "1920s": 3,
         "1930s": 17,
         "1940s": 21,
-        "1950s": 42,
+        "1950s": 43,
         "1960s": 75,
         "1970s": 90,
         "1980s": 83,
@@ -214,7 +214,7 @@
         "2010s": 177
     },
     "genres": {
-        "Drama": 356,
+        "Drama": 357,
         "Thriller": 137,
         "Comedy": 130,
         "Romance": 97,
@@ -222,8 +222,8 @@
         "Mystery": 79,
         "Science Fiction": 71,
         "Adventure": 68,
-        "Crime": 62,
-        "Action": 57,
+        "Crime": 63,
+        "Action": 58,
         "Documentary": 56,
         "Fantasy": 41,
         "History": 27,
@@ -566,6 +566,13 @@
             }
         ],
         [
+            3831,
+            {
+                "count": 3,
+                "name": "Jean-Pierre Melville"
+            }
+        ],
+        [
             10491,
             {
                 "count": 3,
@@ -822,13 +829,6 @@
             {
                 "count": 2,
                 "name": "Antonin Peretjatko"
-            }
-        ],
-        [
-            3831,
-            {
-                "count": 2,
-                "name": "Jean-Pierre Melville"
             }
         ],
         [
@@ -6537,7 +6537,7 @@
             "watchDate": "2017-08-05",
             "personalRating": 4,
             "runtime": 171,
-            "poster_path": "/4yPMqpXWcqlnxiXIxkBoN6S6kbi.jpg",
+            "poster_path": "/eQc9TVrRidzJfgjwqAomoqbcnDQ.jpg",
             "director": "Roman Pola\u0144ski"
         },
         {
@@ -6567,7 +6567,7 @@
             "watchDate": "2017-08-07",
             "personalRating": 5,
             "runtime": 128,
-            "poster_path": "/2Ca07vrhSOXlWnXD8W4HZ90ADH6.jpg",
+            "poster_path": "/6l4Lc0dnuo195S4Lvu6NXMvROp4.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -8809,6 +8809,16 @@
             "runtime": 102,
             "poster_path": "/KEGDNb4IvnKYZc60oJGZs7QuuA.jpg",
             "director": "Luis Bu\u00f1uel"
+        },
+        {
+            "original_title": "Bob le flambeur",
+            "imdb_id": "tt0047892",
+            "release_date": "1956",
+            "watchDate": "2018-09-24",
+            "personalRating": 4,
+            "runtime": 103,
+            "poster_path": "/zg03eDA4Z7KLU5b1zsgXhNijYWW.jpg",
+            "director": "Jean-Pierre Melville"
         }
     ]
 }
