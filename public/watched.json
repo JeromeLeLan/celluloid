@@ -1,11 +1,11 @@
 {
     "countries": {
         "FR": {
-            "count": 165,
+            "count": 169,
             "name": "France"
         },
         "RU": {
-            "count": 6,
+            "count": 7,
             "name": "Russia"
         },
         "IT": {
@@ -13,15 +13,15 @@
             "name": "Italy"
         },
         "US": {
-            "count": 290,
+            "count": 292,
             "name": "United States of America"
         },
         "SE": {
-            "count": 29,
+            "count": 30,
             "name": "Sweden"
         },
         "GB": {
-            "count": 66,
+            "count": 67,
             "name": "United Kingdom"
         },
         "CH": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 60,
+            "count": 61,
             "name": "Germany"
         },
         "TR": {
@@ -41,7 +41,7 @@
             "name": "Turkey"
         },
         "DK": {
-            "count": 12,
+            "count": 13,
             "name": "Denmark"
         },
         "ES": {
@@ -69,7 +69,7 @@
             "name": "New Zealand"
         },
         "BE": {
-            "count": 12,
+            "count": 13,
             "name": "Belgium"
         },
         "PL": {
@@ -207,31 +207,31 @@
         "1940s": 21,
         "1950s": 43,
         "1960s": 75,
-        "1970s": 90,
+        "1970s": 92,
         "1980s": 83,
-        "1990s": 52,
+        "1990s": 53,
         "2000s": 31,
-        "2010s": 177
+        "2010s": 181
     },
     "genres": {
-        "Drama": 357,
-        "Thriller": 137,
-        "Comedy": 130,
-        "Romance": 97,
-        "Horror": 91,
-        "Mystery": 79,
-        "Science Fiction": 71,
+        "Drama": 362,
+        "Thriller": 139,
+        "Comedy": 131,
+        "Romance": 99,
+        "Horror": 95,
+        "Mystery": 80,
+        "Science Fiction": 72,
         "Adventure": 68,
-        "Crime": 63,
+        "Crime": 64,
         "Action": 58,
         "Documentary": 56,
-        "Fantasy": 41,
-        "History": 27,
+        "Fantasy": 42,
+        "History": 28,
         "War": 24,
         "Family": 22,
         "Animation": 22,
         "Music": 17,
-        "Western": 8
+        "Western": 9
     },
     "actors": [
         [
@@ -284,6 +284,13 @@
             }
         ],
         [
+            1245,
+            {
+                "count": 9,
+                "name": "Scarlett Johansson"
+            }
+        ],
+        [
             8742,
             {
                 "count": 8,
@@ -295,13 +302,6 @@
             {
                 "count": 8,
                 "name": "Jean-Pierre L\u00e9aud"
-            }
-        ],
-        [
-            4,
-            {
-                "count": 8,
-                "name": "Carrie Fisher"
             }
         ]
     ],
@@ -412,10 +412,24 @@
             }
         ],
         [
+            73153,
+            {
+                "count": 6,
+                "name": "Jacques Rivette"
+            }
+        ],
+        [
             9789,
             {
                 "count": 6,
                 "name": "Robert Altman"
+            }
+        ],
+        [
+            8452,
+            {
+                "count": 5,
+                "name": "Andrei Tarkovsky"
             }
         ],
         [
@@ -433,24 +447,10 @@
             }
         ],
         [
-            73153,
-            {
-                "count": 5,
-                "name": "Jacques Rivette"
-            }
-        ],
-        [
             11572,
             {
                 "count": 5,
                 "name": "Carl Th. Dreyer"
-            }
-        ],
-        [
-            8452,
-            {
-                "count": 4,
-                "name": "Andrei Tarkovsky"
             }
         ],
         [
@@ -636,6 +636,13 @@
             }
         ],
         [
+            42,
+            {
+                "count": 2,
+                "name": "Lars von Trier"
+            }
+        ],
+        [
             56370,
             {
                 "count": 2,
@@ -755,6 +762,13 @@
             }
         ],
         [
+            14597,
+            {
+                "count": 2,
+                "name": "Gaspar No\u00e9"
+            }
+        ],
+        [
             15175,
             {
                 "count": 2,
@@ -808,6 +822,13 @@
             {
                 "count": 2,
                 "name": "Olivier Assayas"
+            }
+        ],
+        [
+            16863,
+            {
+                "count": 2,
+                "name": "Todd Haynes"
             }
         ],
         [
@@ -1021,13 +1042,6 @@
             }
         ],
         [
-            42,
-            {
-                "count": 1,
-                "name": "Lars von Trier"
-            }
-        ],
-        [
             54734,
             {
                 "count": 1,
@@ -1207,13 +1221,6 @@
             {
                 "count": 1,
                 "name": "Alexander Mackendrick"
-            }
-        ],
-        [
-            14597,
-            {
-                "count": 1,
-                "name": "Gaspar No\u00e9"
             }
         ],
         [
@@ -1543,13 +1550,6 @@
             {
                 "count": 1,
                 "name": "Rich Moore"
-            }
-        ],
-        [
-            16863,
-            {
-                "count": 1,
-                "name": "Todd Haynes"
             }
         ],
         [
@@ -2825,6 +2825,20 @@
                 "count": 1,
                 "name": "Josef von Sternberg"
             }
+        ],
+        [
+            17697,
+            {
+                "count": 1,
+                "name": "John Krasinski"
+            }
+        ],
+        [
+            133398,
+            {
+                "count": 1,
+                "name": "Quentin Dupieux"
+            }
         ]
     ],
     "cinematographers": [
@@ -2917,7 +2931,7 @@
             "watchDate": "2015-01-04",
             "personalRating": 5,
             "runtime": 120,
-            "poster_path": "/xopaNXZrNjvpVgYrUWTtGhb3Ylu.jpg",
+            "poster_path": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -3206,7 +3220,7 @@
             "release_date": "1955",
             "watchDate": "2015-04-06",
             "personalRating": 4,
-            "runtime": 122,
+            "runtime": 118,
             "poster_path": "/riZ2SXhTgllN6NWrPOJCtN4NrhG.jpg",
             "director": "Jules Dassin"
         },
@@ -3273,10 +3287,10 @@
         {
             "original_title": "Angst essen Seele auf",
             "imdb_id": "tt0071141",
-            "release_date": "1974",
+            "release_date": "1973",
             "watchDate": "2015-04-26",
             "personalRating": 4,
-            "runtime": 94,
+            "runtime": 93,
             "poster_path": "/7CeGGRLJI2Dbx9QjIwqq9Gqfjt1.jpg",
             "director": "Rainer Werner Fassbinder"
         },
@@ -3406,7 +3420,7 @@
             "release_date": "2015",
             "watchDate": "2015-05-26",
             "personalRating": 5,
-            "runtime": 120,
+            "runtime": 121,
             "poster_path": "/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
             "director": "George Miller"
         },
@@ -3576,7 +3590,7 @@
             "release_date": "2015",
             "watchDate": "2015-06-30",
             "personalRating": 6,
-            "runtime": 94,
+            "runtime": 95,
             "poster_path": "/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
             "director": "Pete Docter"
         },
@@ -3897,7 +3911,7 @@
             "watchDate": "2015-11-01",
             "personalRating": 4,
             "runtime": 92,
-            "poster_path": "/dptqBZfp0xnBS9qGFwlYhpCb06S.jpg",
+            "poster_path": "/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
             "director": "David Cronenberg"
         },
         {
@@ -4356,7 +4370,7 @@
             "release_date": "2014",
             "watchDate": "2016-01-31",
             "personalRating": 4,
-            "runtime": 100,
+            "runtime": 101,
             "poster_path": "/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg",
             "director": "David Robert Mitchell"
         },
@@ -4586,7 +4600,7 @@
             "release_date": "2015",
             "watchDate": "2016-04-17",
             "personalRating": 3,
-            "runtime": 121,
+            "runtime": 122,
             "poster_path": "/p2SdfGmQRaw8xhFbexlHL7srMM8.jpg",
             "director": "Denis Villeneuve"
         },
@@ -4617,7 +4631,7 @@
             "watchDate": "2016-04-25",
             "personalRating": 4,
             "runtime": 102,
-            "poster_path": "/9R5ZuHMYxPGXHEE1VXorYhEXtBA.jpg",
+            "poster_path": "/fsudYlZ4bpXimQ34DwH8nf4R77p.jpg",
             "director": "Wong Kar-wai"
         },
         {
@@ -4686,7 +4700,7 @@
             "release_date": "2016",
             "watchDate": "2016-05-13",
             "personalRating": 3,
-            "runtime": 103,
+            "runtime": 104,
             "poster_path": "/aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg",
             "director": "Dan Trachtenberg"
         },
@@ -4736,7 +4750,7 @@
             "release_date": "2016",
             "watchDate": "2016-05-23",
             "personalRating": 3,
-            "runtime": 108,
+            "runtime": 109,
             "poster_path": "/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg",
             "director": "Byron Howard, Rich Moore"
         },
@@ -5006,7 +5020,7 @@
             "release_date": "2016",
             "watchDate": "2016-07-04",
             "personalRating": 5,
-            "runtime": 117,
+            "runtime": 118,
             "poster_path": "/pksGBk7yJqSuQ2F47S9eoqbtjWt.jpg",
             "director": "Nicolas Winding Refn"
         },
@@ -5057,7 +5071,7 @@
             "watchDate": "2016-07-10",
             "personalRating": 3,
             "runtime": 44,
-            "poster_path": "/oXTEx35m8sXg9DRbVdQQQNGhQjg.jpg",
+            "poster_path": "/92lvrL5Stk7Zn15UdGgWtQMrecU.jpg",
             "director": "Jean Vigo"
         },
         {
@@ -5176,7 +5190,7 @@
             "release_date": "1975",
             "watchDate": "2016-08-07",
             "personalRating": 4,
-            "runtime": 87,
+            "runtime": 88,
             "poster_path": "/a9w5pMzS4xh9itERx3mlWjnf3Zt.jpg",
             "director": "David Cronenberg"
         },
@@ -5746,7 +5760,7 @@
             "release_date": "2016",
             "watchDate": "2017-01-09",
             "personalRating": 5,
-            "runtime": 128,
+            "runtime": 129,
             "poster_path": "/ylXCdC106IKiarftHkcacasaAcb.jpg",
             "director": "Damien Chazelle"
         },
@@ -5786,7 +5800,7 @@
             "release_date": "2015",
             "watchDate": "2017-01-21",
             "personalRating": 2,
-            "runtime": 128,
+            "runtime": 129,
             "poster_path": "/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg",
             "director": "Tom McCarthy"
         },
@@ -5866,7 +5880,7 @@
             "release_date": "2016",
             "watchDate": "2017-02-20",
             "personalRating": 4,
-            "runtime": 104,
+            "runtime": 102,
             "poster_path": "/6YOrNBdoXvT8aC5VPLkkN6t5z0V.jpg",
             "director": "David Mackenzie"
         },
@@ -5886,7 +5900,7 @@
             "release_date": "1975",
             "watchDate": "2017-02-23",
             "personalRating": 4,
-            "runtime": 104,
+            "runtime": 105,
             "poster_path": "/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg",
             "director": "Dario Argento"
         },
@@ -5926,7 +5940,7 @@
             "release_date": "2014",
             "watchDate": "2017-03-03",
             "personalRating": 2,
-            "runtime": 120,
+            "runtime": 121,
             "poster_path": "/usunF9TM1LQJ47eRBcitBsGRBFx.jpg",
             "director": "Steve James"
         },
@@ -6416,7 +6430,7 @@
             "release_date": "1982",
             "watchDate": "2017-07-09",
             "personalRating": 4,
-            "runtime": 110,
+            "runtime": 101,
             "poster_path": "/mKLfxneJhmwHR2ajjc2VEclzyfp.jpg",
             "director": "Dario Argento"
         },
@@ -6436,7 +6450,7 @@
             "release_date": "2016",
             "watchDate": "2017-07-12",
             "personalRating": 3,
-            "runtime": 98,
+            "runtime": 99,
             "poster_path": "/ecz0Dz5IP9Ouk7Ta4WCOM7TxXua.jpg",
             "director": "Werner Herzog"
         },
@@ -6626,7 +6640,7 @@
             "release_date": "1970",
             "watchDate": "2017-08-15",
             "personalRating": 3,
-            "runtime": 88,
+            "runtime": 82,
             "poster_path": "/xZFS3RwudBCW3TPVzA7SBWEyAeS.jpg",
             "director": "Mario Bava"
         },
@@ -6791,7 +6805,7 @@
             "director": "Jacques Rivette"
         },
         {
-            "original_title": "Reazione a catena",
+            "original_title": "Ecologia del delitto",
             "imdb_id": "tt0067656",
             "release_date": "1971",
             "watchDate": "2017-10-03",
@@ -6916,7 +6930,7 @@
             "release_date": "2016",
             "watchDate": "2017-10-17",
             "personalRating": 4,
-            "runtime": 105,
+            "runtime": 106,
             "poster_path": "/jDOWYDmJvGkVkVHf7Ru66gy6ry8.jpg",
             "director": "Olivier Assayas"
         },
@@ -7186,8 +7200,8 @@
             "release_date": "1951",
             "watchDate": "2017-11-22",
             "personalRating": 5,
-            "runtime": 90,
-            "poster_path": "/2IS8i2FVKV9kD9KS3QJaEWcwHpx.jpg",
+            "runtime": 93,
+            "poster_path": "/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg",
             "director": "Orson Welles"
         },
         {
@@ -7986,7 +8000,7 @@
             "release_date": "2001",
             "watchDate": "2018-04-01",
             "personalRating": 6,
-            "runtime": 113,
+            "runtime": 114,
             "poster_path": "/nmb4QhCRmdfNP6rgb81yUFgI83l.jpg",
             "director": "Richard Kelly"
         },
@@ -8357,7 +8371,7 @@
             "watchDate": "2018-07-07",
             "personalRating": 5,
             "runtime": 127,
-            "poster_path": "/dscvG9AWLOzxedHcXN7QguJRhsP.jpg",
+            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
             "director": "Ari Aster"
         },
         {
@@ -8476,8 +8490,8 @@
             "release_date": "1989",
             "watchDate": "2018-07-28",
             "personalRating": 3,
-            "runtime": 99,
-            "poster_path": "/lj8Kw6YQHfw23hrX6hUz5PdHJXc.jpg",
+            "runtime": 100,
+            "poster_path": "/lFkZtw1qY0JIiS5XcZQqMOMpFVP.jpg",
             "director": "Brian Yuzna"
         },
         {
@@ -8727,7 +8741,7 @@
             "watchDate": "2018-09-15",
             "personalRating": 5,
             "runtime": 100,
-            "poster_path": "/b1nSwdmyTQ7AADoyseuBP3UOXzm.jpg",
+            "poster_path": "/r86GaNYr3CZJPbkcZb2YzK0FBGC.jpg",
             "director": "Stephen Schible"
         },
         {
@@ -8819,6 +8833,76 @@
             "runtime": 103,
             "poster_path": "/zg03eDA4Z7KLU5b1zsgXhNijYWW.jpg",
             "director": "Jean-Pierre Melville"
+        },
+        {
+            "original_title": "Duelle",
+            "imdb_id": "tt0074443",
+            "release_date": "1976",
+            "watchDate": "2018-09-26",
+            "personalRating": 3,
+            "runtime": 121,
+            "poster_path": "/ltEw5RAqipTLaqfQQZ4Jj3XigUk.jpg",
+            "director": "Jacques Rivette"
+        },
+        {
+            "original_title": "A Quiet Place",
+            "imdb_id": "tt6644200",
+            "release_date": "2018",
+            "watchDate": "2018-09-29",
+            "personalRating": 5,
+            "runtime": 91,
+            "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+            "director": "John Krasinski"
+        },
+        {
+            "original_title": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
+            "imdb_id": "tt0072443",
+            "release_date": "1975",
+            "watchDate": "2018-10-07",
+            "personalRating": 6,
+            "runtime": 106,
+            "poster_path": "/9PknVc5uubhVLZ6ofvfJAprM9UZ.jpg",
+            "director": "Andrei Tarkovsky"
+        },
+        {
+            "original_title": "Safe",
+            "imdb_id": "tt0114323",
+            "release_date": "1995",
+            "watchDate": "2018-10-07",
+            "personalRating": 6,
+            "runtime": 119,
+            "poster_path": "/ihX2udk636JMAAaWDIMj6n5ejhb.jpg",
+            "director": "Todd Haynes"
+        },
+        {
+            "original_title": "The House That Jack Built",
+            "imdb_id": "tt4003440",
+            "release_date": "2018",
+            "watchDate": "2018-10-07",
+            "personalRating": 6,
+            "runtime": 155,
+            "poster_path": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+            "director": "Lars von Trier"
+        },
+        {
+            "original_title": "Au Poste !",
+            "imdb_id": "tt7156222",
+            "release_date": "2018",
+            "watchDate": "2018-10-08",
+            "personalRating": 6,
+            "runtime": 73,
+            "poster_path": "/aHAra2hASju23AlMoxVDhbmqKJY.jpg",
+            "director": "Quentin Dupieux"
+        },
+        {
+            "original_title": "Climax",
+            "imdb_id": "tt8359848",
+            "release_date": "2018",
+            "watchDate": "2018-10-08",
+            "personalRating": 6,
+            "runtime": 96,
+            "poster_path": "/qbczcrzFDTJtsDmszmD8pIYxcFn.jpg",
+            "director": "Gaspar No\u00e9"
         }
     ]
 }
