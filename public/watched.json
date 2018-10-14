@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 169,
+            "count": 170,
             "name": "France"
         },
         "RU": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 67,
+            "count": 68,
             "name": "United Kingdom"
         },
         "CH": {
@@ -204,30 +204,30 @@
     "decades": {
         "1920s": 3,
         "1930s": 17,
-        "1940s": 21,
+        "1940s": 22,
         "1950s": 43,
         "1960s": 75,
         "1970s": 92,
         "1980s": 83,
         "1990s": 53,
         "2000s": 31,
-        "2010s": 181
+        "2010s": 182
     },
     "genres": {
-        "Drama": 362,
-        "Thriller": 139,
-        "Comedy": 131,
-        "Romance": 99,
+        "Drama": 365,
+        "Thriller": 140,
+        "Comedy": 130,
+        "Romance": 101,
         "Horror": 95,
-        "Mystery": 80,
+        "Mystery": 82,
         "Science Fiction": 72,
         "Adventure": 68,
-        "Crime": 64,
+        "Crime": 65,
         "Action": 58,
         "Documentary": 56,
-        "Fantasy": 42,
+        "Fantasy": 41,
         "History": 28,
-        "War": 24,
+        "War": 25,
         "Family": 22,
         "Animation": 22,
         "Music": 17,
@@ -330,7 +330,7 @@
         [
             3776,
             {
-                "count": 13,
+                "count": 14,
                 "name": "Jean-Luc Godard"
             }
         ],
@@ -450,7 +450,7 @@
             11572,
             {
                 "count": 5,
-                "name": "Carl Th. Dreyer"
+                "name": "Carl Theodor Dreyer"
             }
         ],
         [
@@ -1871,7 +1871,7 @@
             57607,
             {
                 "count": 1,
-                "name": "Stephen Chow"
+                "name": "\u5468\u661f\u99b3"
             }
         ],
         [
@@ -2809,7 +2809,7 @@
             1087779,
             {
                 "count": 1,
-                "name": "Stephen Schible"
+                "name": "Stephen Nomura Schible"
             }
         ],
         [
@@ -2838,6 +2838,13 @@
             {
                 "count": 1,
                 "name": "Quentin Dupieux"
+            }
+        ],
+        [
+            12238,
+            {
+                "count": 1,
+                "name": "David Lean"
             }
         ]
     ],
@@ -3300,7 +3307,7 @@
             "release_date": "1982",
             "watchDate": "2015-04-30",
             "personalRating": 6,
-            "runtime": 87,
+            "runtime": 86,
             "poster_path": "/hxL6Obbbbh9KPvGpXX7F1Oc9Fft.jpg",
             "director": "Godfrey Reggio"
         },
@@ -4891,7 +4898,7 @@
             "watchDate": "2016-06-27",
             "personalRating": 3,
             "runtime": 108,
-            "poster_path": "/lHxHdcUEmomTDPssLwevpgruWEI.jpg",
+            "poster_path": "/x5l97t0FqYKisYNcEbwHWPvnBUH.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -4940,7 +4947,7 @@
             "release_date": "1948",
             "watchDate": "2016-06-30",
             "personalRating": 5,
-            "runtime": 93,
+            "runtime": 89,
             "poster_path": "/7ZiSTZN5FWsphVmlwFVFfn5EOl.jpg",
             "director": "Vittorio De Sica"
         },
@@ -4961,7 +4968,7 @@
             "watchDate": "2016-06-30",
             "personalRating": 4,
             "runtime": 108,
-            "poster_path": "/k2TMM0040HF3FS0gle3ZrK73pcX.jpg",
+            "poster_path": "/kz2M4dTY3MCb8PIy0xDjZF5qBew.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -5200,7 +5207,7 @@
             "release_date": "1973",
             "watchDate": "2016-08-09",
             "personalRating": 5,
-            "runtime": 135,
+            "runtime": 130,
             "poster_path": "/om8Kka9e4GStOAcX6gVEBJAoAXc.jpg",
             "director": "Marco Ferreri"
         },
@@ -5692,7 +5699,7 @@
             "personalRating": 3,
             "runtime": 93,
             "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
-            "director": "Stephen Chow"
+            "director": "\u5468\u661f\u99b3"
         },
         {
             "original_title": "Office Space",
@@ -6140,7 +6147,7 @@
             "release_date": "1972",
             "watchDate": "2017-04-28",
             "personalRating": 4,
-            "runtime": 103,
+            "runtime": 107,
             "poster_path": "/eMwcPwaqPckzR0c312v0eCyfQ5U.jpg",
             "director": "Massimo Dallamano"
         },
@@ -7090,7 +7097,7 @@
             "release_date": "2017",
             "watchDate": "2017-11-14",
             "personalRating": 4,
-            "runtime": 88,
+            "runtime": 89,
             "poster_path": "/pgtQceTZKylB2B237t18h2pOXpE.jpg",
             "director": "Jon Nguyen, Rick Barnes, Olivia Neergaard-Holm"
         },
@@ -7452,7 +7459,7 @@
             "personalRating": 5,
             "runtime": 107,
             "poster_path": "/8pNAYSxE3f47ViKodnJ3HaGb4tc.jpg",
-            "director": "Carl Th. Dreyer"
+            "director": "Carl Theodor Dreyer"
         },
         {
             "original_title": "Vampyr - Der Traum des Allan Grey",
@@ -7462,7 +7469,7 @@
             "personalRating": 5,
             "runtime": 74,
             "poster_path": "/zSNbZz5xKTPBs2umK8OSBUqRfBF.jpg",
-            "director": "Carl Th. Dreyer"
+            "director": "Carl Theodor Dreyer"
         },
         {
             "original_title": "Day of Wrath",
@@ -7472,7 +7479,7 @@
             "personalRating": 6,
             "runtime": 97,
             "poster_path": "/2GNH1L2ynINivmPwTe5bCZX3rv6.jpg",
-            "director": "Carl Th. Dreyer"
+            "director": "Carl Theodor Dreyer"
         },
         {
             "original_title": "The Sacrifice",
@@ -7862,7 +7869,7 @@
             "personalRating": 6,
             "runtime": 125,
             "poster_path": "/e3oh96Zrqdaku8DoD10pXZHLZoU.jpg",
-            "director": "Carl Th. Dreyer"
+            "director": "Carl Theodor Dreyer"
         },
         {
             "original_title": "Star Wars: The Last Jedi",
@@ -8102,7 +8109,7 @@
             "personalRating": 5,
             "runtime": 119,
             "poster_path": "/jDS2ynVUcyUJzVg4ffzn9MFqVrD.jpg",
-            "director": "Carl Th. Dreyer"
+            "director": "Carl Theodor Dreyer"
         },
         {
             "original_title": "Tag",
@@ -8111,7 +8118,7 @@
             "watchDate": "2018-04-22",
             "personalRating": 3,
             "runtime": 85,
-            "poster_path": "/5Z4twEHwMtCg41eKO3pXiddfzHR.jpg",
+            "poster_path": "/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg",
             "director": "Sion Sono"
         },
         {
@@ -8610,7 +8617,7 @@
             "release_date": "1982",
             "watchDate": "2018-08-14",
             "personalRating": 6,
-            "runtime": 87,
+            "runtime": 86,
             "poster_path": "/hxL6Obbbbh9KPvGpXX7F1Oc9Fft.jpg",
             "director": "Godfrey Reggio"
         },
@@ -8742,7 +8749,7 @@
             "personalRating": 5,
             "runtime": 100,
             "poster_path": "/r86GaNYr3CZJPbkcZb2YzK0FBGC.jpg",
-            "director": "Stephen Schible"
+            "director": "Stephen Nomura Schible"
         },
         {
             "original_title": "Trouble in Paradise",
@@ -8903,6 +8910,26 @@
             "runtime": 96,
             "poster_path": "/qbczcrzFDTJtsDmszmD8pIYxcFn.jpg",
             "director": "Gaspar No\u00e9"
+        },
+        {
+            "original_title": "Brief Encounter",
+            "imdb_id": "tt0037558",
+            "release_date": "1945",
+            "watchDate": "2018-10-13",
+            "personalRating": 6,
+            "runtime": 86,
+            "poster_path": "/yEnLvpbX5c3cUsBqXBufoOzjO00.jpg",
+            "director": "David Lean"
+        },
+        {
+            "original_title": "Le livre d\u2019image",
+            "imdb_id": "tt5749596",
+            "release_date": "2018",
+            "watchDate": "2018-10-13",
+            "personalRating": 5,
+            "runtime": 90,
+            "poster_path": "/5y1mTTYPVvaPeKIVqy3DymE6osv.jpg",
+            "director": "Jean-Luc Godard"
         }
     ]
 }

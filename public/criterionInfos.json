@@ -758,7 +758,7 @@
       "director": "David Lean",
       "year": "1945",
       "country": "United Kingdom",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/616-and-god-created-woman",
@@ -1367,7 +1367,7 @@
       "title": "Notorious",
       "director": "Alfred Hitchcock",
       "year": "1946",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6537,7 +6537,7 @@
       "title": "Repo Man",
       "director": "Alex Cox",
       "year": "1984",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8207,7 +8207,7 @@
       "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
       "director": "Stanley Kubrick",
       "year": "1964",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
