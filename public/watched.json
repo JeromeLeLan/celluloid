@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 292,
+            "count": 293,
             "name": "United States of America"
         },
         "SE": {
@@ -85,7 +85,7 @@
             "name": "Japan"
         },
         "MX": {
-            "count": 6,
+            "count": 7,
             "name": "Mexico"
         },
         "TH": {
@@ -97,7 +97,7 @@
             "name": "Malaysia"
         },
         "KR": {
-            "count": 7,
+            "count": 8,
             "name": "South Korea"
         },
         "HK": {
@@ -211,21 +211,21 @@
         "1980s": 83,
         "1990s": 53,
         "2000s": 31,
-        "2010s": 182
+        "2010s": 184
     },
     "genres": {
-        "Drama": 365,
-        "Thriller": 140,
+        "Drama": 367,
+        "Thriller": 141,
         "Comedy": 130,
         "Romance": 101,
         "Horror": 95,
-        "Mystery": 82,
+        "Mystery": 83,
         "Science Fiction": 72,
         "Adventure": 68,
         "Crime": 65,
         "Action": 58,
         "Documentary": 56,
-        "Fantasy": 41,
+        "Fantasy": 42,
         "History": 28,
         "War": 25,
         "Family": 22,
@@ -734,6 +734,13 @@
             }
         ],
         [
+            11218,
+            {
+                "count": 2,
+                "name": "Alfonso Cuar\u00f3n"
+            }
+        ],
+        [
             11983,
             {
                 "count": 2,
@@ -1186,13 +1193,6 @@
             {
                 "count": 1,
                 "name": "Les Blank"
-            }
-        ],
-        [
-            11218,
-            {
-                "count": 1,
-                "name": "Alfonso Cuar\u00f3n"
             }
         ],
         [
@@ -1871,7 +1871,7 @@
             57607,
             {
                 "count": 1,
-                "name": "\u5468\u661f\u99b3"
+                "name": "Stephen Chow"
             }
         ],
         [
@@ -2845,6 +2845,13 @@
             {
                 "count": 1,
                 "name": "David Lean"
+            }
+        ],
+        [
+            96657,
+            {
+                "count": 1,
+                "name": "Lee Chang-dong"
             }
         ]
     ],
@@ -5699,7 +5706,7 @@
             "personalRating": 3,
             "runtime": 93,
             "poster_path": "/v953XL36EF6u3ktmuRtXWwepVRM.jpg",
-            "director": "\u5468\u661f\u99b3"
+            "director": "Stephen Chow"
         },
         {
             "original_title": "Office Space",
@@ -8930,6 +8937,26 @@
             "runtime": 90,
             "poster_path": "/5y1mTTYPVvaPeKIVqy3DymE6osv.jpg",
             "director": "Jean-Luc Godard"
+        },
+        {
+            "original_title": "Burning",
+            "imdb_id": "tt7282468",
+            "release_date": "2018",
+            "watchDate": "2018-10-14",
+            "personalRating": 6,
+            "runtime": 148,
+            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+            "director": "Lee Chang-dong"
+        },
+        {
+            "original_title": "Roma",
+            "imdb_id": "tt6155172",
+            "release_date": "2018",
+            "watchDate": "2018-10-14",
+            "personalRating": 6,
+            "runtime": 134,
+            "poster_path": "/nD4C3OpiwoNrhWw1FspPuGKqbZC.jpg",
+            "director": "Alfonso Cuar\u00f3n"
         }
     ]
 }
