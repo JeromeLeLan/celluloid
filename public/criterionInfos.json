@@ -1363,7 +1363,7 @@
     {
       "url": "https://www.criterion.com/films/682-notorious",
       "spine": 137,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/dceda771d6ef6b07f82c7285dd93139c/h9LoD1SCrHyU2ls7vF8Ty21vSjCJKf_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e97a91bf3391ed51fafd378e198e61ab/JPKjYXvzfvIPG3IAPXcfraP20IiWhV_original.jpg",
       "title": "Notorious",
       "director": "Alfred Hitchcock",
       "year": "1946",
@@ -8677,7 +8677,7 @@
       "title": "Tampopo",
       "director": "Juzo Itami",
       "year": "1985",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -9547,6 +9547,46 @@
       "title": "Panique",
       "director": "Julien Duvivier",
       "year": "1946",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29399-24-frames",
+      "spine": 956,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/22cc8506c3dcd5e77e2d68c09b5f288b/lbWguDGRXPyIVW9oJ1BLa2f1GSAG10_original.jpg",
+      "title": "24 Frames",
+      "director": "Abbas Kiarostami",
+      "year": "2017",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27895-mikey-and-nicky",
+      "spine": 957,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/75bd4ba4aa9a9d8513db2681a8dae91c/YdcUA8pNAJMrE2ohla7lNNYktgjcug_original.jpg",
+      "title": "Mikey and Nicky",
+      "director": "Elaine May",
+      "year": "1976",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28617-4-months-3-weeks-and-2-days",
+      "spine": 958,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/65395fe8adf90ac719ea54fb460176fa/l2Q2n24ks84HZnVyuZvxqzIJk55lgR_original.jpg",
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "director": "Cristian Mungiu",
+      "year": "2007",
+      "country": "",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29459-in-the-heat-of-the-night",
+      "spine": 959,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0838b7e924596c30628ef3b149112dc7/ExYYUVTlag0SEkgRp5hxVmECDKJ25y_original.jpg",
+      "title": "In the Heat of the Night",
+      "director": "Norman Jewison",
+      "year": "1967",
       "country": "",
       "watched": false
     }
