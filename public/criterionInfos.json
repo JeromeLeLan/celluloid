@@ -127,7 +127,7 @@
       "title": "The Silence of the Lambs",
       "director": "Jonathan Demme",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -3197,7 +3197,7 @@
       "title": "Young Mr. Lincoln",
       "director": "John Ford",
       "year": "1939",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3347,7 +3347,7 @@
       "title": "Elevator to the Gallows",
       "director": "Louis Malle",
       "year": "1958",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -8678,7 +8678,7 @@
       "director": "Juzo Itami",
       "year": "1985",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28993-rumble-fish",
@@ -9258,7 +9258,7 @@
       "director": "Lino Brocka",
       "year": "1975",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27745-el-sur",

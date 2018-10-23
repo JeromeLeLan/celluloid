@@ -1,11 +1,11 @@
 {
     "countries": {
         "FR": {
-            "count": 170,
+            "count": 171,
             "name": "France"
         },
         "RU": {
-            "count": 7,
+            "count": 8,
             "name": "Russia"
         },
         "IT": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 29,
+            "count": 30,
             "name": "Japan"
         },
         "MX": {
@@ -177,7 +177,7 @@
             "name": "Slovakia"
         },
         "PH": {
-            "count": 1,
+            "count": 2,
             "name": "Philippines"
         },
         "MA": {
@@ -207,22 +207,22 @@
         "1940s": 22,
         "1950s": 43,
         "1960s": 75,
-        "1970s": 92,
-        "1980s": 83,
+        "1970s": 93,
+        "1980s": 84,
         "1990s": 53,
         "2000s": 31,
-        "2010s": 184
+        "2010s": 185
     },
     "genres": {
-        "Drama": 367,
+        "Drama": 369,
         "Thriller": 141,
-        "Comedy": 130,
-        "Romance": 101,
-        "Horror": 95,
-        "Mystery": 83,
+        "Comedy": 131,
+        "Romance": 100,
+        "Horror": 94,
+        "Mystery": 84,
         "Science Fiction": 72,
         "Adventure": 68,
-        "Crime": 65,
+        "Crime": 64,
         "Action": 58,
         "Documentary": 56,
         "Fantasy": 42,
@@ -231,7 +231,7 @@
         "Family": 22,
         "Animation": 22,
         "Music": 17,
-        "Western": 9
+        "Western": 8
     },
     "actors": [
         [
@@ -962,6 +962,13 @@
             {
                 "count": 2,
                 "name": "Terry Gilliam"
+            }
+        ],
+        [
+            535191,
+            {
+                "count": 2,
+                "name": "Lino Brocka"
             }
         ],
         [
@@ -2344,13 +2351,6 @@
             }
         ],
         [
-            535191,
-            {
-                "count": 1,
-                "name": "Lino Brocka"
-            }
-        ],
-        [
             1603873,
             {
                 "count": 1,
@@ -2853,6 +2853,20 @@
                 "count": 1,
                 "name": "Lee Chang-dong"
             }
+        ],
+        [
+            19077,
+            {
+                "count": 1,
+                "name": "Xavier Legrand"
+            }
+        ],
+        [
+            69167,
+            {
+                "count": 1,
+                "name": "Juzo Itami"
+            }
         ]
     ],
     "cinematographers": [
@@ -2965,7 +2979,7 @@
             "watchDate": "2015-01-11",
             "personalRating": 6,
             "runtime": 149,
-            "poster_path": "/v7nEBG4ulpGol1QKC5EHnLomFa.jpg",
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -3164,7 +3178,7 @@
             "release_date": "1957",
             "watchDate": "2015-03-22",
             "personalRating": 4,
-            "runtime": 90,
+            "runtime": 91,
             "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
             "director": "Ingmar Bergman"
         },
@@ -3534,7 +3548,7 @@
             "release_date": "1976",
             "watchDate": "2015-06-16",
             "personalRating": 6,
-            "runtime": 98,
+            "runtime": 99,
             "poster_path": "/bGjEQLp7aF3dT3nXv4gEXnG02TI.jpg",
             "director": "Brian De Palma"
         },
@@ -4145,7 +4159,7 @@
             "watchDate": "2015-12-15",
             "personalRating": 6,
             "runtime": 201,
-            "poster_path": "/dodSs53lsTsQh11ToR4MTgDrvaK.jpg",
+            "poster_path": "/o76Jvk75FbbbZxi9WColpSFvUnM.jpg",
             "director": "Chantal Akerman"
         },
         {
@@ -4984,7 +4998,7 @@
             "release_date": "1983",
             "watchDate": "2016-06-30",
             "personalRating": 5,
-            "runtime": 87,
+            "runtime": 88,
             "poster_path": "/fl09Ai2lKPau49MdLp0pOc5rYlP.jpg",
             "director": "David Cronenberg"
         },
@@ -5045,7 +5059,7 @@
             "watchDate": "2016-07-09",
             "personalRating": 3,
             "runtime": 97,
-            "poster_path": "/lDClXHP08BUP4D4iRqix0XxLEZF.jpg",
+            "poster_path": "/5LhU4gI8ltKYpLtI9X2DVFtwBrN.jpg",
             "director": "John Landis"
         },
         {
@@ -5165,7 +5179,7 @@
             "watchDate": "2016-07-25",
             "personalRating": 5,
             "runtime": 105,
-            "poster_path": "/bbo6gZerycZddjcGSEzdOQW045T.jpg",
+            "poster_path": "/axuBeLVBeXfVZPGg6ph2taWRDFq.jpg",
             "director": "Jean-Pierre Melville"
         },
         {
@@ -5195,7 +5209,7 @@
             "watchDate": "2016-08-04",
             "personalRating": 5,
             "runtime": 124,
-            "poster_path": "/eO9JnxcIQa8BPVqVrTBapj5w1Jq.jpg",
+            "poster_path": "/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
             "director": "Robert Altman"
         },
         {
@@ -5735,7 +5749,7 @@
             "watchDate": "2017-01-07",
             "personalRating": 5,
             "runtime": 125,
-            "poster_path": "/vIfygAvR5FXISAscAFTHOMAqQeA.jpg",
+            "poster_path": "/pgCEAll5ROxjnIexHomp79dGGZs.jpg",
             "director": "Roman Pola\u0144ski"
         },
         {
@@ -5914,7 +5928,7 @@
             "release_date": "1975",
             "watchDate": "2017-02-23",
             "personalRating": 4,
-            "runtime": 105,
+            "runtime": 127,
             "poster_path": "/rSHs6nsCw6vJwgz9djlAp4g3NCN.jpg",
             "director": "Dario Argento"
         },
@@ -5944,7 +5958,7 @@
             "release_date": "2016",
             "watchDate": "2017-02-26",
             "personalRating": 4,
-            "runtime": 101,
+            "runtime": 100,
             "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
             "director": "Ava DuVernay"
         },
@@ -6034,7 +6048,7 @@
             "release_date": "1994",
             "watchDate": "2017-03-22",
             "personalRating": 5,
-            "runtime": 99,
+            "runtime": 100,
             "poster_path": "/77CFEssoKesi4zvtADEpIrSKhA3.jpg",
             "director": "Krzysztof Kie\u015blowski"
         },
@@ -6255,7 +6269,7 @@
             "watchDate": "2017-06-06",
             "personalRating": 6,
             "runtime": 163,
-            "poster_path": "/ezt0Z9wIcPIxiks0J4dm8zJn575.jpg",
+            "poster_path": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -6415,7 +6429,7 @@
             "watchDate": "2017-07-04",
             "personalRating": 6,
             "runtime": 90,
-            "poster_path": "/uLFAS8ySyjHWkkupotAIEnVzd1J.jpg",
+            "poster_path": "/ydEmCCpIvwkM6r8G1NUL1dLG8z2.jpg",
             "director": "Agn\u00e8s Varda"
         },
         {
@@ -6734,7 +6748,7 @@
             "release_date": "1981",
             "watchDate": "2017-08-27",
             "personalRating": 2,
-            "runtime": 87,
+            "runtime": 88,
             "poster_path": "/pMYz6BWdJ90lDqpHlKKi4BtxHDd.jpg",
             "director": "Lucio Fulci"
         },
@@ -6774,7 +6788,7 @@
             "release_date": "2017",
             "watchDate": "2017-09-24",
             "personalRating": 6,
-            "runtime": 92,
+            "runtime": 93,
             "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
             "director": "David Lowery"
         },
@@ -6965,7 +6979,7 @@
             "watchDate": "2017-10-23",
             "personalRating": 4,
             "runtime": 93,
-            "poster_path": "/zVrxNiNozXbQgc9ez2nUYL8bOZm.jpg",
+            "poster_path": "/alx7eIxcpuBF1fJMbwGIuxY0cB8.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7024,8 +7038,8 @@
             "release_date": "1951",
             "watchDate": "2017-10-31",
             "personalRating": 3,
-            "runtime": 115,
-            "poster_path": "/kyxIU2x084EdguhBJYlLrQ2zNYh.jpg",
+            "runtime": 120,
+            "poster_path": "/6CtznV9xwlxsH5D2ndfChs2Hvpg.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7495,7 +7509,7 @@
             "watchDate": "2018-01-10",
             "personalRating": 6,
             "runtime": 149,
-            "poster_path": "/v7nEBG4ulpGol1QKC5EHnLomFa.jpg",
+            "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
             "director": "Andrei Tarkovsky"
         },
         {
@@ -7525,7 +7539,7 @@
             "watchDate": "2018-01-21",
             "personalRating": 5,
             "runtime": 81,
-            "poster_path": "/2jlGE69Wl8kHhvP7EmeoOmVBR1T.jpg",
+            "poster_path": "/8HAn6m2cKZRkCh4VU0AoJ2X6WSZ.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7555,7 +7569,7 @@
             "watchDate": "2018-01-28",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
+            "poster_path": "/cz0egudCsfsTzwUAL03A5UzoHGT.jpg",
             "director": "Benny Safdie, Josh Safdie"
         },
         {
@@ -7755,7 +7769,7 @@
             "watchDate": "2018-02-10",
             "personalRating": 5,
             "runtime": 236,
-            "poster_path": "/h0I3HXJsNQ1pItvViRCKCDsLObD.jpg",
+            "poster_path": "/dru4Itv62O2cpCr2zpvMPkKCnh5.jpg",
             "director": "Jacques Rivette"
         },
         {
@@ -7925,7 +7939,7 @@
             "watchDate": "2018-03-18",
             "personalRating": 4,
             "runtime": 115,
-            "poster_path": "/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
+            "poster_path": "/e3P2Ed0sbmQ6RsoS4dcT3aeEPR.jpg",
             "director": "Alex Garland"
         },
         {
@@ -8745,7 +8759,7 @@
             "watchDate": "2018-09-15",
             "personalRating": 4,
             "runtime": 94,
-            "poster_path": "/kvOAWK9vfTUbQTXB8hOhavlk8Yk.jpg",
+            "poster_path": "/jglyx4KhBoDal4CUl04m8VyT4uh.jpg",
             "director": "Alain Resnais"
         },
         {
@@ -8929,7 +8943,7 @@
             "director": "David Lean"
         },
         {
-            "original_title": "Le livre d\u2019image",
+            "original_title": "Le livre d'image",
             "imdb_id": "tt5749596",
             "release_date": "2018",
             "watchDate": "2018-10-13",
@@ -8955,8 +8969,38 @@
             "watchDate": "2018-10-14",
             "personalRating": 6,
             "runtime": 134,
-            "poster_path": "/nD4C3OpiwoNrhWw1FspPuGKqbZC.jpg",
+            "poster_path": "/6qcoiCk2Fgi6v0UJAo9kbY40GO5.jpg",
             "director": "Alfonso Cuar\u00f3n"
+        },
+        {
+            "original_title": "Jusqu'\u00e0 la garde",
+            "imdb_id": "tt6002232",
+            "release_date": "2018",
+            "watchDate": "2018-10-20",
+            "personalRating": 2,
+            "runtime": 93,
+            "poster_path": "/zcitn7crZP5ufX2ZWMhyByW68XZ.jpg",
+            "director": "Xavier Legrand"
+        },
+        {
+            "original_title": "Tampopo",
+            "imdb_id": "tt0092048",
+            "release_date": "1985",
+            "watchDate": "2018-10-21",
+            "personalRating": 5,
+            "runtime": 114,
+            "poster_path": "/83cU1xw5vpDOsmONzVU7nyLr2mI.jpg",
+            "director": "Juzo Itami"
+        },
+        {
+            "original_title": "Manila in the Claws of Light",
+            "imdb_id": "tt0073363",
+            "release_date": "1975",
+            "watchDate": "2018-10-22",
+            "personalRating": 5,
+            "runtime": 125,
+            "poster_path": "/ho1GpiEyc06MzMFHjhNshQg8tA1.jpg",
+            "director": "Lino Brocka"
         }
     ]
 }
