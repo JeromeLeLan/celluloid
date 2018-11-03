@@ -1,11 +1,11 @@
 {
     "countries": {
         "FR": {
-            "count": 171,
+            "count": 172,
             "name": "France"
         },
         "RU": {
-            "count": 8,
+            "count": 9,
             "name": "Russia"
         },
         "IT": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 68,
+            "count": 70,
             "name": "United Kingdom"
         },
         "CH": {
@@ -49,7 +49,7 @@
             "name": "Spain"
         },
         "CA": {
-            "count": 29,
+            "count": 30,
             "name": "Canada"
         },
         "AR": {
@@ -168,6 +168,10 @@
             "count": 1,
             "name": "Greece"
         },
+        "HU": {
+            "count": 1,
+            "name": "Hungary"
+        },
         "OM": {
             "count": 1,
             "name": "Oman"
@@ -202,9 +206,9 @@
         }
     },
     "decades": {
-        "1920s": 3,
+        "1920s": 4,
         "1930s": 17,
-        "1940s": 22,
+        "1940s": 23,
         "1950s": 43,
         "1960s": 75,
         "1970s": 93,
@@ -216,17 +220,17 @@
     "genres": {
         "Drama": 369,
         "Thriller": 141,
-        "Comedy": 131,
+        "Comedy": 133,
         "Romance": 100,
         "Horror": 94,
         "Mystery": 84,
         "Science Fiction": 72,
-        "Adventure": 68,
-        "Crime": 64,
+        "Adventure": 69,
+        "Crime": 65,
         "Action": 58,
         "Documentary": 56,
-        "Fantasy": 42,
-        "History": 28,
+        "Fantasy": 43,
+        "History": 29,
         "War": 25,
         "Family": 22,
         "Animation": 22,
@@ -426,6 +430,13 @@
             }
         ],
         [
+            11572,
+            {
+                "count": 6,
+                "name": "Carl Theodor Dreyer"
+            }
+        ],
+        [
             8452,
             {
                 "count": 5,
@@ -447,13 +458,6 @@
             }
         ],
         [
-            11572,
-            {
-                "count": 5,
-                "name": "Carl Theodor Dreyer"
-            }
-        ],
-        [
             13848,
             {
                 "count": 4,
@@ -472,6 +476,13 @@
             {
                 "count": 4,
                 "name": "Tommy Wiseau"
+            }
+        ],
+        [
+            68424,
+            {
+                "count": 4,
+                "name": "Michael Powell"
             }
         ],
         [
@@ -517,10 +528,10 @@
             }
         ],
         [
-            68424,
+            37846,
             {
                 "count": 3,
-                "name": "Michael Powell"
+                "name": "Emeric Pressburger"
             }
         ],
         [
@@ -710,13 +721,6 @@
             {
                 "count": 2,
                 "name": "Taika Waititi"
-            }
-        ],
-        [
-            37846,
-            {
-                "count": 2,
-                "name": "Emeric Pressburger"
             }
         ],
         [
@@ -2988,7 +2992,7 @@
             "release_date": "2014",
             "watchDate": "2015-01-12",
             "personalRating": 4,
-            "runtime": 105,
+            "runtime": 107,
             "poster_path": "/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
             "director": "Damien Chazelle"
         },
@@ -3838,7 +3842,7 @@
             "release_date": "1957",
             "watchDate": "2015-09-29",
             "personalRating": 4,
-            "runtime": 96,
+            "runtime": 97,
             "poster_path": "/dZBi7DSd3zjraZY1mxYeI5JohOr.jpg",
             "director": "Alexander Mackendrick"
         },
@@ -4003,7 +4007,7 @@
             "director": "Rainer Werner Fassbinder"
         },
         {
-            "original_title": "Femme Fatale",
+            "original_title": "Femme fatale",
             "imdb_id": "tt0280665",
             "release_date": "2002",
             "watchDate": "2015-11-17",
@@ -4438,7 +4442,7 @@
             "release_date": "1955",
             "watchDate": "2016-02-27",
             "personalRating": 3,
-            "runtime": 108,
+            "runtime": 109,
             "poster_path": "/apiOXPLDw6BKuIpdNlArf6YPwRI.jpg",
             "director": "Ingmar Bergman"
         },
@@ -4588,7 +4592,7 @@
             "release_date": "2015",
             "watchDate": "2016-04-02",
             "personalRating": 1,
-            "runtime": 167,
+            "runtime": 188,
             "poster_path": "/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",
             "director": "Quentin Tarantino"
         },
@@ -4749,7 +4753,7 @@
             "watchDate": "2016-05-15",
             "personalRating": 6,
             "runtime": 237,
-            "poster_path": "/rUmXrzRxzLiHnAQUyxyuhcLEWNy.jpg",
+            "poster_path": "/qktq9SoWyIyunhGgCkQkOnq0Xts.jpg",
             "director": "Edward Yang"
         },
         {
@@ -4939,7 +4943,7 @@
             "watchDate": "2016-06-28",
             "personalRating": 5,
             "runtime": 124,
-            "poster_path": "/g20oPyKrX317mRpOV5skpdQqf3p.jpg",
+            "poster_path": "/eoQ9H9CEySIYSPElKn2VRVY0MEa.jpg",
             "director": "Robert Altman"
         },
         {
@@ -5009,7 +5013,7 @@
             "watchDate": "2016-06-30",
             "personalRating": 4,
             "runtime": 92,
-            "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+            "poster_path": "/o49zN6Z7H5X4zGjz3HtknU8d2rW.jpg",
             "director": "Brian De Palma"
         },
         {
@@ -5749,7 +5753,7 @@
             "watchDate": "2017-01-07",
             "personalRating": 5,
             "runtime": 125,
-            "poster_path": "/pgCEAll5ROxjnIexHomp79dGGZs.jpg",
+            "poster_path": "/ochT2dykUUsk7RGrJjnJItLvreO.jpg",
             "director": "Roman Pola\u0144ski"
         },
         {
@@ -5759,7 +5763,7 @@
             "watchDate": "2017-01-07",
             "personalRating": 5,
             "runtime": 112,
-            "poster_path": "/fjIVHiAaBUEtBbHgRLoTgeY8Ter.jpg",
+            "poster_path": "/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -5809,7 +5813,7 @@
             "watchDate": "2017-01-18",
             "personalRating": 6,
             "runtime": 144,
-            "poster_path": "/xpbLyEd0XMozYh6hwSuZaw63cFK.jpg",
+            "poster_path": "/f5PAFIuTLP7hRQkTzYAO0INXHB5.jpg",
             "director": "John Cassavetes"
         },
         {
@@ -6078,7 +6082,7 @@
             "release_date": "2016",
             "watchDate": "2017-04-02",
             "personalRating": 4,
-            "runtime": 168,
+            "runtime": 145,
             "poster_path": "/wvzfK5QR6dGLwND8MCzWjsQWG4Q.jpg",
             "director": "Park Chan-wook"
         },
@@ -6979,7 +6983,7 @@
             "watchDate": "2017-10-23",
             "personalRating": 4,
             "runtime": 93,
-            "poster_path": "/alx7eIxcpuBF1fJMbwGIuxY0cB8.jpg",
+            "poster_path": "/8y00J2rVtxHntKMukkkzsYKQORe.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7088,7 +7092,7 @@
             "release_date": "1992",
             "watchDate": "2017-11-10",
             "personalRating": 6,
-            "runtime": 134,
+            "runtime": 135,
             "poster_path": "/tOQekTHJmVCgfUYXTb6dLAu6l8W.jpg",
             "director": "David Lynch"
         },
@@ -7389,7 +7393,7 @@
             "watchDate": "2017-12-17",
             "personalRating": 3,
             "runtime": 87,
-            "poster_path": "/lrPnETnz35CwXfkPJbA2JJyemXu.jpg",
+            "poster_path": "/y2QEjgn9eCFnSqiWsfHSevCmAis.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7469,7 +7473,7 @@
             "watchDate": "2018-01-02",
             "personalRating": 5,
             "runtime": 145,
-            "poster_path": "/qZwOt4FbAbl3XSAh4HOLnd8FSN8.jpg",
+            "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
             "director": "Jean-Pierre Melville"
         },
         {
@@ -7488,7 +7492,7 @@
             "release_date": "1932",
             "watchDate": "2018-01-07",
             "personalRating": 5,
-            "runtime": 74,
+            "runtime": 83,
             "poster_path": "/zSNbZz5xKTPBs2umK8OSBUqRfBF.jpg",
             "director": "Carl Theodor Dreyer"
         },
@@ -7588,7 +7592,7 @@
             "release_date": "2015",
             "watchDate": "2018-01-29",
             "personalRating": 3,
-            "runtime": 92,
+            "runtime": 93,
             "poster_path": "/52AtrxJCUoRZUUE28LxG1bKA5C2.jpg",
             "director": "Agnieszka Smoczynska"
         },
@@ -7948,7 +7952,7 @@
             "release_date": "1971",
             "watchDate": "2018-03-25",
             "personalRating": 4,
-            "runtime": 110,
+            "runtime": 112,
             "poster_path": "/zn8sMd8yonDEYUnNuApIhIvHJhP.jpg",
             "director": "Dario Argento"
         },
@@ -8199,7 +8203,7 @@
             "watchDate": "2018-04-28",
             "personalRating": 2,
             "runtime": 89,
-            "poster_path": "/aoArNmQfL67BzENQeQsgJm21cMe.jpg",
+            "poster_path": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
             "director": "Lynne Ramsay"
         },
         {
@@ -8399,7 +8403,7 @@
             "watchDate": "2018-07-07",
             "personalRating": 5,
             "runtime": 127,
-            "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "poster_path": "/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg",
             "director": "Ari Aster"
         },
         {
@@ -8969,7 +8973,7 @@
             "watchDate": "2018-10-14",
             "personalRating": 6,
             "runtime": 134,
-            "poster_path": "/6qcoiCk2Fgi6v0UJAo9kbY40GO5.jpg",
+            "poster_path": "/obeqf4003eXMmw9k9UgEOrpylIw.jpg",
             "director": "Alfonso Cuar\u00f3n"
         },
         {
@@ -9001,6 +9005,26 @@
             "runtime": 125,
             "poster_path": "/ho1GpiEyc06MzMFHjhNshQg8tA1.jpg",
             "director": "Lino Brocka"
+        },
+        {
+            "original_title": "La passion de Jeanne d'Arc",
+            "imdb_id": "tt0019254",
+            "release_date": "1928",
+            "watchDate": "2018-10-29",
+            "personalRating": 6,
+            "runtime": 82,
+            "poster_path": "/5HL0dEJfd7PF0eRiKz8BiNfe8Tf.jpg",
+            "director": "Carl Theodor Dreyer"
+        },
+        {
+            "original_title": "A Matter of Life and Death",
+            "imdb_id": "tt0038733",
+            "release_date": "1946",
+            "watchDate": "2018-11-01",
+            "personalRating": 6,
+            "runtime": 104,
+            "poster_path": "/6Qec6QpCv6gOCdBH4PJ0FzJXKzh.jpg",
+            "director": "Michael Powell, Emeric Pressburger"
         }
     ]
 }
