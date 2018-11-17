@@ -69,7 +69,10 @@ def parseCriterion(getPosters):
 
     strStart = '<td class="g-title"'
     index = html.find(strStart)
-    html = html[index+24:]
+    html = html[index+19:]
+    strStart = '">'
+    index = html.find(strStart)
+    html = html[index+6:]
     index = html.find('\n')
     movie['title'] = cleanString(html[:index])
 

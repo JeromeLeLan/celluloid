@@ -2797,7 +2797,7 @@
       "title": "The Sword of Doom",
       "director": "Kihachi Okamoto",
       "year": "1966",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -4103,11 +4103,11 @@
     {
       "url": "https://www.criterion.com/films/839-berlin-alexanderplatz",
       "spine": 411,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b70cee4126b8aad0af931592b4eb877e/7NhGIQiYsjQ0IS4MaeUpOsiPn2VxZo_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9d4f9a9e8c6a9a3dbc2962ee1c0fe66b/HkmiAJeukYH7OdffZ53S8gVu9ojPoZ_original.jpg",
       "title": "Berlin Alexanderplatz",
       "director": "Rainer Werner Fassbinder",
       "year": "1980",
-      "country": "Germany",
+      "country": "",
       "watched": false
     },
     {
@@ -5907,7 +5907,7 @@
       "title": "12 Angry Men",
       "director": "Sidney Lumet",
       "year": "1957",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8897,7 +8897,7 @@
       "title": "Meantime",
       "director": "Mike Leigh",
       "year": "1984",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -9308,7 +9308,7 @@
       "director": "Josef von Sternberg",
       "year": "1930",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28984-dishonored",
@@ -9473,7 +9473,7 @@
     {
       "url": "https://www.criterion.com/films/29368-the-princess-bride",
       "spine": 948,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fa887a24ccca92544c84f00f3293a34c/XABqFulHBKym8UGZjxdP7ZoCBkqMJX_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/aec8f8f4cb7a429f55333c5e1afbb3b1/RUqaCF7gTbmoOh7aDl4yQV3R8wsgzF_original.jpg",
       "title": "The Princess Bride",
       "director": "Rob Reiner",
       "year": "1987",
@@ -9503,7 +9503,7 @@
     {
       "url": "https://www.criterion.com/films/29038-true-stories",
       "spine": 951,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f3cc7e13ff5258a67f9fd0bdd6a21b41/hc29OFd2LPasAznwjrzhNK7TGvlaJ7_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7577ed3ce6bab96d5193c4b744e0098a/1xw1IyFisGyE1qcyYVvxGWy8nUZv89_original.jpg",
       "title": "True Stories",
       "director": "David Byrne",
       "year": "1986",
@@ -9583,10 +9583,50 @@
     {
       "url": "https://www.criterion.com/films/29459-in-the-heat-of-the-night",
       "spine": 959,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0838b7e924596c30628ef3b149112dc7/ExYYUVTlag0SEkgRp5hxVmECDKJ25y_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2f6cfde2bc9491f552e034f0de2a80a6/FhVr9CKMTklty4MLxK6jqhVuFQaDM1_original.jpg",
       "title": "In the Heat of the Night",
       "director": "Norman Jewison",
       "year": "1967",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27913-la-v-rit",
+      "spine": 960,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/11818e83db91f6e4307a6a557d4cf8d2/SY1JhRuHJNtbFE0z2GaXxAJG12O5JA_original.jpg",
+      "title": "La vérité",
+      "director": "Henri-Georges Clouzot",
+      "year": "1960",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28877-shame",
+      "spine": 961,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e137e4007f274da2f72f47d85d0a07ba/BaJBLLwAx0tvc2r5yx6b5fgUSWkGGe_original.jpg",
+      "title": "Shame",
+      "director": "Ingmar Bergman",
+      "year": "1968",
+      "country": "",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28699-death-in-venice",
+      "spine": 962,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6fb38dd82b9187c02eefe787d4b50a26/6Sih2y6NRUfuPxa5MOSpbNEim3ydUM_original.jpg",
+      "title": "Death in Venice",
+      "director": "Luchino Visconti",
+      "year": "1971",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29567-to-sleep-with-anger",
+      "spine": 963,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a9eddcb66dd21abdced90ddc76aeca6c/46yurEoaBasJdHdF47DqXpPZtCQZPf_original.jpg",
+      "title": "To Sleep with Anger",
+      "director": "Charles Burnett",
+      "year": "1990",
       "country": "",
       "watched": false
     }
