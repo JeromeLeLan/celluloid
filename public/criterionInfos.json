@@ -703,7 +703,7 @@
     {
       "url": "https://www.criterion.com/films/613-the-magic-flute",
       "spine": 71,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4a02cc52897e8760a9849f7e441ee98c/wNJLzrgWdOIxNM52X0sbUHtjqmBKHw_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/24f4d136b6d9b461116c2adc67ba695f/crh2jXaHD2BPVeUoR0IBQpPdeaOeYL_original.jpg",
       "title": "The Magic Flute",
       "director": "Ingmar Bergman",
       "year": "1975",
@@ -3907,7 +3907,7 @@
       "title": "If....",
       "director": "Lindsay Anderson",
       "year": "1968",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -5757,7 +5757,7 @@
       "title": "Secret Sunshine",
       "director": "Lee Chang-dong",
       "year": "2007",
-      "country": "South Korea",
+      "country": "",
       "watched": false
     },
     {
@@ -6807,7 +6807,7 @@
       "title": "Frances Ha",
       "director": "Noah Baumbach",
       "year": "2013",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6817,7 +6817,7 @@
       "title": "Investigation of a Citizen Above Suspicion",
       "director": "Elio Petri",
       "year": "1970",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -6977,7 +6977,7 @@
       "title": "King of the Hill",
       "director": "Steven Soderbergh",
       "year": "1993",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6987,7 +6987,7 @@
       "title": "A Brief History of Time",
       "director": "Errol Morris",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7017,7 +7017,7 @@
       "title": "The Great Beauty",
       "director": "Paolo Sorrentino",
       "year": "2013",
-      "country": "Italy",
+      "country": "",
       "watched": true
     },
     {
@@ -7025,9 +7025,9 @@
       "spine": 703,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cbda2b73d58c94da90d718beb2a6212f/grzsX7mRu1vFpl7oMh12x96ahSdYbj_original.jpg",
       "title": "The Freshman",
-      "director": "Sam Taylor...",
+      "director": "Sam Taylor…",
       "year": "1925",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7047,7 +7047,7 @@
       "title": "Breaking the Waves",
       "director": "Lars von Trier",
       "year": "1996",
-      "country": "Denmark",
+      "country": "",
       "watched": true
     },
     {
@@ -7097,7 +7097,7 @@
       "title": "Judex",
       "director": "Georges Franju",
       "year": "1963",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7117,7 +7117,7 @@
       "title": "Scanners",
       "director": "David Cronenberg",
       "year": "1981",
-      "country": "Canada",
+      "country": "",
       "watched": true
     },
     {
@@ -7137,7 +7137,7 @@
       "title": "Lola",
       "director": "Jacques Demy",
       "year": "1961",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7177,7 +7177,7 @@
       "title": "Donkey Skin",
       "director": "Jacques Demy",
       "year": "1970",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -7207,7 +7207,7 @@
       "title": "Love Streams",
       "director": "John Cassavetes",
       "year": "1984",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7217,7 +7217,7 @@
       "title": "Tie Me Up! Tie Me Down!",
       "director": "Pedro Almodóvar",
       "year": "1990",
-      "country": "Spain",
+      "country": "",
       "watched": false
     },
     {
@@ -7227,7 +7227,7 @@
       "title": "Y tu mamá también ",
       "director": "Alfonso Cuarón",
       "year": "2001",
-      "country": "Mexico",
+      "country": "",
       "watched": true
     },
     {
@@ -7297,7 +7297,7 @@
       "title": "Jour de fête",
       "director": "Jacques Tati",
       "year": "1949",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -7307,7 +7307,7 @@
       "title": "Parade",
       "director": "Jacques Tati",
       "year": "1974",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7337,7 +7337,7 @@
       "title": "The Shooting",
       "director": "Monte Hellman",
       "year": "1966",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7347,7 +7347,7 @@
       "title": "Ride in the Whirlwind",
       "director": "Monte Hellman",
       "year": "1966",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7458,7 +7458,7 @@
       "director": "Jean Renoir",
       "year": "1936",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28038-fellini-satyricon",
@@ -8178,7 +8178,7 @@
       "director": "Jean Renoir",
       "year": "1931",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27902-here-comes-mr-jordan",
@@ -8688,7 +8688,7 @@
       "director": "Francis Ford Coppola",
       "year": "1983",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28621-othello",
@@ -9458,7 +9458,7 @@
       "director": "Rainer Werner Fassbinder",
       "year": "1972",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28821-shampoo",
@@ -9627,6 +9627,56 @@
       "title": "To Sleep with Anger",
       "director": "Charles Burnett",
       "year": "1990",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28499-the-kid-brother",
+      "spine": 964,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4b81c33aa97a34e6468805d64920da24/M921R58LZngKVnsquGrfhJqCBnRw40_original.jpg",
+      "title": "The Kid Brother",
+      "director": "Ted Wilde",
+      "year": "1927",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29450-wanda",
+      "spine": 965,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6b94d52257de3f4b10d82fc0ff759d18/NtDa9MzcQMLF4K8R6XPI7DuDWWnNhM_original.jpg",
+      "title": "Wanda",
+      "director": "Barbara Loden",
+      "year": "1970",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29614-detour",
+      "spine": 966,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fcb436f8203ef98b638790f6a82f95e9/GutBaftf16Agrr2DM24YR0NmOZNO2L_original.jpg",
+      "title": "Detour",
+      "director": "Edgar G. Ulmer",
+      "year": "1945",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29000-i-wanna-hold-your-hand",
+      "spine": 967,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/66ba5fe958ad045a4f5b5ebe54570c97/A3LCcKjo5itwNBka6dKwl6td7sSpB0_original.jpg",
+      "title": "I Wanna Hold Your Hand",
+      "director": "Robert Zemeckis",
+      "year": "1978",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28770-jap-n",
+      "spine": 968,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8c378dd8cca0c203cf02f31b58b4ebe2/uVgIIB0ewVH1ONMmcynnU1p0vRV4Qv_original.jpg",
+      "title": "Japón",
+      "director": "Carlos Reygadas",
+      "year": "2002",
       "country": "",
       "watched": false
     }
