@@ -27,7 +27,7 @@
       "title": "The Lady Vanishes",
       "director": "Alfred Hitchcock",
       "year": "1938",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -58,7 +58,7 @@
       "director": "Jean Cocteau",
       "year": "1946",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/521-a-night-to-remember",
@@ -67,7 +67,7 @@
       "title": "A Night to Remember",
       "director": "Roy Ward Baker",
       "year": "1958",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -507,7 +507,7 @@
       "title": "Brazil",
       "director": "Terry Gilliam",
       "year": "1985",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -537,7 +537,7 @@
       "title": "For All Mankind",
       "director": "Al Reinert",
       "year": "1989",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1457,7 +1457,7 @@
       "title": "The Cranes Are Flying",
       "director": "Mikhail Kalatozov",
       "year": "1957",
-      "country": "Soviet Union",
+      "country": "",
       "watched": false
     },
     {
@@ -1617,7 +1617,7 @@
       "title": "Ratcatcher",
       "director": "Lynne Ramsay",
       "year": "1999",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -1657,7 +1657,7 @@
       "title": "Down by Law",
       "director": "Jim Jarmusch",
       "year": "1986",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1747,7 +1747,7 @@
       "title": "Fear and Loathing in Las Vegas",
       "director": "Terry Gilliam",
       "year": "1998",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -2467,7 +2467,7 @@
       "title": "Slacker",
       "director": "Richard Linklater",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -2498,7 +2498,7 @@
       "director": " ",
       "year": " ",
       "country": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/500-shadows",
@@ -2538,7 +2538,7 @@
       "director": "John Cassavetes",
       "year": "1976",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/957-opening-night",
@@ -2587,7 +2587,7 @@
       "title": "Fat Girl",
       "director": "Catherine Breillat",
       "year": "2001",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -2717,7 +2717,7 @@
       "title": "La commare secca",
       "director": "Bernardo Bertolucci",
       "year": "1962",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -2727,7 +2727,7 @@
       "title": "Thieves’ Highway",
       "director": "Jules Dassin",
       "year": "1949",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3007,7 +3007,7 @@
       "title": "An Angel at My Table",
       "director": "Jane Campion",
       "year": "1990",
-      "country": "New Zealand",
+      "country": "",
       "watched": false
     },
     {
@@ -3028,7 +3028,7 @@
       "director": "Nicolas Roeg",
       "year": "1980",
       "country": "United Kingdom",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/755-the-man-who-fell-to-earth",
@@ -3357,7 +3357,7 @@
       "title": "Dazed and Confused",
       "director": "Richard Linklater",
       "year": "1993",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -3397,7 +3397,7 @@
       "title": "Koko: A Talking Gorilla",
       "director": "Barbet Schroeder",
       "year": "1978",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -3537,7 +3537,7 @@
       "title": "Clean, Shaven",
       "director": "Lodge Kerrigan",
       "year": "1994",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3557,7 +3557,7 @@
       "title": "Sweetie",
       "director": "Jane Campion",
       "year": "1989",
-      "country": "New Zealand",
+      "country": "",
       "watched": false
     },
     {
@@ -3597,7 +3597,7 @@
       "title": "Symbiopsychotaxiplasm",
       "director": "William Greaves",
       "year": "1968",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3605,9 +3605,9 @@
       "spine": 361,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d4d6ecc28c3429912c5bb66352dd7b7b/5KHGm0kRbwVTvp0lNejmjAIWgpVeOG_original.jpg",
       "title": "The Beales of Grey Gardens",
-      "director": "Albert Maysles...",
+      "director": "Albert Maysles…",
       "year": "2006",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3615,9 +3615,9 @@
       "spine": 362,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2131124bf11dd19cde56a791c8fc54f9/o5Y9AGkM9iZWMr9AQm46QYzEAvubcV_original.jpg",
       "title": "Border Radio",
-      "director": "Allison Anders...",
+      "director": "Allison Anders…",
       "year": "1987",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3987,7 +3987,7 @@
       "title": "House of Games",
       "director": "David Mamet",
       "year": "1987",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3997,7 +3997,7 @@
       "title": "Stranger Than Paradise",
       "director": "Jim Jarmusch",
       "year": "1984",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4007,7 +4007,7 @@
       "title": "Night on Earth",
       "director": "Jim Jarmusch",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4087,7 +4087,7 @@
       "title": "Days of Heaven",
       "director": "Terrence Malick",
       "year": "1978",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -4137,7 +4137,7 @@
       "title": "Two-Lane Blacktop",
       "director": "Monte Hellman",
       "year": "1971",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4198,7 +4198,7 @@
       "director": "Agnès Varda",
       "year": "1965",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/149-pierrot-le-fou",
@@ -4217,7 +4217,7 @@
       "title": "The Last Emperor",
       "director": "Bernardo Bertolucci",
       "year": "1987",
-      "country": "China",
+      "country": "",
       "watched": false
     },
     {
@@ -4227,7 +4227,7 @@
       "title": "Walker",
       "director": "Alex Cox",
       "year": "1987",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4257,7 +4257,7 @@
       "title": "The Ice Storm",
       "director": "Ang Lee",
       "year": "1997",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -4277,7 +4277,7 @@
       "title": "Blast of Silence",
       "director": "Allen Baron",
       "year": "1961",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4577,7 +4577,7 @@
       "title": "El Norte",
       "director": "Gregory Nava",
       "year": "1983",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4857,7 +4857,7 @@
       "title": "Homicide",
       "director": "David Mamet",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4917,7 +4917,7 @@
       "title": "A Christmas Tale",
       "director": "Arnaud Desplechin",
       "year": "2008",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -4978,7 +4978,7 @@
       "director": "Roberto Rossellini",
       "year": "1946",
       "country": "Italy",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/297-germany-year-zero",
@@ -4988,7 +4988,7 @@
       "director": "Roberto Rossellini",
       "year": "1948",
       "country": "Germany",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/boxsets/689-roberto-rossellini-s-war-trilogy",
@@ -4998,7 +4998,7 @@
       "director": " ",
       "year": " ",
       "country": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/1502-paris-texas",
@@ -5017,7 +5017,7 @@
       "title": "Revanche",
       "director": "Götz Spielmann",
       "year": "2008",
-      "country": "Austria",
+      "country": "",
       "watched": false
     },
     {
@@ -5137,7 +5137,7 @@
       "title": "Ride with the Devil",
       "director": "Ang Lee",
       "year": "1999",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5207,7 +5207,7 @@
       "title": "Mystery Train",
       "director": "Jim Jarmusch",
       "year": "1989",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5267,7 +5267,7 @@
       "title": "The Secret of the Grain",
       "director": "Abdellatif Kechiche",
       "year": "2007",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -5328,7 +5328,7 @@
       "director": "Terry Zwigoff",
       "year": "1995",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/2337-l-enfance-nue",
@@ -5357,7 +5357,7 @@
       "title": "The Thin Red Line",
       "director": "Terrence Malick",
       "year": "1998",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5417,7 +5417,7 @@
       "title": "Antichrist",
       "director": "Lars von Trier",
       "year": "2009",
-      "country": "Denmark",
+      "country": "",
       "watched": true
     },
     {
@@ -5507,7 +5507,7 @@
       "title": "Cronos",
       "director": "Guillermo del Toro",
       "year": "1993",
-      "country": "Mexico",
+      "country": "",
       "watched": true
     },
     {
@@ -5517,7 +5517,7 @@
       "title": "Broadcast News",
       "director": "James L. Brooks",
       "year": "1987",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5537,7 +5537,7 @@
       "title": "Still Walking",
       "director": "Hirokazu Kore-eda",
       "year": "2008",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -5597,7 +5597,7 @@
       "title": "White Material",
       "director": "Claire Denis",
       "year": "2009",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -5627,7 +5627,7 @@
       "title": "Something Wild",
       "director": "Jonathan Demme",
       "year": "1986",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5967,7 +5967,7 @@
       "title": "Tiny Furniture",
       "director": "Lena Dunham",
       "year": "2010",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6117,7 +6117,7 @@
       "title": "Certified Copy",
       "director": "Abbas Kiarostami",
       "year": "2010",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -6157,7 +6157,7 @@
       "title": "Shallow Grave",
       "director": "Danny Boyle",
       "year": "1994",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -6187,7 +6187,7 @@
       "title": "Le Havre",
       "director": "Aki Kaurismäki",
       "year": "2011",
-      "country": "Finland",
+      "country": "",
       "watched": true
     },
     {
@@ -6195,9 +6195,9 @@
       "spine": 620,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fc764d56ec9302a2429c93fff187f671/aoWiKjatz40quQKrm8eFiRBdL5jfJ2_original.jpg",
       "title": "La promesse",
-      "director": "Luc Dardenne...",
+      "director": "Luc Dardenne…",
       "year": "1996",
-      "country": "Belgium",
+      "country": "",
       "watched": false
     },
     {
@@ -6205,9 +6205,9 @@
       "spine": 621,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/06eeae01a332a952d5c2bb0c8c5ecc78/wB6ANgwbN29LKWFvsvDzs0NEvkfbmP_original.jpg",
       "title": "Rosetta",
-      "director": "Luc Dardenne...",
+      "director": "Luc Dardenne…",
       "year": "1999",
-      "country": "Belgium",
+      "country": "",
       "watched": false
     },
     {
@@ -6217,7 +6217,7 @@
       "title": "Weekend",
       "director": "Andrew Haigh",
       "year": "2011",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -6267,7 +6267,7 @@
       "title": "The Game",
       "director": "David Fincher",
       "year": "1997",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6277,7 +6277,7 @@
       "title": "The Forgiveness of Blood",
       "director": "Joshua Marston",
       "year": "2011",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6357,7 +6357,7 @@
       "title": "Heaven’s Gate",
       "director": "Michael Cimino",
       "year": "1980",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6455,9 +6455,9 @@
       "spine": 646,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ed560ce125d981a74da5f0b112c643c4/sG8YTAGNjz7HsWG1RS1uUi54VYccwx_original.jpg",
       "title": "The Kid with a Bike",
-      "director": "Jean-Pierre Dardenne...",
+      "director": "Jean-Pierre Dardenne…",
       "year": "2011",
-      "country": "Belgium",
+      "country": "",
       "watched": true
     },
     {
@@ -6507,7 +6507,7 @@
       "title": "Badlands",
       "director": "Terrence Malick",
       "year": "1973",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6577,7 +6577,7 @@
       "title": "Medium Cool",
       "director": "Haskell Wexler",
       "year": "1969",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6627,7 +6627,7 @@
       "title": "Shoah",
       "director": "Claude Lanzmann",
       "year": "1985",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -6657,7 +6657,7 @@
       "title": "The Devil’s Backbone",
       "director": "Guillermo del Toro",
       "year": "2001",
-      "country": "Spain",
+      "country": "",
       "watched": true
     },
     {
@@ -7617,7 +7617,7 @@
       "title": "A Master Builder",
       "director": "Jonathan Demme",
       "year": "2014",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7667,7 +7667,7 @@
       "title": "My Beautiful Laundrette",
       "director": "Stephen Frears",
       "year": "1985",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -8257,7 +8257,7 @@
       "title": "The New World",
       "director": "Terrence Malick",
       "year": "2005",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8377,7 +8377,7 @@
       "title": "Pan’s Labyrinth",
       "director": "Guillermo del Toro",
       "year": "2006",
-      "country": "Spain",
+      "country": "",
       "watched": true
     },
     {
@@ -8387,7 +8387,7 @@
       "title": "Boyhood",
       "director": "Richard Linklater",
       "year": "2014",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
