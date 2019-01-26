@@ -17,7 +17,7 @@
       "title": "Seven Samurai",
       "director": "Akira Kurosawa",
       "year": "1954",
-      "country": "Japan",
+      "country": "",
       "watched": true
     },
     {
@@ -97,7 +97,7 @@
       "title": "Walkabout",
       "director": "Nicolas Roeg",
       "year": "1971",
-      "country": "Australia",
+      "country": "",
       "watched": false
     },
     {
@@ -367,7 +367,7 @@
       "title": "Time Bandits",
       "director": "Terry Gilliam",
       "year": "1981",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -467,7 +467,7 @@
       "title": "Insomnia",
       "director": "Erik Skjoldbjærg",
       "year": "1997",
-      "country": "Norway",
+      "country": "",
       "watched": false
     },
     {
@@ -557,7 +557,7 @@
       "title": "The 39 Steps",
       "director": "Alfred Hitchcock",
       "year": "1935",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -627,7 +627,7 @@
       "title": "Carnival of Souls",
       "director": "Herk Harvey",
       "year": "1962",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -647,7 +647,7 @@
       "title": "Rushmore",
       "director": "Wes Anderson",
       "year": "1998",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -697,7 +697,7 @@
       "title": "The Last Temptation of Christ",
       "director": "Martin Scorsese",
       "year": "1988",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -967,7 +967,7 @@
       "title": "Do the Right Thing",
       "director": "Spike Lee",
       "year": "1989",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -977,7 +977,7 @@
       "title": "L’avventura",
       "director": "Michelangelo Antonioni",
       "year": "1960",
-      "country": "Italy",
+      "country": "",
       "watched": true
     },
     {
@@ -1147,7 +1147,7 @@
       "title": "Rififi",
       "director": "Jules Dassin",
       "year": "1955",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -1225,9 +1225,9 @@
       "spine": 123,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/251568d04b57d0ba9fcf4f122aecb6b0/tOYh5gWdFXenaqTAGp5Nix2HBnl4o3_original.jpg",
       "title": "Grey Gardens",
-      "director": "Albert Maysles...",
+      "director": "Albert Maysles…",
       "year": "1976",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -1467,7 +1467,7 @@
       "title": "In the Mood for Love",
       "director": "Wong Kar-wai",
       "year": "2000",
-      "country": "Hong Kong",
+      "country": "",
       "watched": true
     },
     {
@@ -1507,7 +1507,7 @@
       "title": "Traffic",
       "director": "Steven Soderbergh",
       "year": "2000",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -1527,7 +1527,7 @@
       "title": "General Idi Amin Dada: A Self-Portrait",
       "director": "Barbet Schroeder",
       "year": "1974",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -1557,7 +1557,7 @@
       "title": "Hearts and Minds",
       "director": "Peter Davis",
       "year": "1974",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1567,7 +1567,7 @@
       "title": "The Royal Tenenbaums",
       "director": "Wes Anderson",
       "year": "2001",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -1677,7 +1677,7 @@
       "title": "Monterey Pop",
       "director": "D. A. Pennebaker",
       "year": "1968",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1685,9 +1685,9 @@
       "spine": 169,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7d49fee67a64a7b818b28d452c0b6600/Yn32RYtD6y6sFn34lfmbjoAlrVxr1C_original.jpg",
       "title": "Jimi Plays Monterey & Shake! Otis at Monterey",
-      "director": "Chris Hegedus...",
+      "director": "Chris Hegedus…",
       "year": "1986",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -1737,7 +1737,7 @@
       "title": "Band of Outsiders",
       "director": "Jean-Luc Godard",
       "year": "1964",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -1777,7 +1777,7 @@
       "title": "My Life as a Dog",
       "director": "Lasse Hallström",
       "year": "1985",
-      "country": "Sweden",
+      "country": "",
       "watched": false
     },
     {
@@ -2177,7 +2177,7 @@
       "title": "Le cercle rouge",
       "director": "Jean-Pierre Melville",
       "year": "1970",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -2197,7 +2197,7 @@
       "title": "Naked Lunch",
       "director": "David Cronenberg",
       "year": "1991",
-      "country": "Canada",
+      "country": "",
       "watched": true
     },
     {
@@ -2297,7 +2297,7 @@
       "title": "3 Women",
       "director": "Robert Altman",
       "year": "1977",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -2337,7 +2337,7 @@
       "title": "The Tin Drum",
       "director": "Volker Schlöndorff",
       "year": "1979",
-      "country": "Germany",
+      "country": "",
       "watched": false
     },
     {
@@ -2347,7 +2347,7 @@
       "title": "The Leopard",
       "director": "Luchino Visconti",
       "year": "1963",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -2477,7 +2477,7 @@
       "title": "Videodrome",
       "director": "David Cronenberg",
       "year": "1983",
-      "country": "Canada",
+      "country": "",
       "watched": true
     },
     {
@@ -2487,7 +2487,7 @@
       "title": "The Battle of Algiers ",
       "director": "Gillo Pontecorvo",
       "year": "1966",
-      "country": "Italy",
+      "country": "",
       "watched": true
     },
     {
@@ -2567,7 +2567,7 @@
       "title": "Secret Honor",
       "director": "Robert Altman",
       "year": "1984",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -2577,7 +2577,7 @@
       "title": "Tanner ’88",
       "director": "Robert Altman",
       "year": "1988",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -2767,7 +2767,7 @@
       "title": "My Own Private Idaho",
       "director": "Gus Van Sant",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -2787,7 +2787,7 @@
       "title": "Young Törless",
       "director": "Volker Schlöndorff",
       "year": "1966",
-      "country": "Germany",
+      "country": "",
       "watched": false
     },
     {
@@ -2887,7 +2887,7 @@
       "title": "Hoop Dreams",
       "director": "Steve James",
       "year": "1994",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -2997,7 +2997,7 @@
       "title": "The Life Aquatic with Steve Zissou",
       "director": "Wes Anderson",
       "year": "2004",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -3027,7 +3027,7 @@
       "title": "Bad Timing",
       "director": "Nicolas Roeg",
       "year": "1980",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -3067,7 +3067,7 @@
       "title": "Naked",
       "director": "Mike Leigh",
       "year": "1993",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -3257,7 +3257,7 @@
       "title": "Metropolitan",
       "director": "Whit Stillman",
       "year": "1990",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3307,7 +3307,7 @@
       "title": "Late Spring",
       "director": "Yasujiro Ozu",
       "year": "1949",
-      "country": "Japan",
+      "country": "",
       "watched": true
     },
     {
@@ -3327,7 +3327,7 @@
       "title": "Fists in the Pocket",
       "director": "Marco Bellocchio",
       "year": "1965",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -3337,7 +3337,7 @@
       "title": "Harlan County USA",
       "director": "Barbara Kopple",
       "year": "1976",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3387,7 +3387,7 @@
       "title": "Yi Yi",
       "director": "Edward Yang",
       "year": "2000",
-      "country": "Taiwan",
+      "country": "",
       "watched": true
     },
     {
@@ -3487,7 +3487,7 @@
       "title": "Kicking and Screaming",
       "director": "Noah Baumbach",
       "year": "1995",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -3507,7 +3507,7 @@
       "title": "The Spirit of the Beehive",
       "director": "Víctor Erice",
       "year": "1973",
-      "country": "Spain",
+      "country": "",
       "watched": false
     },
     {
@@ -3527,7 +3527,7 @@
       "title": "Sólo con tu pareja",
       "director": "Alfonso Cuarón",
       "year": "1991",
-      "country": "Mexico",
+      "country": "",
       "watched": false
     },
     {
@@ -3807,7 +3807,7 @@
       "title": "La haine",
       "director": "Mathieu Kassovitz",
       "year": "1995",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -3993,7 +3993,7 @@
     {
       "url": "https://www.criterion.com/films/252-stranger-than-paradise",
       "spine": 400,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/accc071236f46424eebed40930bef952/LkWDvC6of8Qb60XejW0RpRTMTBChog_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7da214a5a5d94a222785c8dd5c257e57/85da9M3NwHvtnIvj6oK2ovJjtYOTX8_original.jpg",
       "title": "Stranger Than Paradise",
       "director": "Jim Jarmusch",
       "year": "1984",
@@ -4003,7 +4003,7 @@
     {
       "url": "https://www.criterion.com/films/227-night-on-earth",
       "spine": 401,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/635fb55bd7389fa2ad60970f946e002c/WHE225oGhNF4GsvZKMDAjVqunodOcE_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/300f04cc44f51c1d1b81f577e32bba58/elypGlAsVgJgbxoAuddnPOiRlvDUf5_original.jpg",
       "title": "Night on Earth",
       "director": "Jim Jarmusch",
       "year": "1991",
@@ -4067,7 +4067,7 @@
       "title": "Mala Noche",
       "director": "Gus Van Sant",
       "year": "1985",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4077,7 +4077,7 @@
       "title": "Breathless",
       "director": "Jean-Luc Godard",
       "year": "1960",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -4207,7 +4207,7 @@
       "title": "Pierrot le fou",
       "director": "Jean-Luc Godard",
       "year": "1965",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -4357,7 +4357,7 @@
       "title": "Before the Rain",
       "director": "Milcho Manchevski",
       "year": "1994",
-      "country": "Macedonia",
+      "country": "",
       "watched": false
     },
     {
@@ -4397,7 +4397,7 @@
       "title": "Brand upon the Brain!",
       "director": "Guy Maddin",
       "year": "2006",
-      "country": "Canada",
+      "country": "",
       "watched": false
     },
     {
@@ -4676,8 +4676,8 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/59391d0914ee5e1f9ae246722f7b2d0e/84gqckqQjOBKLal72bAP241JlCOFPs_original.jpg",
       "title": "Science Is Fiction: 23 Films by Jean Painlevé",
       "director": "Jean Painlevé",
-      "year": "",
-      "country": "France",
+      "year": "0",
+      "country": "",
       "watched": false
     },
     {
@@ -4687,7 +4687,7 @@
       "title": "The Hit",
       "director": "Stephen Frears",
       "year": "1984",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -4747,7 +4747,7 @@
       "title": "The Friends of Eddie Coyle",
       "director": "Peter Yates",
       "year": "1973",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4777,7 +4777,7 @@
       "title": "Last Year at Marienbad",
       "director": "Alain Resnais",
       "year": "1961",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -4847,7 +4847,7 @@
       "title": "The Last Days of Disco",
       "director": "Whit Stillman",
       "year": "1998",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -4887,7 +4887,7 @@
       "title": "Monsoon Wedding ",
       "director": "Mira Nair",
       "year": "2001",
-      "country": "India",
+      "country": "",
       "watched": false
     },
     {
@@ -4897,7 +4897,7 @@
       "title": "Wings of Desire",
       "director": "Wim Wenders",
       "year": "1987",
-      "country": "Germany",
+      "country": "",
       "watched": true
     },
     {
@@ -4927,7 +4927,7 @@
       "title": "Gomorrah",
       "director": "Matteo Garrone",
       "year": "2008",
-      "country": "Italy",
+      "country": "",
       "watched": true
     },
     {
@@ -4957,7 +4957,7 @@
       "title": "Che",
       "director": "Steven Soderbergh",
       "year": "2008",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5007,7 +5007,7 @@
       "title": "Paris, Texas",
       "director": "Wim Wenders",
       "year": "1984",
-      "country": "Germany",
+      "country": "",
       "watched": true
     },
     {
@@ -5037,7 +5037,7 @@
       "title": "Hunger",
       "director": "Steve McQueen",
       "year": "2008",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -5127,7 +5127,7 @@
       "title": "Summer Hours",
       "director": "Olivier Assayas",
       "year": "2008",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -5158,7 +5158,7 @@
       "director": "John Ford",
       "year": "1939",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/23953-by-brakhage-an-anthology-volume-two",
@@ -5197,7 +5197,7 @@
       "title": "Everlasting Moments",
       "director": "Jan Troell",
       "year": "2008",
-      "country": "Sweden",
+      "country": "",
       "watched": false
     },
     {
@@ -5317,7 +5317,7 @@
       "title": "Louie Bluie",
       "director": "Terry Zwigoff",
       "year": "1985",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5327,7 +5327,7 @@
       "title": "Crumb",
       "director": "Terry Zwigoff",
       "year": "1995",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5347,7 +5347,7 @@
       "title": "Merry Christmas Mr. Lawrence",
       "director": "Nagisa Oshima",
       "year": "1983",
-      "country": "Japan",
+      "country": "",
       "watched": true
     },
     {
@@ -5397,7 +5397,7 @@
       "title": "The Darjeeling Limited",
       "director": "Wes Anderson",
       "year": "2007",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5527,7 +5527,7 @@
       "title": "Fish Tank",
       "director": "Andrea Arnold",
       "year": "2009",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -5557,7 +5557,7 @@
       "title": "Senso",
       "director": "Luchino Visconti",
       "year": "1954",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -5567,7 +5567,7 @@
       "title": "The Times of Harvey Milk",
       "director": "Robert Epstein",
       "year": "1984",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -5577,7 +5577,7 @@
       "title": "Topsy-Turvy",
       "director": "Mike Leigh",
       "year": "1999",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -5607,7 +5607,7 @@
       "title": "Kes",
       "director": "Ken Loach",
       "year": "1970",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -5617,7 +5617,7 @@
       "title": "Blow Out",
       "director": "Brian De Palma",
       "year": "1981",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5657,7 +5657,7 @@
       "title": "Insignificance",
       "director": "Nicolas Roeg",
       "year": "1985",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -5697,7 +5697,7 @@
       "title": "Zazie dans le métro",
       "director": "Louis Malle",
       "year": "1960",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -5737,7 +5737,7 @@
       "title": "Life During Wartime",
       "director": "Todd Solondz",
       "year": "2010",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5747,7 +5747,7 @@
       "title": "The Killing",
       "director": "Stanley Kubrick",
       "year": "1956",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5767,7 +5767,7 @@
       "title": "Cul-de-sac",
       "director": "Roman Polanski",
       "year": "1966",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -5787,7 +5787,7 @@
       "title": "The Phantom Carriage",
       "director": "Victor Sjöström",
       "year": "1921",
-      "country": "Sweden",
+      "country": "",
       "watched": false
     },
     {
@@ -5817,7 +5817,7 @@
       "title": "Carlos",
       "director": "Olivier Assayas",
       "year": "2010",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -5857,7 +5857,7 @@
       "title": "Island of Lost Souls",
       "director": "Erle C. Kenton",
       "year": "1932",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -5877,7 +5877,7 @@
       "title": "Three Colors: Blue",
       "director": "Krzysztof Kieślowski",
       "year": "1993",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -5887,7 +5887,7 @@
       "title": "Three Colors: White",
       "director": "Krzysztof Kieślowski",
       "year": "1994",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -5927,7 +5927,7 @@
       "title": "Belle de jour",
       "director": "Luis Buñuel",
       "year": "1967",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -5937,7 +5937,7 @@
       "title": "Godzilla",
       "director": "Ishiro Honda",
       "year": "1954",
-      "country": "Japan",
+      "country": "",
       "watched": true
     },
     {
@@ -5977,7 +5977,7 @@
       "title": "World on a Wire",
       "director": "Rainer Werner Fassbinder",
       "year": "1973",
-      "country": "Germany",
+      "country": "",
       "watched": true
     },
     {
@@ -5997,7 +5997,7 @@
       "title": "Anatomy of a Murder",
       "director": "Otto Preminger",
       "year": "1959",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6066,8 +6066,8 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/64c7d529a8d4e10d520db42f3dc7b014/S2sTH8wiDg1mVix1TWfmCfhjkYKEtb_original.jpg",
       "title": "A Hollis Frampton Odyssey",
       "director": "Hollis Frampton",
-      "year": "",
-      "country": "United States",
+      "year": "0",
+      "country": "",
       "watched": false
     },
     {
@@ -6077,7 +6077,7 @@
       "title": "Harold and Maude",
       "director": "Hal Ashby",
       "year": "1971",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6087,7 +6087,7 @@
       "title": "¡Alambrista!",
       "director": "Robert M. Young",
       "year": "1977",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6107,7 +6107,7 @@
       "title": "Being John Malkovich",
       "director": "Spike Jonze",
       "year": "1999",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6147,7 +6147,7 @@
       "title": "The Gold Rush",
       "director": "Charles Chaplin",
       "year": "1942",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6167,7 +6167,7 @@
       "title": "And Everything Is Going Fine",
       "director": "Steven Soderbergh",
       "year": "2010",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6177,7 +6177,7 @@
       "title": "Gray’s Anatomy",
       "director": "Steven Soderbergh",
       "year": "1997",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6237,7 +6237,7 @@
       "title": "Quadrophenia",
       "director": "Franc Roddam",
       "year": "1979",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -6287,7 +6287,7 @@
       "title": "Sunday Bloody Sunday",
       "director": "John Schlesinger",
       "year": "1971",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -6297,7 +6297,7 @@
       "title": "Rosemary’s Baby",
       "director": "Roman Polanski",
       "year": "1968",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6377,7 +6377,7 @@
       "title": "Following",
       "director": "Christopher Nolan",
       "year": "1999",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -6397,7 +6397,7 @@
       "title": "Koyaanisqatsi",
       "director": "Godfrey Reggio",
       "year": "1983",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6407,7 +6407,7 @@
       "title": "Powaqqatsi",
       "director": "Godfrey Reggio",
       "year": "1988",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6417,7 +6417,7 @@
       "title": "Naqoyqatsi",
       "director": "Godfrey Reggio",
       "year": "2002",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6437,7 +6437,7 @@
       "title": "Pina",
       "director": "Wim Wenders",
       "year": "2011",
-      "country": "Germany",
+      "country": "",
       "watched": true
     },
     {
@@ -6467,7 +6467,7 @@
       "title": "On the Waterfront",
       "director": "Elia Kazan",
       "year": "1954",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6497,7 +6497,7 @@
       "title": "A Man Escaped",
       "director": "Robert Bresson",
       "year": "1956",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -6587,7 +6587,7 @@
       "title": "Life Is Sweet",
       "director": "Mike Leigh",
       "year": "1990",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -6907,7 +6907,7 @@
       "title": "Thief",
       "director": "Michael Mann",
       "year": "1981",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6917,7 +6917,7 @@
       "title": "It’s a Mad, Mad, Mad, Mad World",
       "director": "Stanley Kramer",
       "year": "1963",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -6947,7 +6947,7 @@
       "title": "Blue Is the Warmest Color",
       "director": "Abdellatif Kechiche",
       "year": "2013",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -6957,7 +6957,7 @@
       "title": "Foreign Correspondent",
       "director": "Alfred Hitchcock",
       "year": "1940",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -6967,7 +6967,7 @@
       "title": "Tess",
       "director": "Roman Polanski",
       "year": "1979",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -7257,7 +7257,7 @@
       "title": "Macbeth",
       "director": "Roman Polanski",
       "year": "1971",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -7267,7 +7267,7 @@
       "title": "The Innocents",
       "director": "Jack Clayton",
       "year": "1961",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7317,7 +7317,7 @@
       "title": "My Darling Clementine",
       "director": "John Ford",
       "year": "1946",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7357,7 +7357,7 @@
       "title": "It Happened One Night",
       "director": "Frank Capra",
       "year": "1934",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7377,7 +7377,7 @@
       "title": "Tootsie",
       "director": "Sydney Pollack",
       "year": "1982",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7387,7 +7387,7 @@
       "title": "Safe",
       "director": "Todd Haynes",
       "year": "1995",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7397,7 +7397,7 @@
       "title": "The Bitter Tears of Petra von Kant",
       "director": "Rainer Werner Fassbinder",
       "year": "1972",
-      "country": "West Germany",
+      "country": "",
       "watched": true
     },
     {
@@ -7407,7 +7407,7 @@
       "title": "My Winnipeg",
       "director": "Guy Maddin",
       "year": "2007",
-      "country": "Canada",
+      "country": "",
       "watched": true
     },
     {
@@ -7417,7 +7417,7 @@
       "title": "The Palm Beach Story",
       "director": "Preston Sturges",
       "year": "1942",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7427,7 +7427,7 @@
       "title": "La Ciénaga",
       "director": "Lucrecia Martel",
       "year": "2001",
-      "country": "Argentina",
+      "country": "",
       "watched": false
     },
     {
@@ -7447,7 +7447,7 @@
       "title": "Don't Look Now",
       "director": "Nicolas Roeg",
       "year": "1973",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -7527,7 +7527,7 @@
       "title": "The Thin Blue Line",
       "director": "Errol Morris",
       "year": "1988",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7567,7 +7567,7 @@
       "title": "The Rose",
       "director": "Mark Rydell",
       "year": "1979",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7587,7 +7587,7 @@
       "title": "The Confession",
       "director": "Costa-Gavras",
       "year": "1970",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7597,7 +7597,7 @@
       "title": "State of Siege",
       "director": "Costa-Gavras",
       "year": "1972",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7637,7 +7637,7 @@
       "title": "The Fisher King",
       "director": "Terry Gilliam",
       "year": "1991",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7647,7 +7647,7 @@
       "title": "The Black Stallion",
       "director": "Carroll Ballard",
       "year": "1979",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7657,7 +7657,7 @@
       "title": "Here Is Your Life",
       "director": "Jan Troell",
       "year": "1966",
-      "country": "Sweden",
+      "country": "",
       "watched": false
     },
     {
@@ -7697,7 +7697,7 @@
       "title": "Dressed to Kill",
       "director": "Brian De Palma",
       "year": "1980",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7705,9 +7705,9 @@
       "spine": 771,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/638030c4f2b05bfe582a2ee9c1927505/mlaNzJGKGDcBJtTPKuzzjW3wfXs8kq_original.jpg",
       "title": "Two Days, One Night",
-      "director": "Jean-Pierre Dardenne...",
+      "director": "Jean-Pierre Dardenne…",
       "year": "2014",
-      "country": "Belgium",
+      "country": "",
       "watched": true
     },
     {
@@ -7727,7 +7727,7 @@
       "title": "Breaker Morant",
       "director": "Bruce Beresford",
       "year": "1980",
-      "country": "Australia",
+      "country": "",
       "watched": false
     },
     {
@@ -7737,7 +7737,7 @@
       "title": "Mister Johnson",
       "director": "Bruce Beresford",
       "year": "1990",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -7757,7 +7757,7 @@
       "title": "Moonrise Kingdom",
       "director": "Wes Anderson",
       "year": "2012",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -7767,7 +7767,7 @@
       "title": "The Brood",
       "director": "David Cronenberg",
       "year": "1979",
-      "country": "Canada",
+      "country": "",
       "watched": true
     },
     {
@@ -7797,7 +7797,7 @@
       "title": "Code Unknown",
       "director": "Michael Haneke",
       "year": "2000",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -7867,7 +7867,7 @@
       "title": "Jellyfish Eyes",
       "director": "Takashi Murakami",
       "year": "2013",
-      "country": "Japan",
+      "country": "",
       "watched": false
     },
     {
@@ -7878,7 +7878,7 @@
       "director": "Ted Wilde",
       "year": "1928",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28657-burroughs-the-movie",
@@ -7927,7 +7927,7 @@
       "title": "The American Friend",
       "director": "Wim Wenders",
       "year": "1977",
-      "country": "Germany",
+      "country": "",
       "watched": false
     },
     {
@@ -7935,9 +7935,9 @@
       "spine": 794,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/50601e2e6d31f2758588c3375c856abe/Mij0GgpVEQDG55eQGe1juUCJWRmy9f_original.jpg",
       "title": "Inside Llewyn Davis",
-      "director": "Joel Coen...",
+      "director": "Joel Coen…",
       "year": "2013",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8097,7 +8097,7 @@
       "title": "In a Lonely Place",
       "director": "Nicholas Ray",
       "year": "1950",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8327,7 +8327,7 @@
       "title": "Cat People",
       "director": "Jacques Tourneur",
       "year": "1942",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8427,7 +8427,7 @@
       "title": "Punch-Drunk Love",
       "director": "Paul Thomas Anderson",
       "year": "2002",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8447,7 +8447,7 @@
       "title": "The Squid and the Whale",
       "director": "Noah Baumbach",
       "year": "2005",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8487,7 +8487,7 @@
       "title": "His Girl Friday",
       "director": "Howard Hawks",
       "year": "1940",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8497,7 +8497,7 @@
       "title": "Something Wild",
       "director": "Jack Garfein",
       "year": "1961",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8527,7 +8527,7 @@
       "title": "Cameraperson",
       "director": "Kirsten Johnson",
       "year": "2016",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8537,7 +8537,7 @@
       "title": "The Tree of Wooden Clogs",
       "director": "Ermanno Olmi",
       "year": "1978",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -8547,7 +8547,7 @@
       "title": "Women on the Verge of a Nervous Breakdown",
       "director": "Pedro Almodóvar",
       "year": "1988",
-      "country": "Spain",
+      "country": "",
       "watched": false
     },
     {
@@ -8607,7 +8607,7 @@
       "title": "45 Years",
       "director": "Andrew Haigh",
       "year": "2015",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -8617,7 +8617,7 @@
       "title": "Canoa: A Shameful Memory",
       "director": "Felipe Cazals",
       "year": "1976",
-      "country": "Mexico",
+      "country": "",
       "watched": false
     },
     {
@@ -8627,7 +8627,7 @@
       "title": "Multiple Maniacs",
       "director": "John Waters",
       "year": "1970",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8657,7 +8657,7 @@
       "title": "Buena Vista Social Club",
       "director": "Wim Wenders",
       "year": "1999",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8687,7 +8687,7 @@
       "title": "Rumble Fish",
       "director": "Francis Ford Coppola",
       "year": "1983",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8707,7 +8707,7 @@
       "title": "Dheepan",
       "director": "Jacques Audiard",
       "year": "2015",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -8717,7 +8717,7 @@
       "title": "Ghost World",
       "director": "Terry Zwigoff",
       "year": "2001",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8797,7 +8797,7 @@
       "title": "They Live by Night",
       "director": "Nicholas Ray",
       "year": "1948",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8867,7 +8867,7 @@
       "title": "Lost in America",
       "director": "Albert Brooks",
       "year": "1985",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8877,7 +8877,7 @@
       "title": "Stalker",
       "director": "Andrei Tarkovsky",
       "year": "1979",
-      "country": "Russia",
+      "country": "",
       "watched": true
     },
     {
@@ -8917,7 +8917,7 @@
       "title": "Festival",
       "director": "Murray Lerner",
       "year": "1967",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8927,7 +8927,7 @@
       "title": "Certain Women",
       "director": "Kelly Reichardt",
       "year": "2016",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8957,7 +8957,7 @@
       "title": "The Lure",
       "director": "Agnieszka Smoczyńska",
       "year": "2015",
-      "country": "Poland",
+      "country": "",
       "watched": true
     },
     {
@@ -9017,7 +9017,7 @@
       "title": "Desert Hearts",
       "director": "Donna Deitch",
       "year": "1985",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9058,7 +9058,7 @@
       "director": "Ken Loach",
       "year": "2016",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28137-westfront-1918",
@@ -9218,7 +9218,7 @@
       "director": "Aki Kaurismäki",
       "year": "2017",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28618-beyond-the-hills",
@@ -9277,7 +9277,7 @@
       "title": "Bowling for Columbine",
       "director": "Michael Moore",
       "year": "2002",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -9287,7 +9287,7 @@
       "title": "Female Trouble",
       "director": "John Waters",
       "year": "1974",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -9677,6 +9677,56 @@
       "title": "Japón",
       "director": "Carlos Reygadas",
       "year": "2002",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29375-diamonds-of-the-night",
+      "spine": 969,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/846782a86f974677f8cc1565cd78d567/JXbgXFlzpc3Icnzi3hvX8Ftsto3q0Q_original.jpg",
+      "title": "Diamonds of the Night",
+      "director": "Jan Němec",
+      "year": "1964",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28703-a-face-in-the-crowd",
+      "spine": 970,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4c109973612e53d8cd8269099a51b8db/Ge9NUnmWvujUZYFWo5TMq6nMZdFLPy_original.jpg",
+      "title": "A Face in the Crowd",
+      "director": "Elia Kazan",
+      "year": "1957",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29544-police-story",
+      "spine": 971,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cd4ae6bdbaea9fd9c9aff1d69f924bc4/5wErYoFwVfkciAfnpRbFIhPqv7tIC5_original.jpg",
+      "title": "Police Story",
+      "director": "Jackie Chan",
+      "year": "1985",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29545-police-story-2",
+      "spine": 972,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/15163b7a4904d335fa747103716ac6b6/xzkfrywuWvw3fGT9upQUmnwHtRIjsE_original.jpg",
+      "title": "Police Story 2",
+      "director": "Jackie Chan",
+      "year": "1988",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29065-my-brilliant-career",
+      "spine": 973,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1076892f9021ddb7c859fd3c8e320e2a/Ci81X9eJjj5UeZxOsh0yqJlCk9CGOm_original.jpg",
+      "title": "My Brilliant Career",
+      "director": "Gillian Armstrong",
+      "year": "1979",
       "country": "",
       "watched": false
     }
