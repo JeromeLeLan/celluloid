@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 320,
+            "count": 322,
             "name": "United States of America"
         },
         "SE": {
@@ -97,7 +97,7 @@
             "name": "Malaysia"
         },
         "KR": {
-            "count": 9,
+            "count": 10,
             "name": "South Korea"
         },
         "HK": {
@@ -212,49 +212,49 @@
     "decades": {
         "1920s": 7,
         "1930s": 22,
-        "1940s": 29,
-        "1950s": 50,
+        "1940s": 30,
+        "1950s": 51,
         "1960s": 79,
         "1970s": 97,
         "1980s": 88,
         "1990s": 56,
         "2000s": 32,
-        "2010s": 205
+        "2010s": 206
     },
     "genres": {
-        "Drama": 410,
+        "Drama": 412,
         "Thriller": 152,
         "Comedy": 145,
         "Romance": 113,
-        "Horror": 97,
-        "Mystery": 91,
+        "Horror": 96,
+        "Mystery": 94,
         "Crime": 77,
-        "Adventure": 75,
-        "Science Fiction": 75,
-        "Action": 65,
+        "Adventure": 74,
+        "Science Fiction": 74,
+        "Action": 62,
         "Documentary": 58,
         "Fantasy": 48,
-        "History": 32,
+        "History": 31,
         "War": 29,
         "Family": 24,
-        "Animation": 24,
         "Music": 23,
+        "Animation": 23,
         "Western": 9,
         "TV Movie": 1
     },
     "actors": [
         [
+            6818,
+            {
+                "count": 16,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
             6649,
             {
                 "count": 15,
                 "name": "Gunnar Bj\u00f6rnstrand"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 15,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -400,6 +400,13 @@
             }
         ],
         [
+            40,
+            {
+                "count": 7,
+                "name": "Orson Welles"
+            }
+        ],
+        [
             5602,
             {
                 "count": 7,
@@ -411,13 +418,6 @@
             {
                 "count": 7,
                 "name": "Roman Pola\u0144ski"
-            }
-        ],
-        [
-            40,
-            {
-                "count": 6,
-                "name": "Orson Welles"
             }
         ],
         [
@@ -677,6 +677,13 @@
             {
                 "count": 3,
                 "name": "Bertrand Mandico"
+            }
+        ],
+        [
+            96657,
+            {
+                "count": 3,
+                "name": "Lee Chang-dong"
             }
         ],
         [
@@ -1111,13 +1118,6 @@
             {
                 "count": 2,
                 "name": "Josef von Sternberg"
-            }
-        ],
-        [
-            96657,
-            {
-                "count": 2,
-                "name": "Lee Chang-dong"
             }
         ],
         [
@@ -2995,6 +2995,13 @@
                 "count": 1,
                 "name": "Bradley Cooper"
             }
+        ],
+        [
+            2765,
+            {
+                "count": 1,
+                "name": "Nicholas Ray"
+            }
         ]
     ],
     "cinematographers": [
@@ -3527,7 +3534,7 @@
             "watchDate": "2015-05-16",
             "personalRating": 4,
             "runtime": 125,
-            "poster_path": "/5Sukn9kDDoUQgoCZOR1YbbjxPoi.jpg",
+            "poster_path": "/hK2KsU0lNiYRqIrYJcC3x63dPnH.jpg",
             "director": "Charlie Chaplin"
         },
         {
@@ -4131,7 +4138,7 @@
             "director": "Rainer Werner Fassbinder"
         },
         {
-            "original_title": "Femme fatale",
+            "original_title": "Femme Fatale",
             "imdb_id": "tt0280665",
             "release_date": "2002",
             "watchDate": "2015-11-17",
@@ -4157,7 +4164,7 @@
             "watchDate": "2015-11-21",
             "personalRating": 2,
             "runtime": 131,
-            "poster_path": "/dTuAIC7a7ncN4uEHtzjumLB7jje.jpg",
+            "poster_path": "/z2sJd1OvAGZLxgjBdSnQoLCfn3M.jpg",
             "director": "Christopher McQuarrie"
         },
         {
@@ -4837,7 +4844,7 @@
             "watchDate": "2016-05-04",
             "personalRating": 4,
             "runtime": 92,
-            "poster_path": "/l6NobtvA1FMhtV2HH20spDGr1wl.jpg",
+            "poster_path": "/cNNK6OHWNJdvIgWceV0iK83MPbb.jpg",
             "director": "Robert Eggers"
         },
         {
@@ -5141,7 +5148,7 @@
             "director": "Brian De Palma"
         },
         {
-            "original_title": "La tour 2 contr\u00f4le infernale",
+            "original_title": "La Tour 2 Contr\u00f4le Infernale",
             "imdb_id": "tt4515544",
             "release_date": "2016",
             "watchDate": "2016-06-30",
@@ -5457,7 +5464,7 @@
             "watchDate": "2016-09-28",
             "personalRating": 3,
             "runtime": 108,
-            "poster_path": "/8iKX6dEiwcWhnrtS6OEVMnfcxua.jpg",
+            "poster_path": "/78NFjrD9onl9ciKSjsENUfnTHbT.jpg",
             "director": "Fran\u00e7ois Truffaut"
         },
         {
@@ -6233,7 +6240,7 @@
         {
             "original_title": "Split",
             "imdb_id": "tt4972582",
-            "release_date": "2016",
+            "release_date": "2017",
             "watchDate": "2017-04-11",
             "personalRating": 5,
             "runtime": 117,
@@ -7236,7 +7243,7 @@
             "release_date": "1944",
             "watchDate": "2017-11-12",
             "personalRating": 5,
-            "runtime": 107,
+            "runtime": 108,
             "poster_path": "/nW0cCpfuGcR1JG7EinDbdL2Ijf2.jpg",
             "director": "Billy Wilder"
         },
@@ -7256,7 +7263,7 @@
             "release_date": "1966",
             "watchDate": "2017-11-15",
             "personalRating": 4,
-            "runtime": 74,
+            "runtime": 76,
             "poster_path": "/r47O9K1w1wtM6hDlSpdAmxlBfGM.jpg",
             "director": "V\u011bra Chytilov\u00e1"
         },
@@ -7547,7 +7554,7 @@
             "watchDate": "2017-12-29",
             "personalRating": 3,
             "runtime": 140,
-            "poster_path": "/n9sZe4fXA4mF5YW4BlTmspRaUGy.jpg",
+            "poster_path": "/ijQHiImv16vNSeZQsmih04kwn0C.jpg",
             "director": "Matt Reeves"
         },
         {
@@ -7697,7 +7704,7 @@
             "watchDate": "2018-01-28",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/cz0egudCsfsTzwUAL03A5UzoHGT.jpg",
+            "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
             "director": "Benny Safdie, Josh Safdie"
         },
         {
@@ -7757,7 +7764,7 @@
             "watchDate": "2018-02-02",
             "personalRating": 2,
             "runtime": 108,
-            "poster_path": "/hz1PyuEJRYkQtSMjPKicltpuZNR.jpg",
+            "poster_path": "/yTYTHsYan0xx4H4i95hku9x7nid.jpg",
             "director": "Roman Pola\u0144ski"
         },
         {
@@ -7837,7 +7844,7 @@
             "watchDate": "2018-02-07",
             "personalRating": 2,
             "runtime": 99,
-            "poster_path": "/o8OuuUO1zECT8CV2ygEshrg5N2p.jpg",
+            "poster_path": "/c44xXB4O7LdYoYmnm8rKOjnLcUB.jpg",
             "director": "Lucio Fulci"
         },
         {
@@ -7896,7 +7903,7 @@
             "release_date": "1991",
             "watchDate": "2018-02-10",
             "personalRating": 5,
-            "runtime": 236,
+            "runtime": 238,
             "poster_path": "/dru4Itv62O2cpCr2zpvMPkKCnh5.jpg",
             "director": "Jacques Rivette"
         },
@@ -8037,7 +8044,7 @@
             "watchDate": "2018-03-14",
             "personalRating": 4,
             "runtime": 96,
-            "poster_path": "/faPfcZ181gWmCoMbal7bAXFPFh9.jpg",
+            "poster_path": "/aE65rDcG2xiKPnl5ypAqh2jg0g6.jpg",
             "director": "George A. Romero"
         },
         {
@@ -8067,7 +8074,7 @@
             "watchDate": "2018-03-18",
             "personalRating": 4,
             "runtime": 115,
-            "poster_path": "/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
+            "poster_path": "/4ld6ymkR5PehIUgl5fIMqs8JsqF.jpg",
             "director": "Alex Garland"
         },
         {
@@ -8417,7 +8424,7 @@
             "watchDate": "2018-05-22",
             "personalRating": 6,
             "runtime": 120,
-            "poster_path": "/z7JMkHSESFRM0ZqLKjXsHFGKryH.jpg",
+            "poster_path": "/pxC4YsYIL4eSg1zDwrQQuxJegjA.jpg",
             "director": "David Lynch"
         },
         {
@@ -8547,7 +8554,7 @@
             "watchDate": "2018-07-08",
             "personalRating": 3,
             "runtime": 94,
-            "poster_path": "/vbvHTI7vfPKsONw75g9lio38SpN.jpg",
+            "poster_path": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
             "director": "Greta Gerwig"
         },
         {
@@ -9057,7 +9064,7 @@
             "watchDate": "2018-10-08",
             "personalRating": 6,
             "runtime": 96,
-            "poster_path": "/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
+            "poster_path": "/ssYS0Y8grJtYzFAWZIGg6g8ucRR.jpg",
             "director": "Gaspar No\u00e9"
         },
         {
@@ -9087,7 +9094,7 @@
             "watchDate": "2018-10-14",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
             "director": "Lee Chang-dong"
         },
         {
@@ -9377,7 +9384,7 @@
             "watchDate": "2018-12-17",
             "personalRating": 6,
             "runtime": 153,
-            "poster_path": "/qntguRoupnAASFdld8kTDe68fEn.jpg",
+            "poster_path": "/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
             "director": "Luca Guadagnino"
         },
         {
@@ -9719,6 +9726,36 @@
             "runtime": 139,
             "poster_path": "/dcefUQ0AIgRvkh9DS76tvetzxc2.jpg",
             "director": "Lee Chang-dong"
+        },
+        {
+            "original_title": "Burning",
+            "imdb_id": "tt7282468",
+            "release_date": "2018",
+            "watchDate": "2019-02-09",
+            "personalRating": 6,
+            "runtime": 148,
+            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+            "director": "Lee Chang-dong"
+        },
+        {
+            "original_title": "In a Lonely Place",
+            "imdb_id": "tt0042593",
+            "release_date": "1950",
+            "watchDate": "2019-02-10",
+            "personalRating": 4,
+            "runtime": 94,
+            "poster_path": "/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+            "director": "Nicholas Ray"
+        },
+        {
+            "original_title": "The Lady from Shanghai",
+            "imdb_id": "tt0040525",
+            "release_date": "1947",
+            "watchDate": "2019-02-12",
+            "personalRating": 5,
+            "runtime": 87,
+            "poster_path": "/v4OHLpYjrYjcx5hBeo71DaXQAuR.jpg",
+            "director": "Orson Welles"
         }
     ]
 }
