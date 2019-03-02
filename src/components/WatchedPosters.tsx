@@ -15,7 +15,7 @@ interface WatchedPostersState {
   hasMoreItems: boolean;
 }
 
-class WatchedPosters extends React.Component<any, WatchedPostersState> {
+export class WatchedPosters extends React.Component<any, WatchedPostersState> {
 
   constructor(props: WatchedPostersState) {
     super(props);
@@ -104,9 +104,3 @@ class WatchedPosters extends React.Component<any, WatchedPostersState> {
     );
   }
 }
-
-const styles = (theme: any) => ({
-});
-
-const WatchedPostersStyled = withStyles(styles as any)(WatchedPosters);
-export { WatchedPostersStyled };

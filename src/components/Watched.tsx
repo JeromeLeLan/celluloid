@@ -4,7 +4,7 @@ import Tab from '@material-ui/core/Tab';
 import CollectionsIcon from '@material-ui/icons/Collections';
 import ViewListIcon from '@material-ui/icons/ViewList';
 import { appState, ContentType } from '../AppState';
-import { WatchedPostersStyled } from './WatchedPosters';
+import { WatchedPosters } from './WatchedPosters';
 import { WatchedTable } from './WatchedTable';
 
 interface WatchedState {
@@ -34,7 +34,7 @@ export class Watched extends React.Component<{}, WatchedState> {
     if (this.state.tabValue === 0) {
       component = <WatchedTable />;
     } else { // if (this.state.tabValue === 1) {
-      component = <WatchedPostersStyled />;
+      component = <WatchedPosters />;
     }
 
     return (
