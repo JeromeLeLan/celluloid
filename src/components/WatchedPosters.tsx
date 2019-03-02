@@ -78,7 +78,7 @@ export class WatchedPosters extends React.Component<any, WatchedPostersState> {
     // Available size: w45, w92, w154, w185, w300, w342, w500, h632, w780, w1280, original
     this.state.displayedMovies.map(tile => {
       items.push(
-        <GridListTile key={tile.imdb_id + tile.watchDate} className={classes.gridTile}>
+        <GridListTile key={tile.imdb_id + tile.watchDate}>
           <a href={'https://www.imdb.com/title/' + tile.imdb_id} target="_blank">
             <img src={'https://image.tmdb.org/t/p/w185' + tile.poster_path} alt={tile.title} />
             <GridListTileBar
@@ -97,7 +97,7 @@ export class WatchedPosters extends React.Component<any, WatchedPostersState> {
         loadMore={this.loadMoreMovies}
         loader={<div className="loader" key={0}>Loading ...</div>}
       >
-        <GridList cellHeight={'auto'} spacing={10} cols={8} className={classes.gridList}>
+        <GridList cellHeight={'auto'} spacing={10} cols={8}>
           {items}
         </GridList>
       </InfiniteScroll>
