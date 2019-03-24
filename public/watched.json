@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 194,
+            "count": 195,
             "name": "France"
         },
         "RU": {
@@ -13,15 +13,15 @@
             "name": "Italy"
         },
         "US": {
-            "count": 327,
+            "count": 330,
             "name": "United States of America"
         },
         "SE": {
-            "count": 40,
+            "count": 41,
             "name": "Sweden"
         },
         "GB": {
-            "count": 77,
+            "count": 78,
             "name": "United Kingdom"
         },
         "CH": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 31,
+            "count": 34,
             "name": "Japan"
         },
         "MX": {
@@ -214,51 +214,51 @@
         }
     },
     "decades": {
-        "1920s": 8,
+        "1920s": 9,
         "1930s": 22,
         "1940s": 30,
-        "1950s": 52,
-        "1960s": 80,
+        "1950s": 53,
+        "1960s": 81,
         "1970s": 102,
-        "1980s": 89,
+        "1980s": 91,
         "1990s": 56,
         "2000s": 32,
-        "2010s": 212
+        "2010s": 214
     },
     "genres": {
         "Drama": 422,
-        "Thriller": 157,
-        "Comedy": 149,
-        "Romance": 116,
-        "Horror": 98,
-        "Mystery": 97,
-        "Crime": 79,
+        "Comedy": 152,
+        "Thriller": 150,
+        "Romance": 118,
+        "Horror": 96,
+        "Mystery": 92,
+        "Crime": 80,
         "Science Fiction": 76,
         "Adventure": 75,
-        "Action": 64,
-        "Documentary": 60,
+        "Action": 65,
+        "Documentary": 61,
         "Fantasy": 49,
-        "History": 32,
+        "History": 33,
         "War": 29,
-        "Family": 24,
+        "Family": 25,
         "Animation": 24,
-        "Music": 23,
+        "Music": 22,
         "Western": 9,
         "TV Movie": 1
     },
     "actors": [
         [
+            6649,
+            {
+                "count": 16,
+                "name": "Gunnar Bj\u00f6rnstrand"
+            }
+        ],
+        [
             6818,
             {
                 "count": 16,
                 "name": "Werner Herzog"
-            }
-        ],
-        [
-            6649,
-            {
-                "count": 15,
-                "name": "Gunnar Bj\u00f6rnstrand"
             }
         ],
         [
@@ -322,7 +322,7 @@
         [
             6648,
             {
-                "count": 29,
+                "count": 30,
                 "name": "Ingmar Bergman"
             }
         ],
@@ -421,7 +421,7 @@
             3556,
             {
                 "count": 7,
-                "name": "Roman Pola\u0144ski"
+                "name": "Roman Polanski"
             }
         ],
         [
@@ -674,6 +674,13 @@
             {
                 "count": 3,
                 "name": "Martin Scorsese"
+            }
+        ],
+        [
+            1035,
+            {
+                "count": 3,
+                "name": "Paul Schrader"
             }
         ],
         [
@@ -1087,13 +1094,6 @@
             {
                 "count": 2,
                 "name": "Wim Wenders"
-            }
-        ],
-        [
-            1035,
-            {
-                "count": 2,
-                "name": "Paul Schrader"
             }
         ],
         [
@@ -3069,6 +3069,48 @@
                 "count": 1,
                 "name": "F.W. Murnau"
             }
+        ],
+        [
+            51116,
+            {
+                "count": 1,
+                "name": "Pierre Salvadori"
+            }
+        ],
+        [
+            544711,
+            {
+                "count": 1,
+                "name": "P\u00e1l Fej\u0151s"
+            }
+        ],
+        [
+            7854,
+            {
+                "count": 1,
+                "name": "Al Reinert"
+            }
+        ],
+        [
+            72757,
+            {
+                "count": 1,
+                "name": "Steve McQueen"
+            }
+        ],
+        [
+            563895,
+            {
+                "count": 1,
+                "name": "Masaki D\u00f4moto"
+            }
+        ],
+        [
+            140102,
+            {
+                "count": 1,
+                "name": "Yukio Mishima"
+            }
         ]
     ],
     "cinematographers": [
@@ -3115,6 +3157,13 @@
             }
         ],
         [
+            6652,
+            {
+                "count": 6,
+                "name": "Gunnar Fischer"
+            }
+        ],
+        [
             151,
             {
                 "count": 6,
@@ -3129,13 +3178,6 @@
             }
         ],
         [
-            6652,
-            {
-                "count": 5,
-                "name": "Gunnar Fischer"
-            }
-        ],
-        [
             1060,
             {
                 "count": 5,
@@ -3145,7 +3187,7 @@
     ],
     "movies": [
         {
-            "original_title": "Mais o\u016f est donc pass\u00e9e la septi\u010dme compagnie?",
+            "original_title": "Mais o\u00f9 est donc pass\u00e9e la septi\u00e8me compagnie?",
             "imdb_id": "tt0070356",
             "release_date": "1973",
             "watchDate": "2015-01-02",
@@ -3321,7 +3363,7 @@
             "watchDate": "2015-02-14",
             "personalRating": 4,
             "runtime": 105,
-            "poster_path": "/tOER0RIOSKYcIS4JXHnVctDchNr.jpg",
+            "poster_path": "/plc8sWfmTv0qrthjXbBwcjK6Qog.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -4291,7 +4333,7 @@
             "watchDate": "2015-11-29",
             "personalRating": 5,
             "runtime": 122,
-            "poster_path": "/nBaqryObPuxmuAndWUjDE5rriTd.jpg",
+            "poster_path": "/6o0UWX2naW7HK45PDNYmoMIk5qs.jpg",
             "director": "Joel Coen, Ethan Coen"
         },
         {
@@ -4331,7 +4373,7 @@
             "watchDate": "2015-12-06",
             "personalRating": 5,
             "runtime": 119,
-            "poster_path": "/n8wfFsQ5vtm6dM8vdgXb6OLv2GY.jpg",
+            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
             "director": "Orson Welles"
         },
         {
@@ -5121,7 +5163,7 @@
             "watchDate": "2016-06-27",
             "personalRating": 3,
             "runtime": 108,
-            "poster_path": "/x5l97t0FqYKisYNcEbwHWPvnBUH.jpg",
+            "poster_path": "/lHxHdcUEmomTDPssLwevpgruWEI.jpg",
             "director": "Alfred Hitchcock"
         },
         {
@@ -5401,7 +5443,7 @@
             "watchDate": "2016-07-30",
             "personalRating": 6,
             "runtime": 135,
-            "poster_path": "/amihqP51DyBx1CZ8ybEvR1v68zH.jpg",
+            "poster_path": "/adJ4LG3Qy46HacTUAqbvp9WFONx.jpg",
             "director": "Terrence Malick"
         },
         {
@@ -5952,7 +5994,7 @@
             "personalRating": 5,
             "runtime": 125,
             "poster_path": "/ochT2dykUUsk7RGrJjnJItLvreO.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Rear Window",
@@ -5972,7 +6014,7 @@
             "personalRating": 4,
             "runtime": 105,
             "poster_path": "/4payjKRO69Aew6Y53DfJ4KqhWs8.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "His Girl Friday",
@@ -6281,7 +6323,7 @@
             "watchDate": "2017-04-02",
             "personalRating": 4,
             "runtime": 145,
-            "poster_path": "/wvzfK5QR6dGLwND8MCzWjsQWG4Q.jpg",
+            "poster_path": "/cw1BvSDk4wyHHpVStj4t82pAvq7.jpg",
             "director": "Park Chan-wook"
         },
         {
@@ -6302,7 +6344,7 @@
             "personalRating": 4,
             "runtime": 113,
             "poster_path": "/yWvGHvN0LzpYrP5QiVnhGpg1UA5.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Split",
@@ -6322,7 +6364,7 @@
             "personalRating": 6,
             "runtime": 130,
             "poster_path": "/iIHO6FzF6lL4mA90rrmk3Y705XS.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Song to Song",
@@ -6611,7 +6653,7 @@
             "watchDate": "2017-07-03",
             "personalRating": 5,
             "runtime": 206,
-            "poster_path": "/5wF521QDBJplvbQq3lxWY3uYupU.jpg",
+            "poster_path": "/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -6782,7 +6824,7 @@
             "personalRating": 4,
             "runtime": 171,
             "poster_path": "/m2qx66UNTMg17CoFSGZWC7csG7M.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Pauline \u00e0 la plage",
@@ -6941,7 +6983,7 @@
             "watchDate": "2017-08-26",
             "personalRating": 5,
             "runtime": 105,
-            "poster_path": "/5vjKEBfpTH1Yyd2jVP0I4OAbvA.jpg",
+            "poster_path": "/iUTzQnTGy7rzhFs5GnsXNAT48KE.jpg",
             "director": "Don Siegel"
         },
         {
@@ -7151,7 +7193,7 @@
             "watchDate": "2017-10-16",
             "personalRating": 4,
             "runtime": 88,
-            "poster_path": "/kquvP2icpOjMB3Kz8BcWx4dHPoF.jpg",
+            "poster_path": "/w0LilVoboSNFajkDLlbFllt59gz.jpg",
             "director": "Jean-Luc Godard"
         },
         {
@@ -7231,7 +7273,7 @@
             "watchDate": "2017-10-29",
             "personalRating": 4,
             "runtime": 65,
-            "poster_path": "/nhogi02EDBe3xlimMwwHUk171xD.jpg",
+            "poster_path": "/dVRNNLO3SUGdYsoe1QcFmDU6ZMP.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7301,7 +7343,7 @@
             "watchDate": "2017-11-12",
             "personalRating": 4,
             "runtime": 93,
-            "poster_path": "/yAKIR3M3P1eVLJUw7PvQu4k42us.jpg",
+            "poster_path": "/pwP5zPHG5xMPQbs9JarjDD8icUl.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -7331,7 +7373,7 @@
             "watchDate": "2017-11-15",
             "personalRating": 4,
             "runtime": 76,
-            "poster_path": "/r47O9K1w1wtM6hDlSpdAmxlBfGM.jpg",
+            "poster_path": "/7LYp1ADG89rWeeY81ctxe73VEqp.jpg",
             "director": "V\u011bra Chytilov\u00e1"
         },
         {
@@ -7427,7 +7469,7 @@
         {
             "original_title": "Othello",
             "imdb_id": "tt0045251",
-            "release_date": "1952",
+            "release_date": "1951",
             "watchDate": "2017-11-22",
             "personalRating": 5,
             "runtime": 93,
@@ -7832,7 +7874,7 @@
             "personalRating": 2,
             "runtime": 108,
             "poster_path": "/yTYTHsYan0xx4H4i95hku9x7nid.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Taxi Driver",
@@ -7942,7 +7984,7 @@
             "personalRating": 3,
             "runtime": 103,
             "poster_path": "/3p1K153ZbRV7FNyi4DNnzHfxJZa.jpg",
-            "director": "Roman Pola\u0144ski"
+            "director": "Roman Polanski"
         },
         {
             "original_title": "Scarface",
@@ -8401,7 +8443,7 @@
             "watchDate": "2018-04-28",
             "personalRating": 2,
             "runtime": 89,
-            "poster_path": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+            "poster_path": "/aoArNmQfL67BzENQeQsgJm21cMe.jpg",
             "director": "Lynne Ramsay"
         },
         {
@@ -8441,7 +8483,7 @@
             "watchDate": "2018-05-03",
             "personalRating": 3,
             "runtime": 68,
-            "poster_path": "/gRYmunj5ypxCk5PGTnMpH2WYLyI.jpg",
+            "poster_path": "/1a4ihIN6rqZawpzQjTFjibpSuKa.jpg",
             "director": "Norman Z. McLeod"
         },
         {
@@ -8895,7 +8937,7 @@
             "director": "Steve De Jarnatt"
         },
         {
-            "original_title": "Le fant\u00f4me de la libert\u00e9",
+            "original_title": "Le Fant\u00f4me de la libert\u00e9",
             "imdb_id": "tt0071487",
             "release_date": "1974",
             "watchDate": "2018-08-29",
@@ -9161,7 +9203,7 @@
             "watchDate": "2018-10-14",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
             "director": "Lee Chang-dong"
         },
         {
@@ -9371,7 +9413,7 @@
             "watchDate": "2018-12-03",
             "personalRating": 6,
             "runtime": 495,
-            "poster_path": "/93BRFH35fc22xtAyL8EngfB1jpe.jpg",
+            "poster_path": "/AcuIRRyv8ukW8FH3of5MVyVVbp8.jpg",
             "director": "Rainer Werner Fassbinder"
         },
         {
@@ -9421,7 +9463,7 @@
             "watchDate": "2018-12-15",
             "personalRating": 5,
             "runtime": 40,
-            "poster_path": "/l3h1oUZdUfi1LrwkJN3qrLSlbur.jpg",
+            "poster_path": "/r490HjrQJrYXJp1zkzbflwEIegT.jpg",
             "director": "Jean Renoir"
         },
         {
@@ -9441,7 +9483,7 @@
             "watchDate": "2018-12-16",
             "personalRating": 2,
             "runtime": 122,
-            "poster_path": "/fgGYvNqujtPmX4NHMypHdEhnjSS.jpg",
+            "poster_path": "/gcrKJJE5SOaTw6PPmO3FNrQenp3.jpg",
             "director": "Emmanuel Finkiel"
         },
         {
@@ -9451,7 +9493,7 @@
             "watchDate": "2018-12-17",
             "personalRating": 6,
             "runtime": 153,
-            "poster_path": "/qntguRoupnAASFdld8kTDe68fEn.jpg",
+            "poster_path": "/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
             "director": "Luca Guadagnino"
         },
         {
@@ -9761,7 +9803,7 @@
             "watchDate": "2019-02-01",
             "personalRating": 4,
             "runtime": 130,
-            "poster_path": "/1ojupnCGcnYvINTtQvbh8mP305R.jpg",
+            "poster_path": "/qgRFqchzLWpL3c0TS3jf6NxzO1G.jpg",
             "director": "Jean-Pierre Melville"
         },
         {
@@ -9781,7 +9823,7 @@
             "watchDate": "2019-02-02",
             "personalRating": 4,
             "runtime": 103,
-            "poster_path": "/4VWx5PvyLo13zvFHKAKxCtHIuYU.jpg",
+            "poster_path": "/mKyGqMcJUu83GgYN6ajbugqPvOb.jpg",
             "director": "Yann Gonzalez"
         },
         {
@@ -9801,7 +9843,7 @@
             "watchDate": "2019-02-09",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
             "director": "Lee Chang-dong"
         },
         {
@@ -9971,8 +10013,78 @@
             "watchDate": "2019-03-09",
             "personalRating": 5,
             "runtime": 94,
-            "poster_path": "/tyxjxpwr9NiVtSeITtVXuhp84Zl.jpg",
+            "poster_path": "/hEDMD8Lu7tMurqIglE8mo4GKBN.jpg",
             "director": "F.W. Murnau"
+        },
+        {
+            "original_title": "En libert\u00e9 !",
+            "imdb_id": "tt7534068",
+            "release_date": "2018",
+            "watchDate": "2019-03-10",
+            "personalRating": 5,
+            "runtime": 108,
+            "poster_path": "/mr6Daq6iaiZp3bnWgZfPW8KB6MM.jpg",
+            "director": "Pierre Salvadori"
+        },
+        {
+            "original_title": "Lonesome",
+            "imdb_id": "tt0019109",
+            "release_date": "1928",
+            "watchDate": "2019-03-11",
+            "personalRating": 3,
+            "runtime": 70,
+            "poster_path": "/rixzjWsbMeN7tcMbmdJaSKC0R0j.jpg",
+            "director": "P\u00e1l Fej\u0151s"
+        },
+        {
+            "original_title": "Secrets of Women",
+            "imdb_id": "tt0044811",
+            "release_date": "1952",
+            "watchDate": "2019-03-12",
+            "personalRating": 3,
+            "runtime": 107,
+            "poster_path": "/bUUTuh376ppUQJCzpjz4PSWNohv.jpg",
+            "director": "Ingmar Bergman"
+        },
+        {
+            "original_title": "For All Mankind",
+            "imdb_id": "tt0097372",
+            "release_date": "1989",
+            "watchDate": "2019-03-17",
+            "personalRating": 6,
+            "runtime": 80,
+            "poster_path": "/7k8ylisWiEGxdRSlAf6v4PWiAjH.jpg",
+            "director": "Al Reinert"
+        },
+        {
+            "original_title": "Widows",
+            "imdb_id": "tt4218572",
+            "release_date": "2018",
+            "watchDate": "2019-03-17",
+            "personalRating": 3,
+            "runtime": 130,
+            "poster_path": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+            "director": "Steve McQueen"
+        },
+        {
+            "original_title": "Mishima: A Life in Four Chapters",
+            "imdb_id": "tt0089603",
+            "release_date": "1985",
+            "watchDate": "2019-03-21",
+            "personalRating": 5,
+            "runtime": 121,
+            "poster_path": "/7cq1v7uzQNTERVbV4TZBMM7FTRr.jpg",
+            "director": "Paul Schrader"
+        },
+        {
+            "original_title": "Patriotism",
+            "imdb_id": "tt0059936",
+            "release_date": "1966",
+            "watchDate": "2019-03-24",
+            "personalRating": 5,
+            "runtime": 30,
+            "poster_path": "/2mHvaCqFzbJqncJdebZFqYPk2Fn.jpg",
+            "director": "Masaki D\u00f4moto, Yukio Mishima"
         }
     ]
 }

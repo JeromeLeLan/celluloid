@@ -538,7 +538,7 @@
       "director": "Al Reinert",
       "year": "1989",
       "country": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/600-the-unbearable-lightness-of-being",
@@ -1067,7 +1067,7 @@
       "title": "Mona Lisa",
       "director": "Neil Jordan",
       "year": "1986",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -1437,7 +1437,7 @@
       "title": "Loves of a Blonde",
       "director": "Miloš Forman",
       "year": "1965",
-      "country": "Czechoslovakia",
+      "country": "",
       "watched": false
     },
     {
@@ -1537,7 +1537,7 @@
       "title": "The Horse’s Mouth",
       "director": "Ronald Neame",
       "year": "1958",
-      "country": "United Kingdom",
+      "country": "",
       "watched": false
     },
     {
@@ -2073,7 +2073,7 @@
     {
       "url": "https://www.criterion.com/boxsets/89-a-film-trilogy-by-ingmar-bergman",
       "spine": 208,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1854-f87a320171d04b1b1907867e7d02b9f9/A1hcrlJkZvG9YhDnUmK0Yf1Tj1VRAd_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1938-86e4176cc4262e3524935d83d5870456/4hx4crqXk77qBf3SJxMwbw6Mz2sDUg_original.jpg",
       "title": "A Film Trilogy by Ingmar Bergman",
       "director": " ",
       "year": " ",
@@ -2083,7 +2083,7 @@
     {
       "url": "https://www.criterion.com/films/568-through-a-glass-darkly",
       "spine": 209,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d8dd0824290cdb2c0c05c4db7d50a583/uqTRj48Gxzdl0SAGqw5VcozvM6h86a_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9297bbfd6b7844574edc8d8845ad42e5/2USvVN72ycuyEsj81YkYu4yjmy0YPY_original.jpg",
       "title": "Through a Glass Darkly",
       "director": "Ingmar Bergman",
       "year": "1961",
@@ -2093,7 +2093,7 @@
     {
       "url": "https://www.criterion.com/films/569-winter-light",
       "spine": 210,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/232fdb029aaa2bfa572970958de737c0/b33uXy9vWW5wgQxMaiODJANyef5h6J_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/615a2701a468f8fe623d2263f828f9ae/XD9sCchJ9xSddcTuSfcjt9jLrobYC4_original.jpg",
       "title": "Winter Light",
       "director": "Ingmar Bergman",
       "year": "1963",
@@ -2103,22 +2103,12 @@
     {
       "url": "https://www.criterion.com/films/570-the-silence",
       "spine": 211,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/37b5788ba3e74f12a980c5443599c0cf/9CzXklGrNWqM6zgbnNiAHWLrBvnR44_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/96e1add69295c206401f94f0ad905e63/3N8dRvaGxaUqSIYisqeX0KJpdn69Vw_original.jpg",
       "title": "The Silence",
       "director": "Ingmar Bergman",
       "year": "1963",
       "country": "",
       "watched": true
-    },
-    {
-      "url": "https://www.criterion.com/films/608-ingmar-bergman-makes-a-movie",
-      "spine": 212,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/dcd50e56f3c70c1620c2ceed21d76a15/a4PnIYH12zpt31CpwNke3QAL9RrVyx_original.jpg",
-      "title": "Ingmar Bergman Makes a Movie",
-      "director": "Vilgot Sjöman",
-      "year": "1962",
-      "country": "Sweden",
-      "watched": false
     },
     {
       "url": "https://www.criterion.com/films/366-richard-iii",
@@ -2228,7 +2218,7 @@
       "director": "Barbet Schroeder",
       "year": "1976",
       "country": "France",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/446-pickup-on-south-street",
@@ -2357,7 +2347,7 @@
       "title": "Mamma Roma",
       "director": "Pier Paolo Pasolini",
       "year": "1962",
-      "country": "Italy",
+      "country": "",
       "watched": false
     },
     {
@@ -3217,7 +3207,7 @@
       "title": "The Complete Mr. Arkadin",
       "director": "Orson Welles",
       "year": "1955",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -4197,7 +4187,7 @@
       "title": "Le bonheur",
       "director": "Agnès Varda",
       "year": "1965",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -6228,7 +6218,7 @@
       "director": "Paul Fejos",
       "year": "1928",
       "country": "United States",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27775-quadrophenia",
@@ -8567,7 +8557,7 @@
       "title": "Before Sunrise",
       "director": "Richard Linklater",
       "year": "1995",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8577,7 +8567,7 @@
       "title": "Before Sunset",
       "director": "Richard Linklater",
       "year": "2004",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8587,7 +8577,7 @@
       "title": "Before Midnight",
       "director": "Richard Linklater",
       "year": "2013",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8597,7 +8587,7 @@
       "title": "Mildred Pierce",
       "director": "Michael Curtiz",
       "year": "1945",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8637,7 +8627,7 @@
       "title": "Being There",
       "director": "Hal Ashby",
       "year": "1979",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8647,7 +8637,7 @@
       "title": "Blow-Up",
       "director": "Michelangelo Antonioni",
       "year": "1966",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -8667,7 +8657,7 @@
       "title": "Woman of the Year",
       "director": "George Stevens",
       "year": "1942",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8697,7 +8687,7 @@
       "title": "Othello",
       "director": "Orson Welles",
       "year": "1952",
-      "country": "United States",
+      "country": "",
       "watched": true
     },
     {
@@ -8737,7 +8727,7 @@
       "title": "Insiang",
       "director": "Lino Brocka",
       "year": "1976",
-      "country": "Philippines",
+      "country": "",
       "watched": true
     },
     {
@@ -8747,7 +8737,7 @@
       "title": "Mysterious Object at Noon",
       "director": "Apichatpong Weerasethakul",
       "year": "2000",
-      "country": "Thailand",
+      "country": "",
       "watched": false
     },
     {
@@ -8767,7 +8757,7 @@
       "title": "Limite",
       "director": "Mário Peixoto",
       "year": "1931",
-      "country": "Brazil",
+      "country": "",
       "watched": false
     },
     {
@@ -8777,7 +8767,7 @@
       "title": "Law of the Border",
       "director": "Lütfi Ö. Akad",
       "year": "1966",
-      "country": "Turkey",
+      "country": "",
       "watched": false
     },
     {
@@ -8787,7 +8777,7 @@
       "title": "Taipei Story",
       "director": "Edward Yang",
       "year": "1985",
-      "country": "Taiwan",
+      "country": "",
       "watched": false
     },
     {
@@ -8847,7 +8837,7 @@
       "title": "The Lodger: A Story of the London Fog",
       "director": "Alfred Hitchcock",
       "year": "1927",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -8857,7 +8847,7 @@
       "title": "L’argent",
       "director": "Robert Bresson",
       "year": "1983",
-      "country": "France",
+      "country": "",
       "watched": true
     },
     {
@@ -8887,7 +8877,7 @@
       "title": "The Breaking Point",
       "director": "Michael Curtiz",
       "year": "1950",
-      "country": "United States",
+      "country": "",
       "watched": false
     },
     {
@@ -8907,7 +8897,7 @@
       "title": "La poison ",
       "director": "Sacha Guitry",
       "year": "1951",
-      "country": "France",
+      "country": "",
       "watched": false
     },
     {
@@ -8996,7 +8986,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/51412a295670524ffce1299968c379fd/Okb9pCnEQmV0faxMB7JmLrUTJQrvxx_original.jpg",
       "title": "100 Years of Olympic Films: 1912–2012",
       "director": "",
-      "year": "",
+      "year": "0",
       "country": "",
       "watched": false
     },
@@ -9157,7 +9147,7 @@
       "title": "Women in Love",
       "director": "Ken Russell",
       "year": "1969",
-      "country": "United Kingdom",
+      "country": "",
       "watched": true
     },
     {
@@ -9777,6 +9767,56 @@
       "title": "One Sings, the Other Doesn’t",
       "director": "Agnès Varda",
       "year": "1977",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29037-swing-time",
+      "spine": 979,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4de07c5c8cbba60323a0a223fd0472a5/EzHLCBjl22SE5gjampFrkpS7SCKJmA_original.jpg",
+      "title": "Swing Time",
+      "director": "George Stevens",
+      "year": "1936",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28075-la-vie-de-j-sus",
+      "spine": 980,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3f701abce3056ac0a8b08dffcc53d24c/GWIBIOQgKgUGxxpdojBgVS33vpTO6B_original.jpg",
+      "title": "La vie de Jésus",
+      "director": "Bruno Dumont",
+      "year": "1997",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28074-l-humanit",
+      "spine": 981,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cc2a4576d92b37879cacaf05ad117824/CU7xzGY5rwZS2wKOzGULe0JWSURUyN_original.jpg",
+      "title": "L’humanité",
+      "director": "Bruno Dumont",
+      "year": "1999",
+      "country": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29018-hedwig-and-the-angry-inch",
+      "spine": 982,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/52ffffbd90945e11901030ff291ac5cb/r6jMm8TJwfxzntIo63jl208R8pfXcA_original.jpg",
+      "title": "Hedwig and the Angry Inch",
+      "director": "John Cameron Mitchell",
+      "year": "2001",
+      "country": "",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28891-war-and-peace",
+      "spine": 983,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b020b5c4e0643af7c3cce7b62e224d5c/OnWiOZAjxlU7pHnN9Z7Yb9NJVfYhLX_original.jpg",
+      "title": "War and Peace",
+      "director": "Sergei Bondarchuk",
+      "year": "1966",
       "country": "",
       "watched": false
     }
