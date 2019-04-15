@@ -51,7 +51,7 @@ def parseCriterion(getPosters):
       break
 
     movie = dict()
-    html = html[index+32:]
+    html = html[index+54:]
     index = html.find('">')
     movie['url'] = html[:index]
 
@@ -82,17 +82,22 @@ def parseCriterion(getPosters):
     index = html.find('\n')
     movie['director'] = cleanString(html[:index])
 
+    strStart = '<td class="g-country"'
+    index = html.find(strStart)
+    html = html[index+28:]
+    index = html.find('</td>')
+    countryStr = html[:index]
+    index = countryStr.find('<span')
+    if index != -1:
+      movie['country'] = cleanString(countryStr[:index])
+    else:
+      movie['country'] = ''
+
     strStart = '<td class="g-year"'
     index = html.find(strStart)
     html = html[index+24:]
     index = html.find('\n')
     movie['year'] = cleanString(html[:index])
-
-    strStart = '<td class="g-country"'
-    index = html.find(strStart)
-    html = html[index+27:]
-    index = html.find('\n')
-    movie['country'] = cleanString(html[:index])
 
     fileName = ''
     addToJson = False
@@ -117,10 +122,10 @@ def parseCriterion(getPosters):
           fileName += ' @seen'
         filePath = os.path.join(posterPath, fileName + '.jpg')
         urllib.request.urlretrieve(movie['imgUrl'], filePath.encode('iso-8859-1'))
-    
+
   file = open(exportFile, 'w', encoding='iso-8859-1')
   file.write(json.dumps(jsonResult, indent=2, ensure_ascii=False, separators=(',', ': ')))
-    
+
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('-p', '--posters', action='store_true')
