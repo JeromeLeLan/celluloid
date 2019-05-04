@@ -238,7 +238,7 @@
       "director": "Akira Kurosawa",
       "country": "Japan",
       "year": "1963",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/207-alphaville",
@@ -2046,7 +2046,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a2ae0ebf50af9b05c8b3b3d280ff6366/OuXLNXn2wzJkaHMdreItHpbYZUOFYr_original.jpg",
       "title": "Veronika Voss",
       "director": "Rainer Werner Fassbinder",
-      "country": "Germany",
+      "country": "West Germany",
       "year": "1982",
       "watched": false
     },
@@ -2604,7 +2604,7 @@
       "url": "https://www.criterion.com/films/626-fanny-and-alexander-television-version",
       "spine": 262,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/469345bca4a09a5ee860757191bf54aa/qBKD4rkTkrw13Kel43PGAGbg1uBePQ_original.jpg",
-      "title": "FANNY AND ALEXANDER: Television Version",
+      "title": "Fanny and Alexander: Television Version",
       "director": "Ingmar Bergman",
       "country": "Sweden",
       "year": "1983",
@@ -2614,7 +2614,7 @@
       "url": "https://www.criterion.com/films/201-fanny-and-alexander-theatrical-version",
       "spine": 263,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/289eee85492838ff64671c24d63e631a/bqzpSsBVIkScl3o7Ae7hxmJ8ZubMnE_original.jpg",
-      "title": "FANNY AND ALEXANDER: Theatrical Version",
+      "title": "Fanny and Alexander: Theatrical Version",
       "director": "Ingmar Bergman",
       "country": "Sweden",
       "year": "1982",
@@ -3038,7 +3038,7 @@
       "director": "Jean Renoir",
       "country": "France",
       "year": "1932",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/184-le-samoura",
@@ -5748,7 +5748,7 @@
       "director": "Lee Chang-dong",
       "country": "South Korea",
       "year": "2007",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27658-cul-de-sac",
@@ -6458,7 +6458,7 @@
       "director": "Elia Kazan",
       "country": "United States",
       "year": "1954",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28394-chronicle-of-a-summer",
@@ -6768,7 +6768,7 @@
       "director": "Michelangelo Antonioni",
       "country": "Italy",
       "year": "1961",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman",
@@ -9821,8 +9821,18 @@
       "watched": false
     },
     {
-      "url": "https://www.criterion.com/films/28040-europa-europa",
+      "url": "https://www.criterion.com/films/29140-1984",
       "spine": 984,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9b263f6358cf0bae18244c759d4592f0/BonyZ4taymxrfBiRqY6K42NBh0jsop_original.jpg",
+      "title": "1984",
+      "director": "Michael Radford",
+      "country": "United Kingdom",
+      "year": "1984",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28040-europa-europa",
+      "spine": 985,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1975c824e3f44554d1755f66ac8e9901/op5e76062WLo9yZJeiOlU7gNFEjL5m_original.jpg",
       "title": "Europa Europa",
       "director": "Agnieszka Holland",
@@ -9832,23 +9842,13 @@
     },
     {
       "url": "https://www.criterion.com/films/29390-the-baker-s-wife",
-      "spine": 985,
+      "spine": 986,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0038054059869d507d9fa68b3ae7a378/dm0IkYZsXXqgFyLW4WLEmrePDHITZS_original.jpg",
       "title": "The Baker’s Wife",
       "director": "Marcel Pagnol",
       "country": "France",
       "year": "1938",
       "watched": false
-    },
-    {
-      "url": "https://www.criterion.com/films/29140-1984",
-      "spine": 986,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9b263f6358cf0bae18244c759d4592f0/BonyZ4taymxrfBiRqY6K42NBh0jsop_original.jpg",
-      "title": "1984",
-      "director": "Michael Radford",
-      "country": "United Kingdom",
-      "year": "1984",
-      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28708-klute",
