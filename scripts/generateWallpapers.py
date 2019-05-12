@@ -25,7 +25,7 @@ def cleanUpFolder():
   os.makedirs(borderedPath)
   os.makedirs(rowsPath)
 
-def borderize():  
+def borderize():
   posterCount = 0
   posters = sorted(os.listdir(postersPath), key=alphanumericOrder)
   for poster in posters:
@@ -50,10 +50,10 @@ def createRows():
   for poster in posters:
     print(poster)
     if len(row) < ROW_SIZE:
-      row.append(Image.open(os.path.join(borderedPath, poster)))    
+      row.append(Image.open(os.path.join(borderedPath, poster)))
     if len(row) < ROW_SIZE:
       continue
-    
+
     widths, heights = zip(*(img.size for img in row))
     total_width = sum(widths)
     max_height = max(heights)
@@ -75,10 +75,10 @@ def createWallpapers():
   for row in rows:
     print(row)
     if len(column) < COLUMN_SIZE:
-      column.append(Image.open(os.path.join(rowsPath, row)))    
+      column.append(Image.open(os.path.join(rowsPath, row)))
     if len(column) < COLUMN_SIZE:
       continue
-    
+
     widths, heights = zip(*(img.size for img in column))
     total_width = max(widths)
     max_height = sum(heights)

@@ -4628,7 +4628,7 @@
       "director": "Andrzej Wajda",
       "country": "France",
       "year": "1983",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/1083-dodes-ka-den",
@@ -4668,7 +4668,7 @@
       "director": "Jean Painlevé",
       "country": "France",
       "year": "0",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/1285-the-hit",
