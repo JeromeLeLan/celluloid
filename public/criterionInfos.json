@@ -435,7 +435,7 @@
       "spine": 44,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/daa1d614942bb086b7fa4d4e1eb8b0d0/aZoMem6iPcKUSkCDO0g26e1bKiwA8y_original.jpg",
       "title": "The Red Shoes",
-      "director": "Michael Powell...",
+      "director": "Michael Powell…",
       "country": "United Kingdom",
       "year": "1948",
       "watched": true
@@ -845,7 +845,7 @@
       "spine": 85,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6b60c41a20b0ad93142016f0fbaef104/iPWNkGkmts56OruZK3c8nVR4whMZnz_original.jpg",
       "title": "Pygmalion",
-      "director": "Anthony Asquith...",
+      "director": "Anthony Asquith…",
       "country": "United Kingdom",
       "year": "1938",
       "watched": false
@@ -1333,7 +1333,7 @@
     {
       "url": "https://www.criterion.com/films/352-h-xan",
       "spine": 134,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/57daa3f69e08aa1ce0f0f53dfe45b6ce/UFqeMMrcUGE3GTTOQKYXm9EjDkOQKZ_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/61e9ee86f43dcf3bfecafe032299b9f3/WU2TTrhW3pd1lKQ9tk4zH4b20JSv40_original.jpg",
       "title": "Häxan",
       "director": "Benjamin Christensen",
       "country": "Denmark",
@@ -2993,7 +2993,7 @@
     {
       "url": "https://www.criterion.com/films/742-an-angel-at-my-table",
       "spine": 301,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/738b228d35142f5238d22b9096f3ad42/wgbarDEDTkEA0SkSU08HKHgSdpybaj_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6785927db8aa1f07dd1962db2eb90fbe/4kQ3PHhymsEpnTpTNBvZV8NdK2i3C7_original.jpg",
       "title": "An Angel at My Table",
       "director": "Jane Campion",
       "country": "New Zealand",
@@ -3313,7 +3313,7 @@
     {
       "url": "https://www.criterion.com/films/348-fists-in-the-pocket",
       "spine": 333,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/39907d90c2b36e6210cb257c9eb39a56/PymjxeCwfP0nJhs7WwxgV1JCMwnyGd_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bfe837a00f091aaa9e9223903ad717e2/PtBArZqMvX55aE1Py7CcJJRqtMFXy7_original.jpg",
       "title": "Fists in the Pocket",
       "director": "Marco Bellocchio",
       "country": "Italy",
@@ -3588,7 +3588,7 @@
       "director": "William Greaves",
       "country": "United States",
       "year": "1968",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/666-the-beales-of-grey-gardens",
@@ -4295,7 +4295,7 @@
       "spine": 431,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/41132bea28bb3bbea12d52e78c20b378/kl6ebsg1AK3m1ejL3zvPJa17lTmxcW_original.jpg",
       "title": "The Thief of Bagdad",
-      "director": "Tim Whelan...",
+      "director": "Tim Whelan…",
       "country": "United Kingdom",
       "year": "1940",
       "watched": false
@@ -4553,7 +4553,7 @@
     {
       "url": "https://www.criterion.com/films/973-magnificent-obsession",
       "spine": 457,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/09eed700d80ded77f3d67ff72083f45f/cT8pD4MvnxKO2KUKVp6Vc0a1ZMk6gz_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e033d65a68d10236f332c06ce3725b59/5Pvpc7nsRpgo8lu3IQVlAeheME1g9w_original.jpg",
       "title": "Magnificent Obsession",
       "director": "Douglas Sirk",
       "country": "United States",
@@ -5038,7 +5038,7 @@
       "director": "Leo McCarey",
       "country": "United States",
       "year": "1937",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/21641-dillinger-is-dead",
@@ -5157,7 +5157,7 @@
       "title": "By Brakhage: An Anthology, Volume Two",
       "director": "Stan Brakhage",
       "country": "United States",
-      "year": "",
+      "year": "0",
       "watched": false
     },
     {
@@ -5675,7 +5675,7 @@
       "spine": 569,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5f43a5464a0df8ce69cb8bf45774302d/B4zQse0843Uu8bVCONSjsowuOQ3D4n_original.jpg",
       "title": "People on Sunday",
-      "director": "Robert Siodmak...",
+      "director": "Robert Siodmak…",
       "country": "Germany",
       "year": "1930",
       "watched": false
@@ -6131,10 +6131,10 @@
       "watched": true
     },
     {
-      "url": "https://www.criterion.com/films/27565-the-gold-rush-1942-version",
+      "url": "https://www.criterion.com/films/27565-the-gold-rush",
       "spine": 615,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fdadf1be688a6bdb002a4f755a2f1e8a/c9HthNBy69Dc9QXCAIQZPsgQx7jKRt_original.jpg",
-      "title": "THE GOLD RUSH: 1942 Version",
+      "title": "The Gold Rush",
       "director": "Charles Chaplin",
       "country": "United States",
       "year": "1942",
@@ -6605,7 +6605,7 @@
       "spine": 662,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/96a2f214d42c91852a870d66be2caeb1/HKCtBxvj7OupJI4BrQJD7APR0bIpN4_original.jpg",
       "title": "Safety Last!",
-      "director": "Fred Newmeyer...",
+      "director": "Fred Newmeyer…",
       "country": "United States",
       "year": "1923",
       "watched": true
@@ -9558,7 +9558,7 @@
       "director": "Elaine May",
       "country": "United States",
       "year": "1976",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28617-4-months-3-weeks-and-2-days",
@@ -9698,7 +9698,7 @@
       "director": "Jackie Chan",
       "country": "Hong Kong",
       "year": "1985",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29545-police-story-2",
@@ -9858,6 +9858,136 @@
       "director": "Alan J. Pakula",
       "country": "United States",
       "year": "1971",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28747-the-inland-sea",
+      "spine": 988,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/35fad992296d2c559c7301ca888db692/Fzk4b3bXEz4LMyrsRLpOXYYi8xiGxG_original.jpg",
+      "title": "The Inland Sea ",
+      "director": "Lucille Carra",
+      "country": "United States",
+      "year": "1991",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28229-the-flavor-of-green-tea-over-rice",
+      "spine": 989,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/300405564b27572b5f5f1e5faff182eb/rMmBdDHsGDObJ7X9qwkYVDYLSMgVeA_original.jpg",
+      "title": "The Flavor of Green Tea over Rice",
+      "director": "Yasujiro Ozu",
+      "country": "Japan",
+      "year": "1952",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28638-where-is-the-friend-s-house",
+      "spine": 990,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/34e65cf527a81c5635a889541a2f499c/frUwKXMtUOoA2izF8DCHzw8kM06yLX_original.jpg",
+      "title": "Where Is the Friend’s House?",
+      "director": "Abbas Kiarostami",
+      "country": "Iran",
+      "year": "1987",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28639-and-life-goes-on",
+      "spine": 991,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b3a96bc84d9f889e0c8efd9ecd9dadae/8DA1TFta3dWtinQi5aa4WYwLJqEQj0_original.jpg",
+      "title": "And Life Goes On",
+      "director": "Abbas Kiarostami",
+      "country": "Iran",
+      "year": "1992",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28077-through-the-olive-trees",
+      "spine": 992,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1baaafc9231aa62193d6d16ceecbede3/jTwJoZbEKtkzrH31VVW0VlMEsE4Egb_original.jpg",
+      "title": "Through the Olive Trees",
+      "director": "Abbas Kiarostami",
+      "country": "Iran",
+      "year": "1994",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29059-the-cloud-capped-star",
+      "spine": 993,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0d34ca286207fc28d93c5b50c0ec88ec/M7b316Dur9REofyRicy2Yd2DkDyNVT_original.jpg",
+      "title": "The Cloud-Capped Star",
+      "director": "Ritwik Ghatak",
+      "country": "India",
+      "year": "1960",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28709-local-hero",
+      "spine": 994,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/404d9791922b336d3015f1500ee014eb/tG4CJ9c3PbmNziiX4KClVc9Pj6MsDU_original.jpg",
+      "title": "Local Hero",
+      "director": "Bill Forsyth",
+      "country": "United Kingdom",
+      "year": "1983",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28714-polyester",
+      "spine": 995,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0dfde41faa9f8ee13fb4c08ebb7dd58d/D3OtX39pUdpNPulANEYss4AVI6uzHm_original.jpg",
+      "title": "Polyester",
+      "director": "John Waters",
+      "country": "United States",
+      "year": "1981",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27563-the-circus",
+      "spine": 996,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e47f71ec6b32e658b605b0597069d746/mb6Gef7oSB6XGh8TMxthVmUFHIWMtb_original.jpg",
+      "title": "The Circus",
+      "director": "Charles Chaplin",
+      "country": "United States",
+      "year": "1928",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28564-cluny-brown",
+      "spine": 997,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/70e6c5bc30a6ed381e5d4d0683bec561/6bFWIQhM625dDBlb8pwoRt3svKDhP7_original.jpg",
+      "title": "Cluny Brown",
+      "director": "Ernst Lubitsch",
+      "country": "United States",
+      "year": "1946",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30086-when-we-were-kings",
+      "spine": 998,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e083a6d82b23f0bfc6976b999bfb815f/TF1D5jTB78s4ygmY3JRPP604wvhaxI_original.jpg",
+      "title": "When We Were Kings",
+      "director": "Leon Gast",
+      "country": "United States",
+      "year": "1996",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29461-matewan",
+      "spine": 999,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cbcfd13607da02c008bac763443a428e/A5FgzMYh7cEOvsCZ4XHBqvwnOlaUWL_original.jpg",
+      "title": "Matewan",
+      "director": "John Sayles",
+      "country": "United States",
+      "year": "1987",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/boxsets/2648-godzilla-the-showa-era-films-1954-1975",
+      "spine": 1000,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1953-0d1595bafe2ba6d32c5f5e1bc6215555/bG4INWRMocURqMHZl7ZgyVgw1O47Tx_original.jpg",
+      "title": "Godzilla: The Showa-Era Films, 1954–1975",
+      "director": " ",
+      "country": "",
+      "year": " ",
       "watched": false
     }
   ]
