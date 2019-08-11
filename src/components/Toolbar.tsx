@@ -12,7 +12,7 @@ class AppToolbar extends React.Component<any, {}> {
     return (
       <AppBar position="absolute" className={classes.appBar}>
         <Toolbar>
-          <Typography variant="title" color="inherit" noWrap={true}>
+          <Typography variant="h6" color="inherit" noWrap={true}>
             Celluloid
           </Typography>
         </Toolbar>
