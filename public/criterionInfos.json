@@ -2233,7 +2233,7 @@
     {
       "url": "https://www.criterion.com/films/659-tunes-of-glory",
       "spine": 225,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a5a44cd54ee0ed230b82cb046fb87beb/bMdvMjOc7z1rpwklUyHPiIh6vQqWgf_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/418e66a9918f1828df51c24759694c93/fYx0hDxKnfUdjea1QAR3n18yKhbAJy_original.jpg",
       "title": "Tunes of Glory",
       "director": "Ronald Neame",
       "country": "United Kingdom",
@@ -5133,7 +5133,7 @@
     {
       "url": "https://www.criterion.com/films/17998-the-fugitive-kind",
       "spine": 515,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ab50820df18a853301f6a9373f9a89e5/de18veIfOSKsiujK2L55CgZ4HCcgeQ_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/54bc36388e16357fc3a1d942cb8d5b1f/gxZAPSOZS3yNklK8cd2gjlpnpKsGFq_original.jpg",
       "title": "The Fugitive Kind",
       "director": "Sidney Lumet",
       "country": "United States",
@@ -7098,7 +7098,7 @@
       "director": "Richard Lester",
       "country": "United Kingdom",
       "year": "1964",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28043-scanners",
@@ -7878,7 +7878,7 @@
       "director": "Howard Brookner",
       "country": "United States",
       "year": "1983",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28589-lady-snowblood",
@@ -9608,7 +9608,7 @@
       "director": "Luchino Visconti",
       "country": "Italy",
       "year": "1971",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29567-to-sleep-with-anger",
@@ -9863,7 +9863,7 @@
     {
       "url": "https://www.criterion.com/films/28747-the-inland-sea",
       "spine": 988,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/35fad992296d2c559c7301ca888db692/Fzk4b3bXEz4LMyrsRLpOXYYi8xiGxG_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9a029e3b8977bb7f3cb8290bfbd4f9a4/vXIQATcZON4HV9vCqpFDM8ZTMrR42c_original.jpg",
       "title": "The Inland Sea ",
       "director": "Lucille Carra",
       "country": "United States",
@@ -9938,7 +9938,7 @@
       "director": "John Waters",
       "country": "United States",
       "year": "1981",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27563-the-circus",
@@ -9948,7 +9948,7 @@
       "director": "Charles Chaplin",
       "country": "United States",
       "year": "1928",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28564-cluny-brown",
@@ -9989,6 +9989,126 @@
       "country": "",
       "year": " ",
       "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29464-the-daytrippers",
+      "spine": 1001,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/970a3900ccacf0352f032e35c13549ed/un35TUcekpTvbbRD0VsNDeM3k57TjF_original.jpg",
+      "title": "The Daytrippers",
+      "director": "Greg Mottola",
+      "country": "United States",
+      "year": "1996",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29079-betty-blue",
+      "spine": 1002,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/374aba96c6d088f549db6bfdfcfdc952/NXvOjh0NFLCxBARIs0E88NEgGKbUg0_original.jpg",
+      "title": "Betty Blue",
+      "director": "Jean-Jacques Beineix",
+      "country": "France",
+      "year": "1986",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29596-all-about-eve",
+      "spine": 1003,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/43fd6f6135680ac83e75a69d9e94b7e4/SdDSAIemjQdIjmIByE6UI1xwCbXz9C_original.jpg",
+      "title": "All About Eve",
+      "director": "Joseph L. Mankiewicz",
+      "country": "United States",
+      "year": "1950",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29026-now-voyager",
+      "spine": 1004,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/31b8ddf4b7224294e1c323968e5edcae/ZnvrX36fSxtqKKg2do5VnPKSusWgp1_original.jpg",
+      "title": "Now, Voyager",
+      "director": "Irving Rapper",
+      "country": "United States",
+      "year": "1942",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30104-cold-war",
+      "spine": 1005,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8e408093cb123fc9125296bc8070af93/tT6PfuYCu8xygovqNWWfkBbAo0RrDU_original.jpg",
+      "title": "Cold War",
+      "director": "Paweł Pawlikowski",
+      "country": "Poland",
+      "year": "2018",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28575-the-story-of-temple-drake",
+      "spine": 1006,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/45d498261c956d33aa5aac03541ecd51/3Y78U3wFkBlyFGe5Gdirhu5m6DaIAI_original.jpg",
+      "title": "The Story of Temple Drake",
+      "director": "Stephen Roberts",
+      "country": "United States",
+      "year": "1933",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28767-until-the-end-of-the-world",
+      "spine": 1007,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b3f96aa9a8f3b101c3b15d898e927e77/e4OaI1MBzo1RV7HiR5L3cIkTK7gdjY_original.jpg",
+      "title": "Until the End of the World",
+      "director": "Wim Wenders",
+      "country": "Germany",
+      "year": "1991",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29062-old-joy",
+      "spine": 1008,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/eefb96ac948c689de4a56803a285cefe/9ifQI92S6E9FgNzpLOJg1vrvHikjqx_original.jpg",
+      "title": "Old Joy",
+      "director": "Kelly Reichardt",
+      "country": "United States",
+      "year": "2006",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28829-holiday",
+      "spine": 1009,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/05f931fc02d365516a299774f13732fb/w0FMh8OYztwqUX6hYASaLhdr7lmeXL_original.jpg",
+      "title": "Holiday",
+      "director": "George Cukor",
+      "country": "United States",
+      "year": "1938",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28093-le-petit-soldat",
+      "spine": 1010,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/115ae4fd0c45ee3c0f4e8197fd03460b/fjf2hnzHjxa8CGOapu7tdA2W8EhLAq_original.jpg",
+      "title": "Le petit soldat",
+      "director": "Jean-Luc Godard",
+      "country": "France",
+      "year": "1963",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28825-fail-safe",
+      "spine": 1011,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/697714c5f61884f16239ef755f14c843/fa4svULX2NfofX0swJvrLbMpl002Dq_original.jpg",
+      "title": "Fail Safe",
+      "director": "Sidney Lumet",
+      "country": "United States",
+      "year": "1964",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29569-all-about-my-mother",
+      "spine": 1012,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/081d7c31ab52d99598396ad232926653/psy2aK64LWq4FLcQRLx86tC4MeIcdm_original.jpg",
+      "title": "All About My Mother",
+      "director": "Pedro Almodóvar",
+      "country": "Spain",
+      "year": "1999",
+      "watched": true
     }
   ]
 }

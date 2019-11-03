@@ -8,7 +8,7 @@ apiFile = os.path.join(scriptPath, '../private/themoviedb.apikey')
 exportFile = os.path.join(scriptPath, '../public/watched.json')
 
 def getTheMovieDBApiKey():
-	with open(apiFile, 'rU') as f:
+	with open(apiFile, 'r') as f:
 		for line in f:
 			apiKey = line
 	return apiKey
@@ -75,7 +75,7 @@ def getGenre(movieInfo):
 		genreList[genreName] = genreList.get(genreName, 0) + 1
 
 def generateMovieInfos():
-	with open(watchedFile, 'rU') as f:
+	with open(watchedFile, 'r') as f:
 		for movie in f:
 			if '//' in movie:
 				continue

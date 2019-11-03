@@ -1,31 +1,31 @@
 {
     "countries": {
         "FR": {
-            "count": 211,
+            "count": 219,
             "name": "France"
         },
         "RU": {
-            "count": 10,
+            "count": 9,
             "name": "Russia"
         },
         "IT": {
-            "count": 54,
+            "count": 56,
             "name": "Italy"
         },
         "US": {
-            "count": 351,
+            "count": 369,
             "name": "United States of America"
         },
         "SE": {
-            "count": 44,
+            "count": 47,
             "name": "Sweden"
         },
         "GB": {
-            "count": 80,
+            "count": 82,
             "name": "United Kingdom"
         },
         "CH": {
-            "count": 11,
+            "count": 12,
             "name": "Switzerland"
         },
         "IN": {
@@ -33,7 +33,7 @@
             "name": "India"
         },
         "DE": {
-            "count": 71,
+            "count": 77,
             "name": "Germany"
         },
         "TR": {
@@ -41,11 +41,11 @@
             "name": "Turkey"
         },
         "DK": {
-            "count": 14,
+            "count": 15,
             "name": "Denmark"
         },
         "CA": {
-            "count": 33,
+            "count": 34,
             "name": "Canada"
         },
         "AR": {
@@ -53,7 +53,7 @@
             "name": "Argentina"
         },
         "ES": {
-            "count": 9,
+            "count": 11,
             "name": "Spain"
         },
         "NO": {
@@ -65,7 +65,7 @@
             "name": "Australia"
         },
         "NZ": {
-            "count": 5,
+            "count": 6,
             "name": "New Zealand"
         },
         "BE": {
@@ -81,7 +81,7 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 36,
+            "count": 38,
             "name": "Japan"
         },
         "MX": {
@@ -89,7 +89,7 @@
             "name": "Mexico"
         },
         "IL": {
-            "count": 2,
+            "count": 3,
             "name": "Israel"
         },
         "TH": {
@@ -101,7 +101,7 @@
             "name": "Malaysia"
         },
         "KR": {
-            "count": 12,
+            "count": 13,
             "name": "South Korea"
         },
         "HK": {
@@ -117,7 +117,7 @@
             "name": "Taiwan"
         },
         "CN": {
-            "count": 6,
+            "count": 7,
             "name": "China"
         },
         "IE": {
@@ -125,15 +125,15 @@
             "name": "Ireland"
         },
         "CZ": {
-            "count": 5,
+            "count": 6,
             "name": "Czech Republic"
         },
         "IS": {
-            "count": 2,
+            "count": 4,
             "name": "Iceland"
         },
         "FI": {
-            "count": 3,
+            "count": 4,
             "name": "Finland"
         },
         "ID": {
@@ -169,7 +169,7 @@
             "name": "Greece"
         },
         "HU": {
-            "count": 1,
+            "count": 2,
             "name": "Hungary"
         },
         "OM": {
@@ -179,6 +179,10 @@
         "SK": {
             "count": 1,
             "name": "Slovakia"
+        },
+        "TN": {
+            "count": 1,
+            "name": "Tunisia"
         },
         "PH": {
             "count": 2,
@@ -201,7 +205,7 @@
             "name": "Belarus"
         },
         "BR": {
-            "count": 2,
+            "count": 3,
             "name": "Brazil"
         },
         "KW": {
@@ -215,46 +219,50 @@
         "UA": {
             "count": 1,
             "name": "Ukraine"
+        },
+        "PT": {
+            "count": 1,
+            "name": "Portugal"
         }
     },
     "decades": {
-        "1920s": 9,
-        "1930s": 25,
-        "1940s": 32,
-        "1950s": 56,
-        "1960s": 88,
-        "1970s": 107,
-        "1980s": 97,
-        "1990s": 57,
-        "2000s": 34,
-        "2010s": 229
+        "1920s": 10,
+        "1930s": 26,
+        "1940s": 33,
+        "1950s": 57,
+        "1960s": 89,
+        "1970s": 111,
+        "1980s": 99,
+        "1990s": 58,
+        "2000s": 35,
+        "2010s": 250
     },
     "genres": {
-        "Drama": 448,
-        "Comedy": 165,
-        "Thriller": 150,
-        "Romance": 121,
-        "Horror": 106,
-        "Mystery": 95,
-        "Crime": 85,
-        "Science Fiction": 79,
-        "Adventure": 77,
-        "Action": 69,
-        "Documentary": 65,
-        "Fantasy": 54,
-        "History": 35,
-        "War": 29,
-        "Family": 25,
-        "Animation": 25,
-        "Music": 22,
-        "Western": 9,
+        "Drama": 461,
+        "Comedy": 176,
+        "Thriller": 156,
+        "Romance": 127,
+        "Horror": 109,
+        "Mystery": 98,
+        "Crime": 88,
+        "Science Fiction": 84,
+        "Adventure": 80,
+        "Action": 73,
+        "Documentary": 67,
+        "Fantasy": 59,
+        "History": 37,
+        "War": 32,
+        "Family": 26,
+        "Animation": 26,
+        "Music": 24,
+        "Western": 10,
         "TV Movie": 1
     },
     "actors": [
         [
             6649,
             {
-                "count": 17,
+                "count": 18,
                 "name": "Gunnar Bj\u00f6rnstrand"
             }
         ],
@@ -275,22 +283,29 @@
         [
             38127,
             {
-                "count": 12,
+                "count": 13,
                 "name": "Erland Josephson"
             }
         ],
         [
             121323,
             {
-                "count": 12,
+                "count": 13,
                 "name": "Bess Flowers"
             }
         ],
         [
             11916,
             {
-                "count": 11,
+                "count": 12,
                 "name": "Liv Ullmann"
+            }
+        ],
+        [
+            1245,
+            {
+                "count": 12,
+                "name": "Scarlett Johansson"
             }
         ],
         [
@@ -313,27 +328,20 @@
                 "count": 10,
                 "name": "Jean-Pierre L\u00e9aud"
             }
-        ],
-        [
-            3857,
-            {
-                "count": 9,
-                "name": "Allan Edwall"
-            }
         ]
     ],
     "directors": [
         [
             6648,
             {
-                "count": 32,
+                "count": 33,
                 "name": "Ingmar Bergman"
             }
         ],
         [
             6818,
             {
-                "count": 20,
+                "count": 21,
                 "name": "Werner Herzog"
             }
         ],
@@ -361,8 +369,15 @@
         [
             2636,
             {
-                "count": 11,
+                "count": 12,
                 "name": "Alfred Hitchcock"
+            }
+        ],
+        [
+            6817,
+            {
+                "count": 11,
+                "name": "Agn\u00e8s Varda"
             }
         ],
         [
@@ -373,6 +388,13 @@
             }
         ],
         [
+            30715,
+            {
+                "count": 10,
+                "name": "Terrence Malick"
+            }
+        ],
+        [
             4955,
             {
                 "count": 10,
@@ -380,17 +402,10 @@
             }
         ],
         [
-            6817,
-            {
-                "count": 10,
-                "name": "Agn\u00e8s Varda"
-            }
-        ],
-        [
-            30715,
+            224,
             {
                 "count": 9,
-                "name": "Terrence Malick"
+                "name": "David Cronenberg"
             }
         ],
         [
@@ -398,13 +413,6 @@
             {
                 "count": 8,
                 "name": "Rainer Werner Fassbinder"
-            }
-        ],
-        [
-            224,
-            {
-                "count": 8,
-                "name": "David Cronenberg"
             }
         ],
         [
@@ -426,6 +434,13 @@
             {
                 "count": 7,
                 "name": "Roman Polanski"
+            }
+        ],
+        [
+            13848,
+            {
+                "count": 6,
+                "name": "Charlie Chaplin"
             }
         ],
         [
@@ -461,13 +476,6 @@
             {
                 "count": 5,
                 "name": "Andrei Tarkovsky"
-            }
-        ],
-        [
-            13848,
-            {
-                "count": 5,
-                "name": "Charlie Chaplin"
             }
         ],
         [
@@ -548,6 +556,13 @@
             }
         ],
         [
+            10491,
+            {
+                "count": 4,
+                "name": "Paul Verhoeven"
+            }
+        ],
+        [
             34262,
             {
                 "count": 4,
@@ -573,6 +588,13 @@
             {
                 "count": 4,
                 "name": "Lucio Fulci"
+            }
+        ],
+        [
+            133398,
+            {
+                "count": 4,
+                "name": "Quentin Dupieux"
             }
         ],
         [
@@ -611,6 +633,13 @@
             }
         ],
         [
+            55934,
+            {
+                "count": 3,
+                "name": "Taika Waititi"
+            }
+        ],
+        [
             37846,
             {
                 "count": 3,
@@ -646,6 +675,13 @@
             }
         ],
         [
+            1224,
+            {
+                "count": 3,
+                "name": "Ethan Coen"
+            }
+        ],
+        [
             8500,
             {
                 "count": 3,
@@ -657,6 +693,13 @@
             {
                 "count": 3,
                 "name": "Denis Villeneuve"
+            }
+        ],
+        [
+            21684,
+            {
+                "count": 3,
+                "name": "Bong Joon-ho"
             }
         ],
         [
@@ -674,10 +717,10 @@
             }
         ],
         [
-            10491,
+            5656,
             {
                 "count": 3,
-                "name": "Paul Verhoeven"
+                "name": "Noah Baumbach"
             }
         ],
         [
@@ -685,6 +728,13 @@
             {
                 "count": 3,
                 "name": "Sion Sono"
+            }
+        ],
+        [
+            95901,
+            {
+                "count": 3,
+                "name": "Bruno Dumont"
             }
         ],
         [
@@ -706,6 +756,13 @@
             {
                 "count": 3,
                 "name": "Tobe Hooper"
+            }
+        ],
+        [
+            2428,
+            {
+                "count": 3,
+                "name": "Ernst Lubitsch"
             }
         ],
         [
@@ -765,10 +822,10 @@
             }
         ],
         [
-            133398,
+            2891,
             {
                 "count": 3,
-                "name": "Quentin Dupieux"
+                "name": "Josef von Sternberg"
             }
         ],
         [
@@ -814,17 +871,17 @@
             }
         ],
         [
-            9340,
-            {
-                "count": 2,
-                "name": "Lana Wachowski"
-            }
-        ],
-        [
             9339,
             {
                 "count": 2,
                 "name": "Lilly Wachowski"
+            }
+        ],
+        [
+            9340,
+            {
+                "count": 2,
+                "name": "Lana Wachowski"
             }
         ],
         [
@@ -853,13 +910,6 @@
             {
                 "count": 2,
                 "name": "Alex Garland"
-            }
-        ],
-        [
-            55934,
-            {
-                "count": 2,
-                "name": "Taika Waititi"
             }
         ],
         [
@@ -940,13 +990,6 @@
             }
         ],
         [
-            1224,
-            {
-                "count": 2,
-                "name": "Ethan Coen"
-            }
-        ],
-        [
             578,
             {
                 "count": 2,
@@ -1017,13 +1060,6 @@
             }
         ],
         [
-            21684,
-            {
-                "count": 2,
-                "name": "Bong Joon-ho"
-            }
-        ],
-        [
             95501,
             {
                 "count": 2,
@@ -1031,24 +1067,10 @@
             }
         ],
         [
-            5656,
-            {
-                "count": 2,
-                "name": "Noah Baumbach"
-            }
-        ],
-        [
             53296,
             {
                 "count": 2,
                 "name": "Joshua Oppenheimer"
-            }
-        ],
-        [
-            95901,
-            {
-                "count": 2,
-                "name": "Bruno Dumont"
             }
         ],
         [
@@ -1091,13 +1113,6 @@
             {
                 "count": 2,
                 "name": "Ken Russell"
-            }
-        ],
-        [
-            2428,
-            {
-                "count": 2,
-                "name": "Ernst Lubitsch"
             }
         ],
         [
@@ -1185,17 +1200,17 @@
             }
         ],
         [
-            2891,
-            {
-                "count": 2,
-                "name": "Josef von Sternberg"
-            }
-        ],
-        [
             1044255,
             {
                 "count": 2,
                 "name": "Alex Ross Perry"
+            }
+        ],
+        [
+            10367,
+            {
+                "count": 2,
+                "name": "John Waters"
             }
         ],
         [
@@ -1258,7 +1273,7 @@
             591600,
             {
                 "count": 1,
-                "name": "Dami\u00e1n Szifr\u00f3n"
+                "name": "Dami\u00e1n Szifron"
             }
         ],
         [
@@ -1311,17 +1326,17 @@
             }
         ],
         [
-            56209,
-            {
-                "count": 1,
-                "name": "Jean-Pierre Dardenne"
-            }
-        ],
-        [
             45138,
             {
                 "count": 1,
                 "name": "Luc Dardenne"
+            }
+        ],
+        [
+            56209,
+            {
+                "count": 1,
+                "name": "Jean-Pierre Dardenne"
             }
         ],
         [
@@ -1566,7 +1581,7 @@
             18598,
             {
                 "count": 1,
-                "name": "Ishir\u00f4 Honda"
+                "name": "Ishir\u014d Honda"
             }
         ],
         [
@@ -1661,13 +1676,6 @@
             }
         ],
         [
-            3583,
-            {
-                "count": 1,
-                "name": "Suzanne Schiffman"
-            }
-        ],
-        [
             65530,
             {
                 "count": 1,
@@ -1682,17 +1690,17 @@
             }
         ],
         [
-            1019303,
-            {
-                "count": 1,
-                "name": "Duke Johnson"
-            }
-        ],
-        [
             202,
             {
                 "count": 1,
                 "name": "Charlie Kaufman"
+            }
+        ],
+        [
+            1019303,
+            {
+                "count": 1,
+                "name": "Duke Johnson"
             }
         ],
         [
@@ -2529,17 +2537,17 @@
             }
         ],
         [
-            227564,
-            {
-                "count": 1,
-                "name": "Benny Safdie"
-            }
-        ],
-        [
             129561,
             {
                 "count": 1,
                 "name": "Josh Safdie"
+            }
+        ],
+        [
+            227564,
+            {
+                "count": 1,
+                "name": "Benny Safdie"
             }
         ],
         [
@@ -2819,7 +2827,7 @@
             51894,
             {
                 "count": 1,
-                "name": "J.A. Bayona"
+                "name": "J. A. Bayona"
             }
         ],
         [
@@ -3012,10 +3020,10 @@
             }
         ],
         [
-            936670,
+            59918,
             {
                 "count": 1,
-                "name": "Bob Persichetti"
+                "name": "Rodney Rothman"
             }
         ],
         [
@@ -3026,10 +3034,10 @@
             }
         ],
         [
-            59918,
+            936670,
             {
                 "count": 1,
-                "name": "Rodney Rothman"
+                "name": "Bob Persichetti"
             }
         ],
         [
@@ -3248,13 +3256,139 @@
                 "count": 1,
                 "name": "William Greaves"
             }
+        ],
+        [
+            65630,
+            {
+                "count": 1,
+                "name": "Rob Letterman"
+            }
+        ],
+        [
+            940694,
+            {
+                "count": 1,
+                "name": "Howard Brookner"
+            }
+        ],
+        [
+            15127,
+            {
+                "count": 1,
+                "name": "Luchino Visconti"
+            }
+        ],
+        [
+            2186238,
+            {
+                "count": 1,
+                "name": "Andrew Patterson"
+            }
+        ],
+        [
+            42175,
+            {
+                "count": 1,
+                "name": "Richard Stanley"
+            }
+        ],
+        [
+            586285,
+            {
+                "count": 1,
+                "name": "R\u00fanar R\u00fanarsson"
+            }
+        ],
+        [
+            1016214,
+            {
+                "count": 1,
+                "name": "Kleber Mendon\u00e7a Filho"
+            }
+        ],
+        [
+            1016229,
+            {
+                "count": 1,
+                "name": "Juliano Dornelles"
+            }
+        ],
+        [
+            2087,
+            {
+                "count": 1,
+                "name": "Richard Fleischer"
+            }
+        ],
+        [
+            1138544,
+            {
+                "count": 1,
+                "name": "Xawery \u017bu\u0142awski"
+            }
+        ],
+        [
+            309,
+            {
+                "count": 1,
+                "name": "Pedro Almod\u00f3var"
+            }
+        ],
+        [
+            1292227,
+            {
+                "count": 1,
+                "name": "Hlynur P\u00e1lmason"
+            }
+        ],
+        [
+            932161,
+            {
+                "count": 1,
+                "name": "Albert Serra"
+            }
+        ],
+        [
+            1011135,
+            {
+                "count": 1,
+                "name": "Nadav Lapid"
+            }
+        ],
+        [
+            66633,
+            {
+                "count": 1,
+                "name": "Vince Gilligan"
+            }
+        ],
+        [
+            57130,
+            {
+                "count": 1,
+                "name": "Todd Phillips"
+            }
+        ],
+        [
+            10586,
+            {
+                "count": 1,
+                "name": "Richard Lester"
+            }
+        ],
+        [
+            84496,
+            {
+                "count": 1,
+                "name": "Josh Cooley"
+            }
         ]
     ],
     "cinematographers": [
         [
             11905,
             {
-                "count": 21,
+                "count": 22,
                 "name": "Sven Nykvist"
             }
         ],
@@ -3301,6 +3435,13 @@
             }
         ],
         [
+            14020,
+            {
+                "count": 6,
+                "name": "Roland Totheroh"
+            }
+        ],
+        [
             151,
             {
                 "count": 6,
@@ -3312,13 +3453,6 @@
             {
                 "count": 6,
                 "name": "Stephen H. Burum"
-            }
-        ],
-        [
-            14020,
-            {
-                "count": 5,
-                "name": "Roland Totheroh"
             }
         ]
     ],
@@ -3390,7 +3524,7 @@
             "watchDate": "2015-01-18",
             "personalRating": 3,
             "runtime": 103,
-            "poster_path": "/aKzNcJyGuuXeGLU6LhIth8PtUe1.jpg",
+            "poster_path": "/9q4YNWUnefKDlIK7G0PWPHHLN59.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -3480,7 +3614,7 @@
             "watchDate": "2015-02-08",
             "personalRating": 4,
             "runtime": 111,
-            "poster_path": "/8XKXkI6sR5W4JBG6AvgQH1LcKLa.jpg",
+            "poster_path": "/nMy4NEUMstciJRjwjGwo0baiL9n.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -3490,7 +3624,7 @@
             "watchDate": "2015-02-12",
             "personalRating": 4,
             "runtime": 124,
-            "poster_path": "/j27Ky3Qv1SkSko0ZBrmypDKcfM8.jpg",
+            "poster_path": "/ylkO72wPas7bJ7dvPlBPV2wlhjS.jpg",
             "director": "Jacques Demy"
         },
         {
@@ -3550,7 +3684,7 @@
             "watchDate": "2015-03-04",
             "personalRating": 6,
             "runtime": 188,
-            "poster_path": "/zZVkPy2PJuWWZbYGXG38a1nZp7l.jpg",
+            "poster_path": "/aVXiJ6n3S1AdvnY8xs9Dh9hFq64.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -3591,7 +3725,7 @@
             "personalRating": 4,
             "runtime": 125,
             "poster_path": "/8qc4aWkYJVXaWcypDusuudnME18.jpg",
-            "director": "Dami\u00e1n Szifr\u00f3n"
+            "director": "Dami\u00e1n Szifron"
         },
         {
             "original_title": "A Girl Walks Home Alone at Night",
@@ -3771,7 +3905,7 @@
             "personalRating": 1,
             "runtime": 124,
             "poster_path": "/aMEsvTUklw0uZ3gk3Q6lAj6302a.jpg",
-            "director": "Lana Wachowski, Lilly Wachowski"
+            "director": "Lilly Wachowski, Lana Wachowski"
         },
         {
             "original_title": "The Great Dictator",
@@ -3890,7 +4024,7 @@
             "watchDate": "2015-06-07",
             "personalRating": 4,
             "runtime": 116,
-            "poster_path": "/aerF4eDsrSWZWPfJ7svnrIXkWZD.jpg",
+            "poster_path": "/5GqtoMYV2XxYkn1Wzg8kib8JTkj.jpg",
             "director": "Fran\u00e7ois Truffaut"
         },
         {
@@ -3901,7 +4035,7 @@
             "personalRating": 1,
             "runtime": 95,
             "poster_path": "/1mYAejpMskvskGr0J0SaBvdjmrH.jpg",
-            "director": "Jean-Pierre Dardenne, Luc Dardenne"
+            "director": "Luc Dardenne, Jean-Pierre Dardenne"
         },
         {
             "original_title": "Maps to the Stars",
@@ -4020,7 +4154,7 @@
             "watchDate": "2015-07-12",
             "personalRating": 2,
             "runtime": 102,
-            "poster_path": "/eUEkR2vdP2hoGXikvsBBxIoKTW7.jpg",
+            "poster_path": "/fGOvvrVRn0qVfUIOfVHZRKnv0dc.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -4050,7 +4184,7 @@
             "watchDate": "2015-07-29",
             "personalRating": 4,
             "runtime": 103,
-            "poster_path": "/gl7uT1nm7kpi4Fv0YMgv2C1dGj3.jpg",
+            "poster_path": "/zTfR7eZR7johzHzRpkr7cWCkLrm.jpg",
             "director": "David Cronenberg"
         },
         {
@@ -4090,7 +4224,7 @@
             "watchDate": "2015-08-09",
             "personalRating": 3,
             "runtime": 123,
-            "poster_path": "/h9k6rQ5m8JMz0XekJYS6ryQOMNn.jpg",
+            "poster_path": "/dusGjI5GPpdG6qbqXYGmTkAEmEb.jpg",
             "director": "Nagisa \u014cshima"
         },
         {
@@ -4254,7 +4388,7 @@
             "director": "Colin Trevorrow"
         },
         {
-            "original_title": "Nosferatu: Phantom der Nacht",
+            "original_title": "Nosferatu - Phantom der Nacht",
             "imdb_id": "tt0079641",
             "release_date": "1979",
             "watchDate": "2015-10-18",
@@ -4350,7 +4484,7 @@
             "watchDate": "2015-11-08",
             "personalRating": 1,
             "runtime": 94,
-            "poster_path": "/mLVymsqdkwNNKjw2ZXn8fkor3om.jpg",
+            "poster_path": "/qSvfLwdDBLjZaPwA7qdn0yYePq5.jpg",
             "director": "Jay Roach"
         },
         {
@@ -4371,7 +4505,7 @@
             "personalRating": 5,
             "runtime": 133,
             "poster_path": "/oyOtIdNJJO8zVwPyCtxVRxPLuHO.jpg",
-            "director": "Michael Powell, Emeric Pressburger"
+            "director": "Emeric Pressburger, Michael Powell"
         },
         {
             "original_title": "Welt am Draht",
@@ -4379,7 +4513,7 @@
             "release_date": "1973",
             "watchDate": "2015-11-15",
             "personalRating": 5,
-            "runtime": 213,
+            "runtime": 205,
             "poster_path": "/tTuDCX5MqRyJOTcyRCdmb5FkTSx.jpg",
             "director": "Rainer Werner Fassbinder"
         },
@@ -4540,7 +4674,7 @@
             "watchDate": "2015-12-15",
             "personalRating": 6,
             "runtime": 201,
-            "poster_path": "/o76Jvk75FbbbZxi9WColpSFvUnM.jpg",
+            "poster_path": "/q2pLAzsruDYGI2bMF7xeARLsxfH.jpg",
             "director": "Chantal Akerman"
         },
         {
@@ -4580,7 +4714,7 @@
             "watchDate": "2015-12-20",
             "personalRating": 4,
             "runtime": 124,
-            "poster_path": "/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg",
+            "poster_path": "/6u1fYtxG5eqjhtCPDx04pJphQRW.jpg",
             "director": "Irvin Kershner"
         },
         {
@@ -4600,7 +4734,7 @@
             "watchDate": "2015-12-21",
             "personalRating": 4,
             "runtime": 139,
-            "poster_path": "/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+            "poster_path": "/vWMZd6Uwt7loSR6lFRJLrnvO7Tt.jpg",
             "director": "Akira Kurosawa"
         },
         {
@@ -4729,7 +4863,7 @@
             "release_date": "1938",
             "watchDate": "2016-01-24",
             "personalRating": 4,
-            "runtime": 91,
+            "runtime": 93,
             "poster_path": "/6uDVpuGN20qaBfGkP1qhnzB4CvX.jpg",
             "director": "Marcel Carn\u00e9"
         },
@@ -4980,8 +5114,8 @@
             "watchDate": "2016-04-09",
             "personalRating": 4,
             "runtime": 96,
-            "poster_path": "/qGTJmSFytUDBtbJ7jFSYdQF1lNM.jpg",
-            "director": "Ishir\u00f4 Honda"
+            "poster_path": "/b1WJ2XpssmvFfykyaXQzG8qie3N.jpg",
+            "director": "Ishir\u014d Honda"
         },
         {
             "original_title": "Wo die gr\u00fcnen Ameisen tr\u00e4umen",
@@ -5130,7 +5264,7 @@
             "watchDate": "2016-05-15",
             "personalRating": 6,
             "runtime": 237,
-            "poster_path": "/qktq9SoWyIyunhGgCkQkOnq0Xts.jpg",
+            "poster_path": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
             "director": "Edward Yang"
         },
         {
@@ -5210,7 +5344,7 @@
             "watchDate": "2016-05-29",
             "personalRating": 4,
             "runtime": 81,
-            "poster_path": "/pBBgIy2ncPgX5lRtYsWm0BmMFjg.jpg",
+            "poster_path": "/70vz6UuPhgOhMFYfYeEem72NV0w.jpg",
             "director": "Jack Arnold"
         },
         {
@@ -5221,7 +5355,7 @@
             "personalRating": 6,
             "runtime": 743,
             "poster_path": "/vcyr1IZOHtPriQkm0NP6oMXDeLS.jpg",
-            "director": "Jacques Rivette, Suzanne Schiffman"
+            "director": "Jacques Rivette"
         },
         {
             "original_title": "Pocahontas",
@@ -5261,7 +5395,7 @@
             "personalRating": 5,
             "runtime": 90,
             "poster_path": "/5DpDEEb6UJUiSaXyNegYlCqsZdd.jpg",
-            "director": "Duke Johnson, Charlie Kaufman"
+            "director": "Charlie Kaufman, Duke Johnson"
         },
         {
             "original_title": "Le rayon vert",
@@ -5270,7 +5404,7 @@
             "watchDate": "2016-06-14",
             "personalRating": 5,
             "runtime": 98,
-            "poster_path": "/mFFqthZqOmCCktecOHia0Jn3JEH.jpg",
+            "poster_path": "/peATo9cnxbZsBLSXLGlDmEjqIic.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -5350,7 +5484,7 @@
             "watchDate": "2016-06-30",
             "personalRating": 5,
             "runtime": 89,
-            "poster_path": "/7ZiSTZN5FWsphVmlwFVFfn5EOl.jpg",
+            "poster_path": "/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
             "director": "Vittorio De Sica"
         },
         {
@@ -5420,7 +5554,7 @@
             "watchDate": "2016-07-03",
             "personalRating": 4,
             "runtime": 100,
-            "poster_path": "/1niUVi1tcmPqjloreUMw3LqOXGN.jpg",
+            "poster_path": "/rB8iV9gVgauSBnvg0ZqjFR2ji1a.jpg",
             "director": "Jack Clayton"
         },
         {
@@ -5440,7 +5574,7 @@
             "watchDate": "2016-07-09",
             "personalRating": 3,
             "runtime": 97,
-            "poster_path": "/5LhU4gI8ltKYpLtI9X2DVFtwBrN.jpg",
+            "poster_path": "/a8doVE7sXezmIeAFyXJcI3hPna5.jpg",
             "director": "John Landis"
         },
         {
@@ -5520,7 +5654,7 @@
             "watchDate": "2016-07-17",
             "personalRating": 5,
             "runtime": 160,
-            "poster_path": "/hvSj4duLGAeXusBMKF7w7BKKsq5.jpg",
+            "poster_path": "/bGnArVmtOqBqU5TDGi5DewcDKQd.jpg",
             "director": "Robert Altman"
         },
         {
@@ -5550,7 +5684,7 @@
             "watchDate": "2016-07-23",
             "personalRating": 4,
             "runtime": 100,
-            "poster_path": "/xVmoTSAgxHJFGD4QYFX7bZypEyG.jpg",
+            "poster_path": "/cFRnsFLN9bM2xWBr7ydT5cpPecF.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -5810,7 +5944,7 @@
             "watchDate": "2016-10-12",
             "personalRating": 5,
             "runtime": 78,
-            "poster_path": "/3rKD5cJpXgzNosKVDpZYJSHm7P5.jpg",
+            "poster_path": "/9ddPGH7kMe81xznwIKCt17VFUPi.jpg",
             "director": "Herk Harvey"
         },
         {
@@ -5826,7 +5960,7 @@
         {
             "original_title": "Love Exposure",
             "imdb_id": "tt1128075",
-            "release_date": "2008",
+            "release_date": "2009",
             "watchDate": "2016-10-15",
             "personalRating": 6,
             "runtime": 237,
@@ -5890,7 +6024,7 @@
             "watchDate": "2016-11-01",
             "personalRating": 5,
             "runtime": 98,
-            "poster_path": "/CuBNIdRCfFbTQTZtK0G99mxI42.jpg",
+            "poster_path": "/fUJrm8bpl9DHlBWizT1F44iVd7a.jpg",
             "director": "Krzysztof Kie\u015blowski"
         },
         {
@@ -5980,7 +6114,7 @@
             "watchDate": "2016-12-04",
             "personalRating": 4,
             "runtime": 90,
-            "poster_path": "/dJI2FSs3qfEPW82cWYfIaV8cVmN.jpg",
+            "poster_path": "/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
             "director": "Satoshi Kon"
         },
         {
@@ -6130,7 +6264,7 @@
             "watchDate": "2017-01-07",
             "personalRating": 5,
             "runtime": 125,
-            "poster_path": "/ochT2dykUUsk7RGrJjnJItLvreO.jpg",
+            "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
             "director": "Roman Polanski"
         },
         {
@@ -6190,7 +6324,7 @@
             "watchDate": "2017-01-18",
             "personalRating": 6,
             "runtime": 144,
-            "poster_path": "/aYSCbyTbzonlJiJ66SPPqCm3QGz.jpg",
+            "poster_path": "/7NYSr8Z6xiW4zZqOBf3BTee1TRM.jpg",
             "director": "John Cassavetes"
         },
         {
@@ -6249,7 +6383,7 @@
             "release_date": "1989",
             "watchDate": "2017-02-05",
             "personalRating": 2,
-            "runtime": 101,
+            "runtime": 102,
             "poster_path": "/zPEECSo5ZOBr9oEmBLSVXcqndTO.jpg",
             "director": "Joe Dante"
         },
@@ -6370,7 +6504,7 @@
             "watchDate": "2017-03-05",
             "personalRating": 5,
             "runtime": 129,
-            "poster_path": "/jZDRazOQhKFGoK322rYiBk1fpsY.jpg",
+            "poster_path": "/5Z7WhbH9yinIcvEDtUUbbMUQHRY.jpg",
             "director": "Frank Capra"
         },
         {
@@ -6569,7 +6703,7 @@
             "release_date": "1973",
             "watchDate": "2017-05-02",
             "personalRating": 4,
-            "runtime": 85,
+            "runtime": 91,
             "poster_path": "/che94e6wSm9TWLunhsHgHfNiqTu.jpg",
             "director": "Djibril Diop Mamb\u00e9ty"
         },
@@ -6630,7 +6764,7 @@
             "watchDate": "2017-06-03",
             "personalRating": 5,
             "runtime": 104,
-            "poster_path": "/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg",
+            "poster_path": "/rdPGUJhadPg7FGFNzavib0iwTor.jpg",
             "director": "Jordan Peele"
         },
         {
@@ -6670,7 +6804,7 @@
             "watchDate": "2017-06-17",
             "personalRating": 5,
             "runtime": 83,
-            "poster_path": "/3JGr4ANWJMPc0cQPXHb2i7YXxic.jpg",
+            "poster_path": "/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg",
             "director": "Tobe Hooper"
         },
         {
@@ -6790,7 +6924,7 @@
             "watchDate": "2017-07-03",
             "personalRating": 5,
             "runtime": 206,
-            "poster_path": "/q7godavx5XEbeVxEeqi4pmiOKdI.jpg",
+            "poster_path": "/5wF521QDBJplvbQq3lxWY3uYupU.jpg",
             "director": "Masaki Kobayashi"
         },
         {
@@ -6799,8 +6933,8 @@
             "release_date": "1977",
             "watchDate": "2017-07-03",
             "personalRating": 5,
-            "runtime": 98,
-            "poster_path": "/qtHlaxwLIKuZCHjFaHa2IGYWe4C.jpg",
+            "runtime": 99,
+            "poster_path": "/pJXSuO6pPXVF2umZeU1JcnOlKIC.jpg",
             "director": "Dario Argento"
         },
         {
@@ -6831,7 +6965,7 @@
             "personalRating": 5,
             "runtime": 105,
             "poster_path": "/46cPLR0MW0o0E5pjXggt06F6Ix8.jpg",
-            "director": "Michel Brault, Pierre Perrault"
+            "director": "Pierre Perrault, Michel Brault"
         },
         {
             "original_title": "Tenebre",
@@ -6970,7 +7104,7 @@
             "watchDate": "2017-08-05",
             "personalRating": 5,
             "runtime": 94,
-            "poster_path": "/hcc2CyUWPha0EfTMEpcdXiVuurG.jpg",
+            "poster_path": "/etELlm7GUQDOwT42SKAuzWs0TZl.jpg",
             "director": "\u00c9ric Rohmer"
         },
         {
@@ -7180,7 +7314,7 @@
             "watchDate": "2017-09-24",
             "personalRating": 6,
             "runtime": 121,
-            "poster_path": "/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg",
+            "poster_path": "/2yOKarmL8B4oXaLXUdHu882SUbu.jpg",
             "director": "Darren Aronofsky"
         },
         {
@@ -7220,7 +7354,7 @@
             "watchDate": "2017-10-03",
             "personalRating": 2,
             "runtime": 85,
-            "poster_path": "/tgtNELlRmnfvpIrBSv2Wekw7wpM.jpg",
+            "poster_path": "/5l3LNFzdF50lImSYHmTpGdRndM2.jpg",
             "director": "Mario Bava"
         },
         {
@@ -7240,7 +7374,7 @@
             "watchDate": "2017-10-06",
             "personalRating": 4,
             "runtime": 126,
-            "poster_path": "/1a6krdQr17aaA0Q3yS5LNVtxYvf.jpg",
+            "poster_path": "/h0mkK00GjBCJoBYm3yvPdkzlIyV.jpg",
             "director": "John Frankenheimer"
         },
         {
@@ -7360,7 +7494,7 @@
             "watchDate": "2017-10-23",
             "personalRating": 4,
             "runtime": 93,
-            "poster_path": "/48oT3CYO1nrQB2fRm9Zkv1VKWsm.jpg",
+            "poster_path": "/svN4qdP3q2pMnaRXoBgwQZ1KttR.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7376,11 +7510,11 @@
         {
             "original_title": "L'Argent",
             "imdb_id": "tt0085180",
-            "release_date": "1983",
+            "release_date": "1984",
             "watchDate": "2017-10-23",
             "personalRating": 6,
             "runtime": 85,
-            "poster_path": "/aoACJ0PaICV8YOYrrqu26cvCLd1.jpg",
+            "poster_path": "/4H60xkHZo26JOvbfd8qnoNfbgOX.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7550,7 +7684,7 @@
             "watchDate": "2017-11-18",
             "personalRating": 5,
             "runtime": 93,
-            "poster_path": "/kcxEqTCN5ymvdsBvym9ea8miTQw.jpg",
+            "poster_path": "/l5Imf2SFV2Owol576mEbR3FQuJM.jpg",
             "director": "Alain Robbe-Grillet"
         },
         {
@@ -7640,7 +7774,7 @@
             "watchDate": "2017-11-28",
             "personalRating": 5,
             "runtime": 160,
-            "poster_path": "/kDFnM2zlHZirR2ItTo56lyrxuAS.jpg",
+            "poster_path": "/rZ9QOB1ZqTjg9j0ftfur4AndoDa.jpg",
             "director": "Otto Preminger"
         },
         {
@@ -7740,7 +7874,7 @@
             "watchDate": "2017-12-11",
             "personalRating": 5,
             "runtime": 110,
-            "poster_path": "/kkSz6Pc2gtPg5dYtHOmBCrnFWUZ.jpg",
+            "poster_path": "/r4YtPleDvphppy7ekEdwxlYXcAi.jpg",
             "director": "Francesco Rosi"
         },
         {
@@ -7910,7 +8044,7 @@
             "watchDate": "2018-01-20",
             "personalRating": 6,
             "runtime": 145,
-            "poster_path": "/vbtDskCLmlDKtzpqdiJYszBhKY2.jpg",
+            "poster_path": "/tgw3TJTWgNUYCgL5Pa546VVVvSU.jpg",
             "director": "Wim Wenders"
         },
         {
@@ -7951,7 +8085,7 @@
             "personalRating": 4,
             "runtime": 101,
             "poster_path": "/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",
-            "director": "Benny Safdie, Josh Safdie"
+            "director": "Josh Safdie, Benny Safdie"
         },
         {
             "original_title": "The Return of the Living Dead",
@@ -8000,7 +8134,7 @@
             "watchDate": "2018-02-01",
             "personalRating": 2,
             "runtime": 98,
-            "poster_path": "/bpTNGIJkdYL8IJvvCmKmjtDpXn1.jpg",
+            "poster_path": "/oDuOKue0CCUPc3febMJmdFVysZR.jpg",
             "director": "Amat Escalante"
         },
         {
@@ -8010,7 +8144,7 @@
             "watchDate": "2018-02-02",
             "personalRating": 2,
             "runtime": 108,
-            "poster_path": "/yTYTHsYan0xx4H4i95hku9x7nid.jpg",
+            "poster_path": "/hz1PyuEJRYkQtSMjPKicltpuZNR.jpg",
             "director": "Roman Polanski"
         },
         {
@@ -8026,7 +8160,7 @@
         {
             "original_title": "The King of Comedy",
             "imdb_id": "tt0085794",
-            "release_date": "1982",
+            "release_date": "1983",
             "watchDate": "2018-02-03",
             "personalRating": 5,
             "runtime": 109,
@@ -8059,8 +8193,8 @@
             "release_date": "1985",
             "watchDate": "2018-02-04",
             "personalRating": 3,
-            "runtime": 137,
-            "poster_path": "/2s3OKpYDe7ASMfwL7kocdUbjsrh.jpg",
+            "runtime": 142,
+            "poster_path": "/8MYIwgpXnc5x98dmidmJFD68MY6.jpg",
             "director": "Elem Klimov"
         },
         {
@@ -8140,13 +8274,13 @@
             "watchDate": "2018-02-10",
             "personalRating": 4,
             "runtime": 136,
-            "poster_path": "/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
-            "director": "Lana Wachowski, Lilly Wachowski"
+            "poster_path": "/lZpWprJqbIFpEV5uoHfoK0KCnTW.jpg",
+            "director": "Lilly Wachowski, Lana Wachowski"
         },
         {
             "original_title": "La Belle Noiseuse",
             "imdb_id": "tt0101428",
-            "release_date": "1991",
+            "release_date": "1992",
             "watchDate": "2018-02-10",
             "personalRating": 5,
             "runtime": 238,
@@ -8170,7 +8304,7 @@
             "watchDate": "2018-02-11",
             "personalRating": 5,
             "runtime": 125,
-            "poster_path": "/xz00yDmTtGr3Uy3PEiopenQH2Zh.jpg",
+            "poster_path": "/un81oln6mAv66sqnkgPSpWONUqP.jpg",
             "director": "Leos Carax"
         },
         {
@@ -8280,7 +8414,7 @@
             "watchDate": "2018-03-12",
             "personalRating": 4,
             "runtime": 152,
-            "poster_path": "/ttUM67oCrLJOixo0WXbKpqOj2hv.jpg",
+            "poster_path": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
             "director": "Rian Johnson"
         },
         {
@@ -8380,7 +8514,7 @@
             "watchDate": "2018-03-29",
             "personalRating": 4,
             "runtime": 102,
-            "poster_path": "/vyNbHbsOLY3BXxn02I0ciwAntg7.jpg",
+            "poster_path": "/l9R0w3CzF2YCTZTlAZt1E3k2qNy.jpg",
             "director": "Tobe Hooper"
         },
         {
@@ -8420,7 +8554,7 @@
             "watchDate": "2018-04-02",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/mj2Pe0q3YFRd71Y0RTgDMb58bBy.jpg",
+            "poster_path": "/1EI0Qs6AhtxdamRBsFC4zm2I6sj.jpg",
             "director": "Tobe Hooper"
         },
         {
@@ -8459,7 +8593,7 @@
             "release_date": "1980",
             "watchDate": "2018-04-14",
             "personalRating": 4,
-            "runtime": 160,
+            "runtime": 180,
             "poster_path": "/5ZfxTO5IWuefPrUALF0GFKql4O0.jpg",
             "director": "Akira Kurosawa"
         },
@@ -8560,7 +8694,7 @@
             "watchDate": "2018-04-27",
             "personalRating": 5,
             "runtime": 103,
-            "poster_path": "/6AWXQYHEJicwhPfsDf250D4XHjW.jpg",
+            "poster_path": "/eGfEeJ3MGw8TORWJkvoVAeH2Zj2.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -8591,7 +8725,7 @@
             "personalRating": 2,
             "runtime": 116,
             "poster_path": "/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
-            "director": "Joel Coen"
+            "director": "Joel Coen, Ethan Coen"
         },
         {
             "original_title": "Roar",
@@ -8780,7 +8914,7 @@
             "watchDate": "2018-07-07",
             "personalRating": 5,
             "runtime": 127,
-            "poster_path": "/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg",
+            "poster_path": "/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg",
             "director": "Ari Aster"
         },
         {
@@ -8880,7 +9014,7 @@
             "watchDate": "2018-07-22",
             "personalRating": 5,
             "runtime": 132,
-            "poster_path": "/nPTjj6ZfBXXBwOhd7iUy6tyuKWt.jpg",
+            "poster_path": "/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
             "director": "Luca Guadagnino"
         },
         {
@@ -8921,7 +9055,7 @@
             "personalRating": 3,
             "runtime": 149,
             "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-            "director": "Joe Russo, Anthony Russo"
+            "director": "Anthony Russo, Joe Russo"
         },
         {
             "original_title": "La chinoise",
@@ -8950,7 +9084,7 @@
             "watchDate": "2018-08-04",
             "personalRating": 3,
             "runtime": 89,
-            "poster_path": "/hXukFwTKOe7izDsf3ZOdeYikRxF.jpg",
+            "poster_path": "/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
             "director": "Nick Park"
         },
         {
@@ -8960,7 +9094,7 @@
             "watchDate": "2018-08-05",
             "personalRating": 5,
             "runtime": 113,
-            "poster_path": "/p2UylV0hPefEuWPFMo1r56vu2nb.jpg",
+            "poster_path": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
             "director": "Paul Schrader"
         },
         {
@@ -9091,7 +9225,7 @@
             "personalRating": 1,
             "runtime": 129,
             "poster_path": "/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
-            "director": "J.A. Bayona"
+            "director": "J. A. Bayona"
         },
         {
             "original_title": "The Stranger",
@@ -9100,7 +9234,7 @@
             "watchDate": "2018-09-08",
             "personalRating": 4,
             "runtime": 96,
-            "poster_path": "/oFUoBJnI24GV8nYQTjHWRQgyDP7.jpg",
+            "poster_path": "/tej9Q7wpTRurDa77zCa8x3Y3zDb.jpg",
             "director": "Orson Welles"
         },
         {
@@ -9150,7 +9284,7 @@
             "watchDate": "2018-09-15",
             "personalRating": 5,
             "runtime": 100,
-            "poster_path": "/r86GaNYr3CZJPbkcZb2YzK0FBGC.jpg",
+            "poster_path": "/3HoDechba9wJhTUPOZTwxJBkh1Z.jpg",
             "director": "Stephen Nomura Schible"
         },
         {
@@ -9220,7 +9354,7 @@
             "watchDate": "2018-09-23",
             "personalRating": 5,
             "runtime": 111,
-            "poster_path": "/eZ2RqIznbQpogQtyKFsSQxoP2VK.jpg",
+            "poster_path": "/nbGyTnH1TREKgZXLxEJNnDVohYC.jpg",
             "director": "Larisa Shepitko"
         },
         {
@@ -9269,7 +9403,7 @@
             "release_date": "1975",
             "watchDate": "2018-10-07",
             "personalRating": 6,
-            "runtime": 106,
+            "runtime": 107,
             "poster_path": "/9PknVc5uubhVLZ6ofvfJAprM9UZ.jpg",
             "director": "Andrei Tarkovsky"
         },
@@ -9340,7 +9474,7 @@
             "watchDate": "2018-10-14",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
             "director": "Lee Chang-dong"
         },
         {
@@ -9379,7 +9513,7 @@
             "release_date": "1975",
             "watchDate": "2018-10-22",
             "personalRating": 5,
-            "runtime": 125,
+            "runtime": 127,
             "poster_path": "/ho1GpiEyc06MzMFHjhNshQg8tA1.jpg",
             "director": "Lino Brocka"
         },
@@ -9570,7 +9704,7 @@
             "watchDate": "2018-12-11",
             "personalRating": 5,
             "runtime": 123,
-            "poster_path": "/hY43TzgwMhf0mJGuixbWpAtVKlM.jpg",
+            "poster_path": "/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
             "director": "Rainer Werner Fassbinder"
         },
         {
@@ -9600,7 +9734,7 @@
             "watchDate": "2018-12-15",
             "personalRating": 5,
             "runtime": 40,
-            "poster_path": "/r490HjrQJrYXJp1zkzbflwEIegT.jpg",
+            "poster_path": "/l3h1oUZdUfi1LrwkJN3qrLSlbur.jpg",
             "director": "Jean Renoir"
         },
         {
@@ -9640,7 +9774,7 @@
             "watchDate": "2018-12-21",
             "personalRating": 5,
             "runtime": 79,
-            "poster_path": "/tQfyu9MGnVF3DtRhzgcQP592CNs.jpg",
+            "poster_path": "/r6UYog9MruOe4X71AS57EhuJrFq.jpg",
             "director": "Agn\u00e8s Varda"
         },
         {
@@ -9650,7 +9784,7 @@
             "watchDate": "2018-12-25",
             "personalRating": 4,
             "runtime": 37,
-            "poster_path": "/f2BZ8igrpxUkD7opszw4n9ZTTPY.jpg",
+            "poster_path": "/skuvvldycsxjKWXhJsiHPU8eE6u.jpg",
             "director": "Bertrand Mandico"
         },
         {
@@ -9780,7 +9914,7 @@
             "watchDate": "2019-01-06",
             "personalRating": 2,
             "runtime": 106,
-            "poster_path": "/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg",
+            "poster_path": "/bXs0zkv2iGVViZEy78teg2ycDBm.jpg",
             "director": "David Gordon Green"
         },
         {
@@ -9810,7 +9944,7 @@
             "watchDate": "2019-01-07",
             "personalRating": 3,
             "runtime": 87,
-            "poster_path": "/3GBIlFx9BTZkbVY1mk2AUB1pY5N.jpg",
+            "poster_path": "/8z1O0deLwJelX7fb33NW0zCMzsO.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -9980,7 +10114,7 @@
             "watchDate": "2019-02-09",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+            "poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
             "director": "Lee Chang-dong"
         },
         {
@@ -10051,7 +10185,7 @@
             "personalRating": 4,
             "runtime": 117,
             "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-            "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman"
+            "director": "Rodney Rothman, Peter Ramsey, Bob Persichetti"
         },
         {
             "original_title": "Woman at War",
@@ -10070,7 +10204,7 @@
             "watchDate": "2019-02-24",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/raEMFyklFKgqTf7iTerHo4uBRfC.jpg",
+            "poster_path": "/l9hGxLAyXGV3iuVwUghVjrYntv3.jpg",
             "director": "Hong Sang-soo"
         },
         {
@@ -10090,7 +10224,7 @@
             "watchDate": "2019-03-03",
             "personalRating": 4,
             "runtime": 110,
-            "poster_path": "/xkhaR2EXbvlRC6SAGfxcMLXhzUo.jpg",
+            "poster_path": "/8KzOTRlKjdAKQTemV41hq86ldFS.jpg",
             "director": "Ali Abbasi"
         },
         {
@@ -10150,7 +10284,7 @@
             "watchDate": "2019-03-09",
             "personalRating": 5,
             "runtime": 94,
-            "poster_path": "/hEDMD8Lu7tMurqIglE8mo4GKBN.jpg",
+            "poster_path": "/tyxjxpwr9NiVtSeITtVXuhp84Zl.jpg",
             "director": "F.W. Murnau"
         },
         {
@@ -10160,7 +10294,7 @@
             "watchDate": "2019-03-10",
             "personalRating": 5,
             "runtime": 108,
-            "poster_path": "/mr6Daq6iaiZp3bnWgZfPW8KB6MM.jpg",
+            "poster_path": "/ulsFfsr0TJvjQz6qcVPzpEUVSX.jpg",
             "director": "Pierre Salvadori"
         },
         {
@@ -10174,13 +10308,13 @@
             "director": "P\u00e1l Fej\u0151s"
         },
         {
-            "original_title": "Secrets of Women",
+            "original_title": "Waiting Women",
             "imdb_id": "tt0044811",
             "release_date": "1952",
             "watchDate": "2019-03-12",
             "personalRating": 3,
             "runtime": 107,
-            "poster_path": "/bUUTuh376ppUQJCzpjz4PSWNohv.jpg",
+            "poster_path": "/fEtguXG293BloYWuwC25pTxJzOZ.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -10260,7 +10394,7 @@
             "watchDate": "2019-03-27",
             "personalRating": 3,
             "runtime": 80,
-            "poster_path": "/vOa6uieEZkuiqKxkMNS4TOjPSbN.jpg",
+            "poster_path": "/5eKdMLGeJA5PDcTIOttZsNd4bq3.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -10310,7 +10444,7 @@
             "watchDate": "2019-04-13",
             "personalRating": 5,
             "runtime": 45,
-            "poster_path": "/ysTa1FtL9DvQ90F6VGVoiOdp5NM.jpg",
+            "poster_path": "/x3uzYR06aHYBmwVOR0GOPiwRHfS.jpg",
             "director": "Luis Bu\u00f1uel"
         },
         {
@@ -10350,7 +10484,7 @@
             "watchDate": "2019-04-18",
             "personalRating": 6,
             "runtime": 97,
-            "poster_path": "/nrTM9xjVrYb0Deb7xLrs3CwdrLz.jpg",
+            "poster_path": "/1izUNQlIMkc7dhcbatWej6NvpW8.jpg",
             "director": "Agn\u00e8s Varda"
         },
         {
@@ -10370,7 +10504,7 @@
             "watchDate": "2019-04-22",
             "personalRating": 2,
             "runtime": 113,
-            "poster_path": "/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+            "poster_path": "/6iMsV31it9KP2NShUrHNY9kHPKt.jpg",
             "director": "Claire Denis"
         },
         {
@@ -10519,7 +10653,7 @@
             "release_date": "1941",
             "watchDate": "2019-05-25",
             "personalRating": 4,
-            "runtime": 100,
+            "runtime": 101,
             "poster_path": "/jQilmbgbKtpbHM9hw9hgmqomJ9.jpg",
             "director": "John Huston"
         },
@@ -10559,8 +10693,8 @@
             "release_date": "2019",
             "watchDate": "2019-07-03",
             "personalRating": 6,
-            "runtime": 147,
-            "poster_path": "/eycO6M2s38xO1888Gq2gSrXf0A6.jpg",
+            "runtime": 148,
+            "poster_path": "/rXsh4MI6uyVgZBSSzXCfitJnVPy.jpg",
             "director": "Ari Aster"
         },
         {
@@ -10610,7 +10744,7 @@
             "watchDate": "2019-07-15",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/q8YfsyX59OmoSDirXT4CyThwN5f.jpg",
+            "poster_path": "/cNPhRNapWj2TnVgxW3CyspbLh37.jpg",
             "director": "Jackie Chan"
         },
         {
@@ -10630,7 +10764,7 @@
             "watchDate": "2019-07-21",
             "personalRating": 6,
             "runtime": 92,
-            "poster_path": "/1boYMEkB81bpGE1YOF6MnVA0RlU.jpg",
+            "poster_path": "/9kOhmFVu5uQv8EeQq7nAWpEnI1w.jpg",
             "director": "Leo McCarey"
         },
         {
@@ -10641,7 +10775,7 @@
             "personalRating": 3,
             "runtime": 181,
             "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-            "director": "Joe Russo, Anthony Russo"
+            "director": "Anthony Russo, Joe Russo"
         },
         {
             "original_title": "Modern Times",
@@ -10662,6 +10796,346 @@
             "runtime": 75,
             "poster_path": "/hROQQ0qPuydl3OvkrV6lNsPEEHM.jpg",
             "director": "William Greaves"
+        },
+        {
+            "original_title": "Multiple Maniacs",
+            "imdb_id": "tt0067454",
+            "release_date": "1970",
+            "watchDate": "2019-08-17",
+            "personalRating": 3,
+            "runtime": 97,
+            "poster_path": "/pro4OiTibouFxb6O5GhddSUImI7.jpg",
+            "director": "John Waters"
+        },
+        {
+            "original_title": "Pok\u00e9mon Detective Pikachu",
+            "imdb_id": "tt5884052",
+            "release_date": "2019",
+            "watchDate": "2019-08-17",
+            "personalRating": 2,
+            "runtime": 105,
+            "poster_path": "/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
+            "director": "Rob Letterman"
+        },
+        {
+            "original_title": "Vertigo",
+            "imdb_id": "tt0052357",
+            "release_date": "1958",
+            "watchDate": "2019-09-12",
+            "personalRating": 6,
+            "runtime": 128,
+            "poster_path": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg",
+            "director": "Alfred Hitchcock"
+        },
+        {
+            "original_title": "Burroughs: The Movie",
+            "imdb_id": "tt3581384",
+            "release_date": "1984",
+            "watchDate": "2019-09-13",
+            "personalRating": 3,
+            "runtime": 90,
+            "poster_path": "/hUUzRe3gvyO2S3rXiPNCGXnA6IF.jpg",
+            "director": "Howard Brookner"
+        },
+        {
+            "original_title": "Morte a Venezia",
+            "imdb_id": "tt0067445",
+            "release_date": "1971",
+            "watchDate": "2019-09-13",
+            "personalRating": 5,
+            "runtime": 130,
+            "poster_path": "/uaCO0YWhpVjppk3IgLwmHSDtrrT.jpg",
+            "director": "Luchino Visconti"
+        },
+        {
+            "original_title": "Parasite",
+            "imdb_id": "tt6751668",
+            "release_date": "2019",
+            "watchDate": "2019-09-15",
+            "personalRating": 5,
+            "runtime": 132,
+            "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "director": "Bong Joon-ho"
+        },
+        {
+            "original_title": "Shanghai Express",
+            "imdb_id": "tt0023458",
+            "release_date": "1932",
+            "watchDate": "2019-09-16",
+            "personalRating": 3,
+            "runtime": 82,
+            "poster_path": "/ausvToB221szRJkSN6lWcS9lfaS.jpg",
+            "director": "Josef von Sternberg"
+        },
+        {
+            "original_title": "Hollow Man",
+            "imdb_id": "tt0164052",
+            "release_date": "2000",
+            "watchDate": "2019-09-19",
+            "personalRating": 3,
+            "runtime": 112,
+            "poster_path": "/ubc2Nf3fJirAUcxVLUismTSo4XD.jpg",
+            "director": "Paul Verhoeven"
+        },
+        {
+            "original_title": "Crash",
+            "imdb_id": "tt0115964",
+            "release_date": "1996",
+            "watchDate": "2019-10-10",
+            "personalRating": 6,
+            "runtime": 90,
+            "poster_path": "/4PDLGJsS5uVBQlYjLMZ7t85dU0P.jpg",
+            "director": "David Cronenberg"
+        },
+        {
+            "original_title": "The Vast of Night",
+            "imdb_id": "tt6803046",
+            "release_date": "2019",
+            "watchDate": "2019-10-10",
+            "personalRating": 2,
+            "runtime": 91,
+            "poster_path": "/ttCObv3Y13ZZfIsUNjOM5Sz2W74.jpg",
+            "director": "Andrew Patterson"
+        },
+        {
+            "original_title": "Jeanne",
+            "imdb_id": "tt8669356",
+            "release_date": "2019",
+            "watchDate": "2019-10-12",
+            "personalRating": 5,
+            "runtime": 137,
+            "poster_path": "/wH4m2KRh2te4RDMtYAzD8yKgWgX.jpg",
+            "director": "Bruno Dumont"
+        },
+        {
+            "original_title": "Color Out of Space",
+            "imdb_id": "tt5073642",
+            "release_date": "2019",
+            "watchDate": "2019-10-12",
+            "personalRating": 3,
+            "runtime": 111,
+            "poster_path": "/PfU7QV3NkBTDaQh0EUon8iz8QZ.jpg",
+            "director": "Richard Stanley"
+        },
+        {
+            "original_title": "Echo",
+            "imdb_id": "tt9296808",
+            "release_date": "2019",
+            "watchDate": "2019-10-13",
+            "personalRating": 6,
+            "runtime": 79,
+            "poster_path": "/1i2elomV6zRrgtfoL4gyEV38tpX.jpg",
+            "director": "R\u00fanar R\u00fanarsson"
+        },
+        {
+            "original_title": "Bacurau",
+            "imdb_id": "tt2762506",
+            "release_date": "2019",
+            "watchDate": "2019-10-13",
+            "personalRating": 6,
+            "runtime": 132,
+            "poster_path": "/yVyy0VEFMbbMGHcBhvwGE4YgNbF.jpg",
+            "director": "Kleber Mendon\u00e7a Filho, Juliano Dornelles"
+        },
+        {
+            "original_title": "Jojo Rabbit",
+            "imdb_id": "tt2584384",
+            "release_date": "2019",
+            "watchDate": "2019-10-13",
+            "personalRating": 4,
+            "runtime": 108,
+            "poster_path": "/zIXJoYXc8ezMXc7DEaYii4XwIlS.jpg",
+            "director": "Taika Waititi"
+        },
+        {
+            "original_title": "Marriage Story",
+            "imdb_id": "tt7653254",
+            "release_date": "2019",
+            "watchDate": "2019-10-14",
+            "personalRating": 6,
+            "runtime": 136,
+            "poster_path": "/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg",
+            "director": "Noah Baumbach"
+        },
+        {
+            "original_title": "Le Daim",
+            "imdb_id": "tt8193790",
+            "release_date": "2019",
+            "watchDate": "2019-10-14",
+            "personalRating": 5,
+            "runtime": 77,
+            "poster_path": "/eMxMHfhiSiZCozPvvbLwMnjMAaG.jpg",
+            "director": "Quentin Dupieux"
+        },
+        {
+            "original_title": "Soylent Green",
+            "imdb_id": "tt0070723",
+            "release_date": "1973",
+            "watchDate": "2019-10-16",
+            "personalRating": 4,
+            "runtime": 97,
+            "poster_path": "/tIQVty3lbBzwuLemEDQic1Axfbd.jpg",
+            "director": "Richard Fleischer"
+        },
+        {
+            "original_title": "Mowa ptak\u00f3w",
+            "imdb_id": "tt8830002",
+            "release_date": "2019",
+            "watchDate": "2019-10-16",
+            "personalRating": 1,
+            "runtime": 138,
+            "poster_path": "/l2hkT5HXT3xtmovTG77w0pYmLVQ.jpg",
+            "director": "Xawery \u017bu\u0142awski"
+        },
+        {
+            "original_title": "Dolor y gloria",
+            "imdb_id": "tt8291806",
+            "release_date": "2019",
+            "watchDate": "2019-10-17",
+            "personalRating": 4,
+            "runtime": 114,
+            "poster_path": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+            "director": "Pedro Almod\u00f3var"
+        },
+        {
+            "original_title": "Hv\u00edtur, Hv\u00edtur Dagur",
+            "imdb_id": "tt9801736",
+            "release_date": "2019",
+            "watchDate": "2019-10-18",
+            "personalRating": 3,
+            "runtime": 109,
+            "poster_path": "/vsx5tFeL3UuWa5ITqu6l8uLc7q5.jpg",
+            "director": "Hlynur P\u00e1lmason"
+        },
+        {
+            "original_title": "Libert\u00e9",
+            "imdb_id": "tt10199670",
+            "release_date": "2019",
+            "watchDate": "2019-10-18",
+            "personalRating": 3,
+            "runtime": 132,
+            "poster_path": "/bdzcgDEiAirrQSK7YTaTvFBYksb.jpg",
+            "director": "Albert Serra"
+        },
+        {
+            "original_title": "Synonymes",
+            "imdb_id": "tt7016254",
+            "release_date": "2019",
+            "watchDate": "2019-10-19",
+            "personalRating": 5,
+            "runtime": 123,
+            "poster_path": "/4Jh2h0XsUBFxxeRgDUdfrDjVgFz.jpg",
+            "director": "Nadav Lapid"
+        },
+        {
+            "original_title": "Varda par Agn\u00e8s",
+            "imdb_id": "tt9530198",
+            "release_date": "2019",
+            "watchDate": "2019-10-19",
+            "personalRating": 4,
+            "runtime": 115,
+            "poster_path": "/99xU63PePSbtffV5CUqPQYu84XY.jpg",
+            "director": "Agn\u00e8s Varda"
+        },
+        {
+            "original_title": "Family Romance, LLC",
+            "imdb_id": "tt10208194",
+            "release_date": "2019",
+            "watchDate": "2019-10-19",
+            "personalRating": 2,
+            "runtime": 89,
+            "poster_path": "/d7k7A21jFvT5jZd4UYNw1fDqqTe.jpg",
+            "director": "Werner Herzog"
+        },
+        {
+            "original_title": "A Hidden Life",
+            "imdb_id": "tt5827916",
+            "release_date": "2019",
+            "watchDate": "2019-10-20",
+            "personalRating": 3,
+            "runtime": 173,
+            "poster_path": "/1co8thSgZR34jHJweLS90yDyLsI.jpg",
+            "director": "Terrence Malick"
+        },
+        {
+            "original_title": "El Camino: A Breaking Bad Movie",
+            "imdb_id": "tt9243946",
+            "release_date": "2019",
+            "watchDate": "2019-10-24",
+            "personalRating": 4,
+            "runtime": 123,
+            "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+            "director": "Vince Gilligan"
+        },
+        {
+            "original_title": "Polyester",
+            "imdb_id": "tt0082926",
+            "release_date": "1981",
+            "watchDate": "2019-10-25",
+            "personalRating": 3,
+            "runtime": 86,
+            "poster_path": "/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
+            "director": "John Waters"
+        },
+        {
+            "original_title": "Joker",
+            "imdb_id": "tt7286456",
+            "release_date": "2019",
+            "watchDate": "2019-10-27",
+            "personalRating": 5,
+            "runtime": 122,
+            "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "director": "Todd Phillips"
+        },
+        {
+            "original_title": "The Circus",
+            "imdb_id": "tt0018773",
+            "release_date": "1928",
+            "watchDate": "2019-10-27",
+            "personalRating": 4,
+            "runtime": 72,
+            "poster_path": "/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+            "director": "Charlie Chaplin"
+        },
+        {
+            "original_title": "A Hard Day's Night",
+            "imdb_id": "tt0058182",
+            "release_date": "1964",
+            "watchDate": "2019-10-31",
+            "personalRating": 2,
+            "runtime": 88,
+            "poster_path": "/raJc1rxX0SQGzU1sRBAAFLkKGv1.jpg",
+            "director": "Richard Lester"
+        },
+        {
+            "original_title": "Ansikte mot ansikte",
+            "imdb_id": "tt0074147",
+            "release_date": "1976",
+            "watchDate": "2019-10-31",
+            "personalRating": 4,
+            "runtime": 136,
+            "poster_path": "/zKxLBRZq5Pvao429oDcx8nODqXn.jpg",
+            "director": "Ingmar Bergman"
+        },
+        {
+            "original_title": "The Shop Around the Corner",
+            "imdb_id": "tt0033045",
+            "release_date": "1940",
+            "watchDate": "2019-10-31",
+            "personalRating": 4,
+            "runtime": 99,
+            "poster_path": "/avHj8x3T21dYIGrnx55I57PxdEo.jpg",
+            "director": "Ernst Lubitsch"
+        },
+        {
+            "original_title": "Toy Story 4",
+            "imdb_id": "tt1979376",
+            "release_date": "2019",
+            "watchDate": "2019-10-01",
+            "personalRating": 4,
+            "runtime": 100,
+            "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+            "director": "Josh Cooley"
         }
     ]
 }

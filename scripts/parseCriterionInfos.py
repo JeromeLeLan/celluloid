@@ -33,7 +33,7 @@ def parseCriterion(getPosters):
   jsonResult['movies'] = []
 
   watchedList = []
-  with open(spineFile, 'rU') as f:
+  with open(spineFile, 'r') as f:
     for movieWatched in f:
       watchedList.append(movieWatched.strip() == '1')
 
