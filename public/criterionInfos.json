@@ -4233,7 +4233,7 @@
     {
       "url": "https://www.criterion.com/films/536-antonio-gaud",
       "spine": 425,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fb23d4fcfe023bf628aa4d48ae0d174b/B5DNRBe9AxKiudgQ1kG3qImTRg7bEb_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9fbb1fd3e4b0e01dba200e753955bb7a/NKIsmQqC7PGzqels7ynuEsT5dqK8Zs_original.jpg",
       "title": "Antonio Gaudí",
       "director": "Hiroshi Teshigahara",
       "country": "Japan",
@@ -4896,7 +4896,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ce4dea23892206f842ea9e71a0efb172/vOVg5PTddWrSxKJfoqSO1jsZfAfEBB_original.jpg",
       "title": "Z",
       "director": "Costa-Gavras",
-      "country": "France",
+      "country": "Greece",
       "year": "1969",
       "watched": true
     },
@@ -8538,7 +8538,7 @@
       "director": "Pedro Almodóvar",
       "country": "Spain",
       "year": "1988",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/boxsets/1237-the-before-trilogy",
@@ -9548,7 +9548,7 @@
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "2017",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27895-mikey-and-nicky",
@@ -9858,7 +9858,7 @@
       "director": "Alan J. Pakula",
       "country": "United States",
       "year": "1971",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28747-the-inland-sea",
@@ -10109,6 +10109,66 @@
       "country": "Spain",
       "year": "1999",
       "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28660-teorema",
+      "spine": 1013,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/56166014193fe00f622115685dba2487/g6y2g4zZHy2J3caJizYcgZBfh7FnQ9_original.jpg",
+      "title": "Teorema",
+      "director": "Pier Paolo Pasolini",
+      "country": "Italy",
+      "year": "1969",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30124-roma",
+      "spine": 1014,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c22c3cbaf4706023172ddb3d30c4cdcf/WEOSIZz1IZz9fy5qhABZ0RyEV5ySyL_original.jpg",
+      "title": "Roma",
+      "director": "Alfonso Cuarón",
+      "country": "Mexico",
+      "year": "2018",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30226-journey-to-the-beginning-of-time",
+      "spine": 1015,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ad03cbebd46eb9fe84b3f46eef4ac390/tePjrgbiCmWydhyXjET4PDD6YeOcLW_original.jpg",
+      "title": "Journey to the Beginning of Time",
+      "director": "Karel Zeman",
+      "country": "Czechoslovakia",
+      "year": "1955",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29654-invention-for-destruction",
+      "spine": 1016,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/dc8c1ed443ce9106c76314d9d20cf6eb/RRPupI0IXRgkKBoZYvh5c5CjAwBpxL_original.jpg",
+      "title": "Invention for Destruction",
+      "director": "Karel Zeman",
+      "country": "Czechoslovakia",
+      "year": "1958",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29652-the-fabulous-baron-munchausen",
+      "spine": 1017,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3e8f9fa6fb75a8fdbd6c364c19d86478/eBLoDljuSlMkZLc1re6fnLYFzAYmtQ_original.jpg",
+      "title": "The Fabulous Baron Munchausen",
+      "director": "Karel Zeman",
+      "country": "Czechoslovakia",
+      "year": "1962",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29647-paris-is-burning",
+      "spine": 1018,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/db018ea632f4576c8eb5e168bbf244a0/LSoJP2f4HIWyY4pBAuk8lnOO82jBCv_original.jpg",
+      "title": "Paris is Burning",
+      "director": "Jennie Livingston",
+      "country": "United States",
+      "year": "1990",
+      "watched": false
     }
   ]
 }

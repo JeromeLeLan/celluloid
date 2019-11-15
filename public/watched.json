@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 219,
+            "count": 220,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 369,
+            "count": 372,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 82,
+            "count": 83,
             "name": "United Kingdom"
         },
         "CH": {
@@ -41,7 +41,7 @@
             "name": "Turkey"
         },
         "DK": {
-            "count": 15,
+            "count": 16,
             "name": "Denmark"
         },
         "CA": {
@@ -53,11 +53,11 @@
             "name": "Argentina"
         },
         "ES": {
-            "count": 11,
+            "count": 12,
             "name": "Spain"
         },
         "NO": {
-            "count": 7,
+            "count": 8,
             "name": "Norway"
         },
         "AU": {
@@ -73,7 +73,7 @@
             "name": "Belgium"
         },
         "PL": {
-            "count": 11,
+            "count": 13,
             "name": "Poland"
         },
         "PE": {
@@ -97,7 +97,7 @@
             "name": "Thailand"
         },
         "MY": {
-            "count": 1,
+            "count": 2,
             "name": "Malaysia"
         },
         "KR": {
@@ -109,7 +109,7 @@
             "name": "Hong Kong"
         },
         "IR": {
-            "count": 1,
+            "count": 2,
             "name": "Iran"
         },
         "TW": {
@@ -221,7 +221,7 @@
             "name": "Ukraine"
         },
         "PT": {
-            "count": 1,
+            "count": 2,
             "name": "Portugal"
         }
     },
@@ -231,26 +231,26 @@
         "1940s": 33,
         "1950s": 57,
         "1960s": 89,
-        "1970s": 111,
-        "1980s": 99,
-        "1990s": 58,
+        "1970s": 113,
+        "1980s": 100,
+        "1990s": 59,
         "2000s": 35,
-        "2010s": 250
+        "2010s": 251
     },
     "genres": {
         "Drama": 461,
         "Comedy": 176,
-        "Thriller": 156,
+        "Thriller": 158,
         "Romance": 127,
-        "Horror": 109,
-        "Mystery": 98,
+        "Horror": 111,
+        "Mystery": 102,
         "Crime": 88,
         "Science Fiction": 84,
         "Adventure": 80,
         "Action": 73,
-        "Documentary": 67,
-        "Fantasy": 59,
-        "History": 37,
+        "Documentary": 68,
+        "Fantasy": 58,
+        "History": 38,
         "War": 32,
         "Family": 26,
         "Animation": 26,
@@ -675,13 +675,6 @@
             }
         ],
         [
-            1224,
-            {
-                "count": 3,
-                "name": "Ethan Coen"
-            }
-        ],
-        [
             8500,
             {
                 "count": 3,
@@ -756,6 +749,13 @@
             {
                 "count": 3,
                 "name": "Tobe Hooper"
+            }
+        ],
+        [
+            32327,
+            {
+                "count": 3,
+                "name": "Ken Russell"
             }
         ],
         [
@@ -990,6 +990,13 @@
             }
         ],
         [
+            1224,
+            {
+                "count": 2,
+                "name": "Ethan Coen"
+            }
+        ],
+        [
             578,
             {
                 "count": 2,
@@ -1109,13 +1116,6 @@
             }
         ],
         [
-            32327,
-            {
-                "count": 2,
-                "name": "Ken Russell"
-            }
-        ],
-        [
             280,
             {
                 "count": 2,
@@ -1214,6 +1214,13 @@
             }
         ],
         [
+            309,
+            {
+                "count": 2,
+                "name": "Pedro Almod\u00f3var"
+            }
+        ],
+        [
             91484,
             {
                 "count": 1,
@@ -1242,17 +1249,17 @@
             }
         ],
         [
-            54734,
-            {
-                "count": 1,
-                "name": "Evan Goldberg"
-            }
-        ],
-        [
             19274,
             {
                 "count": 1,
                 "name": "Seth Rogen"
+            }
+        ],
+        [
+            54734,
+            {
+                "count": 1,
+                "name": "Evan Goldberg"
             }
         ],
         [
@@ -1869,13 +1876,6 @@
             {
                 "count": 1,
                 "name": "Jon Favreau"
-            }
-        ],
-        [
-            1349420,
-            {
-                "count": 1,
-                "name": "Christine Cynn"
             }
         ],
         [
@@ -3328,13 +3328,6 @@
             }
         ],
         [
-            309,
-            {
-                "count": 1,
-                "name": "Pedro Almod\u00f3var"
-            }
-        ],
-        [
             1292227,
             {
                 "count": 1,
@@ -3381,6 +3374,27 @@
             {
                 "count": 1,
                 "name": "Josh Cooley"
+            }
+        ],
+        [
+            57922,
+            {
+                "count": 1,
+                "name": "William Peter Blatty"
+            }
+        ],
+        [
+            6349,
+            {
+                "count": 1,
+                "name": "Alan J. Pakula"
+            }
+        ],
+        [
+            119294,
+            {
+                "count": 1,
+                "name": "Abbas Kiarostami"
             }
         ]
     ],
@@ -3585,7 +3599,7 @@
             "personalRating": 1,
             "runtime": 112,
             "poster_path": "/2uWb0aSm5cFmRCHP95OdA6hvTEs.jpg",
-            "director": "Evan Goldberg, Seth Rogen"
+            "director": "Seth Rogen, Evan Goldberg"
         },
         {
             "original_title": "Through a Glass Darkly",
@@ -4244,7 +4258,7 @@
             "watchDate": "2015-08-16",
             "personalRating": 5,
             "runtime": 106,
-            "poster_path": "/4n6lnr7q3Ysz4rKz3raxkltbHgr.jpg",
+            "poster_path": "/lA52Zr0MGkCDDAzwno9ruCjDwK0.jpg",
             "director": "Alfonso Cuar\u00f3n"
         },
         {
@@ -4644,7 +4658,7 @@
             "watchDate": "2015-12-06",
             "personalRating": 5,
             "runtime": 119,
-            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+            "poster_path": "/bsucryv6ldYUhLpaI5F5otlMvda.jpg",
             "director": "Orson Welles"
         },
         {
@@ -4910,7 +4924,7 @@
         {
             "original_title": "It Follows",
             "imdb_id": "tt3235888",
-            "release_date": "2014",
+            "release_date": "2015",
             "watchDate": "2016-01-31",
             "personalRating": 4,
             "runtime": 101,
@@ -5054,7 +5068,7 @@
             "watchDate": "2016-03-21",
             "personalRating": 4,
             "runtime": 110,
-            "poster_path": "/20D1aU0gTrWwE6RWYKbDvgSCiJx.jpg",
+            "poster_path": "/hwxlqYwdDNJnvWOXoCw0vMA2quO.jpg",
             "director": "Ettore Scola"
         },
         {
@@ -5264,7 +5278,7 @@
             "watchDate": "2016-05-15",
             "personalRating": 6,
             "runtime": 237,
-            "poster_path": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+            "poster_path": "/rUmXrzRxzLiHnAQUyxyuhcLEWNy.jpg",
             "director": "Edward Yang"
         },
         {
@@ -5468,13 +5482,13 @@
             "director": "Zack Snyder"
         },
         {
-            "original_title": "La plan\u00e8te sauvage",
+            "original_title": "La Plan\u00e8te sauvage",
             "imdb_id": "tt0070544",
             "release_date": "1973",
             "watchDate": "2016-06-29",
             "personalRating": 3,
             "runtime": 72,
-            "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
+            "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
             "director": "Ren\u00e9 Laloux"
         },
         {
@@ -5915,7 +5929,7 @@
             "personalRating": 5,
             "runtime": 115,
             "poster_path": "/6ng86moS1tBdofRVMooOMCfW4TJ.jpg",
-            "director": "Joshua Oppenheimer, Christine Cynn"
+            "director": "Joshua Oppenheimer"
         },
         {
             "original_title": "The Look of Silence",
@@ -7554,7 +7568,7 @@
             "watchDate": "2017-10-31",
             "personalRating": 3,
             "runtime": 120,
-            "poster_path": "/mft7ZJqHxUyFaLL3ZYXX1MN2Gro.jpg",
+            "poster_path": "/6CtznV9xwlxsH5D2ndfChs2Hvpg.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -8464,7 +8478,7 @@
             "watchDate": "2018-03-25",
             "personalRating": 4,
             "runtime": 112,
-            "poster_path": "/zn8sMd8yonDEYUnNuApIhIvHJhP.jpg",
+            "poster_path": "/buDDulaN8aPIHkqvw2bMkqTDZPJ.jpg",
             "director": "Dario Argento"
         },
         {
@@ -8694,7 +8708,7 @@
             "watchDate": "2018-04-27",
             "personalRating": 5,
             "runtime": 103,
-            "poster_path": "/eGfEeJ3MGw8TORWJkvoVAeH2Zj2.jpg",
+            "poster_path": "/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -8725,7 +8739,7 @@
             "personalRating": 2,
             "runtime": 116,
             "poster_path": "/846d8FclibtOIoUW7PxpT0nCG4C.jpg",
-            "director": "Joel Coen, Ethan Coen"
+            "director": "Joel Coen"
         },
         {
             "original_title": "Roar",
@@ -9094,7 +9108,7 @@
             "watchDate": "2018-08-05",
             "personalRating": 5,
             "runtime": 113,
-            "poster_path": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+            "poster_path": "/p2UylV0hPefEuWPFMo1r56vu2nb.jpg",
             "director": "Paul Schrader"
         },
         {
@@ -9494,7 +9508,7 @@
             "watchDate": "2018-10-20",
             "personalRating": 2,
             "runtime": 93,
-            "poster_path": "/Aovc3FHXPzjWb3XZSNDfC2CPLKM.jpg",
+            "poster_path": "/zAYEhHCSULHY9sW7WoEMhNVEC77.jpg",
             "director": "Xavier Legrand"
         },
         {
@@ -9535,7 +9549,7 @@
             "personalRating": 6,
             "runtime": 104,
             "poster_path": "/diYVom5WuqNzhlRceem8onA197e.jpg",
-            "director": "Michael Powell, Emeric Pressburger"
+            "director": "Emeric Pressburger, Michael Powell"
         },
         {
             "original_title": "Incredibles 2",
@@ -9944,7 +9958,7 @@
             "watchDate": "2019-01-07",
             "personalRating": 3,
             "runtime": 87,
-            "poster_path": "/8z1O0deLwJelX7fb33NW0zCMzsO.jpg",
+            "poster_path": "/nW0Nuis5HfYaIk1v7rgonhtPw3a.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -10083,7 +10097,7 @@
             "release_date": "2018",
             "watchDate": "2019-02-01",
             "personalRating": 3,
-            "runtime": 135,
+            "runtime": 136,
             "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
             "director": "Bradley Cooper"
         },
@@ -10934,7 +10948,7 @@
             "watchDate": "2019-10-13",
             "personalRating": 6,
             "runtime": 132,
-            "poster_path": "/yVyy0VEFMbbMGHcBhvwGE4YgNbF.jpg",
+            "poster_path": "/pUiOqPIKEP440KSLfdWOP15QGkD.jpg",
             "director": "Kleber Mendon\u00e7a Filho, Juliano Dornelles"
         },
         {
@@ -10944,7 +10958,7 @@
             "watchDate": "2019-10-13",
             "personalRating": 4,
             "runtime": 108,
-            "poster_path": "/zIXJoYXc8ezMXc7DEaYii4XwIlS.jpg",
+            "poster_path": "/mai8O9QdpNpvALef9GKxBlDK3hx.jpg",
             "director": "Taika Waititi"
         },
         {
@@ -10994,7 +11008,7 @@
             "watchDate": "2019-10-17",
             "personalRating": 4,
             "runtime": 114,
-            "poster_path": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+            "poster_path": "/rXv4tqt0UZsqyjCD3Kxjcs6OnHT.jpg",
             "director": "Pedro Almod\u00f3var"
         },
         {
@@ -11054,7 +11068,7 @@
             "watchDate": "2019-10-20",
             "personalRating": 3,
             "runtime": 173,
-            "poster_path": "/1co8thSgZR34jHJweLS90yDyLsI.jpg",
+            "poster_path": "/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg",
             "director": "Terrence Malick"
         },
         {
@@ -11074,7 +11088,7 @@
             "watchDate": "2019-10-25",
             "personalRating": 3,
             "runtime": 86,
-            "poster_path": "/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
+            "poster_path": "/3lvBYVb5K1gFc9WYdUf8nJlzje3.jpg",
             "director": "John Waters"
         },
         {
@@ -11136,6 +11150,56 @@
             "runtime": 100,
             "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
             "director": "Josh Cooley"
+        },
+        {
+            "original_title": "The Exorcist III",
+            "imdb_id": "tt0099528",
+            "release_date": "1990",
+            "watchDate": "2019-11-03",
+            "personalRating": 2,
+            "runtime": 110,
+            "poster_path": "/xU1mJq4AihDXAhEmdOmCgPCy1li.jpg",
+            "director": "William Peter Blatty"
+        },
+        {
+            "original_title": "The Devils",
+            "imdb_id": "tt0066993",
+            "release_date": "1971",
+            "watchDate": "2019-11-05",
+            "personalRating": 4,
+            "runtime": 111,
+            "poster_path": "/7EWcEBzGYJusF01Jvw2C1EG6GG4.jpg",
+            "director": "Ken Russell"
+        },
+        {
+            "original_title": "Mujeres al Borde de un Ataque de Nervios",
+            "imdb_id": "tt0095675",
+            "release_date": "1988",
+            "watchDate": "2019-11-09",
+            "personalRating": 4,
+            "runtime": 88,
+            "poster_path": "/lOehCiqghODNrNBpI1JS76zl6Lx.jpg",
+            "director": "Pedro Almod\u00f3var"
+        },
+        {
+            "original_title": "Klute",
+            "imdb_id": "tt0067309",
+            "release_date": "1971",
+            "watchDate": "2019-11-10",
+            "personalRating": 5,
+            "runtime": 114,
+            "poster_path": "/5Aga8KYz40o7dK1DZKQZp2yPSRV.jpg",
+            "director": "Alan J. Pakula"
+        },
+        {
+            "original_title": "24 Frames",
+            "imdb_id": "tt6777170",
+            "release_date": "2017",
+            "watchDate": "2019-11-10",
+            "personalRating": 4,
+            "runtime": 114,
+            "poster_path": "/oWHZdSSWiclgMUjVg3eYDBCbiAL.jpg",
+            "director": "Abbas Kiarostami"
         }
     ]
 }
