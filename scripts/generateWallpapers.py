@@ -10,6 +10,9 @@ ROW_SIZE = 7
 COLUMN_SIZE = 3
 BACKGROUND_COLOR = '#797877'
 WATCHED_COLOR = '#4f4e4d'
+IMAGE_WIDTH = 1288
+IMAGE_HEIGHT = 1600
+BORDER_SIZE = 75
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
 postersPath = os.path.join(scriptPath, '../posters')
@@ -34,15 +37,21 @@ def borderize():
       continue
     print(poster)
     img = Image.open(filePath)
-    img = img.resize((1288,1600))
+    img = img.resize((IMAGE_WIDTH,IMAGE_HEIGHT))
     color = BACKGROUND_COLOR
     if '@seen' in poster:
       color = WATCHED_COLOR
-    img = ImageOps.expand(img, border=75, fill=color)
+    img = ImageOps.expand(img, border=BORDER_SIZE, fill=color)
     img.save(os.path.join(borderedPath, poster))
     posterCount += 1
     if posterCount > POSTER_COUNT:
       break
+  paddingCount = (ROW_SIZE * COLUMN_SIZE) - posterCount % (ROW_SIZE * COLUMN_SIZE)
+  for i in range(paddingCount):
+    paddingPoster = str(posterCount + i + 2) + ' - padding.jpg'
+    img = Image.new('RGB', (IMAGE_WIDTH + 2 * BORDER_SIZE, IMAGE_HEIGHT + 2 * BORDER_SIZE), BACKGROUND_COLOR)
+    print(paddingPoster)
+    img.save(os.path.join(borderedPath, paddingPoster))
 
 def createRows():
   posters = sorted(os.listdir(borderedPath), key=alphanumericOrder)
