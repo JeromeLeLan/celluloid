@@ -30,10 +30,11 @@ def borderize():
   posters = sorted(os.listdir(postersPath), key=alphanumericOrder)
   for poster in posters:
     filePath = os.path.join(postersPath, poster)
-    if not os.path.isfile(filePath):
+    if not os.path.isfile(filePath) or not filePath.endswith('jpg'):
       continue
     print(poster)
     img = Image.open(filePath)
+    img = img.resize((1288,1600))
     color = BACKGROUND_COLOR
     if '@seen' in poster:
       color = WATCHED_COLOR
