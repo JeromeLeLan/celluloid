@@ -1213,11 +1213,11 @@
     {
       "url": "https://www.criterion.com/films/663-salesman",
       "spine": 122,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c33746df34b2d97e43e5115677cd5440/XHTPfGxyC5WiiAxpNcB7qgTOXWFbcc_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/de3ced1c9ab41dc9a3e5d6ad17fb9ba1/nabE9bhsoCoicrC939dTgyUCFmDu2n_original.jpg",
       "title": "Salesman",
-      "director": "Albert Maysles...",
+      "director": "David Maysles…",
       "country": "United States",
-      "year": "1968",
+      "year": "1969",
       "watched": false
     },
     {
@@ -1225,7 +1225,7 @@
       "spine": 123,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/251568d04b57d0ba9fcf4f122aecb6b0/tOYh5gWdFXenaqTAGp5Nix2HBnl4o3_original.jpg",
       "title": "Grey Gardens",
-      "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+      "director": "Albert Maysles, David Maysles, Ellen Hovde, Muffie Meyer",
       "country": "United States",
       "year": "1976",
       "watched": true
@@ -1338,7 +1338,7 @@
       "director": "Benjamin Christensen",
       "country": "Denmark",
       "year": "1922",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/680-rebecca",
@@ -1453,7 +1453,7 @@
     {
       "url": "https://www.criterion.com/films/547-the-cranes-are-flying",
       "spine": 146,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/306ed6bad3064a04c6c10ac436f8a784/5QhKpqOqzAfKWO9BjgEEgnxKWLzcDn_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e87eff9c02985c2c9ef62bc1c6bf2a08/fesyes8PQ2wqRP4jciUR30i4lvbFbA_original.jpg",
       "title": "The Cranes Are Flying",
       "director": "Mikhail Kalatozov",
       "country": "Soviet Union",
@@ -5258,7 +5258,7 @@
       "director": "Abdellatif Kechiche",
       "country": "France",
       "year": "2007",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/boxsets/744-3-silent-classics-by-josef-von-sternberg",
@@ -5278,7 +5278,7 @@
       "director": "Josef von Sternberg",
       "country": "United States",
       "year": "1927",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/6721-the-last-command",
@@ -10123,7 +10123,7 @@
     {
       "url": "https://www.criterion.com/films/30124-roma",
       "spine": 1014,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c22c3cbaf4706023172ddb3d30c4cdcf/WEOSIZz1IZz9fy5qhABZ0RyEV5ySyL_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bc349204816d212fabd9b71524763b75/BMnwff4YpeT4kAkBsBwD6PGbdffoL3_original.jpg",
       "title": "Roma",
       "director": "Alfonso Cuarón",
       "country": "Mexico",
@@ -10164,10 +10164,50 @@
       "url": "https://www.criterion.com/films/29647-paris-is-burning",
       "spine": 1018,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/db018ea632f4576c8eb5e168bbf244a0/LSoJP2f4HIWyY4pBAuk8lnOO82jBCv_original.jpg",
-      "title": "Paris is Burning",
+      "title": "Paris Is Burning",
       "director": "Jennie Livingston",
       "country": "United States",
       "year": "1990",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29007-bamboozled",
+      "spine": 1019,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/621ace9afe23a305cd3900a50b0ee678/s48ebrkllPeu1rDdXBVnzKQ9ZRR7u4_original.jpg",
+      "title": "Bamboozled",
+      "director": "Spike Lee",
+      "country": "United States",
+      "year": "2000",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29602-leave-her-to-heaven",
+      "spine": 1020,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cd887a21f36c85dfc187688a6c075c54/8uvrgmo6h0KZ9XBVk13OiDIVW7R2vc_original.jpg",
+      "title": "Leave Her to Heaven",
+      "director": "John M. Stahl",
+      "country": "United States",
+      "year": "1945",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29035-show-boat",
+      "spine": 1021,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/56c15770f21d506909cd9d6b510b0a48/L8eD9ereAY71I07uEdI3FcfpnJ94d2_original.jpg",
+      "title": "Show Boat",
+      "director": "James Whale",
+      "country": "United States",
+      "year": "1936",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29571-the-prince-of-tides",
+      "spine": 1022,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/03f92b28b483c87990e64d3e8d65bb33/6U2WKHdRmzYqcnAqo95rDMT3GJ5Q2u_original.jpg",
+      "title": "The Prince of Tides",
+      "director": "Barbra Streisand",
+      "country": "United States",
+      "year": "1991",
       "watched": false
     }
   ]

@@ -1,51 +1,63 @@
 {
     "countries": {
         "FR": {
-            "count": 220,
+            "count": 225,
             "name": "France"
         },
         "RU": {
-            "count": 9,
+            "count": 10,
             "name": "Russia"
         },
         "IT": {
-            "count": 56,
+            "count": 59,
             "name": "Italy"
         },
         "US": {
-            "count": 372,
+            "count": 378,
             "name": "United States of America"
         },
         "SE": {
-            "count": 47,
+            "count": 48,
             "name": "Sweden"
         },
         "GB": {
-            "count": 83,
+            "count": 87,
             "name": "United Kingdom"
         },
         "CH": {
             "count": 12,
             "name": "Switzerland"
         },
-        "IN": {
-            "count": 6,
-            "name": "India"
+        "AT": {
+            "count": 2,
+            "name": "Austria"
+        },
+        "DK": {
+            "count": 19,
+            "name": "Denmark"
+        },
+        "FI": {
+            "count": 5,
+            "name": "Finland"
         },
         "DE": {
-            "count": 77,
+            "count": 78,
             "name": "Germany"
+        },
+        "NO": {
+            "count": 9,
+            "name": "Norway"
+        },
+        "IN": {
+            "count": 5,
+            "name": "India"
         },
         "TR": {
             "count": 2,
             "name": "Turkey"
         },
-        "DK": {
-            "count": 16,
-            "name": "Denmark"
-        },
         "CA": {
-            "count": 34,
+            "count": 35,
             "name": "Canada"
         },
         "AR": {
@@ -56,10 +68,6 @@
             "count": 12,
             "name": "Spain"
         },
-        "NO": {
-            "count": 8,
-            "name": "Norway"
-        },
         "AU": {
             "count": 8,
             "name": "Australia"
@@ -69,7 +77,7 @@
             "name": "New Zealand"
         },
         "BE": {
-            "count": 16,
+            "count": 17,
             "name": "Belgium"
         },
         "PL": {
@@ -81,16 +89,12 @@
             "name": "Peru"
         },
         "JP": {
-            "count": 38,
+            "count": 39,
             "name": "Japan"
         },
         "MX": {
             "count": 10,
             "name": "Mexico"
-        },
-        "IL": {
-            "count": 3,
-            "name": "Israel"
         },
         "TH": {
             "count": 3,
@@ -117,7 +121,7 @@
             "name": "Taiwan"
         },
         "CN": {
-            "count": 7,
+            "count": 9,
             "name": "China"
         },
         "IE": {
@@ -125,23 +129,23 @@
             "name": "Ireland"
         },
         "CZ": {
-            "count": 6,
+            "count": 5,
             "name": "Czech Republic"
         },
         "IS": {
             "count": 4,
             "name": "Iceland"
         },
-        "FI": {
-            "count": 4,
-            "name": "Finland"
-        },
         "ID": {
             "count": 1,
             "name": "Indonesia"
         },
+        "IL": {
+            "count": 2,
+            "name": "Israel"
+        },
         "NL": {
-            "count": 5,
+            "count": 6,
             "name": "Netherlands"
         },
         "GF": {
@@ -152,10 +156,6 @@
             "count": 2,
             "name": "Algeria"
         },
-        "AT": {
-            "count": 1,
-            "name": "Austria"
-        },
         "CL": {
             "count": 1,
             "name": "Chile"
@@ -163,6 +163,10 @@
         "SN": {
             "count": 1,
             "name": "Senegal"
+        },
+        "EE": {
+            "count": 1,
+            "name": "Estonia"
         },
         "GR": {
             "count": 1,
@@ -176,12 +180,16 @@
             "count": 1,
             "name": "Oman"
         },
+        "XC": {
+            "count": 2,
+            "name": "Czechoslovakia"
+        },
         "SK": {
             "count": 1,
             "name": "Slovakia"
         },
         "TN": {
-            "count": 1,
+            "count": 2,
             "name": "Tunisia"
         },
         "PH": {
@@ -205,16 +213,12 @@
             "name": "Belarus"
         },
         "BR": {
-            "count": 3,
+            "count": 4,
             "name": "Brazil"
         },
         "KW": {
             "count": 1,
             "name": "Kuwait"
-        },
-        "XC": {
-            "count": 1,
-            "name": "Czechoslovakia"
         },
         "UA": {
             "count": 1,
@@ -226,29 +230,30 @@
         }
     },
     "decades": {
-        "1920s": 10,
+        "1920s": 12,
         "1930s": 26,
         "1940s": 33,
         "1950s": 57,
-        "1960s": 89,
+        "1960s": 90,
         "1970s": 113,
-        "1980s": 100,
-        "1990s": 59,
-        "2000s": 35,
-        "2010s": 251
+        "1980s": 101,
+        "1990s": 60,
+        "2000s": 39,
+        "2010s": 256,
+        "2020s": 1
     },
     "genres": {
-        "Drama": 461,
-        "Comedy": 176,
-        "Thriller": 158,
-        "Romance": 127,
-        "Horror": 111,
-        "Mystery": 102,
-        "Crime": 88,
-        "Science Fiction": 84,
-        "Adventure": 80,
-        "Action": 73,
-        "Documentary": 68,
+        "Drama": 466,
+        "Comedy": 177,
+        "Thriller": 165,
+        "Romance": 128,
+        "Horror": 113,
+        "Mystery": 101,
+        "Crime": 93,
+        "Science Fiction": 88,
+        "Adventure": 84,
+        "Action": 76,
+        "Documentary": 69,
         "Fantasy": 58,
         "History": 38,
         "War": 32,
@@ -267,17 +272,17 @@
             }
         ],
         [
+            6818,
+            {
+                "count": 17,
+                "name": "Werner Herzog"
+            }
+        ],
+        [
             2201,
             {
                 "count": 16,
                 "name": "Max von Sydow"
-            }
-        ],
-        [
-            6818,
-            {
-                "count": 16,
-                "name": "Werner Herzog"
             }
         ],
         [
@@ -295,6 +300,13 @@
             }
         ],
         [
+            1245,
+            {
+                "count": 13,
+                "name": "Scarlett Johansson"
+            }
+        ],
+        [
             11916,
             {
                 "count": 12,
@@ -302,10 +314,10 @@
             }
         ],
         [
-            1245,
+            2231,
             {
                 "count": 12,
-                "name": "Scarlett Johansson"
+                "name": "Samuel L. Jackson"
             }
         ],
         [
@@ -320,13 +332,6 @@
             {
                 "count": 10,
                 "name": "Bibi Andersson"
-            }
-        ],
-        [
-            1653,
-            {
-                "count": 10,
-                "name": "Jean-Pierre L\u00e9aud"
             }
         ]
     ],
@@ -348,7 +353,7 @@
         [
             1150,
             {
-                "count": 16,
+                "count": 17,
                 "name": "Brian De Palma"
             }
         ],
@@ -542,6 +547,13 @@
             }
         ],
         [
+            1,
+            {
+                "count": 4,
+                "name": "George Lucas"
+            }
+        ],
+        [
             11147,
             {
                 "count": 4,
@@ -553,6 +565,13 @@
             {
                 "count": 4,
                 "name": "Jean Vigo"
+            }
+        ],
+        [
+            5656,
+            {
+                "count": 4,
+                "name": "Noah Baumbach"
             }
         ],
         [
@@ -588,6 +607,13 @@
             {
                 "count": 4,
                 "name": "Lucio Fulci"
+            }
+        ],
+        [
+            2891,
+            {
+                "count": 4,
+                "name": "Josef von Sternberg"
             }
         ],
         [
@@ -710,13 +736,6 @@
             }
         ],
         [
-            5656,
-            {
-                "count": 3,
-                "name": "Noah Baumbach"
-            }
-        ],
-        [
             67075,
             {
                 "count": 3,
@@ -819,13 +838,6 @@
             {
                 "count": 3,
                 "name": "Bertrand Mandico"
-            }
-        ],
-        [
-            2891,
-            {
-                "count": 3,
-                "name": "Josef von Sternberg"
             }
         ],
         [
@@ -1011,6 +1023,20 @@
             }
         ],
         [
+            138,
+            {
+                "count": 2,
+                "name": "Quentin Tarantino"
+            }
+        ],
+        [
+            18598,
+            {
+                "count": 2,
+                "name": "Ishir\u014d Honda"
+            }
+        ],
+        [
             71872,
             {
                 "count": 2,
@@ -1137,6 +1163,13 @@
             }
         ],
         [
+            20561,
+            {
+                "count": 2,
+                "name": "James Gray"
+            }
+        ],
+        [
             17447,
             {
                 "count": 2,
@@ -1148,6 +1181,20 @@
             {
                 "count": 2,
                 "name": "Wim Wenders"
+            }
+        ],
+        [
+            129561,
+            {
+                "count": 2,
+                "name": "Josh Safdie"
+            }
+        ],
+        [
+            227564,
+            {
+                "count": 2,
+                "name": "Benny Safdie"
             }
         ],
         [
@@ -1218,6 +1265,13 @@
             {
                 "count": 2,
                 "name": "Pedro Almod\u00f3var"
+            }
+        ],
+        [
+            17458,
+            {
+                "count": 2,
+                "name": "Abdellatif Kechiche"
             }
         ],
         [
@@ -1431,13 +1485,6 @@
             }
         ],
         [
-            1,
-            {
-                "count": 1,
-                "name": "George Lucas"
-            }
-        ],
-        [
             10930,
             {
                 "count": 1,
@@ -1575,20 +1622,6 @@
             {
                 "count": 1,
                 "name": "Mamoru Oshii"
-            }
-        ],
-        [
-            138,
-            {
-                "count": 1,
-                "name": "Quentin Tarantino"
-            }
-        ],
-        [
-            18598,
-            {
-                "count": 1,
-                "name": "Ishir\u014d Honda"
             }
         ],
         [
@@ -2082,17 +2115,17 @@
             }
         ],
         [
-            227439,
-            {
-                "count": 1,
-                "name": "Don Hall"
-            }
-        ],
-        [
             70238,
             {
                 "count": 1,
                 "name": "Chris Williams"
+            }
+        ],
+        [
+            227439,
+            {
+                "count": 1,
+                "name": "Don Hall"
             }
         ],
         [
@@ -2481,13 +2514,6 @@
             }
         ],
         [
-            20561,
-            {
-                "count": 1,
-                "name": "James Gray"
-            }
-        ],
-        [
             67717,
             {
                 "count": 1,
@@ -2534,20 +2560,6 @@
             {
                 "count": 1,
                 "name": "Luc Besson"
-            }
-        ],
-        [
-            129561,
-            {
-                "count": 1,
-                "name": "Josh Safdie"
-            }
-        ],
-        [
-            227564,
-            {
-                "count": 1,
-                "name": "Benny Safdie"
             }
         ],
         [
@@ -3396,6 +3408,34 @@
                 "count": 1,
                 "name": "Abbas Kiarostami"
             }
+        ],
+        [
+            30309,
+            {
+                "count": 1,
+                "name": "Peter Greenaway"
+            }
+        ],
+        [
+            89674,
+            {
+                "count": 1,
+                "name": "Benjamin Christensen"
+            }
+        ],
+        [
+            30468,
+            {
+                "count": 1,
+                "name": "Seiji Tani"
+            }
+        ],
+        [
+            68813,
+            {
+                "count": 1,
+                "name": "C\u00e9line Sciamma"
+            }
         ]
     ],
     "cinematographers": [
@@ -3888,7 +3928,7 @@
             "watchDate": "2015-05-07",
             "personalRating": 3,
             "runtime": 90,
-            "poster_path": "/2QXMswzQsEGm7oTq2YEFiiXgegd.jpg",
+            "poster_path": "/vnXbBaxW4ytVPjtU1MqeAv33GY7.jpg",
             "director": "Jacques Demy"
         },
         {
@@ -3968,7 +4008,7 @@
             "watchDate": "2015-05-24",
             "personalRating": 3,
             "runtime": 94,
-            "poster_path": "/bfk4raYpPodzOVbM5BHf023IfI1.jpg",
+            "poster_path": "/dnjl6lcSVabTC2O4xnZZPNmlNs8.jpg",
             "director": "Werner Herzog"
         },
         {
@@ -4258,7 +4298,7 @@
             "watchDate": "2015-08-16",
             "personalRating": 5,
             "runtime": 106,
-            "poster_path": "/lA52Zr0MGkCDDAzwno9ruCjDwK0.jpg",
+            "poster_path": "/4n6lnr7q3Ysz4rKz3raxkltbHgr.jpg",
             "director": "Alfonso Cuar\u00f3n"
         },
         {
@@ -4658,7 +4698,7 @@
             "watchDate": "2015-12-06",
             "personalRating": 5,
             "runtime": 119,
-            "poster_path": "/bsucryv6ldYUhLpaI5F5otlMvda.jpg",
+            "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
             "director": "Orson Welles"
         },
         {
@@ -4687,7 +4727,7 @@
             "release_date": "1975",
             "watchDate": "2015-12-15",
             "personalRating": 6,
-            "runtime": 201,
+            "runtime": 202,
             "poster_path": "/q2pLAzsruDYGI2bMF7xeARLsxfH.jpg",
             "director": "Chantal Akerman"
         },
@@ -4728,7 +4768,7 @@
             "watchDate": "2015-12-20",
             "personalRating": 4,
             "runtime": 124,
-            "poster_path": "/6u1fYtxG5eqjhtCPDx04pJphQRW.jpg",
+            "poster_path": "/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg",
             "director": "Irvin Kershner"
         },
         {
@@ -5118,7 +5158,7 @@
             "watchDate": "2016-04-02",
             "personalRating": 1,
             "runtime": 188,
-            "poster_path": "/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",
+            "poster_path": "/yDxsfIkbAJp5LrIsGCXRE8MwAZg.jpg",
             "director": "Quentin Tarantino"
         },
         {
@@ -5188,7 +5228,7 @@
             "watchDate": "2016-04-25",
             "personalRating": 4,
             "runtime": 102,
-            "poster_path": "/fsudYlZ4bpXimQ34DwH8nf4R77p.jpg",
+            "poster_path": "/m62UUx0hiL6K6PoNOw83Xc6ZYDy.jpg",
             "director": "Wong Kar-wai"
         },
         {
@@ -5234,7 +5274,7 @@
         {
             "original_title": "The Witch",
             "imdb_id": "tt4263482",
-            "release_date": "2016",
+            "release_date": "2015",
             "watchDate": "2016-05-04",
             "personalRating": 4,
             "runtime": 92,
@@ -5338,7 +5378,7 @@
             "watchDate": "2016-05-27",
             "personalRating": 4,
             "runtime": 174,
-            "poster_path": "/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
+            "poster_path": "/hhsYCYVPy1V0eTjkGNGdvpDO2qk.jpg",
             "director": "Edward Yang"
         },
         {
@@ -6378,7 +6418,7 @@
             "watchDate": "2017-01-28",
             "personalRating": 5,
             "runtime": 116,
-            "poster_path": "/5EBI8HfYPXIBX50O3Ppwt49MCtv.jpg",
+            "poster_path": "/ttUJSTKBdu1dR8d24FaoS4S1GFJ.jpg",
             "director": "Howard Hawks"
         },
         {
@@ -6539,7 +6579,7 @@
             "personalRating": 3,
             "runtime": 102,
             "poster_path": "/9gLu47Zw5ertuFTZaxXOvNfy78T.jpg",
-            "director": "Don Hall, Chris Williams"
+            "director": "Chris Williams, Don Hall"
         },
         {
             "original_title": "Babe",
@@ -6608,7 +6648,7 @@
             "watchDate": "2017-04-02",
             "personalRating": 4,
             "runtime": 145,
-            "poster_path": "/wvzfK5QR6dGLwND8MCzWjsQWG4Q.jpg",
+            "poster_path": "/cw1BvSDk4wyHHpVStj4t82pAvq7.jpg",
             "director": "Park Chan-wook"
         },
         {
@@ -6948,7 +6988,7 @@
             "watchDate": "2017-07-03",
             "personalRating": 5,
             "runtime": 99,
-            "poster_path": "/pJXSuO6pPXVF2umZeU1JcnOlKIC.jpg",
+            "poster_path": "/qtHlaxwLIKuZCHjFaHa2IGYWe4C.jpg",
             "director": "Dario Argento"
         },
         {
@@ -6988,7 +7028,7 @@
             "watchDate": "2017-07-09",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/p0Qo16X3WLlDuRUxMohUNNgeZ7p.jpg",
+            "poster_path": "/x19TryVWyjoJCjVeQYqYKXNgNMr.jpg",
             "director": "Dario Argento"
         },
         {
@@ -7048,7 +7088,7 @@
             "watchDate": "2017-07-18",
             "personalRating": 4,
             "runtime": 31,
-            "poster_path": "/uk2afhXAybYEVKjT2TzpP6hn37C.jpg",
+            "poster_path": "/61rOcyeZvSkNOrx8Kfbgpqu9N9Q.jpg",
             "director": "Agn\u00e8s Varda"
         },
         {
@@ -7568,7 +7608,7 @@
             "watchDate": "2017-10-31",
             "personalRating": 3,
             "runtime": 120,
-            "poster_path": "/6CtznV9xwlxsH5D2ndfChs2Hvpg.jpg",
+            "poster_path": "/qD3ReWSvKJaVnOU3nvPRQlzYUoz.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7818,7 +7858,7 @@
             "watchDate": "2017-12-04",
             "personalRating": 3,
             "runtime": 104,
-            "poster_path": "/hEFlF2M4nJ9OszjZaJ2oaRt9lr0.jpg",
+            "poster_path": "/wSQFEsxHGj7HTF8rt8wpAwYOYT3.jpg",
             "director": "Dario Argento"
         },
         {
@@ -8057,7 +8097,7 @@
             "release_date": "1984",
             "watchDate": "2018-01-20",
             "personalRating": 6,
-            "runtime": 145,
+            "runtime": 146,
             "poster_path": "/tgw3TJTWgNUYCgL5Pa546VVVvSU.jpg",
             "director": "Wim Wenders"
         },
@@ -8174,7 +8214,7 @@
         {
             "original_title": "The King of Comedy",
             "imdb_id": "tt0085794",
-            "release_date": "1983",
+            "release_date": "1982",
             "watchDate": "2018-02-03",
             "personalRating": 5,
             "runtime": 109,
@@ -8288,7 +8328,7 @@
             "watchDate": "2018-02-10",
             "personalRating": 4,
             "runtime": 136,
-            "poster_path": "/lZpWprJqbIFpEV5uoHfoK0KCnTW.jpg",
+            "poster_path": "/gynBNzwyaHKtXqlEKKLioNkjKgN.jpg",
             "director": "Lilly Wachowski, Lana Wachowski"
         },
         {
@@ -8398,7 +8438,7 @@
             "watchDate": "2018-02-24",
             "personalRating": 3,
             "runtime": 96,
-            "poster_path": "/jIhIPFWIZgrIosfTmqqfdChIq9d.jpg",
+            "poster_path": "/twcUHJ7b77LN44liechqJqS5LHj.jpg",
             "director": "Robert Florey, Joseph Santley"
         },
         {
@@ -8708,7 +8748,7 @@
             "watchDate": "2018-04-27",
             "personalRating": 5,
             "runtime": 103,
-            "poster_path": "/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
+            "poster_path": "/6AWXQYHEJicwhPfsDf250D4XHjW.jpg",
             "director": "Ingmar Bergman"
         },
         {
@@ -8818,7 +8858,7 @@
             "watchDate": "2018-05-22",
             "personalRating": 6,
             "runtime": 120,
-            "poster_path": "/pxC4YsYIL4eSg1zDwrQQuxJegjA.jpg",
+            "poster_path": "/xWy2JaA0bUqld48K0Kum9WF3tKy.jpg",
             "director": "David Lynch"
         },
         {
@@ -8888,7 +8928,7 @@
             "watchDate": "2018-06-19",
             "personalRating": 2,
             "runtime": 129,
-            "poster_path": "/sFYmJJSVXqfqPI79tx4UG4IR5Jb.jpg",
+            "poster_path": "/aTbhbnq9YnKJM6wGIiedfJaoV6m.jpg",
             "director": "Gus Van Sant"
         },
         {
@@ -8947,7 +8987,7 @@
             "release_date": "2017",
             "watchDate": "2018-07-08",
             "personalRating": 3,
-            "runtime": 94,
+            "runtime": 95,
             "poster_path": "/iySFtKLrWvVzXzlFj7x1zalxi5G.jpg",
             "director": "Greta Gerwig"
         },
@@ -9457,7 +9497,7 @@
             "release_date": "2018",
             "watchDate": "2018-10-08",
             "personalRating": 6,
-            "runtime": 96,
+            "runtime": 97,
             "poster_path": "/zQDqgzSdTGSDu4rDcQTq7TAttmy.jpg",
             "director": "Gaspar No\u00e9"
         },
@@ -9508,7 +9548,7 @@
             "watchDate": "2018-10-20",
             "personalRating": 2,
             "runtime": 93,
-            "poster_path": "/zAYEhHCSULHY9sW7WoEMhNVEC77.jpg",
+            "poster_path": "/Aovc3FHXPzjWb3XZSNDfC2CPLKM.jpg",
             "director": "Xavier Legrand"
         },
         {
@@ -10708,7 +10748,7 @@
             "watchDate": "2019-07-03",
             "personalRating": 6,
             "runtime": 148,
-            "poster_path": "/rXsh4MI6uyVgZBSSzXCfitJnVPy.jpg",
+            "poster_path": "/eycO6M2s38xO1888Gq2gSrXf0A6.jpg",
             "director": "Ari Aster"
         },
         {
@@ -10758,7 +10798,7 @@
             "watchDate": "2019-07-15",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/cNPhRNapWj2TnVgxW3CyspbLh37.jpg",
+            "poster_path": "/q8YfsyX59OmoSDirXT4CyThwN5f.jpg",
             "director": "Jackie Chan"
         },
         {
@@ -10778,7 +10818,7 @@
             "watchDate": "2019-07-21",
             "personalRating": 6,
             "runtime": 92,
-            "poster_path": "/9kOhmFVu5uQv8EeQq7nAWpEnI1w.jpg",
+            "poster_path": "/1boYMEkB81bpGE1YOF6MnVA0RlU.jpg",
             "director": "Leo McCarey"
         },
         {
@@ -10928,17 +10968,17 @@
             "watchDate": "2019-10-12",
             "personalRating": 3,
             "runtime": 111,
-            "poster_path": "/PfU7QV3NkBTDaQh0EUon8iz8QZ.jpg",
+            "poster_path": "/qeC4armdooBd1uWgHfGC0RZf6xF.jpg",
             "director": "Richard Stanley"
         },
         {
             "original_title": "Echo",
             "imdb_id": "tt9296808",
-            "release_date": "2019",
+            "release_date": "2020",
             "watchDate": "2019-10-13",
             "personalRating": 6,
             "runtime": 79,
-            "poster_path": "/1i2elomV6zRrgtfoL4gyEV38tpX.jpg",
+            "poster_path": "/1gPl64KSxQT1qVwHo31VOiUChkc.jpg",
             "director": "R\u00fanar R\u00fanarsson"
         },
         {
@@ -10948,7 +10988,7 @@
             "watchDate": "2019-10-13",
             "personalRating": 6,
             "runtime": 132,
-            "poster_path": "/pUiOqPIKEP440KSLfdWOP15QGkD.jpg",
+            "poster_path": "/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg",
             "director": "Kleber Mendon\u00e7a Filho, Juliano Dornelles"
         },
         {
@@ -10958,7 +10998,7 @@
             "watchDate": "2019-10-13",
             "personalRating": 4,
             "runtime": 108,
-            "poster_path": "/mai8O9QdpNpvALef9GKxBlDK3hx.jpg",
+            "poster_path": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
             "director": "Taika Waititi"
         },
         {
@@ -10967,8 +11007,8 @@
             "release_date": "2019",
             "watchDate": "2019-10-14",
             "personalRating": 6,
-            "runtime": 136,
-            "poster_path": "/bm6zKJjKYKrIy3dcnOLk0kF85cl.jpg",
+            "runtime": 137,
+            "poster_path": "/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
             "director": "Noah Baumbach"
         },
         {
@@ -10978,7 +11018,7 @@
             "watchDate": "2019-10-14",
             "personalRating": 5,
             "runtime": 77,
-            "poster_path": "/eMxMHfhiSiZCozPvvbLwMnjMAaG.jpg",
+            "poster_path": "/hHBC1wt1N0V6NVMcc0zya9oVvMn.jpg",
             "director": "Quentin Dupieux"
         },
         {
@@ -10998,7 +11038,7 @@
             "watchDate": "2019-10-16",
             "personalRating": 1,
             "runtime": 138,
-            "poster_path": "/l2hkT5HXT3xtmovTG77w0pYmLVQ.jpg",
+            "poster_path": "/sHrP67LglPmYaK9Aft2J5PXquxr.jpg",
             "director": "Xawery \u017bu\u0142awski"
         },
         {
@@ -11008,7 +11048,7 @@
             "watchDate": "2019-10-17",
             "personalRating": 4,
             "runtime": 114,
-            "poster_path": "/rXv4tqt0UZsqyjCD3Kxjcs6OnHT.jpg",
+            "poster_path": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
             "director": "Pedro Almod\u00f3var"
         },
         {
@@ -11088,7 +11128,7 @@
             "watchDate": "2019-10-25",
             "personalRating": 3,
             "runtime": 86,
-            "poster_path": "/3lvBYVb5K1gFc9WYdUf8nJlzje3.jpg",
+            "poster_path": "/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
             "director": "John Waters"
         },
         {
@@ -11108,7 +11148,7 @@
             "watchDate": "2019-10-27",
             "personalRating": 4,
             "runtime": 72,
-            "poster_path": "/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+            "poster_path": "/awTf4Y6TGvgi3VYtGNINyyJJy9Q.jpg",
             "director": "Charlie Chaplin"
         },
         {
@@ -11138,7 +11178,7 @@
             "watchDate": "2019-10-31",
             "personalRating": 4,
             "runtime": 99,
-            "poster_path": "/avHj8x3T21dYIGrnx55I57PxdEo.jpg",
+            "poster_path": "/aa1OzPBKp05DWKCMla12SU5LIK5.jpg",
             "director": "Ernst Lubitsch"
         },
         {
@@ -11200,6 +11240,156 @@
             "runtime": 114,
             "poster_path": "/oWHZdSSWiclgMUjVg3eYDBCbiAL.jpg",
             "director": "Abbas Kiarostami"
+        },
+        {
+            "original_title": "The Cook, the Thief, His Wife & Her Lover",
+            "imdb_id": "tt0097108",
+            "release_date": "1989",
+            "watchDate": "2019-11-15",
+            "personalRating": 6,
+            "runtime": 125,
+            "poster_path": "/aDgKRKZD4ntHriXoqKfXxtvvSB5.jpg",
+            "director": "Peter Greenaway"
+        },
+        {
+            "original_title": "H\u00e4xan",
+            "imdb_id": "tt0013257",
+            "release_date": "1922",
+            "watchDate": "2019-11-17",
+            "personalRating": 4,
+            "runtime": 105,
+            "poster_path": "/v53aFWdXYwZJCiblIsC0ZqiS90r.jpg",
+            "director": "Benjamin Christensen"
+        },
+        {
+            "original_title": "Star Wars: Episode I - The Phantom Menace",
+            "imdb_id": "tt0120915",
+            "release_date": "1999",
+            "watchDate": "2019-11-24",
+            "personalRating": 2,
+            "runtime": 136,
+            "poster_path": "/n8V09dDc02KsSN6Q4hC2BX6hN8X.jpg",
+            "director": "George Lucas"
+        },
+        {
+            "original_title": "Star Wars: Episode II - Attack of the Clones",
+            "imdb_id": "tt0121765",
+            "release_date": "2002",
+            "watchDate": "2019-11-27",
+            "personalRating": 1,
+            "runtime": 142,
+            "poster_path": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+            "director": "George Lucas"
+        },
+        {
+            "original_title": "Star Wars: Episode III - Revenge of the Sith",
+            "imdb_id": "tt0121766",
+            "release_date": "2005",
+            "watchDate": "2019-11-28",
+            "personalRating": 1,
+            "runtime": 140,
+            "poster_path": "/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
+            "director": "George Lucas"
+        },
+        {
+            "original_title": "Once Upon a Time\u2026 in Hollywood",
+            "imdb_id": "tt7131622",
+            "release_date": "2019",
+            "watchDate": "2019-11-30",
+            "personalRating": 4,
+            "runtime": 162,
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "director": "Quentin Tarantino"
+        },
+        {
+            "original_title": "Domino",
+            "imdb_id": "tt3282076",
+            "release_date": "2019",
+            "watchDate": "2019-12-01",
+            "personalRating": 2,
+            "runtime": 89,
+            "poster_path": "/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
+            "director": "Brian De Palma"
+        },
+        {
+            "original_title": "Marriage Story",
+            "imdb_id": "tt7653254",
+            "release_date": "2019",
+            "watchDate": "2019-12-07",
+            "personalRating": 6,
+            "runtime": 137,
+            "poster_path": "/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+            "director": "Noah Baumbach"
+        },
+        {
+            "original_title": "Underworld",
+            "imdb_id": "tt0018526",
+            "release_date": "1927",
+            "watchDate": "2019-12-09",
+            "personalRating": 4,
+            "runtime": 87,
+            "poster_path": "/6ZjgbeCwS7sipil1J221lbjaqGG.jpg",
+            "director": "Josef von Sternberg"
+        },
+        {
+            "original_title": "Destroy All Monsters",
+            "imdb_id": "tt0063172",
+            "release_date": "1968",
+            "watchDate": "2019-12-13",
+            "personalRating": 4,
+            "runtime": 89,
+            "poster_path": "/fqJo6QrNx0poSwpZIdOZmSXi2UP.jpg",
+            "director": "Ishir\u014d Honda, Seiji Tani"
+        },
+        {
+            "original_title": "Naissance des pieuvres",
+            "imdb_id": "tt0869977",
+            "release_date": "2007",
+            "watchDate": "2019-12-19",
+            "personalRating": 4,
+            "runtime": 85,
+            "poster_path": "/4jajELYrR4Xmv3CVoKnukRnALa2.jpg",
+            "director": "C\u00e9line Sciamma"
+        },
+        {
+            "original_title": "Mektoub, My Love: Canto Uno",
+            "imdb_id": "tt6121444",
+            "release_date": "2017",
+            "watchDate": "2019-12-21",
+            "personalRating": 5,
+            "runtime": 180,
+            "poster_path": "/nLi9qBnNZGP9BksErLWFBQKMRWj.jpg",
+            "director": "Abdellatif Kechiche"
+        },
+        {
+            "original_title": "Ad Astra",
+            "imdb_id": "tt2935510",
+            "release_date": "2019",
+            "watchDate": "2019-12-22",
+            "personalRating": 4,
+            "runtime": 123,
+            "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+            "director": "James Gray"
+        },
+        {
+            "original_title": "Uncut Gems",
+            "imdb_id": "tt5727208",
+            "release_date": "2019",
+            "watchDate": "2019-12-27",
+            "personalRating": 6,
+            "runtime": 135,
+            "poster_path": "/7gOozJufKJ9WjcIs38KEs08Iq3D.jpg",
+            "director": "Josh Safdie, Benny Safdie"
+        },
+        {
+            "original_title": "La graine et le mulet",
+            "imdb_id": "tt0487419",
+            "release_date": "2007",
+            "watchDate": "2019-12-27",
+            "personalRating": 5,
+            "runtime": 151,
+            "poster_path": "/bk7gprFu3gC7C6i0xKhpesokdSl.jpg",
+            "director": "Abdellatif Kechiche"
         }
     ]
 }
