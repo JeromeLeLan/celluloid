@@ -2258,7 +2258,7 @@
       "director": "Henri-Georges Clouzot",
       "country": "France",
       "year": "1943",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/687-salvatore-giuliano",
@@ -3518,7 +3518,7 @@
       "director": "Alfonso Cuarón",
       "country": "Mexico",
       "year": "1991",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/551-clean-shaven",
@@ -3897,7 +3897,7 @@
       "title": "If....",
       "director": "Lindsay Anderson",
       "country": "United Kingdom",
-      "year": "1968",
+      "year": "1969",
       "watched": false
     },
     {
@@ -4667,7 +4667,7 @@
       "title": "Science Is Fiction: 23 Films by Jean Painlevé",
       "director": "Jean Painlevé",
       "country": "France",
-      "year": "0",
+      "year": "",
       "watched": true
     },
     {
@@ -5157,7 +5157,7 @@
       "title": "By Brakhage: An Anthology, Volume Two",
       "director": "Stan Brakhage",
       "country": "United States",
-      "year": "0",
+      "year": "",
       "watched": false
     },
     {
@@ -5268,7 +5268,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/21766-underworld",
@@ -5288,7 +5288,7 @@
       "director": "Josef von Sternberg",
       "country": "United States",
       "year": "1928",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/1942-the-docks-of-new-york",
@@ -5298,7 +5298,7 @@
       "director": "Josef von Sternberg",
       "country": "United States",
       "year": "1928",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27509-louie-bluie",
@@ -6057,7 +6057,7 @@
       "title": "A Hollis Frampton Odyssey",
       "director": "Hollis Frampton",
       "country": "United States",
-      "year": "0",
+      "year": "",
       "watched": false
     },
     {
@@ -6348,7 +6348,7 @@
       "director": "Michael Cimino",
       "country": "United States",
       "year": "1980",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27810-purple-noon",
@@ -6898,7 +6898,7 @@
       "director": "Michael Mann",
       "country": "United States",
       "year": "1981",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28579-it-s-a-mad-mad-mad-mad-world",
@@ -8067,7 +8067,7 @@
       "title": "The Kennedy Films of Robert Drew & Associates",
       "director": "Robert Drew",
       "country": "United States",
-      "year": "0",
+      "year": "",
       "watched": false
     },
     {
@@ -8987,7 +8987,7 @@
       "title": "100 Years of Olympic Films: 1912–2012",
       "director": "",
       "country": "",
-      "year": "0",
+      "year": "",
       "watched": false
     },
     {
@@ -10209,6 +10209,46 @@
       "country": "United States",
       "year": "1991",
       "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27853-the-cremator",
+      "spine": 1023,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5246b76aa8e94e9971d99fcab8997538/OI5kIjaVjnBkyEOTh31eosI8bio5yq_original.jpg",
+      "title": "The Cremator",
+      "director": "Juraj Herz",
+      "country": "Czechoslovakia",
+      "year": "1969",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29002-destry-rides-again",
+      "spine": 1024,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/03f7a3110069270d6ac491c198838b57/4P9NFIWtoKZgFHiOa6pDPBelWQf1U4_original.jpg",
+      "title": "Destry Rides Again",
+      "director": "George Marshall",
+      "country": "United States",
+      "year": "1939",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29601-the-grand-budapest-hotel",
+      "spine": 1025,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7dc949416ad00cd22a48dca569e5324e/k1cKiOeNtfh2R2jfqrxSMCOiuW3uwG_original.jpg",
+      "title": "The Grand Budapest Hotel",
+      "director": "Wes Anderson",
+      "country": "United States",
+      "year": "2014",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29112-me-and-you-and-everyone-we-know",
+      "spine": 1026,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/433136d75ef46cccd37a4bef02982ff0/RosnfpzufFCkgi4EcWSnvr8QRNyoPn_original.jpg",
+      "title": "Me and You and Everyone We Know",
+      "director": "Miranda July",
+      "country": "United States",
+      "year": "2005",
+      "watched": true
     }
   ]
 }
