@@ -1,7 +1,7 @@
 {
     "countries": {
         "FR": {
-            "count": 228,
+            "count": 231,
             "name": "France"
         },
         "RU": {
@@ -13,7 +13,7 @@
             "name": "Italy"
         },
         "US": {
-            "count": 388,
+            "count": 393,
             "name": "United States of America"
         },
         "SE": {
@@ -21,7 +21,7 @@
             "name": "Sweden"
         },
         "GB": {
-            "count": 87,
+            "count": 86,
             "name": "United Kingdom"
         },
         "CH": {
@@ -65,7 +65,7 @@
             "name": "Argentina"
         },
         "ES": {
-            "count": 12,
+            "count": 13,
             "name": "Spain"
         },
         "AU": {
@@ -173,12 +173,8 @@
             "name": "Greece"
         },
         "HU": {
-            "count": 2,
-            "name": "Hungary"
-        },
-        "OM": {
             "count": 1,
-            "name": "Oman"
+            "name": "Hungary"
         },
         "XC": {
             "count": 2,
@@ -234,32 +230,32 @@
         "1930s": 26,
         "1940s": 34,
         "1950s": 58,
-        "1960s": 90,
+        "1960s": 91,
         "1970s": 113,
-        "1980s": 103,
-        "1990s": 62,
+        "1980s": 104,
+        "1990s": 64,
         "2000s": 39,
-        "2010s": 264,
+        "2010s": 268,
         "2020s": 1
     },
     "genres": {
-        "Drama": 475,
-        "Comedy": 182,
-        "Thriller": 170,
+        "Drama": 482,
+        "Comedy": 184,
+        "Thriller": 171,
         "Romance": 128,
         "Horror": 116,
         "Mystery": 103,
-        "Crime": 99,
+        "Crime": 101,
         "Science Fiction": 88,
-        "Adventure": 84,
-        "Action": 78,
+        "Adventure": 85,
+        "Action": 79,
         "Documentary": 69,
-        "Fantasy": 59,
-        "History": 40,
-        "War": 33,
-        "Animation": 27,
-        "Family": 26,
-        "Music": 24,
+        "Fantasy": 61,
+        "History": 41,
+        "War": 34,
+        "Animation": 28,
+        "Family": 27,
+        "Music": 22,
         "Western": 11,
         "TV Movie": 1
     },
@@ -360,7 +356,7 @@
         [
             3776,
             {
-                "count": 15,
+                "count": 16,
                 "name": "Jean-Luc Godard"
             }
         ],
@@ -932,6 +928,13 @@
             }
         ],
         [
+            12890,
+            {
+                "count": 2,
+                "name": "Pete Docter"
+            }
+        ],
+        [
             64194,
             {
                 "count": 2,
@@ -1303,10 +1306,24 @@
             }
         ],
         [
+            68813,
+            {
+                "count": 2,
+                "name": "C\u00e9line Sciamma"
+            }
+        ],
+        [
             17458,
             {
                 "count": 2,
                 "name": "Abdellatif Kechiche"
+            }
+        ],
+        [
+            3026,
+            {
+                "count": 2,
+                "name": "Rob Reiner"
             }
         ],
         [
@@ -1433,13 +1450,6 @@
             {
                 "count": 1,
                 "name": "Jean-Pierre Dardenne"
-            }
-        ],
-        [
-            12890,
-            {
-                "count": 1,
-                "name": "Pete Docter"
             }
         ],
         [
@@ -2451,6 +2461,13 @@
             }
         ],
         [
+            1425110,
+            {
+                "count": 1,
+                "name": "Olivia Neergaard-Holm"
+            }
+        ],
+        [
             1673654,
             {
                 "count": 1,
@@ -2462,13 +2479,6 @@
             {
                 "count": 1,
                 "name": "Rick Barnes"
-            }
-        ],
-        [
-            1425110,
-            {
-                "count": 1,
-                "name": "Olivia Neergaard-Holm"
             }
         ],
         [
@@ -3438,13 +3448,6 @@
             }
         ],
         [
-            68813,
-            {
-                "count": 1,
-                "name": "C\u00e9line Sciamma"
-            }
-        ],
-        [
             2559,
             {
                 "count": 1,
@@ -3492,6 +3495,27 @@
                 "count": 1,
                 "name": "Ladj Ly"
             }
+        ],
+        [
+            7775,
+            {
+                "count": 1,
+                "name": "Stephen Sommers"
+            }
+        ],
+        [
+            551463,
+            {
+                "count": 1,
+                "name": "Mike Flanagan"
+            }
+        ],
+        [
+            38883,
+            {
+                "count": 1,
+                "name": "Arnaud Desplechin"
+            }
         ]
     ],
     "cinematographers": [
@@ -3505,7 +3529,7 @@
         [
             3540,
             {
-                "count": 12,
+                "count": 13,
                 "name": "Raoul Coutard"
             }
         ],
@@ -3788,7 +3812,7 @@
             "director": "Ingmar Bergman"
         },
         {
-            "original_title": "Fanny & Alexander",
+            "original_title": "Fanny and Alexander",
             "imdb_id": "tt0083922",
             "release_date": "1982",
             "watchDate": "2015-03-04",
@@ -4404,7 +4428,7 @@
             "watchDate": "2015-09-01",
             "personalRating": 2,
             "runtime": 105,
-            "poster_path": "/ltuJiG2vMK2s4R0ma2LGIho9WeG.jpg",
+            "poster_path": "/yKmrsUGqiFSwhBJTZBsmKCrfV4Y.jpg",
             "director": "Maxime Giroux"
         },
         {
@@ -4624,7 +4648,7 @@
             "watchDate": "2015-11-15",
             "personalRating": 5,
             "runtime": 205,
-            "poster_path": "/tTuDCX5MqRyJOTcyRCdmb5FkTSx.jpg",
+            "poster_path": "/sp6SMcZWFQ03weVTOkbsucixyJq.jpg",
             "director": "Rainer Werner Fassbinder"
         },
         {
@@ -4784,7 +4808,7 @@
             "watchDate": "2015-12-15",
             "personalRating": 6,
             "runtime": 202,
-            "poster_path": "/q2pLAzsruDYGI2bMF7xeARLsxfH.jpg",
+            "poster_path": "/rW4GOQpABdXWY9VIasEErIgZBQM.jpg",
             "director": "Chantal Akerman"
         },
         {
@@ -5174,7 +5198,7 @@
             "watchDate": "2016-03-23",
             "personalRating": 6,
             "runtime": 141,
-            "poster_path": "/c5uyQfWvzCVsCHL13J5JBZ61SQJ.jpg",
+            "poster_path": "/vRdMgk0Bx6NPcSxRK8O5KDVwzCe.jpg",
             "director": "John Cassavetes"
         },
         {
@@ -5224,7 +5248,7 @@
             "watchDate": "2016-04-09",
             "personalRating": 4,
             "runtime": 96,
-            "poster_path": "/b1WJ2XpssmvFfykyaXQzG8qie3N.jpg",
+            "poster_path": "/m9oavm03RUMfeNIFdMyYsgVsoo2.jpg",
             "director": "Ishir\u014d Honda"
         },
         {
@@ -5444,7 +5468,7 @@
             "watchDate": "2016-05-28",
             "personalRating": 4,
             "runtime": 118,
-            "poster_path": "/AbKa7ANxmui0Jmhh7gV7OSELKIL.jpg",
+            "poster_path": "/2vLRjvAjXDaqU8niiZxP7IilHiD.jpg",
             "director": "Todd Haynes"
         },
         {
@@ -5808,7 +5832,7 @@
             "director": "Jean-Pierre Melville"
         },
         {
-            "original_title": "Made in U.S.A.",
+            "original_title": "Made in U.S.A",
             "imdb_id": "tt0060647",
             "release_date": "1966",
             "watchDate": "2016-07-26",
@@ -5884,7 +5908,7 @@
             "watchDate": "2016-08-16",
             "personalRating": 5,
             "runtime": 180,
-            "poster_path": "/pgveqayMFUIZbFqN87ghiKmmxt3.jpg",
+            "poster_path": "/y0VDLox8ufaR4Ry1mFceELYJbKq.jpg",
             "director": "King Hu"
         },
         {
@@ -5894,7 +5918,7 @@
             "watchDate": "2016-08-24",
             "personalRating": 3,
             "runtime": 119,
-            "poster_path": "/hMJBkGyztfdn9YvvZtg4JZ0SUhC.jpg",
+            "poster_path": "/hz3GXwcJC5csPZQa4PMbqmiPqDc.jpg",
             "director": "Ben Wheatley"
         },
         {
@@ -6093,7 +6117,7 @@
             "release_date": "1972",
             "watchDate": "2016-10-22",
             "personalRating": 4,
-            "runtime": 124,
+            "runtime": 125,
             "poster_path": "/e1RGbJFQeDLVeUsbtz1ZuzcA0x2.jpg",
             "director": "Rainer Werner Fassbinder"
         },
@@ -6434,7 +6458,7 @@
             "watchDate": "2017-01-18",
             "personalRating": 6,
             "runtime": 144,
-            "poster_path": "/f5PAFIuTLP7hRQkTzYAO0INXHB5.jpg",
+            "poster_path": "/7NYSr8Z6xiW4zZqOBf3BTee1TRM.jpg",
             "director": "John Cassavetes"
         },
         {
@@ -7624,7 +7648,7 @@
             "watchDate": "2017-10-23",
             "personalRating": 6,
             "runtime": 85,
-            "poster_path": "/4H60xkHZo26JOvbfd8qnoNfbgOX.jpg",
+            "poster_path": "/tqt9D4TH702ZXEUKWa3e6UdFAvY.jpg",
             "director": "Robert Bresson"
         },
         {
@@ -7745,7 +7769,7 @@
             "personalRating": 4,
             "runtime": 89,
             "poster_path": "/pgtQceTZKylB2B237t18h2pOXpE.jpg",
-            "director": "Jon Nguyen, Rick Barnes, Olivia Neergaard-Holm"
+            "director": "Olivia Neergaard-Holm, Jon Nguyen, Rick Barnes"
         },
         {
             "original_title": "Daisies",
@@ -8174,7 +8198,7 @@
             "watchDate": "2018-01-22",
             "personalRating": 5,
             "runtime": 130,
-            "poster_path": "/6jsqmMgR75VYC9AM6eToMJh3RxF.jpg",
+            "poster_path": "/8WluIY7Omf1hjHnaFW39pGugNmg.jpg",
             "director": "Paul Thomas Anderson"
         },
         {
@@ -8304,7 +8328,7 @@
             "watchDate": "2018-02-04",
             "personalRating": 3,
             "runtime": 142,
-            "poster_path": "/8MYIwgpXnc5x98dmidmJFD68MY6.jpg",
+            "poster_path": "/2s3OKpYDe7ASMfwL7kocdUbjsrh.jpg",
             "director": "Elem Klimov"
         },
         {
@@ -8384,7 +8408,7 @@
             "watchDate": "2018-02-10",
             "personalRating": 4,
             "runtime": 136,
-            "poster_path": "/gynBNzwyaHKtXqlEKKLioNkjKgN.jpg",
+            "poster_path": "/hEpWvX6Bp79eLxY1kX5ZZJcme5U.jpg",
             "director": "Lilly Wachowski, Lana Wachowski"
         },
         {
@@ -8900,7 +8924,7 @@
         {
             "original_title": "The Merchant of Four Seasons",
             "imdb_id": "tt0067227",
-            "release_date": "1971",
+            "release_date": "1972",
             "watchDate": "2018-05-14",
             "personalRating": 4,
             "runtime": 88,
@@ -9234,7 +9258,7 @@
             "watchDate": "2018-08-12",
             "personalRating": 2,
             "runtime": 156,
-            "poster_path": "/hrlfv70HG6SBjJs1ARZqwou38FI.jpg",
+            "poster_path": "/PHfmIVnKpLI76BhKmJk9CjNjZ1.jpg",
             "director": "Tinto Brass, Bob Guccione, Giancarlo Lui"
         },
         {
@@ -9310,7 +9334,7 @@
         {
             "original_title": "Miracle Mile",
             "imdb_id": "tt0097889",
-            "release_date": "1989",
+            "release_date": "1988",
             "watchDate": "2018-08-25",
             "personalRating": 5,
             "runtime": 87,
@@ -9344,7 +9368,7 @@
             "watchDate": "2018-09-08",
             "personalRating": 4,
             "runtime": 96,
-            "poster_path": "/tej9Q7wpTRurDa77zCa8x3Y3zDb.jpg",
+            "poster_path": "/fg1pNMfunv6JeZwO3xdQr6CEiDz.jpg",
             "director": "Orson Welles"
         },
         {
@@ -9544,7 +9568,7 @@
             "watchDate": "2018-10-08",
             "personalRating": 6,
             "runtime": 73,
-            "poster_path": "/XPxRRfOoIs9sLcrbUfiK0D4EhF.jpg",
+            "poster_path": "/zfq8FfMbaYL3fHVgrIsFBaDhRPC.jpg",
             "director": "Quentin Dupieux"
         },
         {
@@ -9564,7 +9588,7 @@
             "watchDate": "2018-10-13",
             "personalRating": 6,
             "runtime": 86,
-            "poster_path": "/yEnLvpbX5c3cUsBqXBufoOzjO00.jpg",
+            "poster_path": "/46yqnRK0XwxP686pkWwfLW8NwyV.jpg",
             "director": "David Lean"
         },
         {
@@ -10544,7 +10568,7 @@
             "watchDate": "2019-04-10",
             "personalRating": 5,
             "runtime": 85,
-            "poster_path": "/xIveHTx9oajX9KM2BLHKaYh4Jw7.jpg",
+            "poster_path": "/6I3kg187twrWQohDXH99LVyuU3Z.jpg",
             "director": "Sacha Guitry"
         },
         {
@@ -10764,7 +10788,7 @@
             "watchDate": "2019-05-25",
             "personalRating": 4,
             "runtime": 101,
-            "poster_path": "/jQilmbgbKtpbHM9hw9hgmqomJ9.jpg",
+            "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
             "director": "John Huston"
         },
         {
@@ -10824,7 +10848,7 @@
             "watchDate": "2019-07-14",
             "personalRating": 5,
             "runtime": 117,
-            "poster_path": "/bJHOHfFvniV3kfNqWPNAETLPmTQ.jpg",
+            "poster_path": "/4VRDj0OEtCmi5KmkLqZ8j3S2avr.jpg",
             "director": "Monia Chokri"
         },
         {
@@ -10874,7 +10898,7 @@
             "watchDate": "2019-07-21",
             "personalRating": 6,
             "runtime": 92,
-            "poster_path": "/1boYMEkB81bpGE1YOF6MnVA0RlU.jpg",
+            "poster_path": "/9kOhmFVu5uQv8EeQq7nAWpEnI1w.jpg",
             "director": "Leo McCarey"
         },
         {
@@ -10914,7 +10938,7 @@
             "watchDate": "2019-08-17",
             "personalRating": 3,
             "runtime": 97,
-            "poster_path": "/pro4OiTibouFxb6O5GhddSUImI7.jpg",
+            "poster_path": "/7dTMloiS7J622v7nX7c7whcPW6O.jpg",
             "director": "John Waters"
         },
         {
@@ -11094,7 +11118,7 @@
             "watchDate": "2019-10-16",
             "personalRating": 1,
             "runtime": 138,
-            "poster_path": "/3YHjhmB8vlYx0iSvkpaOJnyesw5.jpg",
+            "poster_path": "/p537XYJ241MJqMpnBhjuXxi9jv6.jpg",
             "director": "Xawery \u017bu\u0142awski"
         },
         {
@@ -11134,7 +11158,7 @@
             "watchDate": "2019-10-19",
             "personalRating": 5,
             "runtime": 123,
-            "poster_path": "/26rxTHMJJ9wcTWKVKfVPOKcSYGX.jpg",
+            "poster_path": "/95XlJo1epVl8DcLPu5kl1YjqOAy.jpg",
             "director": "Nadav Lapid"
         },
         {
@@ -11254,7 +11278,7 @@
             "watchDate": "2019-11-03",
             "personalRating": 2,
             "runtime": 110,
-            "poster_path": "/xU1mJq4AihDXAhEmdOmCgPCy1li.jpg",
+            "poster_path": "/xww5RyKpDKjGPXnOVYhaZrqCVcL.jpg",
             "director": "William Peter Blatty"
         },
         {
@@ -11268,7 +11292,7 @@
             "director": "Ken Russell"
         },
         {
-            "original_title": "Mujeres al Borde de un Ataque de Nervios",
+            "original_title": "Mujeres al borde de un ataque de nervios",
             "imdb_id": "tt0095675",
             "release_date": "1988",
             "watchDate": "2019-11-09",
@@ -11433,7 +11457,7 @@
             "release_date": "2019",
             "watchDate": "2019-12-27",
             "personalRating": 6,
-            "runtime": 135,
+            "runtime": 136,
             "poster_path": "/7gOozJufKJ9WjcIs38KEs08Iq3D.jpg",
             "director": "Josh Safdie, Benny Safdie"
         },
@@ -11606,6 +11630,86 @@
             "runtime": 94,
             "poster_path": "/2znhon4ftwnkZKQzQWbxd0qMedC.jpg",
             "director": "Alfonso Cuar\u00f3n"
+        },
+        {
+            "original_title": "The Mummy",
+            "imdb_id": "tt0120616",
+            "release_date": "1999",
+            "watchDate": "2020-01-25",
+            "personalRating": 3,
+            "runtime": 124,
+            "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+            "director": "Stephen Sommers"
+        },
+        {
+            "original_title": "Doctor Sleep",
+            "imdb_id": "tt5606664",
+            "release_date": "2019",
+            "watchDate": "2020-01-26",
+            "personalRating": 4,
+            "runtime": 152,
+            "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+            "director": "Mike Flanagan"
+        },
+        {
+            "original_title": "Roubaix, une lumi\u00e8re",
+            "imdb_id": "tt8359840",
+            "release_date": "2019",
+            "watchDate": "2020-01-29",
+            "personalRating": 2,
+            "runtime": 120,
+            "poster_path": "/oXRca3OCNdmNAvComBaSXH6ogZq.jpg",
+            "director": "Arnaud Desplechin"
+        },
+        {
+            "original_title": "Portrait de la jeune fille en feu",
+            "imdb_id": "tt8613070",
+            "release_date": "2019",
+            "watchDate": "2020-01-31",
+            "personalRating": 6,
+            "runtime": 119,
+            "poster_path": "/3NTEMlG5mQdIAlKDl3AJG0rX29Z.jpg",
+            "director": "C\u00e9line Sciamma"
+        },
+        {
+            "original_title": "Le petit soldat",
+            "imdb_id": "tt0054177",
+            "release_date": "1963",
+            "watchDate": "2020-02-01",
+            "personalRating": 3,
+            "runtime": 87,
+            "poster_path": "/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
+            "director": "Jean-Luc Godard"
+        },
+        {
+            "original_title": "Inside Out",
+            "imdb_id": "tt2096673",
+            "release_date": "2015",
+            "watchDate": "2020-02-06",
+            "personalRating": 6,
+            "runtime": 95,
+            "poster_path": "/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg",
+            "director": "Pete Docter"
+        },
+        {
+            "original_title": "Misery",
+            "imdb_id": "tt0100157",
+            "release_date": "1990",
+            "watchDate": "2020-02-08",
+            "personalRating": 6,
+            "runtime": 107,
+            "poster_path": "/s0Ot5zUmVF1jSN9WpBHRafvUPld.jpg",
+            "director": "Rob Reiner"
+        },
+        {
+            "original_title": "Stand by Me",
+            "imdb_id": "tt0092005",
+            "release_date": "1986",
+            "watchDate": "2020-02-10",
+            "personalRating": 3,
+            "runtime": 89,
+            "poster_path": "/kedC0y75jdzByjuZNLOWIOtduNw.jpg",
+            "director": "Rob Reiner"
         }
     ]
 }
