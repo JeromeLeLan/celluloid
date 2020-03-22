@@ -418,7 +418,7 @@
       "director": "John Lurie",
       "country": "United States",
       "year": "1992",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/563-lord-of-the-flies",
@@ -1225,7 +1225,7 @@
       "spine": 123,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/251568d04b57d0ba9fcf4f122aecb6b0/tOYh5gWdFXenaqTAGp5Nix2HBnl4o3_original.jpg",
       "title": "Grey Gardens",
-      "director": "Albert Maysles, David Maysles, Ellen Hovde, Muffie Meyer",
+      "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer",
       "country": "United States",
       "year": "1976",
       "watched": true
@@ -1543,7 +1543,7 @@
     {
       "url": "https://www.criterion.com/films/709-tokyo-olympiad",
       "spine": 155,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7f5faec82157f4ef4678e470e1ad885e/wPKsuFVs5cz8cwcvIyQBFkWDd1nR7Z_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e2843f45bb2c6f97eda489480b3c6f37/awcQ3wCGaOJSHxWK3SQID3frmwck20_original.jpg",
       "title": "Tokyo Olympiad",
       "director": "Kon Ichikawa",
       "country": "Japan",
@@ -2768,7 +2768,7 @@
       "director": "Michelangelo Antonioni",
       "country": "Italy",
       "year": "1962",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/926-young-t-rless",
@@ -4448,7 +4448,7 @@
       "director": "Yasujiro Ozu",
       "country": "Japan",
       "year": "1962",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/759-le-doulos",
@@ -6718,7 +6718,7 @@
       "director": "Roberto Rossellini",
       "country": "Italy",
       "year": "1950",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28108-europe-51",
@@ -9836,7 +9836,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1975c824e3f44554d1755f66ac8e9901/op5e76062WLo9yZJeiOlU7gNFEjL5m_original.jpg",
       "title": "Europa Europa",
       "director": "Agnieszka Holland",
-      "country": "Germany",
+      "country": "Poland",
       "year": "1990",
       "watched": false
     },
@@ -10088,7 +10088,7 @@
       "director": "Jean-Luc Godard",
       "country": "France",
       "year": "1963",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28825-fail-safe",
@@ -10117,7 +10117,7 @@
       "title": "Teorema",
       "director": "Pier Paolo Pasolini",
       "country": "Italy",
-      "year": "1969",
+      "year": "1968",
       "watched": true
     },
     {
@@ -10126,7 +10126,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bc349204816d212fabd9b71524763b75/BMnwff4YpeT4kAkBsBwD6PGbdffoL3_original.jpg",
       "title": "Roma",
       "director": "Alfonso Cuarón",
-      "country": "Mexico",
+      "country": "United States",
       "year": "2018",
       "watched": true
     },
@@ -10223,7 +10223,7 @@
     {
       "url": "https://www.criterion.com/films/29002-destry-rides-again",
       "spine": 1024,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/03f7a3110069270d6ac491c198838b57/4P9NFIWtoKZgFHiOa6pDPBelWQf1U4_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/36fa49e72f1b22eb2da8666d3df12704/NYApshBAzWWbOpps4xtjB1L9La7xTa_original.jpg",
       "title": "Destry Rides Again",
       "director": "George Marshall",
       "country": "United States",
@@ -10248,6 +10248,96 @@
       "director": "Miranda July",
       "country": "United States",
       "year": "2005",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29149-the-great-escape",
+      "spine": 1027,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5a8da68d2d614bc2841f3133a9d1e16d/bPuyXlWNoUAC4cbWbL1Z08Q48keUKn_original.jpg",
+      "title": "The Great Escape",
+      "director": "John Sturges",
+      "country": "United States",
+      "year": "1963",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29633-dance-girl-dance",
+      "spine": 1028,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6da54fc39bd52357450eea02a1d893fb/RIXjigxRY0Ut8RS64xHzhy6XSw2fX9_original.jpg",
+      "title": "Dance, Girl, Dance",
+      "director": "Dorothy Arzner",
+      "country": "United States",
+      "year": "1940",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28827-husbands",
+      "spine": 1029,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/78923bc7cdf6f313c2f69c4869e41bcd/jjWhLAVSs3yMPTCWDB7eRonBYK68Rv_original.jpg",
+      "title": "Husbands",
+      "director": "John Cassavetes",
+      "country": "United States",
+      "year": "1970",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30616-scorsese-shorts",
+      "spine": 1030,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f88e619547e1036d2b7595feb1688281/38xYUK39YImmWPoyi8XjcukL09hDwU_original.jpg",
+      "title": "Scorsese Shorts",
+      "director": "Martin Scorsese",
+      "country": "United States",
+      "year": "",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29644-wildlife",
+      "spine": 1031,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/597124f416f05a040868b747ef5dbb39/Yg8FHf5KpTrN5RJ01e73Y5kuxWAI3m_original.jpg",
+      "title": "Wildlife",
+      "director": "Paul Dano",
+      "country": "United States",
+      "year": "2018",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29597-an-unmarried-woman",
+      "spine": 1032,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/09543964a2a96597994a9d23235588f1/PgkUqzBCyWJxrPY2hvuzwBgUuP7geF_original.jpg",
+      "title": "An Unmarried Woman",
+      "director": "Paul Mazursky",
+      "country": "United States",
+      "year": "1978",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29011-the-cameraman",
+      "spine": 1033,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/90d1588f26d521c2b541228f9c27678b/Ub738mdF5Fe7LudeJsl2GKj5EpaG6h_original.jpg",
+      "title": "The Cameraman",
+      "director": "Edward Sedgwick",
+      "country": "United States",
+      "year": "1928",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30469-portrait-of-a-lady-on-fire",
+      "spine": 1034,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1461a0f7c135c79d89c6b20be956acaf/5WLjJmxnJwyZDlSormyyidLLosShkT_original.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "director": "Céline Sciamma",
+      "country": "France",
+      "year": "2019",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/28895-come-and-see",
+      "spine": 1035,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9259a40bf9ceb623f565a9629416e6cc/ZMwlUFL3CDDMgsvBiMLhyDcWcdSAli_original.jpg",
+      "title": "Come and See",
+      "director": "Elem Klimov",
+      "country": "Soviet Union",
+      "year": "1985",
       "watched": true
     }
   ]
