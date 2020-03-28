@@ -1218,7 +1218,7 @@
       "director": "David Maysles…",
       "country": "United States",
       "year": "1969",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/664-grey-gardens",
@@ -2048,7 +2048,7 @@
       "director": "Rainer Werner Fassbinder",
       "country": "West Germany",
       "year": "1982",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/595-lola",
@@ -3605,7 +3605,7 @@
       "spine": 362,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2131124bf11dd19cde56a791c8fc54f9/o5Y9AGkM9iZWMr9AQm46QYzEAvubcV_original.jpg",
       "title": "Border Radio",
-      "director": "Allison Anders…",
+      "director": "Allison Anders, Dean Lent, and Kurt Voss",
       "country": "United States",
       "year": "1987",
       "watched": false
@@ -5308,7 +5308,7 @@
       "director": "Terry Zwigoff",
       "country": "United States",
       "year": "1985",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/2104-crumb",
@@ -8628,7 +8628,7 @@
       "director": "Hal Ashby",
       "country": "United States",
       "year": "1979",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28694-blow-up",
@@ -10168,7 +10168,7 @@
       "director": "Jennie Livingston",
       "country": "United States",
       "year": "1990",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29007-bamboozled",
