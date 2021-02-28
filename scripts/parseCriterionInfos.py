@@ -52,7 +52,7 @@ def parseCriterion(getPosters):
 
     movie = dict()
     html = html[index+54:]
-    index = html.find('">')
+    index = html.find('" >')
     movie['url'] = html[:index]
 
     strStart = '<td class="g-spine"'
@@ -70,7 +70,7 @@ def parseCriterion(getPosters):
     strStart = '<td class="g-title"'
     index = html.find(strStart)
     html = html[index+19:]
-    strStart = '">'
+    strStart = '<span>'
     index = html.find(strStart)
     html = html[index+6:]
     index = html.find('\n')

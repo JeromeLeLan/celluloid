@@ -98,7 +98,7 @@
       "director": "Nicolas Roeg",
       "country": "United Kingdom",
       "year": "1971",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/173-the-seventh-seal",
@@ -133,7 +133,7 @@
     {
       "url": "https://www.criterion.com/films/529-samurai-i-musashi-miyamoto",
       "spine": 14,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d8d5bae1c8baf059f9452ea04f490137/gwNsZIVy8eBfHDyyD4NbsXlEpYsYCh_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5807c1075adbbe846d6e23b56e86604e/fyBfBqESTNlEhwkukqycOsbj42qATY_original.jpg",
       "title": "Samurai I: Musashi Miyamoto",
       "director": "Hiroshi Inagaki",
       "country": "Japan",
@@ -143,7 +143,7 @@
     {
       "url": "https://www.criterion.com/films/530-samurai-ii-duel-at-ichijoji-temple",
       "spine": 15,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a40d7daf4c6e24df6a8925e7dde39c24/4ojo45aqkbUdd5HXqsvGKZowFr5H6R_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/45174ab8137f66fc97e5c043847743bc/9w8FUEt9kjQpnWFZod7e9hsFK5Iadv_original.jpg",
       "title": "Samurai II: Duel at Ichijoji Temple",
       "director": "Hiroshi Inagaki",
       "country": "Japan",
@@ -153,7 +153,7 @@
     {
       "url": "https://www.criterion.com/films/531-samurai-iii-duel-at-ganryu-island",
       "spine": 16,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3dd99041932edc039d03a6d3dfaa1950/wRoX0MqA2MfrdOHemBszFPtl6JwjJq_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7aced965161d41d77123d0f74641a236/Dve41MzkXcXYS76KDNXBcyKr92PaEX_original.jpg",
       "title": "Samurai III: Duel at Ganryu Island",
       "director": "Hiroshi Inagaki",
       "country": "Japan",
@@ -443,19 +443,19 @@
     {
       "url": "https://www.criterion.com/films/242-taste-of-cherry",
       "spine": 45,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4fb9e4575ec46f76c042a88c8797f96c/xZFNdu75bJzobUg7yBv2OglSTeSynV_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2b3cb1e242f75f984a61305a512a8417/0IZ7RI0ApmwUqfotR9mOZmFlhsHjvo_original.jpg",
       "title": "Taste of Cherry",
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "1997",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/584-the-most-dangerous-game",
       "spine": 46,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1f4199efee0716b73e643f44cffd628f/FsFD7z9JPS8zGJwwhpboY5pnNOOmIc_original.jpg",
       "title": "The Most Dangerous Game",
-      "director": "Ernest B. Schoedsack...",
+      "director": "Ernest B. Schoedsack…",
       "country": "United States",
       "year": "1932",
       "watched": false
@@ -497,7 +497,7 @@
       "title": "And the Ship Sails On",
       "director": "Federico Fellini",
       "country": "Italy",
-      "year": "1984",
+      "year": "1983",
       "watched": false
     },
     {
@@ -588,7 +588,7 @@
       "director": "Liliana Cavani",
       "country": "Italy",
       "year": "1974",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/605-autumn-sonata",
@@ -723,7 +723,7 @@
     {
       "url": "https://www.criterion.com/films/244-cl-o-from-5-to-7",
       "spine": 73,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/da1dd39c3acbfcf0df50bcfa6df86f2d/3TgsqJ5MFolxeGeTxnQvZpVus8Qa0w_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e1cc7c39a7df1485bf50cbea121992b3/uot40flvpvluei2GgF4v3mLHbmKf8P_original.jpg",
       "title": "Cléo from 5 to 7",
       "director": "Agnès Varda",
       "country": "France",
@@ -881,6 +881,16 @@
       "watched": false
     },
     {
+      "url": "https://www.criterion.com/films/625-ivan-the-terrible-part-i",
+      "spine": 88,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/aed45dbeaf63414624b16890eb458dea/fSaXGJq2BBkowhHXw2FJft0UoNIdnI_original.jpg",
+      "title": "Ivan the Terrible, Part I",
+      "director": "Sergei Eisenstein",
+      "country": "Soviet Union",
+      "year": "1944",
+      "watched": false
+    },
+    {
       "url": "https://www.criterion.com/films/377-sisters",
       "spine": 89,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/80964145bced0eb88194a8af01475350/mfE5h7pgzwr9SO0RFazOZnxXa0kGPB_original.jpg",
@@ -935,7 +945,7 @@
       "spine": 94,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/579fa5c6c09c16a14ed067b95082b2a6/CO8fhJazSe2g825mTA0hbuLhjrFanC_original.jpg",
       "title": "I Know Where I’m Going!",
-      "director": "Michael Powell...",
+      "director": "Michael Powell…",
       "country": "United Kingdom",
       "year": "1945",
       "watched": false
@@ -1013,17 +1023,17 @@
     {
       "url": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie",
       "spine": 102,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/91d6dc601b3fd98336aa683417cda465/zdWqVPqt71iW1vNguNzaFoTm6EZEoA_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ec5399163d6dca9c04ee961a15f1c863/JegycjW6BfTUczUHnh51sLyJCVKQoy_original.jpg",
       "title": "The Discreet Charm of the Bourgeoisie",
       "director": "Luis Buñuel",
       "country": "France",
       "year": "1972",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/639-the-lady-eve",
       "spine": 103,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f68faf1c0c4e70d2552d1faffa4e1dce/RQTbnThyHU42MFbtBkNPUYirg3Et0H_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4f5175b5c0e1c0619b482a9650356cc8/AHoTWP6XqNreD4aGRUKfGB3ASi3IVz_original.jpg",
       "title": "The Lady Eve",
       "director": "Preston Sturges",
       "country": "United States",
@@ -1423,12 +1433,12 @@
     {
       "url": "https://www.criterion.com/films/686-that-obscure-object-of-desire",
       "spine": 143,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9c472c2c34b9a10676686ab6cd0fc33c/iY0kvMU1NZgd6bBZMfWcwjpWf75sWN_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a2148b3bd99575c94d0fe0065bf44c3d/M3ic1maOVn98KYYdwXLNvac0fqSFQN_original.jpg",
       "title": "That Obscure Object of Desire",
       "director": "Luis Buñuel",
       "country": "France",
       "year": "1977",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/246-loves-of-a-blonde",
@@ -1458,14 +1468,14 @@
       "director": "Mikhail Kalatozov",
       "country": "Soviet Union",
       "year": "1957",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/198-in-the-mood-for-love",
       "spine": 147,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1b263590b0faeba99ca35b4fc02f7667/mTibr0yzCnoUK8wYtfEOXwKwAwPDUa_original.jpg",
       "title": "In the Mood for Love",
-      "director": "Wong Kar-wai",
+      "director": "Wong Kar Wai",
       "country": "Hong Kong",
       "year": "2000",
       "watched": true
@@ -1548,7 +1558,7 @@
       "director": "Kon Ichikawa",
       "country": "Japan",
       "year": "1965",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/711-hearts-and-minds",
@@ -1645,8 +1655,8 @@
       "spine": 165,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6727067d1f4e46a650902bc011e19592/tIr6988MSCKOQmR6KedSRIzbetNOjp_original.jpg",
       "title": "Man Bites Dog",
-      "director": "Rémy Belvaux...",
-      "country": "France",
+      "director": "Rémy Belvaux…",
+      "country": "Belgium",
       "year": "1992",
       "watched": true
     },
@@ -1725,10 +1735,10 @@
       "spine": 173,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/18965c86f7667517e1f49865a63ef3e3/J8DLPfC9l8hKQqoR0JBCEkfis6ztSz_original.jpg",
       "title": "The Life and Death of Colonel Blimp",
-      "director": "Michael Powell...",
+      "director": "Michael Powell…",
       "country": "United Kingdom",
       "year": "1943",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/291-band-of-outsiders",
@@ -1763,9 +1773,9 @@
     {
       "url": "https://www.criterion.com/films/726-the-lost-honor-of-katharina-blum",
       "spine": 177,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0c99eb2e459ddbfc2a308d9aba1231ba/9bFl9qP1rdV5hipJe2GeoT2F1jjWHu_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bed1dc8df02842d6a75325665e718ebd/da8xTBLVhcfx0KQXSyOOMImKRe6s2r_original.jpg",
       "title": "The Lost Honor of Katharina Blum",
-      "director": "Volker Schlöndorff...",
+      "director": "Volker Schlöndorff…",
       "country": "Germany",
       "year": "1975",
       "watched": false
@@ -2028,7 +2038,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/592-the-marriage-of-maria-braun",
@@ -2058,7 +2068,7 @@
       "director": "Rainer Werner Fassbinder",
       "country": "West Germany",
       "year": "1981",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/602-the-pornographers",
@@ -2198,7 +2208,7 @@
       "director": "Akira Kurosawa",
       "country": "Japan",
       "year": "1952",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/452-diary-of-a-country-priest",
@@ -2353,7 +2363,7 @@
     {
       "url": "https://www.criterion.com/films/849-smiles-of-a-summer-night",
       "spine": 237,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7a35ef5160b07991df8bd58f6d54ca55/VbPsP6hDaUgUiNKuwEriLdkNSpnDc9_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/49d4e46716d93aa132026d0e65f01e8c/JeSHBn1n1YRTcQFQUUfPktyUtEzqrT_original.jpg",
       "title": "Smiles of a Summer Night",
       "director": "Ingmar Bergman",
       "country": "Sweden",
@@ -2688,7 +2698,7 @@
       "director": "Jacques Becker",
       "country": "France",
       "year": "1952",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/941-touchez-pas-au-grisbi",
@@ -2698,7 +2708,7 @@
       "director": "Jacques Becker",
       "country": "France",
       "year": "1954",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/940-la-commare-secca",
@@ -2748,7 +2758,7 @@
       "director": "Jean Renoir",
       "country": "France",
       "year": "1951",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/249-my-own-private-idaho",
@@ -2853,7 +2863,7 @@
     {
       "url": "https://www.criterion.com/films/546-burden-of-dreams",
       "spine": 287,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ebb3bf89d705f125537a7e7e1aee3b29/GqsByzCtbyIcjEY4V5D6BZZua21jyh_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ce055fbba08936e92f741b03095b3df7/wIymUoKM7UwBPQpFuZ7QtY2cMR3blp_original.jpg",
       "title": "Burden of Dreams",
       "director": "Les Blank",
       "country": "United States",
@@ -2883,7 +2893,7 @@
     {
       "url": "https://www.criterion.com/films/905-the-phantom-of-liberty",
       "spine": 290,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fdad490419134d13dcb5ed649c728638/mKigRc2tBPTYvxibGfFFtKMoEJwREY_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c11c7e625fcd444dbe3158d6a601d3ea/rAdJOgdcjncchzq0ENQoPTQw0d7YZx_original.jpg",
       "title": "The Phantom of Liberty",
       "director": "Luis Buñuel",
       "country": "France",
@@ -3063,12 +3073,12 @@
     {
       "url": "https://www.criterion.com/films/508-masculin-f-minin",
       "spine": 308,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/64d21e77f437a54ee85b075a18810951/iE2Kc5MVA6KSohkGrrFvNEFGcuH3op_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/956cb3d5725abeeff09544e381c0e319/wvoIwSwakZ94vbcqMIq6kaU4KTDRDj_original.jpg",
       "title": "Masculin féminin",
       "director": "Jean-Luc Godard",
       "country": "France",
       "year": "1966",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/369-ugetsu",
@@ -3078,7 +3088,7 @@
       "director": "Kenji Mizoguchi",
       "country": "Japan",
       "year": "1953",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/753-samurai-rebellion",
@@ -3148,7 +3158,7 @@
       "director": "Akira Kurosawa",
       "country": "Japan",
       "year": "1985",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/748-the-tales-of-hoffmann",
@@ -3173,7 +3183,7 @@
     {
       "url": "https://www.criterion.com/films/765-the-bad-sleep-well",
       "spine": 319,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9e1bd9a4f1fffe0fcf0f33ce6fd59b06/dBTXEYsnwkPwBIbqCdde0BiXq0ZDev_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4c98b16aad002b6f4e9edf0e63d42406/Pk4xUf3hPeb3bakmQm69237kn0XfQ9_original.jpg",
       "title": "The Bad Sleep Well",
       "director": "Akira Kurosawa",
       "country": "Japan",
@@ -3188,7 +3198,7 @@
       "director": "John Ford",
       "country": "United States",
       "year": "1939",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/372-the-virgin-spring",
@@ -3303,12 +3313,12 @@
     {
       "url": "https://www.criterion.com/films/373-viridiana",
       "spine": 332,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6db7954bab0e3d6d70e391180b20a090/XwjPpNaOxjoSTWNTCqBpqB5UHYPkoo_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c1a58357fc8e9645ebe1fef1b1c82741/r6LCcZv0iSuYv6BXzTjFtivJ3LDr1L_original.jpg",
       "title": "Viridiana",
       "director": "Luis Buñuel",
       "country": "Spain",
       "year": "1961",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/348-fists-in-the-pocket",
@@ -3363,7 +3373,7 @@
     {
       "url": "https://www.criterion.com/films/780-equinox",
       "spine": 338,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1b44c252088b75738f71948cd96e6d35/Lf4wqAmCvjrqx2ycM8KMq4RJVgQLkU_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/25a6ff7c494d57431ad8e9db70da7775/IntxxcLKB8OiRTk1jozZohUF58ndJr_original.jpg",
       "title": "Equinox",
       "director": "Jack Woods",
       "country": "United States",
@@ -3395,7 +3405,7 @@
       "spine": 341,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b206f2fd2c1e24512689ec54b8402317/HTN85CSIghZznvIf2LJWNGmNVm5U00_original.jpg",
       "title": "A Canterbury Tale",
-      "director": "Michael Powell...",
+      "director": "Michael Powell…",
       "country": "United Kingdom",
       "year": "1944",
       "watched": false
@@ -3581,13 +3591,13 @@
       "watched": true
     },
     {
-      "url": "https://www.criterion.com/films/751-symbiopsychotaxiplasm",
+      "url": "https://www.criterion.com/films/751-symbiopsychotaxiplasm-two-takes-by-william-greaves",
       "spine": 360,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fa236bebabd7851c126a6dc2d07aed51/kqsplGGxAdO7Zn7FTmc2tUICnkAHv4_original.jpg",
-      "title": "Symbiopsychotaxiplasm",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/87d7b3b84ecb3f91c6430f016fa1ce87/gKuKu6kWhvuHinD1ZQ064BWav4w3iA_original.jpg",
+      "title": "Symbiopsychotaxiplasm: Two Takes by William Greaves",
       "director": "William Greaves",
       "country": "United States",
-      "year": "1968",
+      "year": "",
       "watched": true
     },
     {
@@ -3613,7 +3623,7 @@
     {
       "url": "https://www.criterion.com/films/456-mouchette",
       "spine": 363,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e784628d2f155af20978d866f1500560/9v9in1w6dmPZI9RVG6U0ZmXiLavX5O_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e88c90b3fe227b24d0eeb5d3558bfe4f/GUJXZmWIp68KHFVmnmISx8LIh9jqRl_original.jpg",
       "title": "Mouchette",
       "director": "Robert Bresson",
       "country": "France",
@@ -3783,7 +3793,7 @@
     {
       "url": "https://www.criterion.com/films/818-the-naked-city",
       "spine": 380,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/87daa9ace532993cede90830f6d0ed07/NS4aptYhPymtXjw8m6iDCVPYIHM18V_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bdd292d371001c16b286dc9ed86c48c8/ozJwCiRbeWisV4EUZfCnlxm7HKDT3K_original.jpg",
       "title": "The Naked City",
       "director": "Jules Dassin",
       "country": "United States",
@@ -3813,7 +3823,7 @@
     {
       "url": "https://www.criterion.com/films/820-brute-force",
       "spine": 383,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/740f30b0e79d3b661c7da9713f651c85/9vgIfVxz5WCryJjOcd9IXOi4vdFpJs_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/85d81ce387f4ac270c7c761e0688f5a4/MCLXfaDW6rmCDcS0dVPI60MoAYnoLq_original.jpg",
       "title": "Brute Force",
       "director": "Jules Dassin",
       "country": "United States",
@@ -3928,7 +3938,7 @@
       "director": "Hiroshi Teshigahara",
       "country": "Japan",
       "year": "1964",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/828-the-face-of-another",
@@ -3938,7 +3948,7 @@
       "director": "Hiroshi Teshigahara",
       "country": "Japan",
       "year": "1966",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/829-ace-in-the-hole",
@@ -3988,7 +3998,7 @@
       "director": "Jim Jarmusch",
       "country": "United States",
       "year": "1984",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/227-night-on-earth",
@@ -4168,22 +4178,22 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/524-la-pointe-courte",
       "spine": 419,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/901f7dec50c95a3d501f8ad73daa9b6b/qqJLlCyvWCbKOhkBYLalNrBSZdVUa0_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7fd267f4ab79e18d27e5a0df332b7b75/FCE8q407FjQwB36gZhWXkpN7ALK99l_original.jpg",
       "title": "La Pointe Courte",
       "director": "Agnès Varda",
       "country": "France",
-      "year": "1956",
-      "watched": false
+      "year": "1955",
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/525-le-bonheur",
       "spine": 420,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3e7f3a899760a46a83bb9833485806e3/1nzYs42dZAq2H4YO3RyptreWYyYmWP_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bfc8b1f1add9c0479f15115114ca1bca/mPun3IS9hLJyKvz5XEMII63cGgWfUo_original.jpg",
       "title": "Le bonheur",
       "director": "Agnès Varda",
       "country": "France",
@@ -4193,7 +4203,7 @@
     {
       "url": "https://www.criterion.com/films/149-pierrot-le-fou",
       "spine": 421,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cd633db777351aee1b7444b7a50cad07/aOUxsNMCS7uo0DkdShLeSHLNL58fXv_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/863a628f2ab5b361433b82f3ca447dd9/CGhaAaDzvaQUyGtIKeyAtcMz5Q790L_original.jpg",
       "title": "Pierrot le fou",
       "director": "Jean-Luc Godard",
       "country": "France",
@@ -4395,7 +4405,7 @@
       "spine": 441,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/dd600b70bda49320768a1a2545eabd7b/vBOoLKmxLqMp4rZ1WeBfbdsteerlnC_original.jpg",
       "title": "The Small Back Room",
-      "director": "Michael Powell...",
+      "director": "Michael Powell…",
       "country": "United Kingdom",
       "year": "1949",
       "watched": false
@@ -4515,7 +4525,7 @@
       "spine": 453,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9c3df80b84fb6e0e7f3ef692cb6ff579/zLMh5Bdp1x7ZdMgkD776ew5Qsh9iRC_original.jpg",
       "title": "Chungking Express",
-      "director": "Wong Kar-wai",
+      "director": "Wong Kar Wai",
       "country": "Hong Kong",
       "year": "1994",
       "watched": true
@@ -4673,7 +4683,7 @@
     {
       "url": "https://www.criterion.com/films/1285-the-hit",
       "spine": 469,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ff5462dc62a6ae0ee3c44825d24b656b/mJHLiXNmLRdpv1pLPxr8lvoazvVUSn_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/caeee2c666793a23cd9f2c4f29fd4bb8/LgodjHWt1FgiEQnm9q4aKgwjl9Mf8Q_original.jpg",
       "title": "The Hit",
       "director": "Stephen Frears",
       "country": "United Kingdom",
@@ -5016,7 +5026,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e5c7435a9dbc4d547966c42139b17e05/CIDQTwh6cAejzHXtCFcPu4on6pTik2_original.jpg",
       "title": "Lola Montès",
       "director": "Max Ophuls",
-      "country": "France",
+      "country": "Germany",
       "year": "1955",
       "watched": true
     },
@@ -5208,7 +5218,7 @@
       "director": "Michelangelo Antonioni",
       "country": "Italy",
       "year": "1964",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/25039-night-train-to-munich",
@@ -5228,7 +5238,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/2606-the-only-son",
@@ -5238,7 +5248,7 @@
       "director": "Yasujiro Ozu",
       "country": "Japan",
       "year": "1936",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/22839-there-was-a-father",
@@ -5248,7 +5258,7 @@
       "director": "Yasujiro Ozu",
       "country": "Japan",
       "year": "1942",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/1344-the-secret-of-the-grain",
@@ -5576,7 +5586,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e3c058a69006d26b6df4008dcbc87616/m2TegG4mLAOkV3oQmmKYYZxQmuFF8b_original.jpg",
       "title": "The Mikado",
       "director": "Victor Schertzinger",
-      "country": "United States",
+      "country": "United Kingdom",
       "year": "1939",
       "watched": false
     },
@@ -5598,7 +5608,7 @@
       "director": "Ken Loach",
       "country": "United Kingdom",
       "year": "1970",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27561-blow-out",
@@ -5648,7 +5658,7 @@
       "director": "Nicolas Roeg",
       "country": "United Kingdom",
       "year": "1985",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27619-the-makioka-sisters",
@@ -5668,7 +5678,7 @@
       "director": "Robert Aldrich",
       "country": "United States",
       "year": "1955",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27625-people-on-sunday",
@@ -5998,7 +6008,7 @@
       "director": "Mikhail Kalatozov",
       "country": "Soviet Union",
       "year": "1959",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28029-the-war-room",
@@ -6025,7 +6035,7 @@
       "spine": 604,
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/2337de26902c1098f9f4f5391509b618/8cF4ebQ0D9MPhFC6Og9iujz2Daexcu_original.jpg",
       "title": "In Which We Serve",
-      "director": "David Lean...",
+      "director": "David Lean…",
       "country": "United Kingdom",
       "year": "1942",
       "watched": false
@@ -6108,7 +6118,7 @@
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "2010",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27782-summer-interlude",
@@ -6378,7 +6388,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28034-koyaanisqatsi",
@@ -6398,7 +6408,7 @@
       "director": "Godfrey Reggio",
       "country": "United States",
       "year": "1988",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28418-naqoyqatsi",
@@ -6408,7 +6418,7 @@
       "director": "Godfrey Reggio",
       "country": "United States",
       "year": "2002",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27999-the-man-who-knew-too-much",
@@ -6453,7 +6463,7 @@
     {
       "url": "https://www.criterion.com/films/27899-on-the-waterfront",
       "spine": 647,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4ba5db60bffc30ffae40db28b007c9b6/P0r6v7IrKJJWhmoIgAGewxvlkQnnIb_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8682fec5356a2cff41d1e090662f8a02/pvQjxjt452yR9hjwgX5DJ4UZeCraAL_original.jpg",
       "title": "On the Waterfront",
       "director": "Elia Kazan",
       "country": "United States",
@@ -6658,7 +6668,7 @@
       "director": "John Frankenheimer",
       "country": "United States",
       "year": "1966",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28448-the-big-city",
@@ -6668,12 +6678,12 @@
       "director": "Satyajit Ray",
       "country": "India",
       "year": "1963",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28447-charulata",
       "spine": 669,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/421cfea0e17d9356e53497753d6f0242/E8UsHi45ZrgRdHzHY5bKjOm0OBCIYA_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b9bbbcd50d8262d2bd069bdac193e5c7/vHOndyO4VUAr6wtDznPWHLjsdqJszf_original.jpg",
       "title": "Charulata",
       "director": "Satyajit Ray",
       "country": "India",
@@ -6708,7 +6718,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28082-stromboli",
@@ -6728,7 +6738,7 @@
       "director": "Roberto Rossellini",
       "country": "Italy",
       "year": "1952",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28081-journey-to-italy",
@@ -6738,7 +6748,7 @@
       "director": "Roberto Rossellini",
       "country": "Italy",
       "year": "1954",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/27771-i-married-a-witch",
@@ -6833,7 +6843,7 @@
     {
       "url": "https://www.criterion.com/films/28412-touki-bouki",
       "spine": 685,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/66b01803cb4ca7c3ca204d7b20182487/UYHxyH9jGvaMCQurzHQhF4h8vGWjT3_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/1680844b530ddf4be43cf147b1777f0b/lslKYnroVBcB3gHT5XEtkaKYw87ylD_original.jpg",
       "title": "Touki bouki",
       "director": "Djibril Diop Mambéty",
       "country": "Senegal",
@@ -7068,7 +7078,7 @@
       "director": "Abbas Kiarostami",
       "country": "Japan",
       "year": "2012",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28046-red-river",
@@ -7178,7 +7188,7 @@
       "director": "Jacques Demy",
       "country": "France",
       "year": "1982",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28610-the-big-chill",
@@ -7228,7 +7238,7 @@
       "director": "Bob Fosse",
       "country": "United States",
       "year": "1979",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28382-eraserhead",
@@ -7308,7 +7318,7 @@
       "director": "John Ford",
       "country": "United States",
       "year": "1946",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28619-la-dolce-vita",
@@ -7323,7 +7333,7 @@
     {
       "url": "https://www.criterion.com/films/28580-the-shooting",
       "spine": 734,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/fe2052b1959df60ce169c72a245327b3/rvwJPYaMWfRmOoa6I96w8mQxY5MxQ2_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ffaa83921ed66430196325e646607707/x4Ua0ZzXUdi0XU2CGRS8uGED493lCc_original.jpg",
       "title": "The Shooting",
       "director": "Monte Hellman",
       "country": "United States",
@@ -7333,7 +7343,7 @@
     {
       "url": "https://www.criterion.com/films/28581-ride-in-the-whirlwind",
       "spine": 735,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c907295c2d4eac1d2bc4a68c3e7f65e7/DhPK1MlQAsEyGEHUiT1hifLfff8dms_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d3b8c390084f082e069ccabf90eae81f/Mx9M7rqrQLB8RgUPVCjo2UFcQH6sBy_original.jpg",
       "title": "Ride in the Whirlwind",
       "director": "Monte Hellman",
       "country": "United States",
@@ -7573,7 +7583,7 @@
     {
       "url": "https://www.criterion.com/films/27873-the-confession",
       "spine": 759,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/012877704e85d3ea20d1ef31eb594fc8/ZbdILnw7l4LZTO3TS4JBBENfh2NhU8_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/24455de79ac7432cd8d919fd70af45ca/7Gf4rNx1ZJ9o2cPWtNqYuDI5me66Nl_original.jpg",
       "title": "The Confession",
       "director": "Costa-Gavras",
       "country": "Italy",
@@ -7808,7 +7818,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28021-pather-panchali",
@@ -7838,7 +7848,7 @@
       "director": "Satyajit Ray",
       "country": "India",
       "year": "1959",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28655-dont-look-back",
@@ -7883,7 +7893,7 @@
     {
       "url": "https://www.criterion.com/films/28589-lady-snowblood",
       "spine": 790,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/999fa1de98d5ee2b61662988c030beca/q6vNS2Cz5WdrtnpVqHNwPwFpj1COba_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/84aeeb09b2dfd01727a6f204c00524cb/ndLCgU0hBuRjtJ6gwLBm2qIkl1e8RS_original.jpg",
       "title": "Lady Snowblood",
       "director": "Toshiya Fujita",
       "country": "Japan",
@@ -7893,7 +7903,7 @@
     {
       "url": "https://www.criterion.com/films/28590-lady-snowblood-love-song-of-vengeance",
       "spine": 791,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/de86da7f78b308416beeaf1f9c9c981b/bdFuS1KKseXBVBq1XJfTVudDIikSqr_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/95159354bcdf27d289878748f2c5d265/2tgO8RQJN5lUgoXWs6xyybyGHslsgG_original.jpg",
       "title": "Lady Snowblood: Love Song of Vengeance",
       "director": "Toshiya Fujita",
       "country": "Japan",
@@ -8548,7 +8558,7 @@
       "director": " ",
       "country": "",
       "year": " ",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28692-before-sunrise",
@@ -8568,7 +8578,7 @@
       "director": "Richard Linklater",
       "country": "United States",
       "year": "2004",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28828-before-midnight",
@@ -8578,7 +8588,7 @@
       "director": "Richard Linklater",
       "country": "United States",
       "year": "2013",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29025-mildred-pierce",
@@ -8618,7 +8628,7 @@
       "director": "John Waters",
       "country": "United States",
       "year": "1970",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29009-being-there",
@@ -8738,7 +8748,7 @@
       "director": "Apichatpong Weerasethakul",
       "country": "Thailand",
       "year": "2000",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29208-revenge",
@@ -8893,7 +8903,7 @@
     {
       "url": "https://www.criterion.com/films/28637-la-poison",
       "spine": 891,
-      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a1286c4c98cc8ba8cc05f51863d5cd75/pIDIjdA3TGgIYFHhLLzkwffCZvxZE1_original.jpg",
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/a632182c392c798070c12418ecc643aa/iTAU4rMVAh7hLLrtkHk0NF1uhHID7o_original.jpg",
       "title": "La poison ",
       "director": "Sacha Guitry",
       "country": "France",
@@ -9168,7 +9178,7 @@
       "director": "Sergei Parajanov",
       "country": "Soviet Union",
       "year": "1969",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29064-dead-man",
@@ -9328,7 +9338,7 @@
       "director": "Josef von Sternberg",
       "country": "United States",
       "year": "1932",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28983-the-devil-is-a-woman",
@@ -9498,7 +9508,7 @@
       "director": "David Byrne",
       "country": "United States",
       "year": "1986",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28711-the-magnificent-ambersons",
@@ -9508,7 +9518,7 @@
       "director": "Orson Welles",
       "country": "United States",
       "year": "1942",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29148-a-dry-white-season",
@@ -9648,7 +9658,7 @@
       "director": "Edgar G. Ulmer",
       "country": "United States",
       "year": "1945",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29000-i-wanna-hold-your-hand",
@@ -9768,7 +9778,7 @@
       "director": "Agnès Varda",
       "country": "France",
       "year": "1977",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29037-swing-time",
@@ -9878,7 +9888,7 @@
       "director": "Yasujiro Ozu",
       "country": "Japan",
       "year": "1952",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28638-where-is-the-friend-s-house",
@@ -9888,7 +9898,7 @@
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "1987",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28639-and-life-goes-on",
@@ -9898,7 +9908,7 @@
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "1992",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/28077-through-the-olive-trees",
@@ -9908,7 +9918,7 @@
       "director": "Abbas Kiarostami",
       "country": "Iran",
       "year": "1994",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29059-the-cloud-capped-star",
@@ -9996,7 +10006,7 @@
       "imgUrl": "https://s3.amazonaws.com/criterion-production/films/970a3900ccacf0352f032e35c13549ed/un35TUcekpTvbbRD0VsNDeM3k57TjF_original.jpg",
       "title": "The Daytrippers",
       "director": "Greg Mottola",
-      "country": "United States",
+      "country": "Canada",
       "year": "1996",
       "watched": false
     },
@@ -10018,7 +10028,7 @@
       "director": "Joseph L. Mankiewicz",
       "country": "United States",
       "year": "1950",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29026-now-voyager",
@@ -10188,7 +10198,7 @@
       "director": "John M. Stahl",
       "country": "United States",
       "year": "1945",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29035-show-boat",
@@ -10258,7 +10268,7 @@
       "director": "John Sturges",
       "country": "United States",
       "year": "1963",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29633-dance-girl-dance",
@@ -10288,7 +10298,7 @@
       "director": "Martin Scorsese",
       "country": "United States",
       "year": "",
-      "watched": false
+      "watched": true
     },
     {
       "url": "https://www.criterion.com/films/29644-wildlife",
@@ -10339,6 +10349,396 @@
       "country": "Soviet Union",
       "year": "1985",
       "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/boxsets/3205-bruce-lee-his-greatest-hits",
+      "spine": 1036,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1957-f90d4c48a2f932ffe7df386499f9477e/73k4EkSiXEfsdi097fieFBGdb39vlg_original.jpg",
+      "title": "Bruce Lee: His Greatest Hits",
+      "director": " ",
+      "country": "",
+      "year": " ",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29942-the-war-of-the-worlds",
+      "spine": 1037,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7960b954dfdd1ccec8359ff65e31d0f5/oGVWh8sN851321NuP26d8kLdoYVtBQ_original.jpg",
+      "title": "The War of the Worlds",
+      "director": "Byron Haskin",
+      "country": "United States",
+      "year": "1953",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30554-marriage-story",
+      "spine": 1038,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/cd2f07130fc2ca641df29523f1a46a4d/dgHJrppxYc2TmMF6kaz1Io8gP73LjP_original.jpg",
+      "title": "Marriage Story",
+      "director": "Noah Baumbach",
+      "country": "United States",
+      "year": "2019",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30213-town-bloody-hall",
+      "spine": 1039,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/7d90215f8b43ae9d7f6c256371cb6561/zXxL5nVVxs6mFjV7YGhNhNqiQh2oP0_original.jpg",
+      "title": "Town Bloody Hall",
+      "director": "D. A. Pennebaker, Chris Hegedus",
+      "country": "United States",
+      "year": "1979",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27975-toni",
+      "spine": 1040,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/aacbb5b878efc61768c0c5af10acce40/yV3pen379RJU2H3mgtDNlZBAh7RKD9_original.jpg",
+      "title": "Toni",
+      "director": "Jean Renoir",
+      "country": "France",
+      "year": "1935",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29638-the-comfort-of-strangers",
+      "spine": 1041,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/3049219ed3ee713ee349de67653cab6d/1jmrBCsLtRVbaKdHbTAgrmOsVAxNlw_original.jpg",
+      "title": "The Comfort of Strangers",
+      "director": "Paul Schrader",
+      "country": "Italy",
+      "year": "1990",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29646-beau-travail",
+      "spine": 1042,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/74d3d4f366a0062eeee5f5c24f4b23b5/iVTX3MfdNT6tCBqUjgleTlt072vahB_original.jpg",
+      "title": "Beau travail",
+      "director": "Claire Denis",
+      "country": "France",
+      "year": "1999",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30717-christ-stopped-at-eboli",
+      "spine": 1043,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/f85a01b658a2b80b73f270ea310922b9/sl7vzbsoRrSQ2xVXDWydb7uS8RwfhP_original.jpg",
+      "title": "Christ Stopped at Eboli",
+      "director": "Francesco Rosi",
+      "country": "Italy",
+      "year": "1979",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/boxsets/3506-martin-scorsese-s-world-cinema-project-no-3",
+      "spine": 1044,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/product_images/1961-3b7b159a9ae3d500459e38e69c96a917/9P9MeXzolFQyY5OhK2XcwZ02e0Y0ZC_original.jpg",
+      "title": "Martin Scorsese’s World Cinema Project No. 3",
+      "director": " ",
+      "country": "",
+      "year": " ",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30298-luc-a",
+      "spine": 1045,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/d2c835969098c7bd46ae2cd81602f484/BHh2KOSkBsYNtCoEP20YT1DkdPJM14_original.jpg",
+      "title": "Lucía",
+      "director": "Humberto Solás",
+      "country": "Cuba",
+      "year": "1968",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30304-after-the-curfew",
+      "spine": 1046,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/40e3648637e296fc80b9a4d526f35951/uWUFo8TqJ9uMAr8esMMCqoDE4sgpMx_original.jpg",
+      "title": "After the Curfew",
+      "director": "Usmar Ismail",
+      "country": "Indonesia",
+      "year": "1954",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30307-pixote",
+      "spine": 1047,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/adc5dbcfd3feab7fb5ebe9ce4b103691/oTbeMEU4djNsFgw76dm1476k4EGUjO_original.jpg",
+      "title": "Pixote",
+      "director": "Héctor Babenco",
+      "country": "Brazil",
+      "year": "1980",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30306-dos-monjes",
+      "spine": 1048,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/6711344666d498e71084cb1e75913949/s4E0Sv8JIekIuZH2ziFxfYCvb6IMmh_original.jpg",
+      "title": "Dos monjes",
+      "director": "Juan Bustillo Oro",
+      "country": "Mexico",
+      "year": "1934",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30299-soleil",
+      "spine": 1049,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b1f5f414289850a75d37cf7c5606d8dd/bLwpos3fzsDT1qxVibPnN18FsBc63o_original.jpg",
+      "title": "Soleil Ô",
+      "director": "Med Hondo",
+      "country": "France",
+      "year": "1970",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28601-downpour",
+      "spine": 1050,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/da701da8b959ed57a17d554363f9d3e9/9qTGddunzTotjC7350EEboKVTNYE37_original.jpg",
+      "title": "Downpour",
+      "director": "Bahram Beyzaie",
+      "country": "Iran",
+      "year": "1972",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29677-the-elephant-man",
+      "spine": 1051,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/207afbdb62bf1befab64af108cfbd694/9C1Sv0QkPLjj5eoMqM8d1M0kAiaWoK_original.jpg",
+      "title": "The Elephant Man",
+      "director": "David Lynch",
+      "country": "United States",
+      "year": "1980",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29599-claudine",
+      "spine": 1052,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/799d6133113ea9756e642eb5691a3c52/vpgCUTjCM0PVO8XlLfGWYpxM5tTAHC_original.jpg",
+      "title": "Claudine",
+      "director": "John Berry",
+      "country": "United States",
+      "year": "1974",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/28568-the-gunfighter",
+      "spine": 1053,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5df5a988519a21f6f8902cb68a50fad2/PNke8tz8SXjbs27HUThiZYSvYcNnnm_original.jpg",
+      "title": "The Gunfighter",
+      "director": "Henry King",
+      "country": "United States",
+      "year": "1950",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30619-parasite",
+      "spine": 1054,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/640531357bc7916fa876ccfc7942fda3/7R4fM1suypYVLJvGioVEqHFqwEu1yM_original.jpg",
+      "title": "Parasite",
+      "director": "Bong Joon Ho",
+      "country": "South Korea",
+      "year": "2019",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29635-girlfriends",
+      "spine": 1055,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/bf7dd923004d069192e6cf732dd51e1f/x7ZTLqEHWNMZWFdmuX89ePaJ9aZNfN_original.jpg",
+      "title": "Girlfriends",
+      "director": "Claudia Weill",
+      "country": "United States",
+      "year": "1978",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29154-moonstruck",
+      "spine": 1056,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b7b640ae4949894b55998ff4983fc6e5/Et6yCL7xxsExwtRPO2aqmUHj1SnZcT_original.jpg",
+      "title": "Moonstruck",
+      "director": "Norman Jewison",
+      "country": "United States",
+      "year": "1987",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/31032-ghost-dog-the-way-of-the-samurai",
+      "spine": 1057,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/30735c9ab2ad92d22a64215b01d84b5a/VbwzZncr0bEK58yFHtter6zkPZEVJg_original.jpg",
+      "title": "Ghost Dog: The Way of the Samurai",
+      "director": "Jim Jarmusch",
+      "country": "United States",
+      "year": "1999",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30553-the-irishman",
+      "spine": 1058,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/58c740124a15f1c79dd1c68bbedfc605/kT0FaLFVzZ8HUvpqsoKIi98fEdZL8i_original.jpg",
+      "title": "The Irishman",
+      "director": "Martin Scorsese",
+      "country": "United States",
+      "year": "2019",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29014-crash",
+      "spine": 1059,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/b5bce24f8a6df074607bd98f0897353c/EqEAvVT2rCG3DAzyIKIqryNHTUtXiV_original.jpg",
+      "title": "Crash",
+      "director": "David Cronenberg",
+      "country": "Canada",
+      "year": "1996",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30908-amores-perros",
+      "spine": 1060,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/4183334bba36a2aa385a8c7d3915e524/mp16EB371UByNpzZ8trEQghLx1EiZv_original.jpg",
+      "title": "Amores perros",
+      "director": "Alejandro G. Iñárritu",
+      "country": "Mexico",
+      "year": "2000",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30515-minding-the-gap",
+      "spine": 1061,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/ae35595d33e11e2c7c1009d865635cfa/6M5V8AX281t3tnvWTMI3J6hG0Fa33Z_original.jpg",
+      "title": "Minding the Gap",
+      "director": "Bing Liu",
+      "country": "United States",
+      "year": "2018",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/31036-rolling-thunder-revue-a-bob-dylan-story-by-martin-scorsese",
+      "spine": 1062,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/859cb0d19e424453f8d3634b401bb8c3/XyQ5pkrk4GrUByTTdbK4LQRskAytRF_original.jpg",
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "director": "Martin Scorsese",
+      "country": "United States",
+      "year": "2019",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/561-the-ascent",
+      "spine": 1063,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/0f3694509c49a8cffc7fffc44da41395/iR5TtaldgQWaNA1qhEduedUroBNOGA_original.jpg",
+      "title": "The Ascent",
+      "director": "Larisa Shepitko",
+      "country": "Soviet Union",
+      "year": "1977",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/30204-the-parallax-view",
+      "spine": 1064,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/e61baef288d31883709c70b5efccdc46/aWCjnWPiRPL47i47nomZVcZugCDOvF_original.jpg",
+      "title": "The Parallax View",
+      "director": "Alan J. Pakula",
+      "country": "United States",
+      "year": "1974",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29067-mandabi",
+      "spine": 1065,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/791ded58bb64d4af6399605df4ad5e22/TWQbUB0v91rAzFMzoM0Pwu0hsKl9C1_original.jpg",
+      "title": "Mandabi",
+      "director": "Ousmane Sembène",
+      "country": "Senegal",
+      "year": "1968",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30367-man-push-cart",
+      "spine": 1066,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/548333dc1a9a8903a71f01408c44b7eb/y1FmWCiqsL4KHL8sSrADDmotTJMyaQ_original.jpg",
+      "title": "Man Push Cart",
+      "director": "Ramin Bahrani",
+      "country": "United States",
+      "year": "2005",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/30288-chop-shop",
+      "spine": 1067,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/100fa1da342d7cbe485cd1ef8382c949/Kj9j0Y6yUZwlr4R0nF4VhcS0gbECng_original.jpg",
+      "title": "Chop Shop",
+      "director": "Ramin Bahrani",
+      "country": "United States",
+      "year": "2007",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29655-smooth-talk",
+      "spine": 1068,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/04bdc7db9ef66171408b30e21088e3a4/0JgPnY1xmPn5VypA7Gte0oES0bJYTh_original.jpg",
+      "title": "Smooth Talk",
+      "director": "Joyce Chopra",
+      "country": "United States",
+      "year": "1985",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/29639-c-line-and-julie-go-boating",
+      "spine": 1069,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9c321bee949ba876ae599dc0ecf591ea/tXPyBtRHeXy8YATlltdiz3bRc6WMgX_original.jpg",
+      "title": "Céline and Julie Go Boating",
+      "director": "Jacques Rivette",
+      "country": "France",
+      "year": "1974",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29202-secrets-lies",
+      "spine": 1070,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/c0d2ca8f67bdfd302eca956fc89b22f4/b1UdREORmsbOQxtFDwciTefNAoHneU_original.jpg",
+      "title": "Secrets & Lies",
+      "director": "Mike Leigh",
+      "country": "United Kingdom",
+      "year": "1996",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29634-defending-your-life",
+      "spine": 1071,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/9b63f522575ce8171a84443e985dbd7b/cSgOmQUCggSN7pk6qfvRhRDKQxUDDZ_original.jpg",
+      "title": "Defending Your Life",
+      "director": "Albert Brooks",
+      "country": "United States",
+      "year": "1991",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/27770-history-is-made-at-night",
+      "spine": 1072,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/5fa52dc4d7a01d370b3aeec1ae116633/4YMRFQ7m2Ke3clLo9p4pUi5Nw1jxE5_original.jpg",
+      "title": "History Is Made at Night",
+      "director": "Frank Borzage",
+      "country": "United States",
+      "year": "1937",
+      "watched": false
+    },
+    {
+      "url": "https://www.criterion.com/films/31458-memories-of-murder",
+      "spine": 1073,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/670538fbd3aecb53694174859078970b/9TF7mC8JIa3R4aydFgNW5pcNpwv1wz_original.jpg",
+      "title": "Memories of Murder",
+      "director": "Bong Joon Ho",
+      "country": "South Korea",
+      "year": "2003",
+      "watched": true
+    },
+    {
+      "url": "https://www.criterion.com/films/29197-irma-vep",
+      "spine": 1074,
+      "imgUrl": "https://s3.amazonaws.com/criterion-production/films/8bb806295b857f900c05dda815a13a30/TgBHsTYnDFlkrVP8wYyTcTuWBxrgf5_original.jpg",
+      "title": "Irma Vep",
+      "director": "Olivier Assayas",
+      "country": "France",
+      "year": "1996",
+      "watched": false
     }
   ]
 }
